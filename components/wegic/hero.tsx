@@ -37,7 +37,7 @@ export default async function Hero({params,}: {
             <iframe id="game" width="100%" height="100%" className="bg-slate-50 dark:bg-slate-900 min-h-[300px]"
                     frameBorder="0" scrolling="no" allowFullScreen={true}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    src="https://www.youtube.com/embed/e1kGp_tBqu4?si=m1Dox5mN2TBsYSX2?autoplay=1&mute=1"></iframe>
+                    src="https://www.youtube.com/embed/e1kGp_tBqu4?si=m1Dox5mN2TBsYSX2&autoplay=1&mute=1"></iframe>
           </div>
         </div>
         <div className="w-full md:w-1/3 flex flex-col gap-6 justify-between h-full">
