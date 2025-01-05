@@ -1,0 +1,50 @@
+[
+  {
+    "step": "1",
+    "img": "getting-started.jpg",
+    "instruction": msg`Getting Started with Dandy's World Drawing`,
+    "description": msg`Welcome to Dandy's World drawing tutorials! Before starting, gather essential tools: pencils (HB, 2B), erasers, quality paper, and coloring materials. For digital artists, ensure you have a drawing tablet and software like Procreate or Photoshop ready.`
+  },
+  {
+    "step": "2",
+    "img": "basic-shapes.jpg",
+    "instruction": msg`Understanding Basic Shapes in Dandy's World Characters`,
+    "description": msg`Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.`
+  },
+  {
+    "step": "3",
+    "img": "character-proportions.jpg",
+    "instruction": msg`Mastering Character Proportions`,
+    "description": msg`Learn the correct proportions for Dandy's World characters. Use the head size as a basic unit of measurement. For example, Rodger's body is typically 2.5 heads tall. Create guidelines to maintain consistent proportions throughout your drawing.`
+  },
+  {
+    "step": "4",
+    "img": "line-art.jpg",
+    "instruction": msg`Creating Clean Line Art`,
+    "description": msg`Once comfortable with basic shapes, focus on line art. Start with light sketching, then gradually refine your lines. For Dandy's World characters, use varying line weights to add depth and character to your drawings.`
+  },
+  {
+    "step": "5",
+    "img": "coloring-guide.jpg",
+    "instruction": msg`Coloring Your Dandy's World Character`,
+    "description": msg`Apply colors using the official Dandy's World color palette. Start with base colors, then add shading and highlights. Remember that each character has their unique color scheme - like Rodger's gray tuxedo and purple-blue band.`
+  },
+  {
+    "step": "6",
+    "img": "details-expression.jpg",
+    "instruction": msg`Adding Details and Expressions`,
+    "description": msg`Focus on character-specific details and expressions. Practice drawing various emotions and poses typical in Dandy's World. Pay attention to unique features like Rodger's squinted eye or distinctive accessories.`
+  },
+  {
+    "step": "7",
+    "img": "final-touches.jpg",
+    "instruction": msg`Final Touches and Background`,
+    "description": msg`Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.`
+  },
+  {
+    "step": "8",
+    "img": "practice-tips.jpg",
+    "instruction": msg`Practice and Improvement Tips`,
+    "description": msg`Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.`
+  }
+]

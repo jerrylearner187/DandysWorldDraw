@@ -1,0 +1,4501 @@
+{
+  "32fNxX": {
+    "translation": "#0#は、独自の裁量により、随時これらの利用規約を変更または置き換える権利を有します。ユーザーに対する変更の通知は、電子メールによって行います。これらの利用規約の変更後も、ウェブサイトの使用を続けることで、お客様はかかる変更に同意したとみなされます。",
+    "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
+  "qVv47w": {
+    "translation": "1. 情報の収集と利用",
+    "message": "1. Information Collection and Use",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        18
+      ]
+    ]
+  },
+  "dnEZiE": {
+    "translation": "1. 使用ライセンス",
+    "message": "1. Use License",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        18
+      ]
+    ]
+  },
+  "RUEwir": {
+    "translation": "2. ログデータ",
+    "message": "2. Log Data",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        20
+      ]
+    ]
+  },
+  "AV4xaK": {
+    "translation": "2. 所有権",
+    "message": "2. Ownership",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        20
+      ]
+    ]
+  },
+  "hczIS1": {
+    "translation": "3. Cookie",
+    "message": "3. Cookies",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        22
+      ]
+    ]
+  },
+  "69EiaO": {
+    "translation": "3. ユーザーデータの収集",
+    "message": "3. User Data Collection",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        22
+      ]
+    ]
+  },
+  "pik+Gj": {
+    "translation": "4. 準拠法",
+    "message": "4. Governing Law",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        24
+      ]
+    ]
+  },
+  "gSmscK": {
+    "translation": "4. サービスプロバイダ",
+    "message": "4. Service Providers",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        24
+      ]
+    ]
+  },
+  "HT0gtE": {
+    "translation": "5. 利用規約の変更",
+    "message": "5. Changes to Terms",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        26
+      ]
+    ]
+  },
+  "0jvfq0": {
+    "translation": "5. セキュリティ",
+    "message": "5. Security",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        33
+      ]
+    ]
+  },
+  "UA5K4X": {
+    "translation": "6. 連絡先情報",
+    "message": "6. Contact Information",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        28
+      ]
+    ]
+  },
+  "c72RA6": {
+    "translation": "6. 他のサイトへのリンク",
+    "message": "6. Links to Other Sites",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        35
+      ]
+    ]
+  },
+  "FhdZtA": {
+    "translation": "7. このプライバシーポリシーの変更",
+    "message": "7. Changes to This Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        37
+      ]
+    ]
+  },
+  "h++ayx": {
+    "translation": "自信満々で有能な呪術師として知られ、強い個性と戦闘スキルが特徴。",
+    "message": "A confident and capable sorcerer, she is known for her strong personality and combat skills.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        298
+      ]
+    ]
+  },
+  "IzYS7Z": {
+    "translation": "自信に満ち溢れ、猛々しい呪術師。呪具を使って戦う。",
+    "message": "A confident and fierce Jujutsu Sorcerer who uses cursed tools in battle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        238
+      ]
+    ]
+  },
+  "9U3l20": {
+    "translation": "自身の任務に尽力する真面目な呪術師。困難な状況に立たされることも多いが、自己証明しようと努力している。",
+    "message": "A dedicated sorcerer who is earnest in her duties, she often finds herself in challenging situations but strives to prove herself.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        288
+      ]
+    ]
+  },
+  "/mWTuu": {
+    "translation": "東京呪術高等専門学校福岡校の一年生。ユニークな戦闘スタイルで知られる。",
+    "message": "A first-year student at the Fukuoka campus of Tokyo Jujutsu High, known for her unique combat style.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        253
+      ]
+    ]
+  },
+  "OKBeaG": {
+    "translation": "東京呪術高等専門学校一年生。彼女の体に宿っているのは両面宿儺の一部。",
+    "message": "A first-year student at Tokyo Jujutsu High who becomes the vessel for Ryomen Sukuna after ingesting one of his fingers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        228
+      ]
+    ]
+  },
+  "RdVUza": {
+    "translation": "給サラリーマンから呪術師に転身したナナミ。実用的で高い技術を持ち、「比率呪法」で強大な攻撃力を発揮する。",
+    "message": "A former salaryman turned sorcerer, Nanami is pragmatic and highly skilled, using his \"Ratio Technique\" to deal significant damage in battles.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        293
+      ]
+    ]
+  },
+  "pdCaP+": {
+    "translation": "鴨家の一員。血を操る固有の呪術を持つ。",
+    "message": "A member of the Kamo family, he possesses a unique cursed technique that allows him to manipulate blood.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        283
+      ]
+    ]
+  },
+  "bq9uHR": {
+    "translation": "呪術とテクノロジーを融合させた強力な機械体。戦闘時に独特の戦略を提供する。",
+    "message": "A powerful mechanical entity that combines technology with cursed energy, offering unique strategies in battle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        313
+      ]
+    ]
+  },
+  "O+2B9p": {
+    "translation": "膾炙の呪術師。禪院家出身で、肉体的な戦闘力と呪術に優れる。",
+    "message": "A powerful sorcerer from the Zenin family, she excels in physical combat and cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        243
+      ]
+    ]
+  },
+  "4TFm7i": {
+    "translation": "五条悟の頼れる助手。呪術界での支援的な役割と戦略的思考が特徴。",
+    "message": "A reliable aide to Satoru Gojo, known for his supportive role in the Jujutsu community and his strategic thinking.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        273
+      ]
+    ]
+  },
+  "fV22B7": {
+    "translation": "呪術師でありかつ医師。逆呪術の専門家で、他者の治癒に秀でる。",
+    "message": "A skilled doctor and sorcerer who specializes in reverse curse techniques, allowing her to heal others.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        268
+      ]
+    ]
+  },
+  "aalQ7o": {
+    "translation": "2級呪術師。独特な影の呪術で知られる。",
+    "message": "A talented Grade 2 Jujutsu Sorcerer known for his unique shadow techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        233
+      ]
+    ]
+  },
+  "T+EgFA": {
+    "translation": "知性スキルの独特な側面は、ミニオンを召喚し、制御する能力です。「スケルトンの召喚」などのスキルは、防御の気を散らすために追加の戦闘支援を提供し、知性ビルドが戦場のコントロールを管理するのに特に効果的です。",
+    "message": "A unique aspect of Intelligence skills is the ability to summon and control minions. Skills like Summon Skeletons provide additional combat support while creating defensive distractions, making Intelligence builds particularly effective at managing battlefield control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        488
+      ]
+    ]
+  },
+  "0R/rnX": {
+    "translation": "呪術的手法で創られた特殊なキャラクター。愉快な性格だが、複数の姿態で強力な戦闘力を発揮する。",
+    "message": "A unique character created through cursed techniques, Panda has a playful demeanor but is a formidable fighter with multiple forms.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        303
+      ]
+    ]
+  },
+  "uyJsf6": {
+    "translation": "概要",
+    "message": "About",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        25
+      ]
+    ]
+  },
+  "isTHa0": {
+    "translation": "もちろん！ダンディのワールドコミュニティは、詳細なステップバイステップガイド、ビデオチュートリアル、コミュニティフォーラム、経験豊富なアーティストからのフィードバックなど、複数のサポートオプションを提供しています。また、リアルタイムのガイダンスを受けるために、毎週のライブドローイングセッションに参加することもできます。",
+    "message": "Absolutely! The Dandy's World community offers multiple support options: detailed step-by-step guides, video tutorials, community forums, and feedback from experienced artists. You can also join our weekly live drawing sessions for real-time guidance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        166
+      ]
+    ]
+  },
+  "UEU44n": {
+    "translation": "キャラクターガイド、カラーパレット、比率チャートなど、ダンディのワールドのさまざまな描画リソースにアクセスできます。あなたの作品における真正性を維持するのに最適です。",
+    "message": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        119
+      ]
+    ]
+  },
+  "9hvc9M": {
+    "translation": "パス・オブ・エグザイル2の新しいプレイヤーのための包括的なガイドにアクセスしてください。私たちのプランナーには、初心者が成功するための推奨スキルの組み合わせ、レベル上げの戦略、ビルドの提案が含まれています。",
+    "message": "Access comprehensive guides for new players in Path of Exile 2. Our planner includes recommended skill combinations, leveling strategies, and build suggestions to help beginners succeed.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        863
+      ]
+    ]
+  },
+  "Xs7qNN": {
+    "translation": "アクティブなコミュニティ",
+    "message": "Active Community",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        113
+      ]
+    ]
+  },
+  "Jf2Ljl": {
+    "translation": "詳細と表情を追加する",
+    "message": "Adding Details and Expressions",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        73
+      ]
+    ]
+  },
+  "cUSavi": {
+    "translation": "ゲームに登場する特級呪霊。他の呪術を無効化する特殊能力を持つ。",
+    "message": "An original Special Grade Cursed Spirit introduced in the game, with a unique ability to nullify other cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        263
+      ]
+    ]
+  },
+  "fYJg3B": {
+    "translation": "私たちのPoE2スキルプランナーを使用して防御能力を分析します。効果的な健康プールを計算し、防御スキルの組み合わせを評価し、さまざまなスキル宝石のセットアップを使用してキャラクターの生存能力を計画します。",
+    "message": "Analyze defensive capabilities with our PoE2 Skills Planner. Calculate effective health pools, evaluate defensive skill combinations, and plan your character's survivability using various skill gem setups.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        848
+      ]
+    ]
+  },
+  "qHLB5X": {
+    "translation": "福岡校の一年生。障壁に関する呪術を使いこなす。",
+    "message": "Another first-year from the Fukuoka campus, he possesses barrier-related cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        258
+      ]
+    ]
+  },
+  "JrsO8P": {
+    "translation": "公式のダンディのワールドカラーパレットを使って色を適用します。基本色から始め、影やハイライトを追加します。各キャラクターには独自の色の配色があることを覚えておいてください-ロジャーのグレーのタキシードと紫青のバンドのように。",
+    "message": "Apply colors using the official Dandy's World color palette. Start with base colors, then add shading and highlights. Remember that each character has their unique color scheme - like Rodger's gray tuxedo and purple-blue band.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        67
+      ]
+    ]
+  },
+  "NiSGP0": {
+    "translation": "ダンディのワールドには描画チャレンジやイベントがありますか？",
+    "message": "Are there any drawing challenges or events in Dandy's World?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        173
+      ]
+    ]
+  },
+  "4+KTpU": {
+    "translation": "ダンディのワールドのチュートリアルには異なる難易度レベルがありますか？",
+    "message": "Are there different difficulty levels in Dandy's World tutorials?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        157
+      ]
+    ]
+  },
+  "O05cq/": {
+    "translation": "エリアコントロール",
+    "message": "Area Control",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        343
+      ]
+    ]
+  },
+  "sPu965": {
+    "translation": "攻撃速度とクリティカルストライク",
+    "message": "Attack Speed & Critical Strikes",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        852
+      ]
+    ]
+  },
+  "w7JxcK": {
+    "translation": "攻撃速度の強化",
+    "message": "Attack Speed Enhancement",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        419
+      ]
+    ]
+  },
+  "PNdsa0": {
+    "translation": "属性要件",
+    "message": "Attribute Requirements",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        705
+      ]
+    ]
+  },
+  "4i/H8S": {
+    "translation": "利用可能なスキル",
+    "message": "Available Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        154
+      ]
+    ]
+  },
+  "0BQ0oZ": {
+    "translation": "ダンディのワールドキャラクターを基本形状に分解して始めます。ほとんどのキャラクターは、ロジャーの頭の円や体の構造の長方形など、シンプルな幾何学的形状から始まります。詳細を追加する前に、これらの基礎的な形を練習してください。",
+    "message": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        46
+      ]
+    ]
+  },
+  "vyTf0S": {
+    "translation": "初心者向けガイド",
+    "message": "Beginner-Friendly Guides",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        862
+      ]
+    ]
+  },
+  "ExFMj8": {
+    "translation": "ブログ",
+    "message": "Blogs",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        13
+      ]
+    ]
+  },
+  "0y1Z1Z": {
+    "translation": "青い宝石（知性）",
+    "message": "Blue Gems (Intelligence)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        563
+      ]
+    ]
+  },
+  "hBkuTE": {
+    "translation": "青いスキル宝石（知性）",
+    "message": "Blue Skill Gems (Intelligence)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        766
+      ]
+    ]
+  },
+  "ScaRFk": {
+    "translation": "青いスキル宝石は、呪文発動と元素ダメージに特化しています。パス・オブ・エグザイル2の魔法使いビルドに最適な、ファイアボール、フロストボルト、アークなどの強力な呪文を特長としています。また、ミニオンの召喚やユーティリティスキルも含まれています。",
+    "message": "Blue Skill Gems specialize in spellcasting and elemental damage. Features powerful spells like Fireball, Frostbolt, and Arc, perfect for mage builds in Path of Exile 2. Also includes minion summoning and utility spells.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        564
+      ]
+    ]
+  },
+  "FPAKH+": {
+    "translation": "ビルド最適化",
+    "message": "Build Optimization",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        842
+      ]
+    ]
+  },
+  "p536Zb": {
+    "translation": "ビルドの多様性",
+    "message": "Build Versatility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        634
+      ]
+    ]
+  },
+  "yZ2PlW": {
+    "translation": "#0#をご利用いただくことで、お客様はこの利用規約に同意したものと見なされます。",
+    "message": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        30
+      ]
+    ]
+  },
+  "6j7vqA": {
+    "translation": "パス・オブ・エグザイル2では、異なるタイプのスキル宝石を組み合わせることができますか？",
+    "message": "Can different types of Skill Gems be combined in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        600
+      ]
+    ]
+  },
+  "to68Nn": {
+    "translation": "私のダンディのワールド作品をオンラインで共有できますか？",
+    "message": "Can I share my Dandy's World artwork online?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        153
+      ]
+    ]
+  },
+  "i4CL2W": {
+    "translation": "ダンディのワールドの描画を商業目的で使用できますか？",
+    "message": "Can I use Dandy's World drawings for commercial purposes?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        169
+      ]
+    ]
+  },
+  "i/HCFv": {
+    "translation": "サポート宝石はどのスキル宝石とも併用できますか？",
+    "message": "Can Support Gems be used with any skill gem?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        734
+      ]
+    ]
+  },
+  "yz7wBu": {
+    "translation": "閉じる",
+    "message": "Close",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        56
+      ]
+    ]
+  },
+  "FN4Har": {
+    "translation": "ダンディのワールドキャラクターの色付け",
+    "message": "Coloring Your Dandy's World Character",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        66
+      ]
+    ]
+  },
+  "CfQHuH": {
+    "translation": "戦闘メカニクス",
+    "message": "Combat Mechanics",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        619
+      ],
+      [
+        "config/site.ts",
+        781
+      ]
+    ]
+  },
+  "atHs5t": {
+    "translation": "戦闘の多様性",
+    "message": "Combat Versatility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        353
+      ]
+    ]
+  },
+  "8YivsP": {
+    "translation": "パス・オブ・エグザイル2における異なる色のスキルジェムの組み合わせは、多様なキャラクタービルドを可能にします。例えば、緑と青のスキルジェムを混ぜることで、遠隔攻撃と魔法を活用するハイブリッドビルドを作成でき、赤と緑のジェムを組み合わせることで、高い機動性と防御能力を持つ強力な近接ビルドが実現します。",
+    "message": "Combining different colored Skill Gems in Path of Exile 2 allows for versatile character builds. For example, mixing Green and Blue Skill Gems can create hybrid builds that utilize both ranged attacks and spells, while combining Red and Green gems can result in powerful melee builds with enhanced mobility and defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        672
+      ]
+    ]
+  },
+  "b+LYK6": {
+    "translation": "最終的な仕上げとオプションの背景要素を追加して、ダンディのワールドの描画を完成させます。元のキャラクターデザインとの一貫性を確認してください。フィードバックを得るためにダンディのワールド描画コミュニティに作品を共有してください。",
+    "message": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        81
+      ]
+    ]
+  },
+  "jus2sV": {
+    "translation": "包括的なリソース",
+    "message": "Comprehensive Resources",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        118
+      ]
+    ]
+  },
+  "PuvTyx": {
+    "translation": "包括的なスキルシステム",
+    "message": "Comprehensive Skill System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        837
+      ]
+    ]
+  },
+  "akF51D": {
+    "translation": "Cookie とは、一般的に匿名の固有の識別子として使用される少量のデータを含むファイルです。これらはお客様が訪問したウェブサイトから送信され、お客様のデバイスの内部メモリに保存されます。本サービスでは、これらのCookieを明示的には使用していません。ただし、アプリが第三者のコードやライブラリを使用している場合、それらにより情報が収集され、サービスの改善に利用される可能性があります。お客様には、これらのCookieを受け入れるか拒否するか、またデバイスにCookieが送信されるタイミングを知る option があります。Cookieを拒否された場合、本サービスの一部を利用できない可能性があります。",
+    "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        23
+      ]
+    ]
+  },
+  "/VjFmG": {
+    "translation": "コスト乗数:",
+    "message": "COST MULTIPLIER:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        91
+      ]
+    ]
+  },
+  "/36SYM": {
+    "translation": "コスト:",
+    "message": "COST:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        87
+      ]
+    ]
+  },
+  "88ZhIO": {
+    "translation": "私たちのパス・オブ・エグザイル2スキルプランナーを使って、ビルドを簡単に作成・修正できます。さまざまなスキルの組み合わせ、サポートジェム、キャラクタークラスを試して、あなたの理想的なプレイスタイルを見つけましょう。",
+    "message": "Create and modify builds easily with our Path of Exile 2 Skills Planner. Experiment with different skill combinations, support gems, and character classes to find your perfect playstyle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        873
+      ]
+    ]
+  },
+  "0Igqrf": {
+    "translation": "クリーンな線画作成",
+    "message": "Creating Clean Line Art",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        59
+      ]
+    ]
+  },
+  "dPg4Dg": {
+    "translation": "創造的自由",
+    "message": "Creative Freedom",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        123
+      ]
+    ]
+  },
+  "7TpNih": {
+    "translation": "クリティカルストライクの可能性",
+    "message": "Critical Strike Potential",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        434
+      ],
+      [
+        "config/site.ts",
+        497
+      ]
+    ]
+  },
+  "i3FKK/": {
+    "translation": "現時点で、「呪術廻戦 PHANTOM PARADE」は主に日本語で提供されています。日本以外の地域の方はVPNを使用して、ゲームにアクセスする必要があるかもしれません。",
+    "message": "Currently, Jujutsu Kaisen Phantom Parade is primarily available in Japanese. Players outside Japan may need to use a VPN to access the game.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        205
+      ]
+    ]
+  },
+  "QM/9nh": {
+    "translation": "ダメージ:",
+    "message": "DAMAGE:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        108
+      ]
+    ]
+  },
+  "6Mk9Tp": {
+    "translation": "ダンディのワールドのアートスタイルは、さまざまなメディアに適応できます。伝統的なスケッチ、デジタルアート、または水彩画のいずれを好む場合でも、キャラクターデザインは異なるアート技法で美しく表現されます。",
+    "message": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        109
+      ]
+    ]
+  },
+  "Qh5TG7": {
+    "translation": "ダンディのワールドキャラクタードローイングチュートリアルとリソース",
+    "message": "Dandy's World Character Drawing Tutorials & Resources",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        21
+      ]
+    ]
+  },
+  "5h7rjv": {
+    "translation": "ダンディのワールドドローは、ダンディのワールドキャラクターの描き方を学びたい初心者と経験者のために設計された包括的な描画プラットフォームです。キャラクターイラストの習得に興味のある誰でも利用できるステップバイステップのチュートリアル、リソース、およびコミュニティサポートを提供しています。",
+    "message": "Dandy's World Draw is a comprehensive drawing platform designed for both beginners and experienced artists who want to learn how to draw Dandy's World characters. It offers step-by-step tutorials, resources, and community support for anyone interested in mastering character illustration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        142
+      ]
+    ]
+  },
+  "Yy0qpp": {
+    "translation": "ダンディのワールドには、描くのが簡単な独特のキャラクターデザインがあります。ロジャーからシェリーまで、各キャラクターは明確な形状と記憶に残る特徴を持っており、初心者にも上級者にも最適です。",
+    "message": "Dandy's World features distinctive character designs that are easy to draw. Each character, from Rodger to Shelly, has clear shapes and memorable features that make them perfect for both beginners and advanced artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        99
+      ]
+    ]
+  },
+  "cfyIgr": {
+    "translation": "ダンディのワールドドロー",
+    "message": "Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        5
+      ]
+    ]
+  },
+  "oAnTvN": {
+    "translation": "ジェムのレベルアップと品質向上を通じた深いスキル開発システム。スキルは進行に伴いより強力になり、さまざまなサポートの組み合わせを通じてその効果を強化するオプションがあります。",
+    "message": "Deep skill development system through gem leveling and quality improvements. Skills become more powerful as you progress, with options to enhance their effects through various support combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        792
+      ]
+    ]
+  },
+  "KOvQUt": {
+    "translation": "深いスキル統合",
+    "message": "Deep Skill Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        690
+      ]
+    ]
+  },
+  "6Iev04": {
+    "translation": "防御プランニング",
+    "message": "Defense Planning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        847
+      ]
+    ]
+  },
+  "igGiip": {
+    "translation": "防御能力",
+    "message": "Defensive Capabilities",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        338
+      ],
+      [
+        "config/site.ts",
+        424
+      ],
+      [
+        "config/site.ts",
+        492
+      ],
+      [
+        "config/site.ts",
+        700
+      ]
+    ]
+  },
+  "rml26s": {
+    "translation": "私たちのPoE2スキルプランナーを使用して効果的なチーム編成を設計します。サポートスキル、オーラ、そして防御能力を計画して、挑戦的なコンテンツに対する強力なグループシナジーを作り出します。",
+    "message": "Design effective team compositions with our PoE2 Skills Planner. Plan support skills, auras, and defensive abilities to create powerful group synergies for challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        858
+      ]
+    ]
+  },
+  "7aqnOj": {
+    "translation": "パス・オブ・エグザイル2における敏捷スキルは、主に遠距離戦闘とアジリティのあるゲームプレイに焦点を当てています。これらの緑色のスキルは、ヒットアンドラン戦術に優れ、罠を構築したり、弾薬の種類を変更したり、正確な攻撃を実行する能力を提供します。特に、モバイルで戦術的なアプローチを好むプレイヤーにとって効果的です。",
+    "message": "Dexterity skills in Path of Exile 2 are primarily focused on ranged combat and agile gameplay. These green-colored skills excel in hit-and-run tactics, offering abilities for constructing traps, modifying ammunition types, and executing precise strikes. They're particularly effective for players who prefer a mobile, tactical approach to combat.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        448
+      ]
+    ]
+  },
+  "pg57vT": {
+    "translation": "PoE2の敏捷スキルは、優れた攻撃速度メカニクスを備えています。フレンジーやブラッドレイジなどの主要スキルは、攻撃速度を大幅に向上させ、迅速な戦闘シーケンスとDPSの増加を可能にします。",
+    "message": "Dexterity skills in PoE2 feature superior attack speed mechanics. Key skills like Frenzy and Blood Rage significantly boost attack speed, allowing for rapid-fire combat sequences and increased DPS potential.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        420
+      ]
+    ]
+  },
+  "iWojYC": {
+    "translation": "敏捷スキルは、ポE2内でいくつかの防御上の利点を提供します：グレースオーラはチームの回避能力を増加させ、ディファイアンスバナーは受けるダメージを減少させ、スモークマインは回避率と移動速度を増加させることができます。これらの防御に優れた敏捷スキルは、挑戦的なコンテンツにおけるチームの生存にとって重要です。",
+    "message": "Dexterity skills provide several defensive benefits in PoE2: Grace aura increases team evasion, Defiance Banner reduces damage taken, and Smoke Mine grants increased evasion and movement speed. These defensive dexterity skills are crucial for team survival in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        456
+      ]
+    ]
+  },
+  "cBmrvx": {
+    "translation": "敏捷ベースのビルドは、バラージやアイスショットなどのスキルを使ってクリティカルヒットをうまく決めます。これらのスキルは、サポートジェムで強化され、壊滅的なクリティカルヒット率を実現できます。",
+    "message": "Dexterity-based builds excel at landing critical strikes, particularly with skills like Barrage and Ice Shot. These skills can be enhanced with support gems to achieve devastating critical hit rates.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        435
+      ]
+    ]
+  },
+  "WQWUiU": {
+    "translation": "多様なスキルジェムタイプ",
+    "message": "Diverse Skill Gem Types",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        614
+      ]
+    ]
+  },
+  "xbpW40": {
+    "translation": "ダンディのワールドキャラクターを描くために特別な機器が必要ですか？",
+    "message": "Do I need special equipment to start drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        145
+      ]
+    ]
+  },
+  "GTZBEP": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」には、オリジナルのアニメキャストが出演していますか?",
+    "message": "Does Jujutsu Kaisen Phantom Parade include the original anime cast?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        220
+      ]
+    ]
+  },
+  "Xm2xny": {
+    "translation": "物理及び元素ダメージタイプを用いたダイナミックな戦闘システム。クラウドコントロール、バフ、ステータス効果が特徴です。スキルはソロおよびグループプレイの両方で強力なシナジーのために組み合わせることができます。",
+    "message": "Dynamic combat system with physical and elemental damage types. Features crowd control, buffs, and status effects. Skills can be combined for powerful synergies in both solo and group play.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        782
+      ]
+    ]
+  },
+  "kTY5vL": {
+    "translation": "ダイナミックなスキル修正",
+    "message": "Dynamic Skill Modification",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        710
+      ]
+    ]
+  },
+  "CsXK/Q": {
+    "translation": "各スキルジェムは独自の戦闘能力を提供します - 赤いジェムは近接戦闘と物理ダメージに優れ、緑のジェムは遠距離攻撃と機敏さに焦点を当て、青いジェムは呪文詠唱と元素ダメージを専門としています。",
+    "message": "Each Skill Gem provides distinct combat abilities - Red gems excel in melee combat and physical damage, Green gems focus on ranged attacks and agility, while Blue gems specialize in spellcasting and elemental damage.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        620
+      ]
+    ]
+  },
+  "xKpboT": {
+    "translation": "POE2の各サポートジェムには特定の属性要件（Strength, Dexterity, Intelligence）があり、どのキャラクタービルドがこれらを効果的に利用できるかに影響します。このシステムはキャラクターの成長において意味のある選択を生み出します。",
+    "message": "Each Support Gem in PoE2 has specific attribute requirements (Strength, Dexterity, Intelligence), affecting which character builds can effectively utilize them. This system creates meaningful choices in character development.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        706
+      ]
+    ]
+  },
+  "jFbf9R": {
+    "translation": "元素ダメージマスタリー",
+    "message": "Elemental Damage Mastery",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        477
+      ]
+    ]
+  },
+  "I0Az3M": {
+    "translation": "強化された戦闘効果",
+    "message": "Enhanced Combat Effects",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        695
+      ]
+    ]
+  },
+  "WVSKOy": {
+    "translation": "Strengthスキルにおける必須サポートジェムには、ダメージ出力を増加させる近接物理ダメージサポート、防御のためのフォーティファイサポート、純粋な物理ダメージビルド向けのブルータリティサポート、ライフベースのキャスティング向けのブラッドマジックサポートが含まれます。これらは赤いジェムの能力の効果を大幅に向上させます。",
+    "message": "Essential support gems for Strength Skills include: Melee Physical Damage Support for increased damage output, Fortify Support for defense, Brutality Support for pure physical damage builds, and Blood Magic Support for life-based casting. These enhance the effectiveness of red gem abilities significantly.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        393
+      ]
+    ]
+  },
+  "MwaR4Z": {
+    "translation": "パッシブスキルによる広範なキャラクターカスタマイズ。共有パッシブツリーにより、すべてのクラスがさまざまなノードにアクセスでき、多様なビルドオプションと独自のキャラクター開発パスを実現します。",
+    "message": "Extensive character customization through passive skills. The shared passive tree allows all classes to access various nodes, enabling diverse build options and unique character development paths.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        777
+      ]
+    ]
+  },
+  "6jIXss": {
+    "translation": "ビルドの保存に失敗しました",
+    "message": "Failed to save build",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        140
+      ]
+    ]
+  },
+  "lIFSzb": {
+    "translation": "ファイルのアップロードに失敗しました: #0#",
+    "message": "Failed to upload file: {0}",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        23
+      ]
+    ]
+  },
+  "aJ4pMe": {
+    "translation": "よくある質問",
+    "message": "FAQs",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        23
+      ]
+    ]
+  },
+  "PpZkda": {
+    "translation": "機能",
+    "message": "Features",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
+      ]
+    ]
+  },
+  "OjNld0": {
+    "translation": "ダンディのワールドドローの機能",
+    "message": "Features Of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        32
+      ]
+    ]
+  },
+  "m65fV0": {
+    "translation": "POE2のデクスタリティスキルの特徴",
+    "message": "Features Of POE2 Dexterity Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        410
+      ]
+    ]
+  },
+  "GVIp5w": {
+    "translation": "POE2ジェムの特徴",
+    "message": "Features Of POE2 Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        539
+      ]
+    ]
+  },
+  "bLqRlz": {
+    "translation": "POE2のインテリジェンススキルの特徴",
+    "message": "Features Of POE2 Intelligence Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        473
+      ]
+    ]
+  },
+  "GyMkYP": {
+    "translation": "POE2スキルジェムの特徴",
+    "message": "Features Of POE2 skill Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        610
+      ]
+    ]
+  },
+  "75xj60": {
+    "translation": "POE2スキルの特徴",
+    "message": "Features Of POE2 Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        752
+      ]
+    ]
+  },
+  "rkn1bM": {
+    "translation": "POE2スキルプランナーの特徴",
+    "message": "Features Of POE2 Skills Planner",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        833
+      ]
+    ]
+  },
+  "H3SGDp": {
+    "translation": "POE2のストレングススキルの特徴",
+    "message": "Features Of POE2 Strength Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        329
+      ]
+    ]
+  },
+  "N/DeOS": {
+    "translation": "POE2サポートジェムの特徴",
+    "message": "Features Of POE2 Support Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        681
+      ]
+    ]
+  },
+  "HUVqLy": {
+    "translation": "最終的な仕上げと背景",
+    "message": "Final Touches and Background",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        80
+      ]
+    ]
+  },
+  "kAFCHd": {
+    "translation": "柔軟なビルド作成",
+    "message": "Flexible Build Creation",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        872
+      ]
+    ]
+  },
+  "3YcJsM": {
+    "translation": "キャラクター特有の詳細と表情に焦点を当てます。ダンディのワールドに典型的なさまざまな感情やポーズを描く練習をします。ロジャーの細めた目や独特のアクセサリーなどのユニークな特徴に注意を払いましょう。",
+    "message": "Focus on character-specific details and expressions. Practice drawing various emotions and poses typical in Dandy's World. Pay attention to unique features like Rodger's squinted eye or distinctive accessories.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        74
+      ]
+    ]
+  },
+  "qqyb4m": {
+    "translation": "近接戦闘と物理ダメージに焦点を当てています。強力な攻撃、クレイブやグラウンドスラムなどのAoE攻撃、そしてウォークライによる防御能力を特色としています。直接的な戦闘と高い生存能力を好む戦士に最適です。",
+    "message": "Focused on melee combat and physical damage. Features powerful strikes, AoE attacks like Cleave and Ground Slam, and defensive abilities through War Cries. Perfect for warriors who prefer direct combat and high survivability.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        757
+      ]
+    ]
+  },
+  "st6ZC4": {
+    "translation": "より良い体験を提供するため、本サービスの利用にあたっては、特定の個人を識別できる情報の提供をお願いする場合があります。要求する情報はお客様のデバイスに保持され、私は一切収集しません。本アプリは、お客様の情報を収集する可能性のある第三者サービスを使用しています。",
+    "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        19
+      ]
+    ]
+  },
+  "76LTZg": {
+    "translation": "パス・オブ・エグザイル2の初心者向け推奨スキルの組み合わせには、遠距離ダメージ用のトルネードショット + グレーター・マルチプル・プロジェクティル、群集制御用のアイスショット + ヒポサーミア、呪文ダメージ用のファイアボール + スペルエコー、および近接戦闘用のグラウンドスラム + フォーティファイが含まれます。これらの組み合わせは良好なダメージ出力を提供し、比較的簡単に使用できます。",
+    "message": "For beginners in Path of Exile 2, recommended skill combinations include: Tornado Shot + Greater Multiple Projectiles for ranged damage, Ice Shot + Hypothermia for crowd control, Fireball + Spell Echo for spell damage, and Ground Slam + Fortify for melee combat. These combinations provide good damage output while being relatively straightforward to use.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        808
+      ]
+    ]
+  },
+  "BnNtJ0": {
+    "translation": "パス・オブ・エグザイル2の初心者向け推奨サポートジェムの組み合わせには、エリアダメージスキルを伴うグレーター・マルチプル・プロジェクティルサポート、単体攻撃でのフルライフダメージサポート、基本攻撃スキル用のファスター・アタックサポート、キャスティング能力用のスペルエコーサポートが含まれます。これらのサポートジェムは簡単に理解でき、効果的に活用できる利点を提供します。",
+    "message": "For beginners in Path of Exile 2, recommended Support Gem combinations include: Greater Multiple Projectiles Support with area damage skills, Damage on Full Life Support with single-target attacks, Faster Attacks Support with basic attack skills, and Spell Echo Support with casting abilities. These Support Gems provide straightforward benefits that are easy to understand and utilize effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        727
+      ]
+    ]
+  },
+  "AA2bAI": {
+    "translation": "POE2の初心者向け推奨デクスタリティスキルには、群集制御とダメージ用のアイスショット、簡単なモブクリア用のスプリットアロー、そして信頼性のあるダメージを提供するカウスティックアローが含まれます。これらのスキルは簡単に使用でき、最小限の装備要件で良好な効果を発揮します。",
+    "message": "For beginners in PoE2, recommended dexterity skills include: Ice Shot for crowd control and damage, Split Arrow for easy mob clearing, and Caustic Arrow for reliable damage over time. These skills are straightforward to use and provide good effectiveness with minimal gear requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        460
+      ]
+    ]
+  },
+  "UkncHN": {
+    "translation": "POE2の初心者向け推奨インテリジェンススキルには、安定したダメージ出力のファイアボール、群集制御のフロストボルト、連鎖雷ダメージのアーク、追加の戦闘支援用のサモンスケルトンズが含まれます。これらのスキルは簡単に使用でき、呪文詠唱メカニクスを理解するための良い基盤を提供します。",
+    "message": "For beginners in PoE2, recommended Intelligence skills include Fireball for consistent damage output, Frostbolt for crowd control, Arc for chain lightning damage, and Summon Skeletons for additional combat support. These skills are straightforward to use and provide a good foundation for understanding spellcasting mechanics.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        518
+      ]
+    ]
+  },
+  "kwHGrZ": {
+    "translation": "POE2の初心者向け推奨赤いスキルジェムには、エリアダメージ用のクレイブ、単体ダメージ用のヘビーストライク、群集制御用のグラウンドスラムが含まれます。これらのストレングスベースのジェムは簡単に使用でき、新しいプレイヤー向けの効果的な戦闘オプションを提供します。",
+    "message": "For beginners in PoE2, recommended Red Skill Gems include Cleave for area damage, Heavy Strike for single-target damage, and Ground Slam for crowd control. These Strength-based gems are straightforward to use and provide effective combat options for new players.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        585
+      ]
+    ]
+  },
+  "/NxQUS": {
+    "translation": "POE2の初心者向け推奨スキルジェムには、遠距離ビルド用のトルネードショット + グレーター・マルチプル・プロジェクティル、群集制御用のアイスショット + ヒポサーミア、呪文使い用のファイアボール、近接ビルド用のヘビーストライクが含まれます。これらのスキルジェムは簡単なメカニクスを提供し、序盤のコンテンツに対して効果的です。",
+    "message": "For beginners in PoE2, recommended Skill Gems include: Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for crowd control, Fireball for spellcasters, and Heavy Strike for melee builds. These Skill Gems provide straightforward mechanics while remaining effective for early game content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        656
+      ]
+    ]
+  },
+  "g8laWJ": {
+    "translation": "初心者向けの推奨ストレングススキルには、単体ダメージ用のヘビーストライク、エリア制御のためのグラウンドスラム、グループクリア用のクレイブ、そして生存のためのエンデュアリングクライが含まれます。これらの赤いジェムの能力は簡単に使用でき、ストレングススキルシステムを理解するための良い基盤を提供します。",
+    "message": "For beginners, recommended Strength Skills include: Heavy Strike for single-target damage, Ground Slam for area control, Cleave for group clearing, and Enduring Cry for survival. These red gem abilities are straightforward to use and provide a good foundation for understanding the Strength skill system.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        385
+      ]
+    ]
+  },
+  "qRH6Ma": {
+    "translation": "初心者向けに、POE2スキルプランナーは、遠距離ビルド用のトルネードショット + グレーター・マルチプル・プロジェクティル、コントロール重視のゲームプレイ用のアイスショット + ヒポサーミア、または呪文使いのビルド用のファイアボール + スペルエコーの組み合わせを推奨しています。これらの組み合わせは良好なダメージを提供し、比較的簡単に使用できます。",
+    "message": "For beginners, the PoE2 Skills Planner recommends combinations like Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for control-oriented gameplay, or Fireball with Spell Echo for spellcasting builds. These combinations provide good damage and are relatively straightforward to use.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        889
+      ]
+    ]
+  },
+  "Q0ENOT": {
+    "translation": "ボス戦において強力なストレングススキルには、高い単体ダメージ用のヘビーストライク、一貫したダメージ出力のモルテンストライク、バーストダメージ用のインファーナルブロウ、および生存のためのエンデュアリングクライが含まれます。これらの赤いジェムの能力は、難しいボス戦のために必要な持続的なダメージと生存能力を提供します。",
+    "message": "For boss encounters, powerful Strength Skills include: Heavy Strike for high single-target damage, Molten Strike for consistent damage output, Infernal Blow for burst damage, and Enduring Cry for survival. These red gem abilities provide the sustained damage and survivability needed for challenging boss fights.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        401
+      ]
+    ]
+  },
+  "0qnBBD": {
+    "translation": "iOS版の「呪術廻戦 PHANTOM PARADE」には、iOS 12.0以降のバージョンが必要で、約407.6 MBのストレージ容量が必要です。Android版は、Android 8.0以降のバージョンが必要です。",
+    "message": "For iOS, Jujutsu Kaisen Phantom Parade requires iOS 12.0 or later and approximately 407.6 MB of storage space. For Android, it requires Android 8.0 or later.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        193
+      ]
+    ]
+  },
+  "F7G/TS": {
+    "translation": "よくある質問",
+    "message": "Frequently Asked Questions",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        31
+      ]
+    ]
+  },
+  "GgVATf": {
+    "translation": "ジェムシナジー",
+    "message": "Gem Synergies",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        568
+      ]
+    ]
+  },
+  "T8FLO1": {
+    "translation": "ダンディのワールドドローイングの始め方",
+    "message": "Getting Started with Dandy's World Drawing",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        38
+      ]
+    ]
+  },
+  "OQjgfs": {
+    "translation": "緑のデクスタリティスキルは、回避と機動性を通じて堅牢な防御オプションを提供します。グレースやディファイアンスバナーのスキルはチームの生存能力を強化しつつ、攻撃能力を維持します。",
+    "message": "Green dexterity skills offer robust defensive options through evasion and mobility. Skills such as Grace and Defiance Banner enhance team survivability while maintaining offensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        425
+      ]
+    ]
+  },
+  "gNoxUU": {
+    "translation": "緑のジェム（デクスタリティ）",
+    "message": "Green Gems (Dexterity)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        558
+      ]
+    ]
+  },
+  "QcQF16": {
+    "translation": "緑のスキルジェム（デクスタリティ）",
+    "message": "Green Skill Gems (Dexterity)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        761
+      ]
+    ]
+  },
+  "At6Qpc": {
+    "translation": "緑のスキルジェムは、遠距離戦闘と機敏さに基づく能力に優れています。トルネードショット、アイスショット、そしてパンチャーといった重要なスキルは、弓使いやアサシンスタイルのビルドに優れたオプションを提供します。",
+    "message": "Green Skill Gems excel in ranged combat and agility-based abilities. Key skills like Tornado Shot, Ice Shot, and Puncture provide excellent options for bow users and assassin-style builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        559
+      ]
+    ]
+  },
+  "hnWur2": {
+    "translation": "高度にカスタマイズ可能なスキル修正システム。サポートジェムはアクティブスキルの効果を向上させ、深いビルドカスタマイズを可能にします。サポートジェムをアクティブスキルにリンクして、強化されたパワーとユーティリティを実現する独自の組み合わせを作成してください。",
+    "message": "Highly customizable skill modification system. Support gems enhance active skills' effects, allowing for deep build customization. Create unique combinations by linking support gems with active skills for increased power and utility.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        772
+      ]
+    ]
+  },
+  "i0qMbr": {
+    "translation": "ホーム",
+    "message": "Home",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        11
+      ],
+      [
+        "components/wegic/header.tsx",
+        7
+      ]
+    ]
+  },
+  "5FWvsY": {
+    "translation": "Android端末で「呪術廻戦 PHANTOM PARADE」をダウンロードする方法は?",
+    "message": "How can I download Jujutsu Kaisen Phantom Parade on Android?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        212
+      ]
+    ]
+  },
+  "1adYoo": {
+    "translation": "iOS端末で「呪術廻戦 PHANTOM PARADE」をダウンロードする方法は?",
+    "message": "How can I download Jujutsu Kaisen Phantom Parade on iOS?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        208
+      ]
+    ]
+  },
+  "hBpVMm": {
+    "translation": "POE2におけるストレングススキルのビルドを最適化するにはどうすればいいですか？",
+    "message": "How can I optimize my Strength Skills build in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        404
+      ]
+    ]
+  },
+  "A3fPkq": {
+    "translation": "ダンディのワールドキャラクターの描画進捗をどうやって追跡できますか？",
+    "message": "How can I track my progress in drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        177
+      ]
+    ]
+  },
+  "RbYob3": {
+    "translation": "パス・オブ・エグザイル2のエンドゲームコンテンツに向けたインテリジェンススキルはどのように最適化できますか？",
+    "message": "How can Intelligence skills be optimized for endgame content in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        521
+      ]
+    ]
+  },
+  "87v437": {
+    "translation": "パス・オブ・エグザイル2においてデクスタリティスキルは異なるキャラクタークラスにどのように影響しますか？",
+    "message": "How do Dexterity skills affect different character classes in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        463
+      ]
+    ]
+  },
+  "W7khBP": {
+    "translation": "パス・オブ・エグザイル2において、デクスタリティスキルはチーム防御をどのように強化しますか？",
+    "message": "How do Dexterity skills enhance team defense in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        455
+      ]
+    ]
+  },
+  "k2a81l": {
+    "translation": "異なるキャラクタークラスはスキルジェムをどのように異なる方法で利用しますか？",
+    "message": "How do different character classes utilize Skill Gems differently?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        667
+      ]
+    ]
+  },
+  "h6PW5i": {
+    "translation": "異なるキャラクタークラスはスキルジェムをどのように利用しますか？",
+    "message": "How do different character classes utilize skill gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        811
+      ]
+    ]
+  },
+  "qjQTW5": {
+    "translation": "POE2で効果的なスキルビルドを作成するにはどうすればよいですか？",
+    "message": "How do I create an effective skill build in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        884
+      ]
+    ]
+  },
+  "ppUwan": {
+    "translation": "キャラクターのクリティカルストライクの確率をスキルを使って最適化するにはどうすればよいですか？",
+    "message": "How do I optimize my character's critical strike chances using skills?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        900
+      ]
+    ]
+  },
+  "HVo8Qx": {
+    "translation": "パス・オブ・エグザイル2におけるインテリジェンススキルはメイジビルドにどのように影響しますか？",
+    "message": "How do Intelligence skills affect Mage builds in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        513
+      ]
+    ]
+  },
+  "xXQkPj": {
+    "translation": "POE2におけるインテリジェンススキルはサポートジェムとどのように相互作用しますか？",
+    "message": "How do Intelligence skills interact with support gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        529
+      ]
+    ]
+  },
+  "m2Gksy": {
+    "translation": "パッシブスキルとスキルジェムはどのように相互作用しますか？",
+    "message": "How do passive skills interact with skill gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        819
+      ]
+    ]
+  },
+  "ryLRic": {
+    "translation": "スキルジェムはパス・オブ・エグザイル2のチームプレイにどのように影響しますか？",
+    "message": "How do skill gems affect team play in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        908
+      ]
+    ]
+  },
+  "j5jOpJ": {
+    "translation": "スキルジェムはパス・オブ・エグザイル2のチームプレイにどのように影響しますか？",
+    "message": "How do Skill Gems affect team play in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        675
+      ]
+    ]
+  },
+  "EsTa/o": {
+    "translation": "スキルジェムはパス・オブ・エグザイル2のパッシブスキルツリーとどのように統合されますか？",
+    "message": "How do Skill Gems integrate with the passive skill tree in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        659
+      ]
+    ]
+  },
+  "UTMZPT": {
+    "translation": "スキルジェムはパス・オブ・エグザイル2でどのようにレベルアップしますか？",
+    "message": "How do skill gems level up in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        827
+      ]
+    ]
+  },
+  "rlZCTA": {
+    "translation": "スキルジェムはパス・オブ・エグザイル2でどのようにレベルアップしますか？",
+    "message": "How do Skill Gems level up in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        596
+      ]
+    ]
+  },
+  "qERQah": {
+    "translation": "パス・オブ・エグザイル2において、ストレングススキルはチームプレイにどのように貢献しますか？",
+    "message": "How do Strength Skills benefit team play in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        380
+      ]
+    ]
+  },
+  "v3ijFS": {
+    "translation": "パス・オブ・エグザイル2において、ストレングススキルは他の属性スキルと比較してどのようですか？",
+    "message": "How do Strength Skills compare to other attribute skills in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        396
+      ]
+    ]
+  },
+  "UWOgcG": {
+    "translation": "パス・オブ・エグザイル2において、ストレングススキルはキャラクターの進行にどのようにスケールしますか？",
+    "message": "How do Strength Skills scale with character progression in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        388
+      ]
+    ]
+  },
+  "nNME7C": {
+    "translation": "サポートジェムはキャラクタービルドにどのように影響しますか？",
+    "message": "How do Support Gems affect character builds?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        730
+      ]
+    ]
+  },
+  "yF0XDP": {
+    "translation": "パス・オブ・エグザイル2において、サポートジェムはスキルダメージにどのように影響しますか？",
+    "message": "How do Support Gems affect skill damage in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        738
+      ]
+    ]
+  },
+  "Tn7Zef": {
+    "translation": "パス・オブ・エグザイル2において、サポートジェムはどのように機能しますか？",
+    "message": "How do Support Gems work in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        580
+      ]
+    ]
+  },
+  "1KIhkX": {
+    "translation": "パス・オブ・エグザイル2において、サポートジェムは異なる属性タイプとどのように連携しますか？",
+    "message": "How do Support Gems work with different attribute types in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        722
+      ]
+    ]
+  },
+  "N5flWT": {
+    "translation": "パス・オブ・エグザイル2において、サポートジェムはスキルジェムとどのように機能しますか？",
+    "message": "How do support gems work with skill gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        803
+      ],
+      [
+        "config/site.ts",
+        892
+      ]
+    ]
+  },
+  "mEVwZQ": {
+    "translation": "パス・オブ・エグザイル2において、サポートジェムはスキルジェムとどのように機能しますか？",
+    "message": "How do Support Gems work with Skill Gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        651
+      ]
+    ]
+  },
+  "MhqG83": {
+    "translation": "サポートジェムはどのようにレベルアップしますか？",
+    "message": "How do you level up Support Gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        746
+      ]
+    ]
+  },
+  "bLDuMO": {
+    "translation": "ダンディのワールドキャラクターを学ぶのにどのくらいの時間がかかりますか？",
+    "message": "How long does it take to learn drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        149
+      ]
+    ]
+  },
+  "qhR+kn": {
+    "translation": "新しいダンディのワールド描画チュートリアルはどのくらいの頻度で追加されますか？",
+    "message": "How often are new Dandy's World drawing tutorials added?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        161
+      ]
+    ]
+  },
+  "dQt+7J": {
+    "translation": "以下の理由から、私は第三者企業および個人を採用している可能性があります:",
+    "message": "I may employ third-party companies and individuals due to the following reasons:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        25
+      ]
+    ]
+  },
+  "EUZXzT": {
+    "translation": "私はプライバシーポリシーを随時更新する可能性があります。そのため、このページを定期的に確認し、変更内容を確認することをお勧めします。変更があった場合は、このページに新しいプライバシーポリシーを掲載することで通知します。これらの変更は、このページに掲載された時点で即座に有効となります。",
+    "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        38
+      ]
+    ]
+  },
+  "5dDG4E": {
+    "translation": "お客様の個人情報の保護は重要です。商業的に許容可能な手段で保護するよう努めていますが、インターネットを通じた送信方法、または電子的な保管方法は100%安全かつ信頼性があるわけではなく、絶対的なセキュリティを保証することはできません。",
+    "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        34
+      ]
+    ]
+  },
+  "gFP4HL": {
+    "translation": "本サービスのユーザーの皆様に、これらの第三者がお客様の個人情報にアクセスすることをお知らせします。その理由は、私たちに代わってタスクを実行するためです。ただし、これらの第三者は、その情報を他の目的で開示または使用することを義務付けられています。",
+    "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        32
+      ]
+    ]
+  },
+  "xeCjro": {
+    "translation": "本サービスを使用する際、アプリ内でエラーが発生した場合、お客様のスマートフォンからログデータと呼ばれる情報を収集することをお知らせします。このログデータには、デバイスのIPアドレス、デバイス名、オペレーティングシステムのバージョン、本サービス利用時の設定、利用日時など、さまざまな情報が含まれる可能性があります。",
+    "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        21
+      ]
+    ]
+  },
+  "d1ALrF": {
+    "translation": "これらの利用規約について何か質問がある場合は、#0#までお問い合わせください。",
+    "message": "If you have any questions about these Terms, please contact us at #0#.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        29
+      ]
+    ]
+  },
+  "JsEKN8": {
+    "translation": "インパクトメカニクス",
+    "message": "Impact Mechanics",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        368
+      ]
+    ]
+  },
+  "V6juom": {
+    "translation": "グループコンテンツにおいて、インテリジェンススキルはエレメンタルダメージ、群衆コントロール、ユーティリティ効果を通じて重要なサポートを提供します。時間の鎖のようなスキルは敵の動きをコントロールでき、オーラや防御能力はパーティ全体を守ります。これにより、インテリジェンスベースのキャラクターはパス・オブ・エグザイル2において貴重なチームメンバーとなります。",
+    "message": "In group content, Intelligence skills provide crucial support through elemental damage, crowd control, and utility effects. Skills like Temporal Chains can control enemy movement, while auras and defensive abilities can protect the entire party. This makes Intelligence-based characters valuable team members in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        534
+      ]
+    ]
+  },
+  "cOrZ61": {
+    "translation": "パス・オブ・エグザイル2において、各キャラクタークラスはその主要属性に基づいて特定のスキルジェムへの自然な親和性を持っています。レンジャーは遠距離攻撃に優れる緑のスキルジェムを、テンプレラは呪文詠唱に役立つ青のスキルジェムを、マローダーは近接攻撃に自然に調和する赤のスキルジェムを使用します。ただし、属性要件を満たせば、どのクラスでも任意のスキルジェムを使用できます。",
+    "message": "In Path of Exile 2, each character class has natural affinities for certain Skill Gems based on their primary attributes. Rangers excel with Green Skill Gems for ranged combat, Templars benefit from Blue Skill Gems for spellcasting, and Marauders naturally align with Red Skill Gems for melee combat. However, any class can use any Skill Gem if they meet the attribute requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        668
+      ]
+    ]
+  },
+  "Eq/v2W": {
+    "translation": "パス・オブ・エグザイル2において、各キャラクタークラスには特定のスキルジェムに対する自然な親和性があります：レンジャーはトルネードショットのような緑スキルに優れ、マローダーはグラウンドスラムのような赤スキルから利益を得て、ウィッチはファイアボールのような青スキルに特化しています。ただし、属性要件を満たせば、どのクラスでも任意のスキルジェムを使用できます。",
+    "message": "In Path of Exile 2, each character class has natural affinities for certain skill gems: Rangers excel with green skills like Tornado Shot, Marauders benefit from red skills like Ground Slam, and Witches specialize in blue skills like Fireball. However, any class can use any skill gem if they meet the attribute requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        812
+      ]
+    ]
+  },
+  "Ft7Ocz": {
+    "translation": "パス・オブ・エグザイル2には、属性に基づいて三つの主要なタイプのスキルジェムがあります：赤（ストレングス）ジェムは近接戦闘と物理ダメージに焦点を当て、緑（デクスタリティ）ジェムは遠距離攻撃と敏捷性に特化し、青（インテリジェンス）ジェムは呪文詠唱とエレメンタルダメージに集中しています。各タイプは独自のゲームプレイメカニクスとビルドの可能性を提供します。",
+    "message": "In Path of Exile 2, there are three primary types of Skill Gems based on attributes: Red (Strength) gems focus on melee combat and physical damage, Green (Dexterity) gems specialize in ranged attacks and agility, and Blue (Intelligence) gems concentrate on spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        648
+      ]
+    ]
+  },
+  "5ZTRiC": {
+    "translation": "パス・オブ・エグザイル2のグループゲームプレイにおいて、サポートジェムは相乗効果のあるチーム構成を作成する上で重要です。パーティ全体のバフを強化したり、追加の防御層を提供したり、群衆コントロール能力を改善し、全体のチームダメージ出力を増加させます。戦略的なサポートジェムの使用は、挑戦的なコンテンツにおけるグループパフォーマンスを最適化するのに役立ちます。",
+    "message": "In Path of Exile 2's group gameplay, Support Gems are crucial for creating synergistic team compositions. They can enhance party-wide buffs, provide additional defensive layers, improve crowd control capabilities, and boost overall team damage output. Strategic use of Support Gems helps optimize group performance in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        743
+      ]
+    ]
+  },
+  "SnCrD7": {
+    "translation": "パス・オブ・エグザイル2において、デクスタリティスキルは異なるクラスに独自の影響を与えます：レンジャーはトルネードショットのような弓スキルに優れ、デュエリストはフレンジーやラセレートのようなスキルから利益を得て、シャドウは毒ベースのデクスタリティスキルを効果的に使用できます。各クラスは、パッシブツリーの位置と自然な属性に基づいてこれらのスキルを異なる方法で活用できます。",
+    "message": "In PoE2, dexterity skills impact different classes uniquely: Rangers excel with bow skills like Tornado Shot, Duelists benefit from skills like Frenzy and Lacerate, while Shadows can effectively use poison-based dexterity skills. Each class can utilize these skills differently based on their passive tree position and natural attributes.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        464
+      ]
+    ]
+  },
+  "uriovw": {
+    "translation": "パス・オブ・エグザイル2のスキルプランナーにおいて、サポートジェムはアクティブスキルジェムの効果を修正および強化します。ダメージを増加させたり、追加の弾を加えたり、キャスティング速度を改善したり、ユーティリティ効果を提供したりします。正しいサポートジェムを組み合わせることで、スキルの効果を大幅に向上させることができます。",
+    "message": "In the Path of Exile 2 Skills Planner, support gems modify and enhance active skill gems' effects. They can increase damage, add additional projectiles, improve casting speed, or provide utility effects. The right support gems can significantly boost your skills' effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        893
+      ]
+    ]
+  },
+  "g1A+ws": {
+    "translation": "パス・オブ・エグザイル2におけるインテリジェンススキル（青のスキルジェム）は、呪文詠唱とエレメンタルダメージに焦点を当てた特化した能力です。これらのスキルには攻撃呪文、ミニオン召喚能力、およびプレイヤーが魔法ダメージを与え、戦場をコントロールし、味方をサポートできるようにするユーティリティ効果が含まれます。",
+    "message": "Intelligence skills (blue skill gems) in Path of Exile 2 are specialized abilities focused on spellcasting and elemental damage. These skills include offensive spells, minion summoning abilities, and utility effects that allow players to deal magical damage, control the battlefield, and support allies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        506
+      ]
+    ]
+  },
+  "CSZLhb": {
+    "translation": "インテリジェンススキルは、パス・オブ・エグザイル2におけるメイジビルドの基盤であり、エレメンタル呪文を通じて必須のダメージ出力を提供し、バリアや群衆コントロールを通じて防御力を高め、ミニオン召喚によるユーティリティを提供します。これらのスキルは、サポートジェムと組み合わせて、攻撃能力と防御能力の両方を強化する強力な相乗効果を生み出すことができます。",
+    "message": "Intelligence skills are fundamental to Mage builds in PoE2, providing essential damage output through elemental spells, defensive capabilities through barriers and crowd control, and utility through minion summoning. These skills can be combined with support gems to create powerful synergies that enhance both offensive and defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        514
+      ]
+    ]
+  },
+  "HP+1C4": {
+    "translation": "パス・オブ・エグザイル2におけるインテリジェンススキルは、サポートジェムによってその挙動と効果を修正することができます。一般的な組み合わせには、反復キャスティングのためのスぺルエコー、エレメンタルダメージの増加のためのエレメンタルフォーカス、呪文速度向上のためのファスターキャスティングがあります。正しいサポートジェムの使用は、スキルパフォーマンスを大幅に向上させることができます。",
+    "message": "Intelligence skills in Path of Exile 2 can be enhanced by support gems to modify their behavior and effectiveness. Common combinations include using Spell Echo for repeated casting, Elemental Focus for increased elemental damage, and Faster Casting for improved spell speed. The right support gems can significantly boost skill performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        530
+      ]
+    ]
+  },
+  "w0vEsM": {
+    "translation": "パス・オブ・エグザイル2におけるインテリジェンススキルは、エレメンタルダメージ出力に優れ、ファイアボール、フロストボルト、アークのような強力な呪文がそれぞれ壊滅的な火、冷気、稲妻のダメージを与えます。これらのスキルは、サポートジェムで強化され、エレメンタル効果を最大化することができます。",
+    "message": "Intelligence skills in Path of Exile 2 excel at elemental damage output, featuring powerful spells like Fireball, Frostbolt, and Arc that deal devastating fire, cold, and lightning damage respectively. These skills can be enhanced with support gems to maximize elemental effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        478
+      ]
+    ]
+  },
+  "xdBWA0": {
+    "translation": "パス・オブ・エグザイル2におけるインテリジェンススキルは、高いクリティカルストライクの潜在能力を持っています。特に、アークやライトニングストライクのような呪文との組み合わせで、適切なサポートジェムと共に使用すれば、壊滅的なクリティカルヒットを発揮し、ダメージ出力を大幅に増加させることができます。",
+    "message": "Intelligence skills in PoE2 feature high critical strike potential, particularly with spells like Arc and Lightning Strike. When combined with appropriate support gems, these skills can deliver devastating critical hits that significantly boost damage output.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        498
+      ]
+    ]
+  },
+  "JXVsIx": {
+    "translation": "インテリジェンススキルには、氷のバリアやフロストシールドのような強力な防御オプションが含まれており、ダメージ吸収や群衆コントロール効果を通じて重要な生存能力を提供します。これらの防御メカニズムは、戦場での存在感を維持するために不可欠です。",
+    "message": "Intelligence skills include powerful defensive options such as Ice Barrier and Frost Shield, providing crucial survivability through damage absorption and crowd control effects. These defensive mechanisms are essential for maintaining battlefield presence.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        493
+      ]
+    ]
+  },
+  "RLPmGq": {
+    "translation": "ダンディのワールドドローの紹介",
+    "message": "Introduction of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        26
+      ]
+    ]
+  },
+  "rr52zJ": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」は英語版がありますか?",
+    "message": "Is Jujutsu Kaisen Phantom Parade available in English?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        204
+      ]
+    ]
+  },
+  "tlfYGz": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」は無料でプレイできますか?",
+    "message": "Is Jujutsu Kaisen Phantom Parade free to play?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        200
+      ]
+    ]
+  },
+  "qG3jbM": {
+    "translation": "描画中に行き詰まった場合、サポートは利用できますか？",
+    "message": "Is there support available if I get stuck while drawing?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        165
+      ]
+    ]
+  },
+  "MmfsOI": {
+    "translation": "ダンディのワールドアーティストの活気あるコミュニティに参加してください。描画を共有し、フィードバックを得て、スキルを向上させるための週次のチャレンジに参加しながら、仲間のアーティストとつながりましょう。",
+    "message": "Join a vibrant community of Dandy's World artists. Share your drawings, get feedback, and participate in weekly challenges to improve your skills while connecting with fellow artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        114
+      ]
+    ]
+  },
+  "LpV4OJ": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」は、大人気アニメ「呪術廻戦」を原作とするモバイルRPGです。ターン制バトル、充実したストーリー、キャラクター収集メカニクスを特徴としています。iOS端末はApp Storeから、Android端末はGoogle Play Storeからダウンロードできます。",
+    "message": "Jujutsu Kaisen Phantom Parade is a mobile RPG game based on the popular anime series Jujutsu Kaisen. It features turn-based combat, a rich storyline, and character collection mechanics. You can download Jujutsu Kaisen Phantom Parade from the Apple App Store for iOS devices and the Google Play Store for Android devices.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        185
+      ]
+    ]
+  },
+  "VuEEPs": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」は、「呪術廻戦」ユニバースのキャラクターによるターン制バトル、フルボイス演技を伴う濃密なストーリーライン、ガチャシステムによるキャラクター収集を提供し、シリーズファンに没入型の体験を届けます。",
+    "message": "Jujutsu Kaisen Phantom Parade offers turn-based combat with characters from the Jujutsu Kaisen universe, a rich storyline with full voice acting, and a gacha system for character collection. The game provides an immersive experience for fans of the series.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        197
+      ]
+    ]
+  },
+  "J73Tj0": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」は2024年12月7日に正式にリリースされ、iOS、Androidの両プラットフォームでダウンロードできるようになりました。",
+    "message": "Jujutsu Kaisen Phantom Parade was officially released on December 7, 2024. It is now available for download on both iOS and Android platforms.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        189
+      ]
+    ]
+  },
+  "nBxiSt": {
+    "translation": "重要な防御用インテリジェンススキルには、ダメージ吸収のための氷のバリア、保護のためのフロストシールド、敵のコントロールのための時間の鎖、そして機動性のためのフェーズランがあります。これらのスキルは、様々な防御層や脱出オプションを提供し、メイジが挑戦的な遭遇を生き延びるのに役立ちます。",
+    "message": "Key defensive Intelligence skills include Ice Barrier for damage absorption, Frost Shield for protection, Temporal Chains for enemy control, and Phase Run for mobility. These skills help Mages survive challenging encounters by providing various defensive layers and escape options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        526
+      ]
+    ]
+  },
+  "VFvlAZ": {
+    "translation": "呪詛発言の能力を持つ砥げ。安全にコミュニケーションを取るため、おにぎりを使うことが多い。",
+    "message": "Known for his cursed speech abilities, Toge can manipulate curses through specific words. He often uses rice balls as a way to communicate safely.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        278
+      ]
+    ]
+  },
+  "CUo907": {
+    "translation": "膨大な身体能力と戦闘力を持つトド。ストレートな性格と友人への忠義心も特徴。",
+    "message": "Known for his immense strength and combat prowess, Todo is also characterized by his straightforward personality and loyalty to friends.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        308
+      ]
+    ]
+  },
+  "BNIT3q": {
+    "translation": "ダンディのワールドキャラクターに特化したプロフェッショナルな描画技術を学びます。専門的なチュートリアルやガイドを通じて、シェーディング、色付け、詳細作業をマスターしてください。",
+    "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        134
+      ]
+    ]
+  },
+  "OZ6jLr": {
+    "translation": "ダンディのワールドキャラクターの正しい比率を学びます。頭のサイズを基本単位の測定に使用します。たとえば、ロジャーの体は通常2.5頭高です。描画全体で一貫した比率を維持するためのガイドラインを作成してください。",
+    "message": "Learn the correct proportions for Dandy's World characters. Use the head size as a basic unit of measurement. For example, Rodger's body is typically 2.5 heads tall. Create guidelines to maintain consistent proportions throughout your drawing.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        53
+      ]
+    ]
+  },
+  "kWWrvV": {
+    "translation": "ダンディのワールドキャラクターの描き方を学ぶ",
+    "message": "Learn to Draw Dandy's World Characters",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        16
+      ]
+    ]
+  },
+  "99//iK": {
+    "translation": "ダンディのワールドキャラクターを描く学習は個人によって異なります。ほとんどの初心者は、定期的な練習の中で2〜4週間以内に認識できるキャラクターを作成できます。構造化されたチュートリアルが複雑なキャラクターを簡単なステップに分解し、学習プロセスをより管理しやすくします。",
+    "message": "Learning to draw Dandy's World characters varies by individual. Most beginners can create recognizable characters within 2-4 weeks of regular practice. Our structured tutorials break down complex characters into simple steps, making the learning process more manageable.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        150
+      ]
+    ]
+  },
+  "VrNagU": {
+    "translation": "レベル：",
+    "message": "Level:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        83
+      ]
+    ]
+  },
+  "OTtIU8": {
+    "translation": "ライフスケーリング",
+    "message": "Life Scaling",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        363
+      ]
+    ]
+  },
+  "Z3FXyt": {
+    "translation": "読み込み中...",
+    "message": "Loading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/loading.tsx",
+        8
+      ]
+    ]
+  },
+  "EvqQVm": {
+    "translation": "メインスキル",
+    "message": "Main Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        191
+      ]
+    ]
+  },
+  "R/on3o": {
+    "translation": "パス・オブ・エグザイル2において、多くのスキルジェムはチームベースの利益を提供し、プレイヤーがバフ、オーラ、そして防御能力を通じて仲間をサポートできるようにします。",
+    "message": "Many Skill Gems in Path of Exile 2 offer team-based benefits, allowing players to support allies through buffs, auras, and defensive abilities for enhanced group play.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        640
+      ]
+    ]
+  },
+  "6CXeFo": {
+    "translation": "進行中のチュートリアルを通じてダンディのワールドキャラクターの描き方をマスターします。構造化されたアプローチが複雑なキャラクターを簡単な形状に分解し、すべてのスキルレベルのアーティストにとってアクセスしやすくします。",
+    "message": "Master drawing Dandy's World characters through progressive tutorials. Our structured approach breaks down complex characters into simple shapes, making it accessible for artists of all skill levels.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        104
+      ]
+    ]
+  },
+  "SedUJT": {
+    "translation": "ステップバイステップのチュートリアルでダンディのワールドキャラクターの描画をマスターしましょう。専門的なヒント、キャラクターガイドを得て、アーティストの創造的なコミュニティに参加してください。",
+    "message": "Master drawing Dandy's World characters with step-by-step tutorials. Get expert tips, character guides, and join our creative community of artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        17
+      ],
+      [
+        "config/site.ts",
+        22
+      ]
+    ]
+  },
+  "lY3yG3": {
+    "translation": "キャラクター比率のマスター",
+    "message": "Mastering Character Proportions",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        52
+      ]
+    ]
+  },
+  "H3p+ql": {
+    "translation": "エレメンタルマジックと召喚のマスター。ファイアボールやアークのような強力な呪文とミニオン召喚能力を特集。高い魔法ダメージ出力と戦場コントロールを求める呪文詠唱者にとって必須です。",
+    "message": "Masters of elemental magic and summoning. Features powerful spells like Fireball and Arc, alongside minion summoning abilities. Essential for spellcasters seeking high magical damage output and battlefield control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        767
+      ]
+    ]
+  },
+  "CH2/BC": {
+    "translation": "メタジェムは、特定の条件下でトリガーされるパス・オブ・エグザイル2の高度なスキルジェムであり、キャラクタービルドに複雑さを加えます。これらのジェムは、他のリンクされたスキルを自動的にアクティブにしたり、ユニークな効果を提供したりすることができ、戦闘において洗練されたスキルの組み合わせや自動化されたスキルシーケンスを可能にします。",
+    "message": "Meta Gems are advanced Skill Gems in PoE2 that trigger under specific conditions, adding complexity to character builds. These gems can activate other linked skills automatically or provide unique effects, allowing for sophisticated skill combinations and automated skill sequences in combat.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        664
+      ]
+    ]
+  },
+  "6NWiBo": {
+    "translation": "パス・オブ・エグザイル2のメタジェムは、特定の条件下でトリガーされる高度なジェムです。特定の条件が満たされると、建築に複雑さを加え、スキルの自動アクティベーションを許可するか、ユニークな効果を提供します。",
+    "message": "Meta Gems in Path of Exile 2 are advanced gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or providing unique effects when certain conditions are met, creating more sophisticated character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        605
+      ]
+    ]
+  },
+  "sZUkBE": {
+    "translation": "パス・オブ・エグザイル2のメタジェムは、特定の条件下でトリガーされる高度なスキルジェムです。特定の条件が満たされると、自動的にスキルをアクティブにしたり、異なるスキル間のユニークな相互作用パターンを作成したりすることができ、より洗練されたキャラクタービルドを実現します。",
+    "message": "Meta gems in Path of Exile 2 are advanced skill gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or creating unique interaction patterns between different skills, enabling more sophisticated character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        816
+      ]
+    ]
+  },
+  "IYxXKr": {
+    "translation": "ミニオン召喚",
+    "message": "Minion Summoning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        487
+      ]
+    ]
+  },
+  "44khzM": {
+    "translation": "移動と敏捷性",
+    "message": "Movement and Agility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        439
+      ]
+    ]
+  },
+  "qQKpn1": {
+    "translation": "マルチプレイヤーの相乗効果",
+    "message": "Multiplayer Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        639
+      ]
+    ]
+  },
+  "bHt2FX": {
+    "translation": "ネットワークエラーまたはCORSの問題です。",
+    "message": "Network error or CORS issue.",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        27
+      ]
+    ]
+  },
+  "isRobC": {
+    "translation": "新しい",
+    "message": "New",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        41
+      ]
+    ]
+  },
+  "6vUzxA": {
+    "translation": "新しいダンディのワールドチュートリアルは毎週追加されており、キャラクターガイド、技術デモ、特別なテーマレッスンを含んでいます。コミュニティのフィードバックに基づいてコンテンツを定期的に更新し、新しいキャラクターが登場するたびにチュートリアルを導入します。",
+    "message": "New Dandy's World tutorials are added weekly, including character guides, technique demonstrations, and special themed lessons. We regularly update our content based on community feedback and introduce tutorials for new characters as they appear.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        162
+      ]
+    ]
+  },
+  "ko93eb": {
+    "translation": "新規ユーザーがログインすると、2つのクレジットが付与されます",
+    "message": "New users who log in will receive 2 credits",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        39
+      ]
+    ]
+  },
+  "hXzOVo": {
+    "translation": "次",
+    "message": "Next",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/pagination.tsx",
+        36
+      ]
+    ]
+  },
+  "4WSj+R": {
+    "translation": "すべてのサポートジェムがパス・オブ・エグザイル2のすべてのスキルジェムで使用できるわけではありません。サポートジェムには、スキルタイプ（攻撃、呪文、ミニオンなど）および属性要件に基づく特定の互換性要件があります。プレイヤーは、スキルの組み合わせを作成する際に、適切な互換性を確保するために、ジェムの説明と要件を慎重に確認する必要があります。",
+    "message": "Not all Support Gems can be used with every skill gem in Path of Exile 2. Support Gems have specific compatibility requirements based on the skill type (attack, spell, minion, etc.) and attribute requirements. Players must carefully check gem descriptions and requirements to ensure proper compatibility when creating skill combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        735
+      ]
+    ]
+  },
+  "FvxCMW": {
+    "translation": "基本形状に慣れたら、ラインアートに焦点を当てます。軽くスケッチを始め、徐々にラインを洗練させていきます。ダンディのワールドキャラクターには、異なるラインの重みを使用して、深みとキャラクターを与えます。",
+    "message": "Once comfortable with basic shapes, focus on line art. Start with light sketching, then gradually refine your lines. For Dandy's World characters, use varying line weights to add depth and character to your drawings.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        60
+      ]
+    ]
+  },
+  "mFvrex": {
+    "translation": "攻撃速度とクリティカルストライクの組み合わせを計画して、自キャラのDPSを最適化します。私たちのプランナーは、パス・オブ・エグザイル2におけるダメージ出力を最大化するための最適なスキルジェムとサポートジェムの選択を助けます。",
+    "message": "Optimize your character's DPS by planning attack speed and critical strike combinations. Our planner helps you select the best skill gems and support gems to maximize your damage output in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        853
+      ]
+    ]
+  },
+  "d2Hx1C": {
+    "translation": "当社のプラットフォームには、ダンディのワールドの作品を保存し、時間の経過とともに改善を比較し、達成バッジを獲得できる進捗追跡システムが含まれています。また、自分のアートポートフォリオを維持して、自分の成長を視覚化することも奨励しています。",
+    "message": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        178
+      ]
+    ]
+  },
+  "MyRipQ": {
+    "translation": "パッシブスキルツリー",
+    "message": "Passive Skill Tree",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        776
+      ]
+    ]
+  },
+  "QAAPjM": {
+    "translation": "パッシブツリー統合",
+    "message": "Passive Tree Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        867
+      ]
+    ]
+  },
+  "cu+r4f": {
+    "translation": "パッシブツリーシナジー",
+    "message": "Passive Tree Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        629
+      ]
+    ]
+  },
+  "yujZ2L": {
+    "translation": "パス・オブ・エグザイル2には、赤（力）の宝石が近接戦闘と物理ダメージに焦点を当て、緑（器用さ）の宝石が遠距離攻撃と機敏さを専門とし、青（知性）の宝石が呪文や元素ダメージに集中する3種類のスキル宝石があります。各タイプには独自の特性があり、サポート宝石で強化することができます。",
+    "message": "Path of Exile 2 features three main types of skill gems: Red (Strength) gems focusing on melee combat and physical damage, Green (Dexterity) gems specializing in ranged attacks and agility, and Blue (Intelligence) gems centered on spellcasting and elemental damage. Each type has unique characteristics and can be enhanced with support gems.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        800
+      ]
+    ]
+  },
+  "9sef72": {
+    "translation": "パス・オブ・エグザイル2は、近接戦闘用の赤（力）型スキル宝石、遠距離攻撃用の緑（器用さ）型スキル宝石、呪文発動用の青（知性）型スキル宝石の3種類の主要スキル宝石を特徴としています。各タイプは独自の特性を持ち、サポート宝石で強化することができ、より深いカスタマイズが可能です。",
+    "message": "Path of Exile 2 features three primary types of Skill Gems: Red (Strength) Gems for melee combat, Green (Dexterity) Gems for ranged attacks, and Blue (Intelligence) Gems for spellcasting. Each type has unique characteristics and can be enhanced with Support Gems for deeper customization.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        577
+      ]
+    ]
+  },
+  "RNVqI9": {
+    "translation": "パス・オブ・エグザイル2のスキル宝石は、赤（力）、緑（器用さ）、青（知性）のカテゴリに分かれた主要な戦闘能力を提供します。各スキル宝石は、強力な近接攻撃から壊滅的な呪文まで、独自の戦闘能力を提供します。",
+    "message": "Path of Exile 2 Skill Gems provide primary combat abilities, divided into Red (Strength), Green (Dexterity), and Blue (Intelligence) categories. Each Skill Gem offers unique combat capabilities, from powerful melee attacks to devastating spells.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        544
+      ]
+    ]
+  },
+  "oEMAxY": {
+    "translation": "パス・オブ・エグザイル2のスキルプランナーは、宝石を3つの主要なタイプに分類しています：近接および物理ダメージ用の赤（力）、遠距離および敏捷性の戦闘用の緑（器用さ）、呪文発動および元素ダメージ用の青（知性）。各タイプは独自のゲームプレイメカニクスとビルドの可能性を提供します。",
+    "message": "Path of Exile 2 Skills Planner categorizes gems into three main types: Red (Strength) for melee and physical damage, Green (Dexterity) for ranged and agile combat, and Blue (Intelligence) for spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        881
+      ]
+    ]
+  },
+  "c/quQp": {
+    "translation": "パス・オブ・エグザイル2のスキルプランナーには、赤（力）、緑（器用さ）、青（知性）のスキル宝石の広範なコレクションがあり、プレイヤーは戦略的な宝石の組み合わせやサポート宝石の強化を通じて強力なキャラクタービルドを作成できます。",
+    "message": "Path of Exile 2 Skills Planner features an extensive collection of Red (Strength), Green (Dexterity), and Blue (Intelligence) skill gems, allowing players to create powerful character builds through strategic gem combinations and support gem enhancements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        838
+      ]
+    ]
+  },
+  "pr9uiD": {
+    "translation": "パス・オブ・エグザイル2の最高の防御スキルには、ダメージ吸収のためのアイスバリアとフロストシールド、敵の制御のためのテンポラルチェーン、逃避メカニクスのためのフェーズラン、グレースやバイタリティのようなさまざまなオーラスキルがあります。これらのスキルは、サポート宝石と組み合わせて防御能力を向上させることができます。",
+    "message": "Path of Exile 2's best defensive skills include: Ice Barrier and Frost Shield for damage absorption, Temporal Chains for enemy control, Phase Run for escape mechanics, and various aura skills like Grace and Vitality for enhanced survivability. These skills can be combined with support gems for improved defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        824
+      ]
+    ]
+  },
+  "Rl390J": {
+    "translation": "パス・オブ・エグザイル2の器用さスキルは、機動性と迅速なポジショニングを強調しています。スモークマインやフェーズランのスキルは、戦闘と探索の両方に必要な移動オプションを提供します。",
+    "message": "Path of Exile 2's dexterity skills emphasize mobility and quick positioning. Skills like Smoke Mine and Phase Run provide essential movement options for both combat and exploration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        440
+      ]
+    ]
+  },
+  "i79PN8": {
+    "translation": "パス・オブ・エグザイル2の器用さスキルは、遠距離戦闘に優れ、正確なターゲティングと多様な攻撃オプションを提供します。トルネードショットやスプリットアローのスキルは、敵から安全な距離を保ちながら優れたエリアカバレッジを提供します。",
+    "message": "Path of Exile 2's dexterity skills excel in ranged combat, offering precise targeting and versatile attack options. Skills like Tornado Shot and Split Arrow provide excellent area coverage while maintaining safe distance from enemies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        415
+      ]
+    ]
+  },
+  "gVAQ6M": {
+    "translation": "パス・オブ・エグザイル2の知性スキルは、直接ダメージ呪文（ファイアボールやアークのような）、ミニオン召喚スキル（スケルトン召喚など）、ユーティリティ/サポートスキル（オーラや防御能力を含む）の3つの主要なタイプに分類されます。各タイプは戦闘において異なる役割を果たし、サポート宝石によって強化することができます。",
+    "message": "Path of Exile 2's Intelligence skills can be categorized into three main types: Direct damage spells (like Fireball and Arc), Minion summoning skills (such as Summon Skeletons), and Utility/Support skills (including auras and defensive abilities). Each type serves different roles in combat and can be enhanced with support gems.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        510
+      ]
+    ]
+  },
+  "JLMWo5": {
+    "translation": "パス・オブ・エグザイル2のスキル宝石システムは、近接戦闘用の赤（力）、遠距離攻撃用の緑（器用さ）、呪文発動用の青（知性）の3つの主要なタイプを特徴とし、それぞれが独自の戦闘能力とビルドの可能性を提供します。",
+    "message": "Path of Exile 2's Skill Gems system features three primary types: Red (Strength), Green (Dexterity), and Blue (Intelligence) gems, each offering unique combat capabilities and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        615
+      ]
+    ]
+  },
+  "m7EtTn": {
+    "translation": "パス・オブ・エグザイル2のサポート宝石は、力（赤）、器用さ（緑）、知性（青）の3つの主要な属性によって分類されます。各タイプのサポート宝石は特定の属性レベルを必要とし、アクティブスキルにさまざまな修正を提供します。赤いサポート宝石は物理ダメージや防御能力を向上させ、緑のサポート宝石は射撃や速度の修正に焦点を当て、青のサポート宝石は通常、元素や呪文効果を強化します。",
+    "message": "Path of Exile 2's Support Gems are categorized by three main attributes: Strength (Red), Dexterity (Green), and Intelligence (Blue). Each type of Support Gem requires specific attribute levels and provides different modifications to active skills. Red Support Gems often enhance physical damage and defensive capabilities, Green Support Gems focus on projectile and speed modifications, while Blue Support Gems typically boost elemental and spell effects.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        723
+      ]
+    ]
+  },
+  "zFELgS": {
+    "translation": "パス・オブ・エグザイル2のサポート宝石は、リアルタイムでスキルメカニクスを修正することができ、プレイヤーは異なる状況に能力を適応させることができます。この柔軟性は多様なプレイスタイルと戦略的な深さを実現します。",
+    "message": "Path of Exile 2's Support Gems can modify skill mechanics in real-time, allowing players to adapt their abilities to different situations. This flexibility enables diverse playstyles and strategic depth.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        711
+      ]
+    ]
+  },
+  "rcR3jp": {
+    "translation": "パス・オブ・エグザイル2のサポート宝石は、プレイヤーがさまざまな方法でアクティブスキルを修正し強化する前例のないカスタマイズを提供します。各サポート宝石はアクティブスキルとリンクでき、強力な組み合わせを作成し、ゲームプレイメカニクスを根本から変えることができます。",
+    "message": "Path of Exile 2's Support Gems offer unprecedented customization, allowing players to modify and enhance their active skills in various ways. Each Support Gem can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        686
+      ]
+    ]
+  },
+  "9ZrB50": {
+    "translation": "物理ダメージ焦点",
+    "message": "Physical Damage Focus",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        333
+      ]
+    ]
+  },
+  "VKMSyV": {
+    "translation": "詳細なスキルシナジー、ダメージ計算、防御能力に関する情報をもとに、PoE2キャラクタービルドを計画し最適化します。私たちのプランナーは、効果的なスキル宝石の組み合わせを通じてキャラクターの潜在能力を最大限に引き出す手助けをします。",
+    "message": "Plan and optimize your PoE2 character builds with detailed information about skill synergies, damage calculations, and defensive capabilities. Our planner helps you maximize your character's potential through effective skill gem combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        843
+      ]
+    ]
+  },
+  "8gPvqK": {
+    "translation": "パッシブツリーの決定と共にスキル宝石の選択を計画してください。私たちのPoE2スキルプランナーは、スキル宝石がパッシブツリーの選択とどのように相互作用するかを示すことで、一貫したビルドを作成するのに役立ちます。",
+    "message": "Plan your skill gem choices alongside passive tree decisions. Our PoE2 Skills Planner helps you create cohesive builds by showing how skill gems interact with passive tree choices.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        868
+      ]
+    ]
+  },
+  "+BRJj6": {
+    "translation": "プレイヤーは異なるスキル宝石を組み合わせて、純粋なダメージ出力、防御能力、またはハイブリッドアプローチのいずれかに焦点を当てたユニークなビルドを作成できます。",
+    "message": "Players can combine different Skill Gems to create unique builds, whether focusing on pure damage output, defensive capabilities, or hybrid approaches in PoE2's challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        635
+      ]
+    ]
+  },
+  "SaquMu": {
+    "translation": "タイトルを入力してください",
+    "message": "Please enter a title",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        102
+      ]
+    ]
+  },
+  "aobb0H": {
+    "translation": "著者を入力してください",
+    "message": "Please enter an author",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        106
+      ]
+    ]
+  },
+  "h1pZGt": {
+    "translation": "少なくとも1つの主要なスキルを選択してください",
+    "message": "Please select at least one main skill",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        110
+      ]
+    ]
+  },
+  "+Y65s1": {
+    "translation": "続行するにはサインインしてください",
+    "message": "Please Sign In To Continue",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        38
+      ]
+    ]
+  },
+  "6EKMS0": {
+    "translation": "PoE2の器用さスキルは強力な組み合わせを生み出す能力で輝いています。パンクチャーとフルライフサポートのような人気のペアリングや、トルネードショットとグレーター・マルチプル・プロジェクタイルが戦闘の効果を最大化します。",
+    "message": "PoE2 dexterity skills shine in their ability to create powerful combinations. Popular pairings like Puncture with Damage on Full Life Support or Tornado Shot with Greater Multiple Projectiles maximize combat effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        430
+      ]
+    ]
+  },
+  "Ef7fXT": {
+    "translation": "PoE2の知性スキルは多様な呪文発動オプションを提供し、魔法使いがさまざまな呪文の組み合わせを通じて戦略を調整できます。直接ダメージ呪文から範囲効果能力まで、知性ビルドは単体またはグループ戦闘を効果的に処理できます。",
+    "message": "PoE2 Intelligence skills offer diverse spellcasting options, allowing mages to adapt their strategy through various spell combinations. From direct damage spells to area-of-effect abilities, Intelligence builds can handle both single-target and group encounters effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        483
+      ]
+    ]
+  },
+  "+PZx0E": {
+    "translation": "パス・オブ・エグザイル2 筋力スキルはサポートジェムとパッシブスキルとの優れたシナジーを示します。これらの赤いジェムは戦略的なジェムの組み合わせと慎重なビルド計画によって強化されます。",
+    "message": "PoE2 Strength Skills demonstrate excellent synergy with support gems and passive skills. These red gem abilities can be enhanced through strategic gem combinations and careful build planning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        359
+      ]
+    ]
+  },
+  "o+2pHs": {
+    "translation": "パス・オブ・エグザイル2 筋力スキルは、グラウンドスラムやクリーブのような強力なAoE能力を特徴としており、効果的な群衆制御を行います。これらの筋力ベースの攻撃は、強力な単体ダメージの潜在能力を維持しながら、複数の敵に対処できます。",
+    "message": "PoE2 Strength Skills feature powerful AoE abilities like Ground Slam and Cleave for effective crowd control. These Strength-based attacks can handle multiple enemies while maintaining strong single-target damage potential.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        344
+      ]
+    ]
+  },
+  "wOwmov": {
+    "translation": "パス・オブ・エグザイル2 サポートジェムは、ダメージタイプを変更したり、効果を追加したり、スキルの挙動を変えることで、戦闘能力を劇的に変化させます。これらのサポートジェムを通じた変更により、プレイヤーはユニークで強力なスキルの組み合わせを作成できます。",
+    "message": "PoE2 Support Gems dramatically alter combat capabilities by modifying damage types, adding effects, or changing skill behaviors. These modifications through Support Gems allow players to create unique and powerful skill combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        696
+      ]
+    ]
+  },
+  "i/DAEv": {
+    "translation": "パス・オブ・エグザイル2のジェムシステムは、スキルジェムとサポートジェムの間に強力な組み合わせを可能にします。プレイヤーは補完的なジェムを連結することでユニークなビルドを作成し、戦闘の効果を高め、さまざまなゲームプレイオプションを提供します。",
+    "message": "PoE2's gem system allows for powerful combinations between Skill Gems and Support Gems. Players can create unique builds by linking complementary gems together, enhancing their effectiveness in combat and providing diverse gameplay options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        569
+      ]
+    ]
+  },
+  "jUaDnb": {
+    "translation": "パス・オブ・エグザイル2の遠距離戦闘用の人気な緑色スキルジェムには、AoEダメージ用のトルネードショット、群衆制御用のアイスショット、単体ダメージ用のパンクチャーが含まれます。これらの器用ベースのジェムは、遠距離戦闘シナリオで優れています。",
+    "message": "Popular Green Skill Gems for ranged combat in Path of Exile 2 include Tornado Shot for AoE damage, Ice Shot for crowd control, and Puncture for single-target damage. These Dexterity-based gems excel in ranged combat scenarios.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        589
+      ]
+    ]
+  },
+  "2ziObN": {
+    "translation": "練習と改善のヒント",
+    "message": "Practice and Improvement Tips",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        87
+      ]
+    ]
+  },
+  "DHhJ7s": {
+    "translation": "前へ",
+    "message": "Previous",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/pagination.tsx",
+        24
+      ]
+    ]
+  },
+  "aHCEmh": {
+    "translation": "価格設定",
+    "message": "Pricing",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        12
+      ]
+    ]
+  },
+  "ScJ9fj": {
+    "translation": "プライバシーポリシー",
+    "message": "Privacy policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ],
+      [
+        "components/wegic/footer.tsx",
+        92
+      ]
+    ]
+  },
+  "woRfhL": {
+    "translation": "#0#のプライバシーポリシー",
+    "message": "Privacy Policy for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        16
+      ]
+    ]
+  },
+  "T7bBcH": {
+    "translation": "プロフェッショナルな技術",
+    "message": "Professional Techniques",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        133
+      ]
+    ]
+  },
+  "H+5wfn": {
+    "translation": "基本的なダンディのワールドスケッチから複雑なキャラクター構成に進みます。キャラクターに特化した演習やチュートリアルを通じて、基本的なアートの原則を学びます。",
+    "message": "Progress from basic Dandy's World sketches to complex character compositions. Learn essential art principles through character-focused exercises and tutorials.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        129
+      ]
+    ]
+  },
+  "VUcR6L": {
+    "translation": "遠距離戦闘フォーカス",
+    "message": "Ranged Combat Focus",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        414
+      ]
+    ]
+  },
+  "zdFqOJ": {
+    "translation": "赤いジェム（筋力）",
+    "message": "Red Gems (Strength)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        553
+      ]
+    ]
+  },
+  "XDr3Q0": {
+    "translation": "赤いスキルジェム（筋力）",
+    "message": "Red Skill Gems (Strength)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        756
+      ]
+    ]
+  },
+  "ZzMbBc": {
+    "translation": "赤いスキルジェムは、近接戦闘と物理ダメージに焦点を当てており、強力なストライク、スラム、そして防御能力を備えています。人気のあるスキルには、クリーブ、ヘビーストライク、グラウンドスラムがあり、パス・オブ・エグザイル2の戦士タイプのビルドに最適です。",
+    "message": "Red Skill Gems focus on melee combat and physical damage, featuring powerful strikes, slams, and defensive abilities. Popular skills include Cleave, Heavy Strike, and Ground Slam, ideal for warrior-type builds in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        554
+      ]
+    ]
+  },
+  "dS5A3M": {
+    "translation": "定期的な練習がダンディのワールドキャラクターの描画をマスターする鍵です。オンラインコミュニティに参加し、描画チャレンジに参加し、公式の参考資料を研究してください。ダンディのワールドの練習用に専用のスケッチブックを持ちましょう。",
+    "message": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        88
+      ]
+    ]
+  },
+  "FCMZT7": {
+    "translation": "要件:",
+    "message": "REQUIREMENTS:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        101
+      ]
+    ]
+  },
+  "yY6AgM": {
+    "translation": "ビルドを保存",
+    "message": "Save Build",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        300
+      ]
+    ]
+  },
+  "U1e3dH": {
+    "translation": "ビルドを保存中...",
+    "message": "Saving build...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        116
+      ]
+    ]
+  },
+  "XvjC4F": {
+    "translation": "保存中...",
+    "message": "Saving...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        300
+      ]
+    ]
+  },
+  "giZAjB": {
+    "translation": "スキルを検索...",
+    "message": "Search skills...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillFilter.tsx",
+        57
+      ]
+    ]
+  },
+  "ZqvdDl": {
+    "translation": "Googleでサインイン",
+    "message": "Sign In With Google",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        50
+      ]
+    ]
+  },
+  "5KwHac": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」は主に日本語で提供されているため、コミュニティが作成した翻訳ツールやガイドを活用するか、VPNを使用して日本以外の地域からアクセスする必要があります。",
+    "message": "Since Jujutsu Kaisen Phantom Parade is primarily available in Japanese, you can use translation tools or guides created by the community. Additionally, some players use VPNs to access the game from regions outside Japan.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        217
+      ]
+    ]
+  },
+  "So8vLA": {
+    "translation": "スキルの組み合わせ",
+    "message": "Skill Combinations",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        429
+      ]
+    ]
+  },
+  "b2kWPd": {
+    "translation": "スキル開発",
+    "message": "Skill Development",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        128
+      ]
+    ]
+  },
+  "fCL3cR": {
+    "translation": "スキルジェム - コア戦闘能力",
+    "message": "Skill Gems - Core Combat Abilities",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        543
+      ]
+    ]
+  },
+  "x+zwNc": {
+    "translation": "スキルジェムはサポートジェムによって強化され、効果を変更し、増幅する強力な組み合わせを作成します。これにより、パス・オブ・エグザイル2のキャラクタービルドを深くカスタマイズすることができます。",
+    "message": "Skill Gems can be enhanced with Support Gems, creating powerful combinations that modify and amplify their effects, allowing for deep customization of character builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        625
+      ]
+    ]
+  },
+  "D6yiax": {
+    "translation": "パス・オブ・エグザイル2のスキルジェムは、使用することで経験を得て、十分な経験を獲得すると自動的にレベルアップします。高レベルのジェムは効果が向上しますが、使用にはより高い属性値が必要な場合があります。また、一部のジェムは品質改善によっても強化されます。",
+    "message": "Skill gems in Path of Exile 2 gain experience as you use them and level up automatically when enough experience is gained. Higher level gems provide increased effectiveness but may require higher attribute values to use. Some gems can also be enhanced through quality improvements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        828
+      ]
+    ]
+  },
+  "Gy87f7": {
+    "translation": "パス・オブ・エグザイル2のスキルジェムは、パッシブスキルツリーと連携して機能します。振り分けたポイントは選択したジェムの効果を高めることができます。パッシブツリーは、キャラクターの主要属性に基づいて異なるセクションから始まり、特定のスキルジェムタイプに特化することができ、さまざまなビルドの組み合わせを作成することができます。",
+    "message": "Skill Gems in Path of Exile 2 work in conjunction with the passive skill tree, where allocated points can enhance the effectiveness of your chosen gems. The passive tree starts in different sections based on your character's primary attribute, allowing you to specialize in specific Skill Gem types and create diverse build combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        660
+      ]
+    ]
+  },
+  "ndUYkQ": {
+    "translation": "パス・オブ・エグザイル2のスキルジェムは、さまざまなサポートとシナジー効果を通じてチームプレイに大きな影響を与えることができます。特定のジェムは、味方にオーラやバフ、または防御効果を提供し、他のジェムは一緒に使用することで強力な攻撃的な組み合わせを作成できます。これらの相互作用を理解することは、効果的なグループプレイに不可欠です。",
+    "message": "Skill Gems in PoE2 can significantly impact team play through various support and synergy effects. Certain gems provide auras, buffs, or defensive benefits to allies, while others can create powerful offensive combinations when used together. Understanding these interactions is crucial for effective group gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        676
+      ]
+    ]
+  },
+  "PoDInI": {
+    "translation": "パス・オブ・エグザイル2のスキルジェムは、戦闘で使用することで経験を得ます。ジェムがレベルアップすると、より強力になり、ダメージが増加したり、効果が向上します。一部のジェムは、特定のサポートジェムやパッシブスキルツリーのノードを通じてさらに強化されることもあります。",
+    "message": "Skill Gems in PoE2 gain experience as you use them in combat. As gems level up, they become more powerful, dealing increased damage or providing enhanced effects. Some gems can also be enhanced further through specific Support Gems and passive skill tree nodes.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        597
+      ]
+    ]
+  },
+  "yPXV5d": {
+    "translation": "スキルの進行",
+    "message": "Skill Progression",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        791
+      ]
+    ]
+  },
+  "x+1D9r": {
+    "translation": "スキルシナジー",
+    "message": "Skill Synergies",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        358
+      ]
+    ]
+  },
+  "PYeaTU": {
+    "translation": "遠距離戦闘とアジリティスタイルに特化しています。トルネードショットやアイスショットのような強力なスキルを含み、クリティカルヒットやタイムダメージ効果のための強力なサポートの組み合わせがあります。移動性と精度を重視するプレイヤーに最適です。",
+    "message": "Specializes in ranged combat and agile playstyles. Includes powerful skills like Tornado Shot and Ice Shot, with strong support combinations for critical strikes and damage over time effects. Ideal for players who prefer mobility and precision.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        762
+      ]
+    ]
+  },
+  "pAcweS": {
+    "translation": "スピード:",
+    "message": "SPEED:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        97
+      ]
+    ]
+  },
+  "P4lxjn": {
+    "translation": "ステップバイステップの学習",
+    "message": "Step-by-Step Learning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        103
+      ]
+    ]
+  },
+  "ZDK00R": {
+    "translation": "筋力スキル（赤いジェム）は、直接的な物理ダメージと生存能力に注力しており、器用なスキルは速度と精度を重視し、知能のスキルは呪文や元素ダメージに焦点を当てています。筋力ベースの能力は、近接戦闘および防御能力に優れており、三つの属性タイプの中でユニークです。",
+    "message": "Strength Skills (red gems) focus on direct physical damage and survivability, while Dexterity skills emphasize speed and precision, and Intelligence skills focus on spells and elemental damage. Strength-based abilities excel in close combat and defensive capabilities, making them unique among the three attribute types.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        397
+      ]
+    ]
+  },
+  "8LeiXO": {
+    "translation": "パス・オブ・エグザイル2の筋力スキル（赤いジェム）は、主に近接戦闘と物理ダメージに焦点を当てています。これらのスキルは強力なストライク、グラウンドスラム、エリア効果攻撃を行います。高いライフプールとアーマーと自然にシナジーするため、タンクビルドに最適です。主要な機能には、バフ用のウォークライ、単体ダメージ用のヘビーストライク、群衆制御用のグラウンドスラムが含まれます。",
+    "message": "Strength Skills (red gems) in PoE2 primarily focus on melee combat and physical damage. These skills excel at delivering powerful strikes, ground slams, and area-of-effect attacks. They naturally synergize with high life pools and armor, making them ideal for tanky builds. Key features include War Cries for buffing, heavy strikes for single-target damage, and ground slams for crowd control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        377
+      ]
+    ]
+  },
+  "LhGQJv": {
+    "translation": "パス・オブ・エグザイル2の筋力スキルは、敵をスタンさせたり、ノックバックさせたり、その他の制御を行う強力なインパクトメカニクスを備えています。これらの赤いスキルは、スペースを作り、戦場の配置を制御することに優れています。",
+    "message": "Strength Skills in Path of Exile 2 feature powerful impact mechanics that can stun, knock back, or otherwise control enemies. These red skills excel at creating space and controlling battlefield positioning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        369
+      ]
+    ]
+  },
+  "ifAE8x": {
+    "translation": "パス・オブ・エグザイル2の筋力スキルは、近接攻撃とグラウンドスラムを通じて強力な物理ダメージを提供することに優れています。これらの赤いジェム能力は、物理ダメージビルドの核を形成し、近接戦闘に特化したキャラクターに不可欠です。",
+    "message": "Strength Skills in PoE2 excel at delivering powerful physical damage through melee attacks and ground slams. These red gem abilities form the core of physical damage builds, making them essential for close-combat focused characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        334
+      ]
+    ]
+  },
+  "Pf823r": {
+    "translation": "筋力スキルは、ラリーングクライやエンデュアリングクライのような能力を通じて貴重なチームサポートオプションを提供します。これらの赤いジェムスキルは、味方にバフや防御効果を提供することでグループプレイを強化します。",
+    "message": "Strength Skills include valuable team support options through abilities like Rallying Cry and Enduring Cry. These red gem skills enhance group play by providing buffs and defensive benefits to allies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        349
+      ]
+    ]
+  },
+  "prIkB+": {
+    "translation": "筋力スキルは、いくつかのメカニズムを通じて効果的にスケールします：物理ダメージは武器の品質に応じて増加し、赤いジェムはレベルアップを通じて力を得、パッシブツリーのノードは筋力ベースの能力を強化します。さらに、これらのスキルはライフスケーリングの恩恵を受け、キャラクターが成長するにつれてますます強力になります。",
+    "message": "Strength Skills scale effectively through several mechanisms: physical damage increases with weapon quality, red gems gain power through leveling, and passive tree nodes enhance Strength-based abilities. Additionally, these skills benefit from life scaling, making them increasingly powerful as characters develop.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        389
+      ]
+    ]
+  },
+  "PKAYT3": {
+    "translation": "筋力ベースのスキルは、自然なライフスケーリングメカニズムの恩恵を受けるため、高ライフビルドに最適です。赤いジェムシステムは、生存能力を維持しながら強力な攻撃能力をサポートします。",
+    "message": "Strength-based skills benefit from natural life scaling mechanics, making them ideal for high-health builds. The red gem system inherently supports survivability while maintaining strong offensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        364
+      ]
+    ]
+  },
+  "vmiqyT": {
+    "translation": "筋力ベースのスキルは、いくつかのメカニズムを通じて貴重なチームサポートを提供します：ウォークライは近くの味方に一時的なバフを提供し、ラリーングクライはグループのダメージ出力を増加させ、多くの筋力スキルはチーム全体に利益をもたらす防御ゾーンを作成します。これらの赤いジェム能力は、ノックバックやスタン効果を通じて戦場の配置を制御するのにも役立ちます。",
+    "message": "Strength-based skills provide valuable team support through several mechanics: War Cries offer temporary buffs to nearby allies, Rallying Cry increases group damage output, and many Strength Skills create defensive zones that benefit the entire team. These red gem abilities also help control battlefield positioning through knockback and stun effects.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        381
+      ]
+    ]
+  },
+  "DRzks3": {
+    "translation": "グループプレイメカニクスに強調が置かれています。スキルはプレイヤー間で組み合わせることができ、強化効果を得ることができ、オーラやバフは全体のパーティに利益をもたらします。協力的なゲームプレイや挑戦的なグループコンテンツに最適です。",
+    "message": "Strong emphasis on group play mechanics. Skills can be combined between players for enhanced effects, with auras and buffs benefiting entire parties. Perfect for cooperative gameplay and challenging group content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        787
+      ]
+    ]
+  },
+  "v+HYpp": {
+    "translation": "サポートジェムの統合",
+    "message": "Support Gem Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        624
+      ]
+    ]
+  },
+  "HnnNzx": {
+    "translation": "サポートジェム - 能力強化",
+    "message": "Support Gems - Ability Enhancement",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        548
+      ]
+    ]
+  },
+  "/qzRU4": {
+    "translation": "サポートジェムは、パス・オブ・エグザイル2のスキルダメージをさまざまな倍率や効果を通じて変更することができます。基本ダメージを増加させたり、元素ダメージを追加したり、クリティカルヒットのチャンスを増加させたり、またはダメージ継続効果を提供することがあります。一部のサポートジェムは、特定の条件下でのダメージボーナスや特定のタイプの敵に対してのボーナスを提供することもあります。",
+    "message": "Support Gems can modify skill damage in Path of Exile 2 through various multipliers and effects. They might increase base damage, add elemental damage, enhance critical strike chances, or provide damage over time effects. Some Support Gems also offer damage bonuses under specific conditions or against certain types of enemies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        739
+      ]
+    ]
+  },
+  "bDfPmj": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、アクティブスキルジェムを変更および強化する専門化されたジェムです。プレイヤーがダメージタイプを変更したり、効果を追加したり、スキルの挙動を変えることで能力をカスタマイズできるようにします。これらのサポートジェムは、アクティブスキルとリンクすることで強力な組み合わせを作成し、ゲームプレイメカニクスやキャラクターの能力を根本的に変えることができます。",
+    "message": "Support Gems in Path of Exile 2 are specialized gems that modify and enhance active skill gems. They allow players to customize their abilities by altering damage types, adding effects, or changing skill behaviors. These Support Gems can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics and character capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        719
+      ]
+    ]
+  },
+  "ZTydNa": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、防御能力を強化し、スキルの改良を通じてさまざまな形で保護を提供することができます。プレイヤーはサポートジェムを活用して生存能力を向上させ、強固な防御セットアップを作成することができます。",
+    "message": "Support Gems in Path of Exile 2 can enhance defensive abilities, providing various forms of protection through skill modifications. Players can utilize Support Gems to improve survivability and create robust defensive setups.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        701
+      ]
+    ]
+  },
+  "GZFU/j": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、戦闘で使用することで経験値を得て、最終的にレベルアップしてより強力になります。高レベルのサポートジェムは通常、より強力な効果を提供しますが、より高い属性値も必要です。プレイヤーは、自分のビルド要件と属性の可用性に基づいて、ジェムのレベルアップを制御できます。",
+    "message": "Support Gems in Path of Exile 2 gain experience as you use them in combat, eventually leveling up to become more powerful. Higher-level Support Gems typically provide stronger effects but also require higher attribute values. Players can control gem leveling based on their build requirements and attribute availability.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        747
+      ]
+    ]
+  },
+  "LcmDag": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、アクティブスキルジェムをリンクすることで変更や強化を行います。これにより、ダメージタイプを変更したり、効果を追加したり、攻撃速度を増加させたり、ユーティリティの利益を提供したりすることができます。スキルジェムとサポートジェムの組み合わせが、キャラクタービルドに強力なシナジーを生き生きと生み出します。",
+    "message": "Support Gems in Path of Exile 2 modify and enhance Active Skill Gems when linked together. They can alter damage types, add effects, increase attack speed, or provide utility benefits. The combination of Skill Gems with Support Gems creates powerful synergies for character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        581
+      ]
+    ]
+  },
+  "HNSEdY": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、アクティブスキルジェムの効果を変更および強化します。アクティブスキルにリンクすることで、ダメージの増加や追加の弾丸、行動の変更などの効果を追加できます。アクティブスキルとサポートジェムの組み合わせは、キャラクターの能力を深くカスタマイズできます。",
+    "message": "Support gems in Path of Exile 2 modify and enhance the effects of active skill gems. They can be linked to active skills to add effects like increased damage, additional projectiles, or modified behavior. The combination of active skills and support gems allows for deep customization of your character's abilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        804
+      ]
+    ]
+  },
+  "bOTDnj": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、アクティブスキルジェムの効果を変更および強化します。リンクさせることで、サポートジェムはメインスキルのさまざまな側面を変更でき、ダメージ出力、効果範囲、クリティカルストライクの確率、新しい効果を追加します。このシステムにより、さまざまなスキルジェムの組み合わせを通じてキャラクタービルドの深いカスタマイズが可能です。",
+    "message": "Support Gems in Path of Exile 2 modify and enhance the effects of active Skill Gems. When linked together, Support Gems can alter various aspects of the main skill, such as damage output, area of effect, critical strike chance, or adding new effects. This system allows for deep customization of character builds through different Skill Gem combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        652
+      ]
+    ]
+  },
+  "EoVn+L": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、スキルメカニクス、ダメージ出力、ユーティリティの効果を変更することにより、キャラクタービルドに重要な影響を与えます。基本的な能力を強力な組み合わせに変え、防御能力を向上させ、攻撃またはキャスト速度を増加させ、クリティカルストライクや状態異常などのさまざまな効果を追加します。サポートジェムの選択は、ビルドの効果やプレースタイルのオプションに直接影響します。",
+    "message": "Support Gems in Path of Exile 2 significantly impact character builds by modifying skill mechanics, damage output, and utility effects. They can transform basic abilities into powerful combinations, enhance defensive capabilities, increase attack or cast speed, and add various effects like critical strikes or status ailments. The choice of Support Gems directly influences build effectiveness and playstyle options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        731
+      ]
+    ]
+  },
+  "xrRhmD": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、リンクしたときにスキルジェムの効果を変更および強化します。ダメージタイプを変更したり、弾丸を追加したり、攻撃速度を増加させたり、ユーティリティの効果を提供することで、キャラクタービルドの深いカスタマイズオプションを作成します。",
+    "message": "Support Gems in PoE2 modify and enhance Skill Gems' effects when linked together. They can alter damage types, add projectiles, increase attack speed, or provide utility effects, creating deep customization options for character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        549
+      ]
+    ]
+  },
+  "igPCWg": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムは、リンクシステムを介してアクティブスキルとシームレスに統合されます。プレイヤーは、1つのアクティブスキルと複数のサポートジェムを組み合わせることで、キャラクターの効果を向上させる複雑で強力なスキルインタラクションを作成できます。",
+    "message": "Support Gems in PoE2 seamlessly integrate with active skills through the linking system. Players can combine multiple Support Gems with a single active skill, creating complex and powerful skill interactions that enhance their character's effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        691
+      ]
+    ]
+  },
+  "zJznXk": {
+    "translation": "サポートジェムシステム",
+    "message": "Support Gems System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        771
+      ]
+    ]
+  },
+  "Xff8Oa": {
+    "translation": "サポートスキル",
+    "message": "Support Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        230
+      ]
+    ]
+  },
+  "7ZQrYT": {
+    "translation": "チームサポート",
+    "message": "Team Support",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        348
+      ]
+    ]
+  },
+  "k+aCcA": {
+    "translation": "チームシナジー",
+    "message": "Team Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        786
+      ]
+    ]
+  },
+  "kF8bSs": {
+    "translation": "チームシナジー計画",
+    "message": "Team Synergy Planning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        857
+      ]
+    ]
+  },
+  "UCLeG0": {
+    "translation": "利用規約",
+    "message": "Terms of service",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        93
+      ]
+    ]
+  },
+  "X+aiz8": {
+    "translation": "#0#の利用規約",
+    "message": "Terms of Service for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        16
+      ]
+    ]
+  },
+  "UxGE0W": {
+    "translation": "パス・オブ・エグザイル2で最も効果的な敏捷スキルの組み合わせには、AoEダメージのためのトルネードショットとグレーター・マルチプル・プロジェクタイル、単体ダメージのためのパンクチャーとダメージ・オン・フル・ライフ・サポート、モブの排除のためのスプリットアローとチェインサポートが含まれます。これらの組み合わせは、さまざまな戦闘シナリオに対する多様な選択肢を提供します。",
+    "message": "The most effective dexterity skill combinations in Path of Exile 2 include: Tornado Shot with Greater Multiple Projectiles for AoE damage, Puncture with Damage on Full Life Support for single-target damage, and Split Arrow with Chain Support for mob clearing. These combinations provide versatile options for different combat scenarios.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        452
+      ]
+    ]
+  },
+  "HDXzHc": {
+    "translation": "パス・オブ・エグザイル2のボス戦に最も効果的な敏捷スキルには、単体ダメージのためのバラージ、持続的な出血ダメージのためのパンクチャー、および追加の敵との管理のためのトルネードショットが含まれます。これらのスキルは、適切なサポートジェムと組み合わさることで、課題のあるボス戦闘のための強力な選択肢を提供します。",
+    "message": "The most effective dexterity skills for PoE2 boss fights include: Barrage for single-target damage, Puncture for sustained bleeding damage, and Tornado Shot for managing additional enemies. These skills, combined with appropriate support gems, provide strong options for challenging boss encounters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        468
+      ]
+    ]
+  },
+  "YHuztc": {
+    "translation": "ウェブサイトからテキストによって生成された画像の所有権は、その画像を作成した人に帰属します。#0#はユーザーが作成した画像に対して所有権を主張しません。",
+    "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ]
+    ]
+  },
+  "XsJQz+": {
+    "translation": "パス・オブ・エグザイル2のパッシブスキルツリーは、特定の属性や効果を強化するさまざまなノードを通じてスキルジェムを強化します。プレイヤーはパッシブポイントを振り分けて、ダメージの増加、クリティカルストライクの確率の改善、防御能力の強化など、選択したスキルを強化できます。",
+    "message": "The passive skill tree in Path of Exile 2 enhances skill gems through various nodes that boost specific attributes or effects. Players can allocate passive points to strengthen their chosen skills, whether by increasing damage, improving critical strike chances, or enhancing defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        820
+      ]
+    ]
+  },
+  "No7+CH": {
+    "translation": "PoE2スキルプランナーでは、さまざまな移動オプションを提供しています：魔法使い用のフレームダッシュやライトニングワープ、近接キャラクター用のホイリングブレード、一般的な機動性のためのスモークマインなどです。キャラクターの属性やビルド要件に応じて選択してください。",
+    "message": "The PoE2 Skills Planner offers various movement options: Flame Dash or Lightning Warp for spellcasters, Whirling Blades for melee characters, and Smoke Mine for general mobility. Choose based on your character's attributes and build requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        905
+      ]
+    ]
+  },
+  "FLydL7": {
+    "translation": "PoE2スキルプランナーは、アイスバリアの効果時間を延長するサポートジェムを含む防御的組み合わせや、ライフ再生成を強化するためのバイタリティ、エリア効果を持つテンポラルチェインなどの組み合わせを提案します。これらの組み合わせは、課題のあるコンテンツにおける生存能力を向上させるのに役立ちます。",
+    "message": "The PoE2 Skills Planner suggests defensive combinations like Ice Barrier with Increased Duration, Vitality with support gems for enhanced life regeneration, or Temporal Chains with area effect supports. These combinations help improve survivability in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        897
+      ]
+    ]
+  },
+  "24RJBw": {
+    "translation": "京都呪術高等専門学校の校長。五条とは対立することも多いが、呪術の知識と経験で尊敬されている。",
+    "message": "The principal of the Kyoto Jujutsu High School, he often clashes with Gojo but is respected for his knowledge and experience in jujutsu.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        323
+      ]
+    ]
+  },
+  "AU0l03": {
+    "translation": "東京呪術高等専門学校の校長。呪具操りの専門家で、のんびりした性格。",
+    "message": "The principal of the Tokyo Jujutsu High School, he is known for his expertise in creating cursed puppets and has a laid-back attitude.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        318
+      ]
+    ]
+  },
+  "A77eUm": {
+    "translation": "スキルジェムシステムは、パス・オブ・エグザイル2のパッシブスキルツリーとシームレスに統合されており、プレイヤーが選択したスキルジェムの効果を強化するポイントを振り分けることで専門的なビルドを作成できます。",
+    "message": "The Skill Gems system integrates seamlessly with Path of Exile 2's passive skill tree, enabling players to create specialized builds by allocating points that enhance their chosen Skill Gems' effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        630
+      ]
+    ]
+  },
+  "WU9T4o": {
+    "translation": "ストレングススキルシステムは、単体ターゲット用のヘビーストライクやエリアダメージ用のラセレーションなどによって接近戦の柔軟性を提供します。これらのストレングスベースのアビリティは、さまざまな戦闘状況に効果的に適応します。",
+    "message": "The Strength Skills system offers remarkable combat flexibility through skills like Heavy Strike for single targets and Lacerate for area damage. These Strength-based abilities adapt to different combat situations effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        354
+      ]
+    ]
+  },
+  "pDFUtP": {
+    "translation": "ストレングスベースのスキルシステムは、戦争の叫びや強化メカニズムを介して堅牢な防御オプションを提供します。これらの赤いスキルは、高いアーマーとライフプールと自然にシナジー効果を持ち、 significant ダメージを耐えることができるタンクビルドを構築します。",
+    "message": "The Strength-based skill system provides robust defensive options through War Cries and fortification mechanics. These red skills naturally synergize with high armor and life pools, creating durable tanky builds that can withstand significant damage.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        339
+      ]
+    ]
+  },
+  "30GqmK": {
+    "translation": "最強の呪術師。卓越した実力と生徒たちを守る優れた資質を持つ。",
+    "message": "The strongest sorcerer in the series, known for his exceptional skills and protective nature towards his students.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        248
+      ]
+    ]
+  },
+  "GYzcuY": {
+    "translation": "本利用規約は、紛争法の規定を除いて、アメリカ合衆国の法律に準拠して解釈および適用されます。",
+    "message": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        25
+      ]
+    ]
+  },
+  "Xwg1Sn": {
+    "translation": "このページは、個人情報の収集、使用、開示に関する私のポリシーを訪問者に知らせるために使用されています。私のサービスを使用することを選択した場合は、このポリシーに従った情報の収集と使用に同意したことになります。私が収集する個人情報は、サービスの提供と改善に使用されます。このプライバシーポリシーに記載されている場合を除き、お客様の情報を他の者と共有または使用することはありません。このプライバシーポリシーで使用される用語は、当社の利用規約と同じ意味を持ちます。",
+    "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        17
+      ]
+    ]
+  },
+  "S1ia36": {
+    "translation": "このサービスには他のサイトへのリンクが含まれている可能性があります。サードパーティのリンクをクリックすると、それらのサイトに移動します。これらの外部サイトは私が運営しているものではないことにご注意ください。したがって、これらのウェブサイトのプライバシーポリシーを確認することを強くお勧めします。私はこれらのサイトの内容、プライバシーポリシー、実践に対して管理権限も責任も負いません。",
+    "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        36
+      ]
+    ]
+  },
+  "x4f8pZ": {
+    "translation": "ヒント",
+    "message": "Tips",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        16
+      ]
+    ]
+  },
+  "lwBH3z": {
+    "translation": "ダンディのワールドドローのヒント",
+    "message": "Tips Of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        94
+      ]
+    ]
+  },
+  "+yrJEm": {
+    "translation": "当社のサービスの利用状況を分析するのを支援するため;",
+    "message": "To assist us in analyzing how our Service is used;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        30
+      ]
+    ]
+  },
+  "tFiI7E": {
+    "translation": "ダンディのワールドキャラクターを描き始めるには、鉛筆、紙、消しゴムなどの基本的なアート用品だけが必要です。デジタルアートの場合、描画タブレットとProcreateやPhotoshopなどのソフトウェアを推奨しますが、必須ではありません。私たちは伝統的なメディアとデジタルメディアの両方のチュートリアルを提供しています。",
+    "message": "To begin drawing Dandy's World characters, you only need basic art supplies like pencils, paper, and erasers. For digital art, a drawing tablet and software like Procreate or Photoshop are recommended but not required. We provide tutorials for both traditional and digital mediums.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        146
+      ]
+    ]
+  },
+  "sHKGIZ": {
+    "translation": "PoE2スキルプランナーを使用して効果的なビルドを作成するには、相互シナジーのあるアクティブスキルと適切なサポートジェムを組み合わせ、バフや防御のためのユーティリティスキルを統合し、選択したスキルを補完するようにパッシブスキルツリーの選択を行います。キャラクターの主な属性と希望するプレースタイルを考慮して計画してください。",
+    "message": "To create an effective build using the PoE2 Skills Planner, combine synergistic active skills with appropriate support gems, integrate utility skills for buffs and defense, and ensure your passive skill tree choices complement your selected skills. Consider your character's primary attributes and desired playstyle when planning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        885
+      ]
+    ]
+  },
+  "QYfZIH": {
+    "translation": "Android端末で「呪術廻戦 PHANTOM PARADE」をダウンロードするには、Google Play Storeにアクセスし、「呪術廻戦 PHANTOM PARADE」を検索してインストールボタンをタップしてください。端末はAndroid 8.0以降が必要です。",
+    "message": "To download Jujutsu Kaisen Phantom Parade on Android, visit the Google Play Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the install button. Make sure your device runs Android 8.0 or later.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        213
+      ]
+    ]
+  },
+  "2wkkZE": {
+    "translation": "iOS端末で「呪術廻戦 PHANTOM PARADE」をダウンロードするには、App Storeにアクセスし、「呪術廻戦 PHANTOM PARADE」を検索してダウンロードボタンをタップしてください。端末はiOS 12.0以降が必要です。",
+    "message": "To download Jujutsu Kaisen Phantom Parade on iOS, visit the Apple App Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the download button. Ensure your device meets the compatibility requirements (iOS 12.0 or later).",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        209
+      ]
+    ]
+  },
+  "gN00PD": {
+    "translation": "サービスを円滑に提供するため;",
+    "message": "To facilitate our Service;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
+      ]
+    ]
+  },
+  "lzF3W8": {
+    "translation": "ストレングススキルビルドを最適化するには：スケーリングメカニズムを共有する補完的な赤いジェムを選び、関連するパッシブツリーノードに投資し、適切なサポートジェムを使用し、装備が物理ダメージと生存能力を強化することを確認します。ストレングスベースの能力と選択した防御戦略とのシナジーに焦点を当ててください。",
+    "message": "To optimize a Strength Skills build: Choose complementary red gems that share scaling mechanisms, invest in relevant passive tree nodes, use appropriate support gems, and ensure your gear enhances physical damage and survivability. Focus on synergies between Strength-based abilities and your chosen defensive strategy.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        405
+      ]
+    ]
+  },
+  "lNAN+A": {
+    "translation": "エンドゲームコンテンツのためのインテリジェンススキルを最適化するには、プレイヤーは補完的なスキルと適切なサポートジェムを組み合わせることに焦点を当てるべきです。たとえば、火球をスペルエコーと組み合わせてダメージ出力を増加させ、防御用のアイスバリアを使用し、群衆を制御するためにテンポラルチェインを組み込むなどです。",
+    "message": "To optimize Intelligence skills for endgame content, players should focus on combining complementary skills with appropriate support gems. For example, pairing Fireball with Spell Echo for increased damage output, using defensive skills like Ice Barrier for survival, and incorporating utility skills like Temporal Chains for crowd control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        522
+      ]
+    ]
+  },
+  "TIkU8p": {
+    "translation": "サービス関連のサービスを実行するため;",
+    "message": "To perform Service-related services;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        29
+      ]
+    ]
+  },
+  "jiYr9i": {
+    "translation": "当社に代わってサービスを提供するため;",
+    "message": "To provide the Service on our behalf;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        28
+      ]
+    ]
+  },
+  "8sKmE2": {
+    "translation": "魔法使い向けのトップブルースキルジェムには、エリアダメージ用の火球、連鎖雷撃効果のためのアーク、群衆制御のためのフロストボルトが含まれます。これらのインテリジェンスベースのジェムは、PoE2のスぺルキャスティングビルドに不可欠な強力な魔法能力を提供します。",
+    "message": "Top Blue Skill Gems for spellcasters include Fireball for area damage, Arc for chain lightning effects, and Frostbolt for crowd control. These Intelligence-based gems provide powerful magical abilities essential for spellcasting builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        593
+      ]
+    ]
+  },
+  "ZhoEAz": {
+    "translation": "ダンディのワールドキャラクターの基本形状を理解する",
+    "message": "Understanding Basic Shapes in Dandy's World Characters",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        45
+      ]
+    ]
+  },
+  "g44YLV": {
+    "translation": "ユニークなキャラクターデザイン",
+    "message": "Unique Character Designs",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        98
+      ]
+    ]
+  },
+  "ONWvwQ": {
+    "translation": "アップロード",
+    "message": "Upload",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/button.tsx",
+        44
+      ]
+    ]
+  },
+  "/eguJc": {
+    "translation": "アップロード中",
+    "message": "Uploading",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/picture.tsx",
+        59
+      ]
+    ]
+  },
+  "Tctkpv": {
+    "translation": "パス・オブ・エグザイル2スキルプランナーを使用して、アークや火球をクリティカルストライクサポートジェムと組み合わせます。魔法使いの場合、敵の抵抗を減少させる波の信念のようなスキルを使用し、クリティカルヒットの確率を高めるサポートジェムのようなスキルを統合します。",
+    "message": "Using the Path of Exile 2 Skills Planner, combine skills like Arc or Fireball with Critical Strike support gems. For spellcasters, skills like Wave of Conviction can lower enemy resistances, while support gems like Increased Critical Strikes enhance your critical hit chances.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        901
+      ]
+    ]
+  },
+  "2t3ERA": {
+    "translation": "PoE2スキルプランナーを使用して、グループプレイを最適化するために、グレースやバイタリティのオーラ、ラリーングクライのようなサポートスキル、フロストシールドのような防御能力を組み合わせることができます。これらの組み合わせは、グループの生存能力とダメージ出力を向上させます。",
+    "message": "Using the PoE2 Skills Planner, you can optimize team play by combining auras like Grace or Vitality, support skills like Rallying Cry, and defensive abilities like Frost Shield. These combinations enhance group survivability and damage output.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        909
+      ]
+    ]
+  },
+  "qNd2+R": {
+    "translation": "多様なアートスタイル",
+    "message": "Versatile Art Styles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        108
+      ]
+    ]
+  },
+  "YAdzdY": {
+    "translation": "多目的なスペルキャスティング",
+    "message": "Versatile Spellcasting",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        482
+      ]
+    ]
+  },
+  "fwjhig": {
+    "translation": "多目的なサポートジェムシステム",
+    "message": "Versatile Support Gem System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        685
+      ]
+    ]
+  },
+  "yhZMgW": {
+    "translation": "私たちはサービス向上のために、個人データ（名前、メールアドレス、支払い情報）と非個人データ（ウェブクッキー）を収集します。このデータの使用は、私たちのプライバシーポリシーに従って管理され、#0#で確認できます。",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ]
+    ]
+  },
+  "X+XmuC": {
+    "translation": "#0#にようこそ! 当社のウェブサイト(#1#)は、お客様がカスタムイメージを作成できるように提供しています。当社のウェブサイトにアクセスまたは利用することで、お客様はこの利用規約に拘束されることに同意したものとみなされます。利用規約のいずれかの部分に同意できない場合は、ウェブサイトの使用を禁止されます。",
+    "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        17
+      ]
+    ]
+  },
+  "PwAQEK": {
+    "translation": "ダンディの世界のドローイングへようこそ。ここでは、芸術的な想像力と構造化された学習が活気に満ちたクリエイティブコミュニティで出会います。2023年の設立以来、ダンディの世界は、アスパイアリングアーティストや経験豊富なイラストレーターにとって、キャラクターイラストに特化した包括的なチュートリアルとリソースを提供するプレミアな目的地となっています。当プラットフォームは、ダンディの世界のキャラクターの魅力とプロフェッショナルなアート指導をユニークに組み合わせており、学習プロセスを楽しく効果的にしています。慎重に作成されたステップバイステップのガイドを通じて、アーティストは描画技術を習得しながら、ダンディの世界の素晴らしい宇宙を探求できます。ロジャーの遊び心満載の表情をスケッチする場合や、シェリーのダイナミックなポーズを捉える場合でも、当コミュニティ主導のプラットフォームは、芸術的な成長に最適な環境を提供します。週ごとの挑戦、ライブドローイングセッション、仲間のアーティストからのサポートネットワークを通じて、ダンディの世界のドローイングはキャラクターイラストの学習を魅力的な冒険に変えます。すでにダンディの世界のキャラクターを自分のアートワークで生き生きと表現する喜びを見つけた何千人ものアーティストに参加し、芸術的卓越性と創造的表現に専念する成長するコミュニティの一部になりましょう。",
+    "message": "Welcome to Dandy's World Draw, where artistic imagination meets structured learning in a vibrant creative community. Since our establishment in 2023, Dandy's World has become a premier destination for aspiring artists and seasoned illustrators alike, offering comprehensive tutorials and resources focused on character illustration. Our platform uniquely combines the charm of Dandy's World characters with professional art instruction, making the learning process both enjoyable and effective. Through our carefully crafted step-by-step guides, artists can master drawing techniques while exploring the delightful universe of Dandy's World. Whether you're sketching Rodger's playful expressions or capturing Shelly's dynamic poses, our community-driven platform provides the perfect environment for artistic growth. With weekly challenges, live drawing sessions, and a supportive network of fellow artists, Dandy's World Draw transforms the journey of learning character illustration into an engaging adventure. Join thousands of artists who have already discovered the joy of bringing Dandy's World characters to life through their artwork, and become part of a growing community dedicated to artistic excellence and creative expression.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        27
+      ]
+    ]
+  },
+  "4mHXk2": {
+    "translation": "ダンディの世界のドローイングチュートリアルへようこそ！開始する前に、必要なツールを揃えましょう：鉛筆（HB、2B）、消しゴム、質の高い紙、そして色付け素材。デジタルアーティストの場合は、ドローイングタブレットとProcreateやPhotoshopなどのソフトウェアを準備しておいてください。",
+    "message": "Welcome to Dandy's World drawing tutorials! Before starting, gather essential tools: pencils (HB, 2B), erasers, quality paper, and coloring materials. For digital artists, ensure you have a drawing tablet and software like Procreate or Photoshop ready.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        39
+      ]
+    ]
+  },
+  "+g53YR": {
+    "translation": "パス・オブ・エグザイル2におけるインテリジェンススキルとは何ですか？",
+    "message": "What are Intelligence Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        505
+      ]
+    ]
+  },
+  "SgcLUN": {
+    "translation": "パス・オブ・エグザイル2のメタジェムとは何ですか？",
+    "message": "What are meta gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        815
+      ]
+    ]
+  },
+  "iIb9EN": {
+    "translation": "パス・オブ・エグザイル2のメタジェムとは何ですか？",
+    "message": "What are Meta Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        663
+      ]
+    ]
+  },
+  "yUQN2E": {
+    "translation": "POE2のメタジェムとは何ですか？",
+    "message": "What are Meta Gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        604
+      ]
+    ]
+  },
+  "vodn3f": {
+    "translation": "パス・オブ・エグザイル2のサポートジェムとは何ですか？",
+    "message": "What are Support Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        718
+      ]
+    ]
+  },
+  "8yXSHr": {
+    "translation": "異なる色のスキルジェムを組み合わせる利点は何ですか？",
+    "message": "What are the benefits of combining different colored Skill Gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        671
+      ]
+    ]
+  },
+  "JUd0hO": {
+    "translation": "パス・オブ・エグザイル2の最良の防御スキルの組み合わせとは何ですか？",
+    "message": "What are the best defensive skill combinations in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        896
+      ]
+    ]
+  },
+  "c6yy8+": {
+    "translation": "POE2での最高の防御スキルは何ですか？",
+    "message": "What are the best defensive skills in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        823
+      ]
+    ]
+  },
+  "paFODa": {
+    "translation": "パス・オブ・エグザイル2の初心者向けの最良の敏捷スキルは何ですか？",
+    "message": "What are the best Dexterity skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        459
+      ]
+    ]
+  },
+  "Ttp4+Y": {
+    "translation": "パス・オブ・エグザイル2のボス戦における最良の敏捷スキルは何ですか？",
+    "message": "What are the best Dexterity skills for boss fights in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        467
+      ]
+    ]
+  },
+  "koymT5": {
+    "translation": "パス・オブ・エグザイル2の初心者向けの最良のインテリジェンススキルは何ですか？",
+    "message": "What are the best Intelligence skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        517
+      ]
+    ]
+  },
+  "CvL4R+": {
+    "translation": "さまざまなキャラクタータイプに対する最良の移動スキルは何ですか？",
+    "message": "What are the best movement skills for different character types?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        904
+      ]
+    ]
+  },
+  "lfZF2Z": {
+    "translation": "初心者向けの最良のレッドスキルジェムは何ですか？",
+    "message": "What are the best Red Skill Gems for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        584
+      ]
+    ]
+  },
+  "ocN0f+": {
+    "translation": "パス・オブ・エグザイル2の初心者向けの最良のスキルの組み合わせは何ですか？",
+    "message": "What are the best skill combinations for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        888
+      ]
+    ]
+  },
+  "QkJbEe": {
+    "translation": "POE2の初心者向けの最良のスキルの組み合わせは何ですか？",
+    "message": "What are the best skill combinations for beginners in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        807
+      ]
+    ]
+  },
+  "Soewil": {
+    "translation": "パス・オブ・エグザイル2の初心者向けの最良のスキルジェムは何ですか？",
+    "message": "What are the best Skill Gems for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        655
+      ]
+    ]
+  },
+  "Q6oJnt": {
+    "translation": "パス・オブ・エグザイル2の初心者向けの最良のストレングススキルは何ですか？",
+    "message": "What are the best Strength Skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        384
+      ]
+    ]
+  },
+  "4NP9YF": {
+    "translation": "パス・オブ・エグザイル2のボス戦における最良のストレングススキルは何ですか？",
+    "message": "What are the best Strength Skills for boss fights in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        400
+      ]
+    ]
+  },
+  "NFMUoc": {
+    "translation": "初心者向けの最良のサポートジェムの組み合わせは何ですか？",
+    "message": "What are the best Support Gems combinations for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        726
+      ]
+    ]
+  },
+  "QOft4q": {
+    "translation": "パス・オブ・エグザイル2におけるインテリジェンススキルの重要なポイントとは何ですか？",
+    "message": "What are the key defensive Intelligence skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        525
+      ]
+    ]
+  },
+  "nof9TG": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」の主な特徴は何ですか?",
+    "message": "What are the key features of Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        196
+      ]
+    ]
+  },
+  "XGVhle": {
+    "translation": "パス・オブ・エグザイル2におけるストレングススキルのための重要なサポートジェムとは何ですか？",
+    "message": "What are the key support gems for Strength Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        392
+      ]
+    ]
+  },
+  "ZYPue3": {
+    "translation": "パス・オブ・エグザイル2における敏捷スキルの主要な特徴とは何ですか？",
+    "message": "What are the main characteristics of Dexterity Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        447
+      ]
+    ]
+  },
+  "/mEwQk": {
+    "translation": "パス・オブ・エグザイル2におけるストレングススキルの主な特性は何ですか？",
+    "message": "What are the main characteristics of Strength Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        376
+      ]
+    ]
+  },
+  "JxO5Zc": {
+    "translation": "パス・オブ・エグザイル2で利用できるインテリジェンススキルの主な種類は何ですか？",
+    "message": "What are the main types of Intelligence skills available in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        509
+      ]
+    ]
+  },
+  "d4owts": {
+    "translation": "パス・オブ・エグザイル2におけるスキルジェムの主な種類は何ですか？",
+    "message": "What are the main types of skill gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        799
+      ],
+      [
+        "config/site.ts",
+        880
+      ]
+    ]
+  },
+  "YE3fcf": {
+    "translation": "パス・オブ・エグザイル2におけるスキルジェムの主な種類は何ですか？",
+    "message": "What are the main types of Skill Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        576
+      ],
+      [
+        "config/site.ts",
+        647
+      ]
+    ]
+  },
+  "1hode8": {
+    "translation": "呪文使いにとって最も強力な青いスキルジェムはどれですか？",
+    "message": "What are the most powerful Blue Skill Gems for spellcasters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        592
+      ]
+    ]
+  },
+  "AJVe8z": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」の動作環境は?",
+    "message": "What are the system requirements for Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        192
+      ]
+    ]
+  },
+  "45Tqbt": {
+    "translation": "ダンディの世界のドローイングとは何か、そしてそれは誰のためですか？",
+    "message": "What is Dandy's World Draw and who is it for?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        141
+      ]
+    ]
+  },
+  "K3QPzq": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」とは何か、どこからダウンロードできますか?",
+    "message": "What is Jujutsu Kaisen Phantom Parade and where can I download it?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        184
+      ]
+    ]
+  },
+  "4WuGIw": {
+    "translation": "グループコンテンツにおけるインテリジェンススキルの役割は何ですか？",
+    "message": "What role do Intelligence skills play in group content?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        533
+      ]
+    ]
+  },
+  "EmMzNd": {
+    "translation": "グループプレイにおけるサポートジェムの役割は何ですか？",
+    "message": "What role do Support Gems play in group gameplay?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        742
+      ]
+    ]
+  },
+  "OWhEDw": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」を遊ぶ際に言語の壁に直面した場合はどうすればよいですか?",
+    "message": "What should I do if I encounter a language barrier while playing Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        216
+      ]
+    ]
+  },
+  "ynLL9q": {
+    "translation": "「呪術廻戦 PHANTOM PARADE」はいつ正式にリリースされましたか?",
+    "message": "When was Jujutsu Kaisen Phantom Parade officially released?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        188
+      ]
+    ]
+  },
+  "CQWnGL": {
+    "translation": "パス・オブ・エグザイル2で最も人気のあるデクスタリティスキルの組み合わせはどれですか？",
+    "message": "Which are the most popular Dexterity skill combinations in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        451
+      ]
+    ]
+  },
+  "IDXfv8": {
+    "translation": "遠距離攻撃に最も効果的なグリーンスキルジェムはどれですか？",
+    "message": "Which Green Skill Gems are most effective for ranged combat?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        588
+      ]
+    ]
+  },
+  "Y7S/iq": {
+    "translation": "ダンディの世界のキャラクターは著作権で保護されていますが、ファンアートの制作に関するガイドラインを提供しています。個人的および教育目的の使用は奨励されていますが、商業利用には適切なライセンスが必要です。商業に関するお問い合わせは、ライセンスチームにご連絡ください。",
+    "message": "While Dandy's World characters are protected by copyright, we offer guidelines for fan art creation. Personal and educational use is encouraged, but commercial use requires proper licensing. Contact our licensing team for commercial inquiries.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        170
+      ]
+    ]
+  },
+  "nrsbsF": {
+    "translation": "ダンディの世界は、コアキャラクター要素を維持しながら芸術的解釈を奨励しています。お気に入りのキャラクターを描く際に、さまざまなポーズや表情、シナリオを試してみてください。",
+    "message": "While maintaining core character elements, Dandy's World encourages artistic interpretation. Experiment with different poses, expressions, and scenarios while drawing your favorite characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        124
+      ]
+    ]
+  },
+  "ekD2sN": {
+    "translation": "はい、ダンディの世界のチュートリアルは初級、中級、上級のレベルに分類されています。それぞれのレベルは前のスキルを基に構築されており、基本的なキャラクタースケッチから、適切な陰影、色付け、ダイナミックなポーズを持つ複雑なイラストへと進む手助けをします。",
+    "message": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        158
+      ]
+    ]
+  },
+  "L63PDE": {
+    "translation": "はい、「呪術廻戦 PHANTOM PARADE」にはオリジナルアニメキャストによるフルボイス出演が含まれており、没入型のストーリーテリングを実現しています。",
+    "message": "Yes, Jujutsu Kaisen Phantom Parade features full voice acting from the original anime cast, enhancing the immersive storytelling experience.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        221
+      ]
+    ]
+  },
+  "038m1W": {
+    "translation": "はい、「呪術廻戦 PHANTOM PARADE」は基本無料でプレイできます。ただし、キャラクターのアップグレードや特別アイテムの購入など、アイテム課金が用意されています。",
+    "message": "Yes, Jujutsu Kaisen Phantom Parade is free to play. However, it includes in-app purchases for character upgrades, special items, and other enhancements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        201
+      ]
+    ]
+  },
+  "V4swDT": {
+    "translation": "はい、パス・オブ・エグザイル2のジェムシステムでは、プレイヤーが異なるタイプのスキルジェムとサポートジェムを組み合わせてユニークなビルドを作成することができます。たとえば、キャラクターが各ジェムの属性要件を満たしている限り、赤、緑、青のジェムを混ぜることができます。",
+    "message": "Yes, Path of Exile 2's gem system allows players to combine different types of Skill Gems and Support Gems for unique builds. For example, you can mix Red, Green, and Blue gems as long as your character meets the attribute requirements for each gem.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        601
+      ]
+    ]
+  },
+  "3/hGXf": {
+    "translation": "はい！私たちはコミュニティ内でダンディの世界のアートワークを共有することを奨励しています。あなたの描画を当プラットフォームに投稿し、他のアーティストからフィードバックを受け、週ごとの挑戦に参加できます。ただし、コミュニティガイドラインに従い、ダンディの世界に適切にクレジットを付けることを忘れないでください。",
+    "message": "Yes! We encourage sharing your Dandy's World artwork within our community. You can post your drawings on our platform, receive feedback from other artists, and participate in weekly challenges. Just remember to follow our community guidelines and credit Dandy's World appropriately.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        154
+      ]
+    ]
+  },
+  "DattYp": {
+    "translation": "はい！私たちは定期的にダンディの世界のドローイングチャレンジ、月次コンテスト、特別イベントを開催しています。これには月間キャラクターチャレンジ、季節に応じたテーマコンテスト、コミュニティアートジャムが含まれます。受賞者はしばしば認識や特別なフィーチャーを当プラットフォームで受け取ります。",
+    "message": "Yes! We host regular Dandy's World drawing challenges, monthly contests, and special events. These include character-of-the-month challenges, seasonal themed contests, and community art jams. Winners often receive recognition and special features on our platform.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        174
+      ]
+    ]
+  },
+  "oTbbJ/": {
+    "translation": "ウェブサイトとそのサービスを個人的な非商用目的で使用する制限付き、非独占的、譲渡不能のライセンスが付与されます。このライセンスには、ウェブサイトのコンテンツをコピー、変更、配布したり、商業目的で使用したりする権利は含まれません。これらの行為には、当社の事前の書面による同意が必要です。",
+    "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        19
+      ]
+    ]
+  }
+}

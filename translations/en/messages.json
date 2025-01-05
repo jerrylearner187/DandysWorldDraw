@@ -1,0 +1,4501 @@
+{
+  "32fNxX": {
+    "translation": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
+  "qVv47w": {
+    "translation": "1. Information Collection and Use",
+    "message": "1. Information Collection and Use",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        18
+      ]
+    ]
+  },
+  "dnEZiE": {
+    "translation": "1. Use License",
+    "message": "1. Use License",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        18
+      ]
+    ]
+  },
+  "RUEwir": {
+    "translation": "2. Log Data",
+    "message": "2. Log Data",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        20
+      ]
+    ]
+  },
+  "AV4xaK": {
+    "translation": "2. Ownership",
+    "message": "2. Ownership",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        20
+      ]
+    ]
+  },
+  "hczIS1": {
+    "translation": "3. Cookies",
+    "message": "3. Cookies",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        22
+      ]
+    ]
+  },
+  "69EiaO": {
+    "translation": "3. User Data Collection",
+    "message": "3. User Data Collection",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        22
+      ]
+    ]
+  },
+  "pik+Gj": {
+    "translation": "4. Governing Law",
+    "message": "4. Governing Law",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        24
+      ]
+    ]
+  },
+  "gSmscK": {
+    "translation": "4. Service Providers",
+    "message": "4. Service Providers",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        24
+      ]
+    ]
+  },
+  "HT0gtE": {
+    "translation": "5. Changes to Terms",
+    "message": "5. Changes to Terms",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        26
+      ]
+    ]
+  },
+  "0jvfq0": {
+    "translation": "5. Security",
+    "message": "5. Security",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        33
+      ]
+    ]
+  },
+  "UA5K4X": {
+    "translation": "6. Contact Information",
+    "message": "6. Contact Information",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        28
+      ]
+    ]
+  },
+  "c72RA6": {
+    "translation": "6. Links to Other Sites",
+    "message": "6. Links to Other Sites",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        35
+      ]
+    ]
+  },
+  "FhdZtA": {
+    "translation": "7. Changes to This Privacy Policy",
+    "message": "7. Changes to This Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        37
+      ]
+    ]
+  },
+  "h++ayx": {
+    "translation": "A confident and capable sorcerer, she is known for her strong personality and combat skills.",
+    "message": "A confident and capable sorcerer, she is known for her strong personality and combat skills.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        298
+      ]
+    ]
+  },
+  "IzYS7Z": {
+    "translation": "A confident and fierce Jujutsu Sorcerer who uses cursed tools in battle.",
+    "message": "A confident and fierce Jujutsu Sorcerer who uses cursed tools in battle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        238
+      ]
+    ]
+  },
+  "9U3l20": {
+    "translation": "A dedicated sorcerer who is earnest in her duties, she often finds herself in challenging situations but strives to prove herself.",
+    "message": "A dedicated sorcerer who is earnest in her duties, she often finds herself in challenging situations but strives to prove herself.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        288
+      ]
+    ]
+  },
+  "/mWTuu": {
+    "translation": "A first-year student at the Fukuoka campus of Tokyo Jujutsu High, known for her unique combat style.",
+    "message": "A first-year student at the Fukuoka campus of Tokyo Jujutsu High, known for her unique combat style.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        253
+      ]
+    ]
+  },
+  "OKBeaG": {
+    "translation": "A first-year student at Tokyo Jujutsu High who becomes the vessel for Ryomen Sukuna after ingesting one of his fingers.",
+    "message": "A first-year student at Tokyo Jujutsu High who becomes the vessel for Ryomen Sukuna after ingesting one of his fingers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        228
+      ]
+    ]
+  },
+  "RdVUza": {
+    "translation": "A former salaryman turned sorcerer, Nanami is pragmatic and highly skilled, using his \"Ratio Technique\" to deal significant damage in battles.",
+    "message": "A former salaryman turned sorcerer, Nanami is pragmatic and highly skilled, using his \"Ratio Technique\" to deal significant damage in battles.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        293
+      ]
+    ]
+  },
+  "pdCaP+": {
+    "translation": "A member of the Kamo family, he possesses a unique cursed technique that allows him to manipulate blood.",
+    "message": "A member of the Kamo family, he possesses a unique cursed technique that allows him to manipulate blood.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        283
+      ]
+    ]
+  },
+  "bq9uHR": {
+    "translation": "A powerful mechanical entity that combines technology with cursed energy, offering unique strategies in battle.",
+    "message": "A powerful mechanical entity that combines technology with cursed energy, offering unique strategies in battle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        313
+      ]
+    ]
+  },
+  "O+2B9p": {
+    "translation": "A powerful sorcerer from the Zenin family, she excels in physical combat and cursed techniques.",
+    "message": "A powerful sorcerer from the Zenin family, she excels in physical combat and cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        243
+      ]
+    ]
+  },
+  "4TFm7i": {
+    "translation": "A reliable aide to Satoru Gojo, known for his supportive role in the Jujutsu community and his strategic thinking.",
+    "message": "A reliable aide to Satoru Gojo, known for his supportive role in the Jujutsu community and his strategic thinking.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        273
+      ]
+    ]
+  },
+  "fV22B7": {
+    "translation": "A skilled doctor and sorcerer who specializes in reverse curse techniques, allowing her to heal others.",
+    "message": "A skilled doctor and sorcerer who specializes in reverse curse techniques, allowing her to heal others.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        268
+      ]
+    ]
+  },
+  "aalQ7o": {
+    "translation": "A talented Grade 2 Jujutsu Sorcerer known for his unique shadow techniques.",
+    "message": "A talented Grade 2 Jujutsu Sorcerer known for his unique shadow techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        233
+      ]
+    ]
+  },
+  "T+EgFA": {
+    "translation": "A unique aspect of Intelligence skills is the ability to summon and control minions. Skills like Summon Skeletons provide additional combat support while creating defensive distractions, making Intelligence builds particularly effective at managing battlefield control.",
+    "message": "A unique aspect of Intelligence skills is the ability to summon and control minions. Skills like Summon Skeletons provide additional combat support while creating defensive distractions, making Intelligence builds particularly effective at managing battlefield control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        488
+      ]
+    ]
+  },
+  "0R/rnX": {
+    "translation": "A unique character created through cursed techniques, Panda has a playful demeanor but is a formidable fighter with multiple forms.",
+    "message": "A unique character created through cursed techniques, Panda has a playful demeanor but is a formidable fighter with multiple forms.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        303
+      ]
+    ]
+  },
+  "uyJsf6": {
+    "translation": "About",
+    "message": "About",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        25
+      ]
+    ]
+  },
+  "isTHa0": {
+    "translation": "Absolutely! The Dandy's World community offers multiple support options: detailed step-by-step guides, video tutorials, community forums, and feedback from experienced artists. You can also join our weekly live drawing sessions for real-time guidance.",
+    "message": "Absolutely! The Dandy's World community offers multiple support options: detailed step-by-step guides, video tutorials, community forums, and feedback from experienced artists. You can also join our weekly live drawing sessions for real-time guidance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        166
+      ]
+    ]
+  },
+  "UEU44n": {
+    "translation": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
+    "message": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        119
+      ]
+    ]
+  },
+  "9hvc9M": {
+    "translation": "Access comprehensive guides for new players in Path of Exile 2. Our planner includes recommended skill combinations, leveling strategies, and build suggestions to help beginners succeed.",
+    "message": "Access comprehensive guides for new players in Path of Exile 2. Our planner includes recommended skill combinations, leveling strategies, and build suggestions to help beginners succeed.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        863
+      ]
+    ]
+  },
+  "Xs7qNN": {
+    "translation": "Active Community",
+    "message": "Active Community",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        113
+      ]
+    ]
+  },
+  "Jf2Ljl": {
+    "translation": "Adding Details and Expressions",
+    "message": "Adding Details and Expressions",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        73
+      ]
+    ]
+  },
+  "cUSavi": {
+    "translation": "An original Special Grade Cursed Spirit introduced in the game, with a unique ability to nullify other cursed techniques.",
+    "message": "An original Special Grade Cursed Spirit introduced in the game, with a unique ability to nullify other cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        263
+      ]
+    ]
+  },
+  "fYJg3B": {
+    "translation": "Analyze defensive capabilities with our PoE2 Skills Planner. Calculate effective health pools, evaluate defensive skill combinations, and plan your character's survivability using various skill gem setups.",
+    "message": "Analyze defensive capabilities with our PoE2 Skills Planner. Calculate effective health pools, evaluate defensive skill combinations, and plan your character's survivability using various skill gem setups.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        848
+      ]
+    ]
+  },
+  "qHLB5X": {
+    "translation": "Another first-year from the Fukuoka campus, he possesses barrier-related cursed techniques.",
+    "message": "Another first-year from the Fukuoka campus, he possesses barrier-related cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        258
+      ]
+    ]
+  },
+  "JrsO8P": {
+    "translation": "Apply colors using the official Dandy's World color palette. Start with base colors, then add shading and highlights. Remember that each character has their unique color scheme - like Rodger's gray tuxedo and purple-blue band.",
+    "message": "Apply colors using the official Dandy's World color palette. Start with base colors, then add shading and highlights. Remember that each character has their unique color scheme - like Rodger's gray tuxedo and purple-blue band.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        67
+      ]
+    ]
+  },
+  "NiSGP0": {
+    "translation": "Are there any drawing challenges or events in Dandy's World?",
+    "message": "Are there any drawing challenges or events in Dandy's World?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        173
+      ]
+    ]
+  },
+  "4+KTpU": {
+    "translation": "Are there different difficulty levels in Dandy's World tutorials?",
+    "message": "Are there different difficulty levels in Dandy's World tutorials?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        157
+      ]
+    ]
+  },
+  "O05cq/": {
+    "translation": "Area Control",
+    "message": "Area Control",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        343
+      ]
+    ]
+  },
+  "sPu965": {
+    "translation": "Attack Speed & Critical Strikes",
+    "message": "Attack Speed & Critical Strikes",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        852
+      ]
+    ]
+  },
+  "w7JxcK": {
+    "translation": "Attack Speed Enhancement",
+    "message": "Attack Speed Enhancement",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        419
+      ]
+    ]
+  },
+  "PNdsa0": {
+    "translation": "Attribute Requirements",
+    "message": "Attribute Requirements",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        705
+      ]
+    ]
+  },
+  "4i/H8S": {
+    "translation": "Available Skills",
+    "message": "Available Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        154
+      ]
+    ]
+  },
+  "0BQ0oZ": {
+    "translation": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
+    "message": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        46
+      ]
+    ]
+  },
+  "vyTf0S": {
+    "translation": "Beginner-Friendly Guides",
+    "message": "Beginner-Friendly Guides",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        862
+      ]
+    ]
+  },
+  "ExFMj8": {
+    "translation": "Blogs",
+    "message": "Blogs",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        13
+      ]
+    ]
+  },
+  "0y1Z1Z": {
+    "translation": "Blue Gems (Intelligence)",
+    "message": "Blue Gems (Intelligence)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        563
+      ]
+    ]
+  },
+  "hBkuTE": {
+    "translation": "Blue Skill Gems (Intelligence)",
+    "message": "Blue Skill Gems (Intelligence)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        766
+      ]
+    ]
+  },
+  "ScaRFk": {
+    "translation": "Blue Skill Gems specialize in spellcasting and elemental damage. Features powerful spells like Fireball, Frostbolt, and Arc, perfect for mage builds in Path of Exile 2. Also includes minion summoning and utility spells.",
+    "message": "Blue Skill Gems specialize in spellcasting and elemental damage. Features powerful spells like Fireball, Frostbolt, and Arc, perfect for mage builds in Path of Exile 2. Also includes minion summoning and utility spells.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        564
+      ]
+    ]
+  },
+  "FPAKH+": {
+    "translation": "Build Optimization",
+    "message": "Build Optimization",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        842
+      ]
+    ]
+  },
+  "p536Zb": {
+    "translation": "Build Versatility",
+    "message": "Build Versatility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        634
+      ]
+    ]
+  },
+  "yZ2PlW": {
+    "translation": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "message": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        30
+      ]
+    ]
+  },
+  "6j7vqA": {
+    "translation": "Can different types of Skill Gems be combined in Path of Exile 2?",
+    "message": "Can different types of Skill Gems be combined in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        600
+      ]
+    ]
+  },
+  "to68Nn": {
+    "translation": "Can I share my Dandy's World artwork online?",
+    "message": "Can I share my Dandy's World artwork online?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        153
+      ]
+    ]
+  },
+  "i4CL2W": {
+    "translation": "Can I use Dandy's World drawings for commercial purposes?",
+    "message": "Can I use Dandy's World drawings for commercial purposes?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        169
+      ]
+    ]
+  },
+  "i/HCFv": {
+    "translation": "Can Support Gems be used with any skill gem?",
+    "message": "Can Support Gems be used with any skill gem?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        734
+      ]
+    ]
+  },
+  "yz7wBu": {
+    "translation": "Close",
+    "message": "Close",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        56
+      ]
+    ]
+  },
+  "FN4Har": {
+    "translation": "Coloring Your Dandy's World Character",
+    "message": "Coloring Your Dandy's World Character",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        66
+      ]
+    ]
+  },
+  "CfQHuH": {
+    "translation": "Combat Mechanics",
+    "message": "Combat Mechanics",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        619
+      ],
+      [
+        "config/site.ts",
+        781
+      ]
+    ]
+  },
+  "atHs5t": {
+    "translation": "Combat Versatility",
+    "message": "Combat Versatility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        353
+      ]
+    ]
+  },
+  "8YivsP": {
+    "translation": "Combining different colored Skill Gems in Path of Exile 2 allows for versatile character builds. For example, mixing Green and Blue Skill Gems can create hybrid builds that utilize both ranged attacks and spells, while combining Red and Green gems can result in powerful melee builds with enhanced mobility and defensive capabilities.",
+    "message": "Combining different colored Skill Gems in Path of Exile 2 allows for versatile character builds. For example, mixing Green and Blue Skill Gems can create hybrid builds that utilize both ranged attacks and spells, while combining Red and Green gems can result in powerful melee builds with enhanced mobility and defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        672
+      ]
+    ]
+  },
+  "b+LYK6": {
+    "translation": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
+    "message": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        81
+      ]
+    ]
+  },
+  "jus2sV": {
+    "translation": "Comprehensive Resources",
+    "message": "Comprehensive Resources",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        118
+      ]
+    ]
+  },
+  "PuvTyx": {
+    "translation": "Comprehensive Skill System",
+    "message": "Comprehensive Skill System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        837
+      ]
+    ]
+  },
+  "akF51D": {
+    "translation": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        23
+      ]
+    ]
+  },
+  "/VjFmG": {
+    "translation": "COST MULTIPLIER:",
+    "message": "COST MULTIPLIER:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        91
+      ]
+    ]
+  },
+  "/36SYM": {
+    "translation": "COST:",
+    "message": "COST:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        87
+      ]
+    ]
+  },
+  "88ZhIO": {
+    "translation": "Create and modify builds easily with our Path of Exile 2 Skills Planner. Experiment with different skill combinations, support gems, and character classes to find your perfect playstyle.",
+    "message": "Create and modify builds easily with our Path of Exile 2 Skills Planner. Experiment with different skill combinations, support gems, and character classes to find your perfect playstyle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        873
+      ]
+    ]
+  },
+  "0Igqrf": {
+    "translation": "Creating Clean Line Art",
+    "message": "Creating Clean Line Art",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        59
+      ]
+    ]
+  },
+  "dPg4Dg": {
+    "translation": "Creative Freedom",
+    "message": "Creative Freedom",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        123
+      ]
+    ]
+  },
+  "7TpNih": {
+    "translation": "Critical Strike Potential",
+    "message": "Critical Strike Potential",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        434
+      ],
+      [
+        "config/site.ts",
+        497
+      ]
+    ]
+  },
+  "i3FKK/": {
+    "translation": "Currently, Jujutsu Kaisen Phantom Parade is primarily available in Japanese. Players outside Japan may need to use a VPN to access the game.",
+    "message": "Currently, Jujutsu Kaisen Phantom Parade is primarily available in Japanese. Players outside Japan may need to use a VPN to access the game.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        205
+      ]
+    ]
+  },
+  "QM/9nh": {
+    "translation": "DAMAGE:",
+    "message": "DAMAGE:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        108
+      ]
+    ]
+  },
+  "6Mk9Tp": {
+    "translation": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
+    "message": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        109
+      ]
+    ]
+  },
+  "Qh5TG7": {
+    "translation": "Dandy's World Character Drawing Tutorials & Resources",
+    "message": "Dandy's World Character Drawing Tutorials & Resources",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        21
+      ]
+    ]
+  },
+  "5h7rjv": {
+    "translation": "Dandy's World Draw is a comprehensive drawing platform designed for both beginners and experienced artists who want to learn how to draw Dandy's World characters. It offers step-by-step tutorials, resources, and community support for anyone interested in mastering character illustration.",
+    "message": "Dandy's World Draw is a comprehensive drawing platform designed for both beginners and experienced artists who want to learn how to draw Dandy's World characters. It offers step-by-step tutorials, resources, and community support for anyone interested in mastering character illustration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        142
+      ]
+    ]
+  },
+  "Yy0qpp": {
+    "translation": "Dandy's World features distinctive character designs that are easy to draw. Each character, from Rodger to Shelly, has clear shapes and memorable features that make them perfect for both beginners and advanced artists.",
+    "message": "Dandy's World features distinctive character designs that are easy to draw. Each character, from Rodger to Shelly, has clear shapes and memorable features that make them perfect for both beginners and advanced artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        99
+      ]
+    ]
+  },
+  "cfyIgr": {
+    "translation": "Dandys World Draw",
+    "message": "Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        5
+      ]
+    ]
+  },
+  "oAnTvN": {
+    "translation": "Deep skill development system through gem leveling and quality improvements. Skills become more powerful as you progress, with options to enhance their effects through various support combinations.",
+    "message": "Deep skill development system through gem leveling and quality improvements. Skills become more powerful as you progress, with options to enhance their effects through various support combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        792
+      ]
+    ]
+  },
+  "KOvQUt": {
+    "translation": "Deep Skill Integration",
+    "message": "Deep Skill Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        690
+      ]
+    ]
+  },
+  "6Iev04": {
+    "translation": "Defense Planning",
+    "message": "Defense Planning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        847
+      ]
+    ]
+  },
+  "igGiip": {
+    "translation": "Defensive Capabilities",
+    "message": "Defensive Capabilities",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        338
+      ],
+      [
+        "config/site.ts",
+        424
+      ],
+      [
+        "config/site.ts",
+        492
+      ],
+      [
+        "config/site.ts",
+        700
+      ]
+    ]
+  },
+  "rml26s": {
+    "translation": "Design effective team compositions with our PoE2 Skills Planner. Plan support skills, auras, and defensive abilities to create powerful group synergies for challenging content.",
+    "message": "Design effective team compositions with our PoE2 Skills Planner. Plan support skills, auras, and defensive abilities to create powerful group synergies for challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        858
+      ]
+    ]
+  },
+  "7aqnOj": {
+    "translation": "Dexterity skills in Path of Exile 2 are primarily focused on ranged combat and agile gameplay. These green-colored skills excel in hit-and-run tactics, offering abilities for constructing traps, modifying ammunition types, and executing precise strikes. They're particularly effective for players who prefer a mobile, tactical approach to combat.",
+    "message": "Dexterity skills in Path of Exile 2 are primarily focused on ranged combat and agile gameplay. These green-colored skills excel in hit-and-run tactics, offering abilities for constructing traps, modifying ammunition types, and executing precise strikes. They're particularly effective for players who prefer a mobile, tactical approach to combat.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        448
+      ]
+    ]
+  },
+  "pg57vT": {
+    "translation": "Dexterity skills in PoE2 feature superior attack speed mechanics. Key skills like Frenzy and Blood Rage significantly boost attack speed, allowing for rapid-fire combat sequences and increased DPS potential.",
+    "message": "Dexterity skills in PoE2 feature superior attack speed mechanics. Key skills like Frenzy and Blood Rage significantly boost attack speed, allowing for rapid-fire combat sequences and increased DPS potential.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        420
+      ]
+    ]
+  },
+  "iWojYC": {
+    "translation": "Dexterity skills provide several defensive benefits in PoE2: Grace aura increases team evasion, Defiance Banner reduces damage taken, and Smoke Mine grants increased evasion and movement speed. These defensive dexterity skills are crucial for team survival in challenging content.",
+    "message": "Dexterity skills provide several defensive benefits in PoE2: Grace aura increases team evasion, Defiance Banner reduces damage taken, and Smoke Mine grants increased evasion and movement speed. These defensive dexterity skills are crucial for team survival in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        456
+      ]
+    ]
+  },
+  "cBmrvx": {
+    "translation": "Dexterity-based builds excel at landing critical strikes, particularly with skills like Barrage and Ice Shot. These skills can be enhanced with support gems to achieve devastating critical hit rates.",
+    "message": "Dexterity-based builds excel at landing critical strikes, particularly with skills like Barrage and Ice Shot. These skills can be enhanced with support gems to achieve devastating critical hit rates.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        435
+      ]
+    ]
+  },
+  "WQWUiU": {
+    "translation": "Diverse Skill Gem Types",
+    "message": "Diverse Skill Gem Types",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        614
+      ]
+    ]
+  },
+  "xbpW40": {
+    "translation": "Do I need special equipment to start drawing Dandy's World characters?",
+    "message": "Do I need special equipment to start drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        145
+      ]
+    ]
+  },
+  "GTZBEP": {
+    "translation": "Does Jujutsu Kaisen Phantom Parade include the original anime cast?",
+    "message": "Does Jujutsu Kaisen Phantom Parade include the original anime cast?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        220
+      ]
+    ]
+  },
+  "Xm2xny": {
+    "translation": "Dynamic combat system with physical and elemental damage types. Features crowd control, buffs, and status effects. Skills can be combined for powerful synergies in both solo and group play.",
+    "message": "Dynamic combat system with physical and elemental damage types. Features crowd control, buffs, and status effects. Skills can be combined for powerful synergies in both solo and group play.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        782
+      ]
+    ]
+  },
+  "kTY5vL": {
+    "translation": "Dynamic Skill Modification",
+    "message": "Dynamic Skill Modification",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        710
+      ]
+    ]
+  },
+  "CsXK/Q": {
+    "translation": "Each Skill Gem provides distinct combat abilities - Red gems excel in melee combat and physical damage, Green gems focus on ranged attacks and agility, while Blue gems specialize in spellcasting and elemental damage.",
+    "message": "Each Skill Gem provides distinct combat abilities - Red gems excel in melee combat and physical damage, Green gems focus on ranged attacks and agility, while Blue gems specialize in spellcasting and elemental damage.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        620
+      ]
+    ]
+  },
+  "xKpboT": {
+    "translation": "Each Support Gem in PoE2 has specific attribute requirements (Strength, Dexterity, Intelligence), affecting which character builds can effectively utilize them. This system creates meaningful choices in character development.",
+    "message": "Each Support Gem in PoE2 has specific attribute requirements (Strength, Dexterity, Intelligence), affecting which character builds can effectively utilize them. This system creates meaningful choices in character development.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        706
+      ]
+    ]
+  },
+  "jFbf9R": {
+    "translation": "Elemental Damage Mastery",
+    "message": "Elemental Damage Mastery",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        477
+      ]
+    ]
+  },
+  "I0Az3M": {
+    "translation": "Enhanced Combat Effects",
+    "message": "Enhanced Combat Effects",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        695
+      ]
+    ]
+  },
+  "WVSKOy": {
+    "translation": "Essential support gems for Strength Skills include: Melee Physical Damage Support for increased damage output, Fortify Support for defense, Brutality Support for pure physical damage builds, and Blood Magic Support for life-based casting. These enhance the effectiveness of red gem abilities significantly.",
+    "message": "Essential support gems for Strength Skills include: Melee Physical Damage Support for increased damage output, Fortify Support for defense, Brutality Support for pure physical damage builds, and Blood Magic Support for life-based casting. These enhance the effectiveness of red gem abilities significantly.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        393
+      ]
+    ]
+  },
+  "MwaR4Z": {
+    "translation": "Extensive character customization through passive skills. The shared passive tree allows all classes to access various nodes, enabling diverse build options and unique character development paths.",
+    "message": "Extensive character customization through passive skills. The shared passive tree allows all classes to access various nodes, enabling diverse build options and unique character development paths.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        777
+      ]
+    ]
+  },
+  "6jIXss": {
+    "translation": "Failed to save build",
+    "message": "Failed to save build",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        140
+      ]
+    ]
+  },
+  "lIFSzb": {
+    "translation": "Failed to upload file: {0}",
+    "message": "Failed to upload file: {0}",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        23
+      ]
+    ]
+  },
+  "aJ4pMe": {
+    "translation": "FAQs",
+    "message": "FAQs",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        23
+      ]
+    ]
+  },
+  "PpZkda": {
+    "translation": "Features",
+    "message": "Features",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
+      ]
+    ]
+  },
+  "OjNld0": {
+    "translation": "Features Of Dandys World Draw",
+    "message": "Features Of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        32
+      ]
+    ]
+  },
+  "m65fV0": {
+    "translation": "Features Of POE2 Dexterity Skills",
+    "message": "Features Of POE2 Dexterity Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        410
+      ]
+    ]
+  },
+  "GVIp5w": {
+    "translation": "Features Of POE2 Gems",
+    "message": "Features Of POE2 Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        539
+      ]
+    ]
+  },
+  "bLqRlz": {
+    "translation": "Features Of POE2 Intelligence Skills",
+    "message": "Features Of POE2 Intelligence Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        473
+      ]
+    ]
+  },
+  "GyMkYP": {
+    "translation": "Features Of POE2 skill Gems",
+    "message": "Features Of POE2 skill Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        610
+      ]
+    ]
+  },
+  "75xj60": {
+    "translation": "Features Of POE2 Skills",
+    "message": "Features Of POE2 Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        752
+      ]
+    ]
+  },
+  "rkn1bM": {
+    "translation": "Features Of POE2 Skills Planner",
+    "message": "Features Of POE2 Skills Planner",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        833
+      ]
+    ]
+  },
+  "H3SGDp": {
+    "translation": "Features Of POE2 Strength Skills",
+    "message": "Features Of POE2 Strength Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        329
+      ]
+    ]
+  },
+  "N/DeOS": {
+    "translation": "Features Of POE2 Support Gems",
+    "message": "Features Of POE2 Support Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        681
+      ]
+    ]
+  },
+  "HUVqLy": {
+    "translation": "Final Touches and Background",
+    "message": "Final Touches and Background",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        80
+      ]
+    ]
+  },
+  "kAFCHd": {
+    "translation": "Flexible Build Creation",
+    "message": "Flexible Build Creation",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        872
+      ]
+    ]
+  },
+  "3YcJsM": {
+    "translation": "Focus on character-specific details and expressions. Practice drawing various emotions and poses typical in Dandy's World. Pay attention to unique features like Rodger's squinted eye or distinctive accessories.",
+    "message": "Focus on character-specific details and expressions. Practice drawing various emotions and poses typical in Dandy's World. Pay attention to unique features like Rodger's squinted eye or distinctive accessories.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        74
+      ]
+    ]
+  },
+  "qqyb4m": {
+    "translation": "Focused on melee combat and physical damage. Features powerful strikes, AoE attacks like Cleave and Ground Slam, and defensive abilities through War Cries. Perfect for warriors who prefer direct combat and high survivability.",
+    "message": "Focused on melee combat and physical damage. Features powerful strikes, AoE attacks like Cleave and Ground Slam, and defensive abilities through War Cries. Perfect for warriors who prefer direct combat and high survivability.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        757
+      ]
+    ]
+  },
+  "st6ZC4": {
+    "translation": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        19
+      ]
+    ]
+  },
+  "76LTZg": {
+    "translation": "For beginners in Path of Exile 2, recommended skill combinations include: Tornado Shot + Greater Multiple Projectiles for ranged damage, Ice Shot + Hypothermia for crowd control, Fireball + Spell Echo for spell damage, and Ground Slam + Fortify for melee combat. These combinations provide good damage output while being relatively straightforward to use.",
+    "message": "For beginners in Path of Exile 2, recommended skill combinations include: Tornado Shot + Greater Multiple Projectiles for ranged damage, Ice Shot + Hypothermia for crowd control, Fireball + Spell Echo for spell damage, and Ground Slam + Fortify for melee combat. These combinations provide good damage output while being relatively straightforward to use.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        808
+      ]
+    ]
+  },
+  "BnNtJ0": {
+    "translation": "For beginners in Path of Exile 2, recommended Support Gem combinations include: Greater Multiple Projectiles Support with area damage skills, Damage on Full Life Support with single-target attacks, Faster Attacks Support with basic attack skills, and Spell Echo Support with casting abilities. These Support Gems provide straightforward benefits that are easy to understand and utilize effectively.",
+    "message": "For beginners in Path of Exile 2, recommended Support Gem combinations include: Greater Multiple Projectiles Support with area damage skills, Damage on Full Life Support with single-target attacks, Faster Attacks Support with basic attack skills, and Spell Echo Support with casting abilities. These Support Gems provide straightforward benefits that are easy to understand and utilize effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        727
+      ]
+    ]
+  },
+  "AA2bAI": {
+    "translation": "For beginners in PoE2, recommended dexterity skills include: Ice Shot for crowd control and damage, Split Arrow for easy mob clearing, and Caustic Arrow for reliable damage over time. These skills are straightforward to use and provide good effectiveness with minimal gear requirements.",
+    "message": "For beginners in PoE2, recommended dexterity skills include: Ice Shot for crowd control and damage, Split Arrow for easy mob clearing, and Caustic Arrow for reliable damage over time. These skills are straightforward to use and provide good effectiveness with minimal gear requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        460
+      ]
+    ]
+  },
+  "UkncHN": {
+    "translation": "For beginners in PoE2, recommended Intelligence skills include Fireball for consistent damage output, Frostbolt for crowd control, Arc for chain lightning damage, and Summon Skeletons for additional combat support. These skills are straightforward to use and provide a good foundation for understanding spellcasting mechanics.",
+    "message": "For beginners in PoE2, recommended Intelligence skills include Fireball for consistent damage output, Frostbolt for crowd control, Arc for chain lightning damage, and Summon Skeletons for additional combat support. These skills are straightforward to use and provide a good foundation for understanding spellcasting mechanics.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        518
+      ]
+    ]
+  },
+  "kwHGrZ": {
+    "translation": "For beginners in PoE2, recommended Red Skill Gems include Cleave for area damage, Heavy Strike for single-target damage, and Ground Slam for crowd control. These Strength-based gems are straightforward to use and provide effective combat options for new players.",
+    "message": "For beginners in PoE2, recommended Red Skill Gems include Cleave for area damage, Heavy Strike for single-target damage, and Ground Slam for crowd control. These Strength-based gems are straightforward to use and provide effective combat options for new players.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        585
+      ]
+    ]
+  },
+  "/NxQUS": {
+    "translation": "For beginners in PoE2, recommended Skill Gems include: Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for crowd control, Fireball for spellcasters, and Heavy Strike for melee builds. These Skill Gems provide straightforward mechanics while remaining effective for early game content.",
+    "message": "For beginners in PoE2, recommended Skill Gems include: Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for crowd control, Fireball for spellcasters, and Heavy Strike for melee builds. These Skill Gems provide straightforward mechanics while remaining effective for early game content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        656
+      ]
+    ]
+  },
+  "g8laWJ": {
+    "translation": "For beginners, recommended Strength Skills include: Heavy Strike for single-target damage, Ground Slam for area control, Cleave for group clearing, and Enduring Cry for survival. These red gem abilities are straightforward to use and provide a good foundation for understanding the Strength skill system.",
+    "message": "For beginners, recommended Strength Skills include: Heavy Strike for single-target damage, Ground Slam for area control, Cleave for group clearing, and Enduring Cry for survival. These red gem abilities are straightforward to use and provide a good foundation for understanding the Strength skill system.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        385
+      ]
+    ]
+  },
+  "qRH6Ma": {
+    "translation": "For beginners, the PoE2 Skills Planner recommends combinations like Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for control-oriented gameplay, or Fireball with Spell Echo for spellcasting builds. These combinations provide good damage and are relatively straightforward to use.",
+    "message": "For beginners, the PoE2 Skills Planner recommends combinations like Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for control-oriented gameplay, or Fireball with Spell Echo for spellcasting builds. These combinations provide good damage and are relatively straightforward to use.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        889
+      ]
+    ]
+  },
+  "Q0ENOT": {
+    "translation": "For boss encounters, powerful Strength Skills include: Heavy Strike for high single-target damage, Molten Strike for consistent damage output, Infernal Blow for burst damage, and Enduring Cry for survival. These red gem abilities provide the sustained damage and survivability needed for challenging boss fights.",
+    "message": "For boss encounters, powerful Strength Skills include: Heavy Strike for high single-target damage, Molten Strike for consistent damage output, Infernal Blow for burst damage, and Enduring Cry for survival. These red gem abilities provide the sustained damage and survivability needed for challenging boss fights.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        401
+      ]
+    ]
+  },
+  "0qnBBD": {
+    "translation": "For iOS, Jujutsu Kaisen Phantom Parade requires iOS 12.0 or later and approximately 407.6 MB of storage space. For Android, it requires Android 8.0 or later.",
+    "message": "For iOS, Jujutsu Kaisen Phantom Parade requires iOS 12.0 or later and approximately 407.6 MB of storage space. For Android, it requires Android 8.0 or later.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        193
+      ]
+    ]
+  },
+  "F7G/TS": {
+    "translation": "Frequently Asked Questions",
+    "message": "Frequently Asked Questions",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        31
+      ]
+    ]
+  },
+  "GgVATf": {
+    "translation": "Gem Synergies",
+    "message": "Gem Synergies",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        568
+      ]
+    ]
+  },
+  "T8FLO1": {
+    "translation": "Getting Started with Dandy's World Drawing",
+    "message": "Getting Started with Dandy's World Drawing",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        38
+      ]
+    ]
+  },
+  "OQjgfs": {
+    "translation": "Green dexterity skills offer robust defensive options through evasion and mobility. Skills such as Grace and Defiance Banner enhance team survivability while maintaining offensive capabilities.",
+    "message": "Green dexterity skills offer robust defensive options through evasion and mobility. Skills such as Grace and Defiance Banner enhance team survivability while maintaining offensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        425
+      ]
+    ]
+  },
+  "gNoxUU": {
+    "translation": "Green Gems (Dexterity)",
+    "message": "Green Gems (Dexterity)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        558
+      ]
+    ]
+  },
+  "QcQF16": {
+    "translation": "Green Skill Gems (Dexterity)",
+    "message": "Green Skill Gems (Dexterity)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        761
+      ]
+    ]
+  },
+  "At6Qpc": {
+    "translation": "Green Skill Gems excel in ranged combat and agility-based abilities. Key skills like Tornado Shot, Ice Shot, and Puncture provide excellent options for bow users and assassin-style builds in PoE2.",
+    "message": "Green Skill Gems excel in ranged combat and agility-based abilities. Key skills like Tornado Shot, Ice Shot, and Puncture provide excellent options for bow users and assassin-style builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        559
+      ]
+    ]
+  },
+  "hnWur2": {
+    "translation": "Highly customizable skill modification system. Support gems enhance active skills' effects, allowing for deep build customization. Create unique combinations by linking support gems with active skills for increased power and utility.",
+    "message": "Highly customizable skill modification system. Support gems enhance active skills' effects, allowing for deep build customization. Create unique combinations by linking support gems with active skills for increased power and utility.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        772
+      ]
+    ]
+  },
+  "i0qMbr": {
+    "translation": "Home",
+    "message": "Home",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        11
+      ],
+      [
+        "components/wegic/header.tsx",
+        7
+      ]
+    ]
+  },
+  "5FWvsY": {
+    "translation": "How can I download Jujutsu Kaisen Phantom Parade on Android?",
+    "message": "How can I download Jujutsu Kaisen Phantom Parade on Android?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        212
+      ]
+    ]
+  },
+  "1adYoo": {
+    "translation": "How can I download Jujutsu Kaisen Phantom Parade on iOS?",
+    "message": "How can I download Jujutsu Kaisen Phantom Parade on iOS?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        208
+      ]
+    ]
+  },
+  "hBpVMm": {
+    "translation": "How can I optimize my Strength Skills build in PoE2?",
+    "message": "How can I optimize my Strength Skills build in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        404
+      ]
+    ]
+  },
+  "A3fPkq": {
+    "translation": "How can I track my progress in drawing Dandy's World characters?",
+    "message": "How can I track my progress in drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        177
+      ]
+    ]
+  },
+  "RbYob3": {
+    "translation": "How can Intelligence skills be optimized for endgame content in Path of Exile 2?",
+    "message": "How can Intelligence skills be optimized for endgame content in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        521
+      ]
+    ]
+  },
+  "87v437": {
+    "translation": "How do Dexterity skills affect different character classes in Path of Exile 2?",
+    "message": "How do Dexterity skills affect different character classes in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        463
+      ]
+    ]
+  },
+  "W7khBP": {
+    "translation": "How do Dexterity skills enhance team defense in Path of Exile 2?",
+    "message": "How do Dexterity skills enhance team defense in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        455
+      ]
+    ]
+  },
+  "k2a81l": {
+    "translation": "How do different character classes utilize Skill Gems differently?",
+    "message": "How do different character classes utilize Skill Gems differently?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        667
+      ]
+    ]
+  },
+  "h6PW5i": {
+    "translation": "How do different character classes utilize skill gems?",
+    "message": "How do different character classes utilize skill gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        811
+      ]
+    ]
+  },
+  "qjQTW5": {
+    "translation": "How do I create an effective skill build in PoE2?",
+    "message": "How do I create an effective skill build in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        884
+      ]
+    ]
+  },
+  "ppUwan": {
+    "translation": "How do I optimize my character's critical strike chances using skills?",
+    "message": "How do I optimize my character's critical strike chances using skills?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        900
+      ]
+    ]
+  },
+  "HVo8Qx": {
+    "translation": "How do Intelligence skills affect Mage builds in Path of Exile 2?",
+    "message": "How do Intelligence skills affect Mage builds in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        513
+      ]
+    ]
+  },
+  "xXQkPj": {
+    "translation": "How do Intelligence skills interact with support gems in PoE2?",
+    "message": "How do Intelligence skills interact with support gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        529
+      ]
+    ]
+  },
+  "m2Gksy": {
+    "translation": "How do passive skills interact with skill gems?",
+    "message": "How do passive skills interact with skill gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        819
+      ]
+    ]
+  },
+  "ryLRic": {
+    "translation": "How do skill gems affect team play in Path of Exile 2?",
+    "message": "How do skill gems affect team play in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        908
+      ]
+    ]
+  },
+  "j5jOpJ": {
+    "translation": "How do Skill Gems affect team play in Path of Exile 2?",
+    "message": "How do Skill Gems affect team play in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        675
+      ]
+    ]
+  },
+  "EsTa/o": {
+    "translation": "How do Skill Gems integrate with the passive skill tree in Path of Exile 2?",
+    "message": "How do Skill Gems integrate with the passive skill tree in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        659
+      ]
+    ]
+  },
+  "UTMZPT": {
+    "translation": "How do skill gems level up in Path of Exile 2?",
+    "message": "How do skill gems level up in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        827
+      ]
+    ]
+  },
+  "rlZCTA": {
+    "translation": "How do Skill Gems level up in Path of Exile 2?",
+    "message": "How do Skill Gems level up in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        596
+      ]
+    ]
+  },
+  "qERQah": {
+    "translation": "How do Strength Skills benefit team play in PoE2?",
+    "message": "How do Strength Skills benefit team play in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        380
+      ]
+    ]
+  },
+  "v3ijFS": {
+    "translation": "How do Strength Skills compare to other attribute skills in PoE2?",
+    "message": "How do Strength Skills compare to other attribute skills in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        396
+      ]
+    ]
+  },
+  "UWOgcG": {
+    "translation": "How do Strength Skills scale with character progression in PoE2?",
+    "message": "How do Strength Skills scale with character progression in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        388
+      ]
+    ]
+  },
+  "nNME7C": {
+    "translation": "How do Support Gems affect character builds?",
+    "message": "How do Support Gems affect character builds?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        730
+      ]
+    ]
+  },
+  "yF0XDP": {
+    "translation": "How do Support Gems affect skill damage in PoE2?",
+    "message": "How do Support Gems affect skill damage in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        738
+      ]
+    ]
+  },
+  "Tn7Zef": {
+    "translation": "How do Support Gems work in PoE2?",
+    "message": "How do Support Gems work in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        580
+      ]
+    ]
+  },
+  "1KIhkX": {
+    "translation": "How do Support Gems work with different attribute types in PoE2?",
+    "message": "How do Support Gems work with different attribute types in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        722
+      ]
+    ]
+  },
+  "N5flWT": {
+    "translation": "How do support gems work with skill gems in PoE2?",
+    "message": "How do support gems work with skill gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        803
+      ],
+      [
+        "config/site.ts",
+        892
+      ]
+    ]
+  },
+  "mEVwZQ": {
+    "translation": "How do Support Gems work with Skill Gems in PoE2?",
+    "message": "How do Support Gems work with Skill Gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        651
+      ]
+    ]
+  },
+  "MhqG83": {
+    "translation": "How do you level up Support Gems?",
+    "message": "How do you level up Support Gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        746
+      ]
+    ]
+  },
+  "bLDuMO": {
+    "translation": "How long does it take to learn drawing Dandy's World characters?",
+    "message": "How long does it take to learn drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        149
+      ]
+    ]
+  },
+  "qhR+kn": {
+    "translation": "How often are new Dandy's World drawing tutorials added?",
+    "message": "How often are new Dandy's World drawing tutorials added?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        161
+      ]
+    ]
+  },
+  "dQt+7J": {
+    "translation": "I may employ third-party companies and individuals due to the following reasons:",
+    "message": "I may employ third-party companies and individuals due to the following reasons:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        25
+      ]
+    ]
+  },
+  "EUZXzT": {
+    "translation": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        38
+      ]
+    ]
+  },
+  "5dDG4E": {
+    "translation": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        34
+      ]
+    ]
+  },
+  "gFP4HL": {
+    "translation": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        32
+      ]
+    ]
+  },
+  "xeCjro": {
+    "translation": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        21
+      ]
+    ]
+  },
+  "d1ALrF": {
+    "translation": "If you have any questions about these Terms, please contact us at #0#.",
+    "message": "If you have any questions about these Terms, please contact us at #0#.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        29
+      ]
+    ]
+  },
+  "JsEKN8": {
+    "translation": "Impact Mechanics",
+    "message": "Impact Mechanics",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        368
+      ]
+    ]
+  },
+  "V6juom": {
+    "translation": "In group content, Intelligence skills provide crucial support through elemental damage, crowd control, and utility effects. Skills like Temporal Chains can control enemy movement, while auras and defensive abilities can protect the entire party. This makes Intelligence-based characters valuable team members in Path of Exile 2.",
+    "message": "In group content, Intelligence skills provide crucial support through elemental damage, crowd control, and utility effects. Skills like Temporal Chains can control enemy movement, while auras and defensive abilities can protect the entire party. This makes Intelligence-based characters valuable team members in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        534
+      ]
+    ]
+  },
+  "cOrZ61": {
+    "translation": "In Path of Exile 2, each character class has natural affinities for certain Skill Gems based on their primary attributes. Rangers excel with Green Skill Gems for ranged combat, Templars benefit from Blue Skill Gems for spellcasting, and Marauders naturally align with Red Skill Gems for melee combat. However, any class can use any Skill Gem if they meet the attribute requirements.",
+    "message": "In Path of Exile 2, each character class has natural affinities for certain Skill Gems based on their primary attributes. Rangers excel with Green Skill Gems for ranged combat, Templars benefit from Blue Skill Gems for spellcasting, and Marauders naturally align with Red Skill Gems for melee combat. However, any class can use any Skill Gem if they meet the attribute requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        668
+      ]
+    ]
+  },
+  "Eq/v2W": {
+    "translation": "In Path of Exile 2, each character class has natural affinities for certain skill gems: Rangers excel with green skills like Tornado Shot, Marauders benefit from red skills like Ground Slam, and Witches specialize in blue skills like Fireball. However, any class can use any skill gem if they meet the attribute requirements.",
+    "message": "In Path of Exile 2, each character class has natural affinities for certain skill gems: Rangers excel with green skills like Tornado Shot, Marauders benefit from red skills like Ground Slam, and Witches specialize in blue skills like Fireball. However, any class can use any skill gem if they meet the attribute requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        812
+      ]
+    ]
+  },
+  "Ft7Ocz": {
+    "translation": "In Path of Exile 2, there are three primary types of Skill Gems based on attributes: Red (Strength) gems focus on melee combat and physical damage, Green (Dexterity) gems specialize in ranged attacks and agility, and Blue (Intelligence) gems concentrate on spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "message": "In Path of Exile 2, there are three primary types of Skill Gems based on attributes: Red (Strength) gems focus on melee combat and physical damage, Green (Dexterity) gems specialize in ranged attacks and agility, and Blue (Intelligence) gems concentrate on spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        648
+      ]
+    ]
+  },
+  "5ZTRiC": {
+    "translation": "In Path of Exile 2's group gameplay, Support Gems are crucial for creating synergistic team compositions. They can enhance party-wide buffs, provide additional defensive layers, improve crowd control capabilities, and boost overall team damage output. Strategic use of Support Gems helps optimize group performance in challenging content.",
+    "message": "In Path of Exile 2's group gameplay, Support Gems are crucial for creating synergistic team compositions. They can enhance party-wide buffs, provide additional defensive layers, improve crowd control capabilities, and boost overall team damage output. Strategic use of Support Gems helps optimize group performance in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        743
+      ]
+    ]
+  },
+  "SnCrD7": {
+    "translation": "In PoE2, dexterity skills impact different classes uniquely: Rangers excel with bow skills like Tornado Shot, Duelists benefit from skills like Frenzy and Lacerate, while Shadows can effectively use poison-based dexterity skills. Each class can utilize these skills differently based on their passive tree position and natural attributes.",
+    "message": "In PoE2, dexterity skills impact different classes uniquely: Rangers excel with bow skills like Tornado Shot, Duelists benefit from skills like Frenzy and Lacerate, while Shadows can effectively use poison-based dexterity skills. Each class can utilize these skills differently based on their passive tree position and natural attributes.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        464
+      ]
+    ]
+  },
+  "uriovw": {
+    "translation": "In the Path of Exile 2 Skills Planner, support gems modify and enhance active skill gems' effects. They can increase damage, add additional projectiles, improve casting speed, or provide utility effects. The right support gems can significantly boost your skills' effectiveness.",
+    "message": "In the Path of Exile 2 Skills Planner, support gems modify and enhance active skill gems' effects. They can increase damage, add additional projectiles, improve casting speed, or provide utility effects. The right support gems can significantly boost your skills' effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        893
+      ]
+    ]
+  },
+  "g1A+ws": {
+    "translation": "Intelligence skills (blue skill gems) in Path of Exile 2 are specialized abilities focused on spellcasting and elemental damage. These skills include offensive spells, minion summoning abilities, and utility effects that allow players to deal magical damage, control the battlefield, and support allies.",
+    "message": "Intelligence skills (blue skill gems) in Path of Exile 2 are specialized abilities focused on spellcasting and elemental damage. These skills include offensive spells, minion summoning abilities, and utility effects that allow players to deal magical damage, control the battlefield, and support allies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        506
+      ]
+    ]
+  },
+  "CSZLhb": {
+    "translation": "Intelligence skills are fundamental to Mage builds in PoE2, providing essential damage output through elemental spells, defensive capabilities through barriers and crowd control, and utility through minion summoning. These skills can be combined with support gems to create powerful synergies that enhance both offensive and defensive capabilities.",
+    "message": "Intelligence skills are fundamental to Mage builds in PoE2, providing essential damage output through elemental spells, defensive capabilities through barriers and crowd control, and utility through minion summoning. These skills can be combined with support gems to create powerful synergies that enhance both offensive and defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        514
+      ]
+    ]
+  },
+  "HP+1C4": {
+    "translation": "Intelligence skills in Path of Exile 2 can be enhanced by support gems to modify their behavior and effectiveness. Common combinations include using Spell Echo for repeated casting, Elemental Focus for increased elemental damage, and Faster Casting for improved spell speed. The right support gems can significantly boost skill performance.",
+    "message": "Intelligence skills in Path of Exile 2 can be enhanced by support gems to modify their behavior and effectiveness. Common combinations include using Spell Echo for repeated casting, Elemental Focus for increased elemental damage, and Faster Casting for improved spell speed. The right support gems can significantly boost skill performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        530
+      ]
+    ]
+  },
+  "w0vEsM": {
+    "translation": "Intelligence skills in Path of Exile 2 excel at elemental damage output, featuring powerful spells like Fireball, Frostbolt, and Arc that deal devastating fire, cold, and lightning damage respectively. These skills can be enhanced with support gems to maximize elemental effectiveness.",
+    "message": "Intelligence skills in Path of Exile 2 excel at elemental damage output, featuring powerful spells like Fireball, Frostbolt, and Arc that deal devastating fire, cold, and lightning damage respectively. These skills can be enhanced with support gems to maximize elemental effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        478
+      ]
+    ]
+  },
+  "xdBWA0": {
+    "translation": "Intelligence skills in PoE2 feature high critical strike potential, particularly with spells like Arc and Lightning Strike. When combined with appropriate support gems, these skills can deliver devastating critical hits that significantly boost damage output.",
+    "message": "Intelligence skills in PoE2 feature high critical strike potential, particularly with spells like Arc and Lightning Strike. When combined with appropriate support gems, these skills can deliver devastating critical hits that significantly boost damage output.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        498
+      ]
+    ]
+  },
+  "JXVsIx": {
+    "translation": "Intelligence skills include powerful defensive options such as Ice Barrier and Frost Shield, providing crucial survivability through damage absorption and crowd control effects. These defensive mechanisms are essential for maintaining battlefield presence.",
+    "message": "Intelligence skills include powerful defensive options such as Ice Barrier and Frost Shield, providing crucial survivability through damage absorption and crowd control effects. These defensive mechanisms are essential for maintaining battlefield presence.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        493
+      ]
+    ]
+  },
+  "RLPmGq": {
+    "translation": "Introduction of Dandys World Draw",
+    "message": "Introduction of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        26
+      ]
+    ]
+  },
+  "rr52zJ": {
+    "translation": "Is Jujutsu Kaisen Phantom Parade available in English?",
+    "message": "Is Jujutsu Kaisen Phantom Parade available in English?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        204
+      ]
+    ]
+  },
+  "tlfYGz": {
+    "translation": "Is Jujutsu Kaisen Phantom Parade free to play?",
+    "message": "Is Jujutsu Kaisen Phantom Parade free to play?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        200
+      ]
+    ]
+  },
+  "qG3jbM": {
+    "translation": "Is there support available if I get stuck while drawing?",
+    "message": "Is there support available if I get stuck while drawing?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        165
+      ]
+    ]
+  },
+  "MmfsOI": {
+    "translation": "Join a vibrant community of Dandy's World artists. Share your drawings, get feedback, and participate in weekly challenges to improve your skills while connecting with fellow artists.",
+    "message": "Join a vibrant community of Dandy's World artists. Share your drawings, get feedback, and participate in weekly challenges to improve your skills while connecting with fellow artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        114
+      ]
+    ]
+  },
+  "LpV4OJ": {
+    "translation": "Jujutsu Kaisen Phantom Parade is a mobile RPG game based on the popular anime series Jujutsu Kaisen. It features turn-based combat, a rich storyline, and character collection mechanics. You can download Jujutsu Kaisen Phantom Parade from the Apple App Store for iOS devices and the Google Play Store for Android devices.",
+    "message": "Jujutsu Kaisen Phantom Parade is a mobile RPG game based on the popular anime series Jujutsu Kaisen. It features turn-based combat, a rich storyline, and character collection mechanics. You can download Jujutsu Kaisen Phantom Parade from the Apple App Store for iOS devices and the Google Play Store for Android devices.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        185
+      ]
+    ]
+  },
+  "VuEEPs": {
+    "translation": "Jujutsu Kaisen Phantom Parade offers turn-based combat with characters from the Jujutsu Kaisen universe, a rich storyline with full voice acting, and a gacha system for character collection. The game provides an immersive experience for fans of the series.",
+    "message": "Jujutsu Kaisen Phantom Parade offers turn-based combat with characters from the Jujutsu Kaisen universe, a rich storyline with full voice acting, and a gacha system for character collection. The game provides an immersive experience for fans of the series.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        197
+      ]
+    ]
+  },
+  "J73Tj0": {
+    "translation": "Jujutsu Kaisen Phantom Parade was officially released on December 7, 2024. It is now available for download on both iOS and Android platforms.",
+    "message": "Jujutsu Kaisen Phantom Parade was officially released on December 7, 2024. It is now available for download on both iOS and Android platforms.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        189
+      ]
+    ]
+  },
+  "nBxiSt": {
+    "translation": "Key defensive Intelligence skills include Ice Barrier for damage absorption, Frost Shield for protection, Temporal Chains for enemy control, and Phase Run for mobility. These skills help Mages survive challenging encounters by providing various defensive layers and escape options.",
+    "message": "Key defensive Intelligence skills include Ice Barrier for damage absorption, Frost Shield for protection, Temporal Chains for enemy control, and Phase Run for mobility. These skills help Mages survive challenging encounters by providing various defensive layers and escape options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        526
+      ]
+    ]
+  },
+  "VFvlAZ": {
+    "translation": "Known for his cursed speech abilities, Toge can manipulate curses through specific words. He often uses rice balls as a way to communicate safely.",
+    "message": "Known for his cursed speech abilities, Toge can manipulate curses through specific words. He often uses rice balls as a way to communicate safely.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        278
+      ]
+    ]
+  },
+  "CUo907": {
+    "translation": "Known for his immense strength and combat prowess, Todo is also characterized by his straightforward personality and loyalty to friends.",
+    "message": "Known for his immense strength and combat prowess, Todo is also characterized by his straightforward personality and loyalty to friends.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        308
+      ]
+    ]
+  },
+  "BNIT3q": {
+    "translation": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
+    "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        134
+      ]
+    ]
+  },
+  "OZ6jLr": {
+    "translation": "Learn the correct proportions for Dandy's World characters. Use the head size as a basic unit of measurement. For example, Rodger's body is typically 2.5 heads tall. Create guidelines to maintain consistent proportions throughout your drawing.",
+    "message": "Learn the correct proportions for Dandy's World characters. Use the head size as a basic unit of measurement. For example, Rodger's body is typically 2.5 heads tall. Create guidelines to maintain consistent proportions throughout your drawing.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        53
+      ]
+    ]
+  },
+  "kWWrvV": {
+    "translation": "Learn to Draw Dandy's World Characters",
+    "message": "Learn to Draw Dandy's World Characters",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        16
+      ]
+    ]
+  },
+  "99//iK": {
+    "translation": "Learning to draw Dandy's World characters varies by individual. Most beginners can create recognizable characters within 2-4 weeks of regular practice. Our structured tutorials break down complex characters into simple steps, making the learning process more manageable.",
+    "message": "Learning to draw Dandy's World characters varies by individual. Most beginners can create recognizable characters within 2-4 weeks of regular practice. Our structured tutorials break down complex characters into simple steps, making the learning process more manageable.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        150
+      ]
+    ]
+  },
+  "VrNagU": {
+    "translation": "Level:",
+    "message": "Level:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        83
+      ]
+    ]
+  },
+  "OTtIU8": {
+    "translation": "Life Scaling",
+    "message": "Life Scaling",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        363
+      ]
+    ]
+  },
+  "Z3FXyt": {
+    "translation": "Loading...",
+    "message": "Loading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/loading.tsx",
+        8
+      ]
+    ]
+  },
+  "EvqQVm": {
+    "translation": "Main Skills",
+    "message": "Main Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        191
+      ]
+    ]
+  },
+  "R/on3o": {
+    "translation": "Many Skill Gems in Path of Exile 2 offer team-based benefits, allowing players to support allies through buffs, auras, and defensive abilities for enhanced group play.",
+    "message": "Many Skill Gems in Path of Exile 2 offer team-based benefits, allowing players to support allies through buffs, auras, and defensive abilities for enhanced group play.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        640
+      ]
+    ]
+  },
+  "6CXeFo": {
+    "translation": "Master drawing Dandy's World characters through progressive tutorials. Our structured approach breaks down complex characters into simple shapes, making it accessible for artists of all skill levels.",
+    "message": "Master drawing Dandy's World characters through progressive tutorials. Our structured approach breaks down complex characters into simple shapes, making it accessible for artists of all skill levels.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        104
+      ]
+    ]
+  },
+  "SedUJT": {
+    "translation": "Master drawing Dandy's World characters with step-by-step tutorials. Get expert tips, character guides, and join our creative community of artists.",
+    "message": "Master drawing Dandy's World characters with step-by-step tutorials. Get expert tips, character guides, and join our creative community of artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        17
+      ],
+      [
+        "config/site.ts",
+        22
+      ]
+    ]
+  },
+  "lY3yG3": {
+    "translation": "Mastering Character Proportions",
+    "message": "Mastering Character Proportions",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        52
+      ]
+    ]
+  },
+  "H3p+ql": {
+    "translation": "Masters of elemental magic and summoning. Features powerful spells like Fireball and Arc, alongside minion summoning abilities. Essential for spellcasters seeking high magical damage output and battlefield control.",
+    "message": "Masters of elemental magic and summoning. Features powerful spells like Fireball and Arc, alongside minion summoning abilities. Essential for spellcasters seeking high magical damage output and battlefield control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        767
+      ]
+    ]
+  },
+  "CH2/BC": {
+    "translation": "Meta Gems are advanced Skill Gems in PoE2 that trigger under specific conditions, adding complexity to character builds. These gems can activate other linked skills automatically or provide unique effects, allowing for sophisticated skill combinations and automated skill sequences in combat.",
+    "message": "Meta Gems are advanced Skill Gems in PoE2 that trigger under specific conditions, adding complexity to character builds. These gems can activate other linked skills automatically or provide unique effects, allowing for sophisticated skill combinations and automated skill sequences in combat.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        664
+      ]
+    ]
+  },
+  "6NWiBo": {
+    "translation": "Meta Gems in Path of Exile 2 are advanced gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or providing unique effects when certain conditions are met, creating more sophisticated character builds.",
+    "message": "Meta Gems in Path of Exile 2 are advanced gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or providing unique effects when certain conditions are met, creating more sophisticated character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        605
+      ]
+    ]
+  },
+  "sZUkBE": {
+    "translation": "Meta gems in Path of Exile 2 are advanced skill gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or creating unique interaction patterns between different skills, enabling more sophisticated character builds.",
+    "message": "Meta gems in Path of Exile 2 are advanced skill gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or creating unique interaction patterns between different skills, enabling more sophisticated character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        816
+      ]
+    ]
+  },
+  "IYxXKr": {
+    "translation": "Minion Summoning",
+    "message": "Minion Summoning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        487
+      ]
+    ]
+  },
+  "44khzM": {
+    "translation": "Movement and Agility",
+    "message": "Movement and Agility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        439
+      ]
+    ]
+  },
+  "qQKpn1": {
+    "translation": "Multiplayer Synergy",
+    "message": "Multiplayer Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        639
+      ]
+    ]
+  },
+  "bHt2FX": {
+    "translation": "Network error or CORS issue.",
+    "message": "Network error or CORS issue.",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        27
+      ]
+    ]
+  },
+  "isRobC": {
+    "translation": "New",
+    "message": "New",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        41
+      ]
+    ]
+  },
+  "6vUzxA": {
+    "translation": "New Dandy's World tutorials are added weekly, including character guides, technique demonstrations, and special themed lessons. We regularly update our content based on community feedback and introduce tutorials for new characters as they appear.",
+    "message": "New Dandy's World tutorials are added weekly, including character guides, technique demonstrations, and special themed lessons. We regularly update our content based on community feedback and introduce tutorials for new characters as they appear.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        162
+      ]
+    ]
+  },
+  "ko93eb": {
+    "translation": "New users who log in will receive 2 credits",
+    "message": "New users who log in will receive 2 credits",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        39
+      ]
+    ]
+  },
+  "hXzOVo": {
+    "translation": "Next",
+    "message": "Next",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/pagination.tsx",
+        36
+      ]
+    ]
+  },
+  "4WSj+R": {
+    "translation": "Not all Support Gems can be used with every skill gem in Path of Exile 2. Support Gems have specific compatibility requirements based on the skill type (attack, spell, minion, etc.) and attribute requirements. Players must carefully check gem descriptions and requirements to ensure proper compatibility when creating skill combinations.",
+    "message": "Not all Support Gems can be used with every skill gem in Path of Exile 2. Support Gems have specific compatibility requirements based on the skill type (attack, spell, minion, etc.) and attribute requirements. Players must carefully check gem descriptions and requirements to ensure proper compatibility when creating skill combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        735
+      ]
+    ]
+  },
+  "FvxCMW": {
+    "translation": "Once comfortable with basic shapes, focus on line art. Start with light sketching, then gradually refine your lines. For Dandy's World characters, use varying line weights to add depth and character to your drawings.",
+    "message": "Once comfortable with basic shapes, focus on line art. Start with light sketching, then gradually refine your lines. For Dandy's World characters, use varying line weights to add depth and character to your drawings.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        60
+      ]
+    ]
+  },
+  "mFvrex": {
+    "translation": "Optimize your character's DPS by planning attack speed and critical strike combinations. Our planner helps you select the best skill gems and support gems to maximize your damage output in Path of Exile 2.",
+    "message": "Optimize your character's DPS by planning attack speed and critical strike combinations. Our planner helps you select the best skill gems and support gems to maximize your damage output in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        853
+      ]
+    ]
+  },
+  "d2Hx1C": {
+    "translation": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
+    "message": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        178
+      ]
+    ]
+  },
+  "MyRipQ": {
+    "translation": "Passive Skill Tree",
+    "message": "Passive Skill Tree",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        776
+      ]
+    ]
+  },
+  "QAAPjM": {
+    "translation": "Passive Tree Integration",
+    "message": "Passive Tree Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        867
+      ]
+    ]
+  },
+  "cu+r4f": {
+    "translation": "Passive Tree Synergy",
+    "message": "Passive Tree Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        629
+      ]
+    ]
+  },
+  "yujZ2L": {
+    "translation": "Path of Exile 2 features three main types of skill gems: Red (Strength) gems focusing on melee combat and physical damage, Green (Dexterity) gems specializing in ranged attacks and agility, and Blue (Intelligence) gems centered on spellcasting and elemental damage. Each type has unique characteristics and can be enhanced with support gems.",
+    "message": "Path of Exile 2 features three main types of skill gems: Red (Strength) gems focusing on melee combat and physical damage, Green (Dexterity) gems specializing in ranged attacks and agility, and Blue (Intelligence) gems centered on spellcasting and elemental damage. Each type has unique characteristics and can be enhanced with support gems.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        800
+      ]
+    ]
+  },
+  "9sef72": {
+    "translation": "Path of Exile 2 features three primary types of Skill Gems: Red (Strength) Gems for melee combat, Green (Dexterity) Gems for ranged attacks, and Blue (Intelligence) Gems for spellcasting. Each type has unique characteristics and can be enhanced with Support Gems for deeper customization.",
+    "message": "Path of Exile 2 features three primary types of Skill Gems: Red (Strength) Gems for melee combat, Green (Dexterity) Gems for ranged attacks, and Blue (Intelligence) Gems for spellcasting. Each type has unique characteristics and can be enhanced with Support Gems for deeper customization.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        577
+      ]
+    ]
+  },
+  "RNVqI9": {
+    "translation": "Path of Exile 2 Skill Gems provide primary combat abilities, divided into Red (Strength), Green (Dexterity), and Blue (Intelligence) categories. Each Skill Gem offers unique combat capabilities, from powerful melee attacks to devastating spells.",
+    "message": "Path of Exile 2 Skill Gems provide primary combat abilities, divided into Red (Strength), Green (Dexterity), and Blue (Intelligence) categories. Each Skill Gem offers unique combat capabilities, from powerful melee attacks to devastating spells.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        544
+      ]
+    ]
+  },
+  "oEMAxY": {
+    "translation": "Path of Exile 2 Skills Planner categorizes gems into three main types: Red (Strength) for melee and physical damage, Green (Dexterity) for ranged and agile combat, and Blue (Intelligence) for spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "message": "Path of Exile 2 Skills Planner categorizes gems into three main types: Red (Strength) for melee and physical damage, Green (Dexterity) for ranged and agile combat, and Blue (Intelligence) for spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        881
+      ]
+    ]
+  },
+  "c/quQp": {
+    "translation": "Path of Exile 2 Skills Planner features an extensive collection of Red (Strength), Green (Dexterity), and Blue (Intelligence) skill gems, allowing players to create powerful character builds through strategic gem combinations and support gem enhancements.",
+    "message": "Path of Exile 2 Skills Planner features an extensive collection of Red (Strength), Green (Dexterity), and Blue (Intelligence) skill gems, allowing players to create powerful character builds through strategic gem combinations and support gem enhancements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        838
+      ]
+    ]
+  },
+  "pr9uiD": {
+    "translation": "Path of Exile 2's best defensive skills include: Ice Barrier and Frost Shield for damage absorption, Temporal Chains for enemy control, Phase Run for escape mechanics, and various aura skills like Grace and Vitality for enhanced survivability. These skills can be combined with support gems for improved defensive capabilities.",
+    "message": "Path of Exile 2's best defensive skills include: Ice Barrier and Frost Shield for damage absorption, Temporal Chains for enemy control, Phase Run for escape mechanics, and various aura skills like Grace and Vitality for enhanced survivability. These skills can be combined with support gems for improved defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        824
+      ]
+    ]
+  },
+  "Rl390J": {
+    "translation": "Path of Exile 2's dexterity skills emphasize mobility and quick positioning. Skills like Smoke Mine and Phase Run provide essential movement options for both combat and exploration.",
+    "message": "Path of Exile 2's dexterity skills emphasize mobility and quick positioning. Skills like Smoke Mine and Phase Run provide essential movement options for both combat and exploration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        440
+      ]
+    ]
+  },
+  "i79PN8": {
+    "translation": "Path of Exile 2's dexterity skills excel in ranged combat, offering precise targeting and versatile attack options. Skills like Tornado Shot and Split Arrow provide excellent area coverage while maintaining safe distance from enemies.",
+    "message": "Path of Exile 2's dexterity skills excel in ranged combat, offering precise targeting and versatile attack options. Skills like Tornado Shot and Split Arrow provide excellent area coverage while maintaining safe distance from enemies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        415
+      ]
+    ]
+  },
+  "gVAQ6M": {
+    "translation": "Path of Exile 2's Intelligence skills can be categorized into three main types: Direct damage spells (like Fireball and Arc), Minion summoning skills (such as Summon Skeletons), and Utility/Support skills (including auras and defensive abilities). Each type serves different roles in combat and can be enhanced with support gems.",
+    "message": "Path of Exile 2's Intelligence skills can be categorized into three main types: Direct damage spells (like Fireball and Arc), Minion summoning skills (such as Summon Skeletons), and Utility/Support skills (including auras and defensive abilities). Each type serves different roles in combat and can be enhanced with support gems.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        510
+      ]
+    ]
+  },
+  "JLMWo5": {
+    "translation": "Path of Exile 2's Skill Gems system features three primary types: Red (Strength), Green (Dexterity), and Blue (Intelligence) gems, each offering unique combat capabilities and build possibilities.",
+    "message": "Path of Exile 2's Skill Gems system features three primary types: Red (Strength), Green (Dexterity), and Blue (Intelligence) gems, each offering unique combat capabilities and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        615
+      ]
+    ]
+  },
+  "m7EtTn": {
+    "translation": "Path of Exile 2's Support Gems are categorized by three main attributes: Strength (Red), Dexterity (Green), and Intelligence (Blue). Each type of Support Gem requires specific attribute levels and provides different modifications to active skills. Red Support Gems often enhance physical damage and defensive capabilities, Green Support Gems focus on projectile and speed modifications, while Blue Support Gems typically boost elemental and spell effects.",
+    "message": "Path of Exile 2's Support Gems are categorized by three main attributes: Strength (Red), Dexterity (Green), and Intelligence (Blue). Each type of Support Gem requires specific attribute levels and provides different modifications to active skills. Red Support Gems often enhance physical damage and defensive capabilities, Green Support Gems focus on projectile and speed modifications, while Blue Support Gems typically boost elemental and spell effects.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        723
+      ]
+    ]
+  },
+  "zFELgS": {
+    "translation": "Path of Exile 2's Support Gems can modify skill mechanics in real-time, allowing players to adapt their abilities to different situations. This flexibility enables diverse playstyles and strategic depth.",
+    "message": "Path of Exile 2's Support Gems can modify skill mechanics in real-time, allowing players to adapt their abilities to different situations. This flexibility enables diverse playstyles and strategic depth.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        711
+      ]
+    ]
+  },
+  "rcR3jp": {
+    "translation": "Path of Exile 2's Support Gems offer unprecedented customization, allowing players to modify and enhance their active skills in various ways. Each Support Gem can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics.",
+    "message": "Path of Exile 2's Support Gems offer unprecedented customization, allowing players to modify and enhance their active skills in various ways. Each Support Gem can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        686
+      ]
+    ]
+  },
+  "9ZrB50": {
+    "translation": "Physical Damage Focus",
+    "message": "Physical Damage Focus",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        333
+      ]
+    ]
+  },
+  "VKMSyV": {
+    "translation": "Plan and optimize your PoE2 character builds with detailed information about skill synergies, damage calculations, and defensive capabilities. Our planner helps you maximize your character's potential through effective skill gem combinations.",
+    "message": "Plan and optimize your PoE2 character builds with detailed information about skill synergies, damage calculations, and defensive capabilities. Our planner helps you maximize your character's potential through effective skill gem combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        843
+      ]
+    ]
+  },
+  "8gPvqK": {
+    "translation": "Plan your skill gem choices alongside passive tree decisions. Our PoE2 Skills Planner helps you create cohesive builds by showing how skill gems interact with passive tree choices.",
+    "message": "Plan your skill gem choices alongside passive tree decisions. Our PoE2 Skills Planner helps you create cohesive builds by showing how skill gems interact with passive tree choices.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        868
+      ]
+    ]
+  },
+  "+BRJj6": {
+    "translation": "Players can combine different Skill Gems to create unique builds, whether focusing on pure damage output, defensive capabilities, or hybrid approaches in PoE2's challenging content.",
+    "message": "Players can combine different Skill Gems to create unique builds, whether focusing on pure damage output, defensive capabilities, or hybrid approaches in PoE2's challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        635
+      ]
+    ]
+  },
+  "SaquMu": {
+    "translation": "Please enter a title",
+    "message": "Please enter a title",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        102
+      ]
+    ]
+  },
+  "aobb0H": {
+    "translation": "Please enter an author",
+    "message": "Please enter an author",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        106
+      ]
+    ]
+  },
+  "h1pZGt": {
+    "translation": "Please select at least one main skill",
+    "message": "Please select at least one main skill",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        110
+      ]
+    ]
+  },
+  "+Y65s1": {
+    "translation": "Please Sign In To Continue",
+    "message": "Please Sign In To Continue",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        38
+      ]
+    ]
+  },
+  "6EKMS0": {
+    "translation": "PoE2 dexterity skills shine in their ability to create powerful combinations. Popular pairings like Puncture with Damage on Full Life Support or Tornado Shot with Greater Multiple Projectiles maximize combat effectiveness.",
+    "message": "PoE2 dexterity skills shine in their ability to create powerful combinations. Popular pairings like Puncture with Damage on Full Life Support or Tornado Shot with Greater Multiple Projectiles maximize combat effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        430
+      ]
+    ]
+  },
+  "Ef7fXT": {
+    "translation": "PoE2 Intelligence skills offer diverse spellcasting options, allowing mages to adapt their strategy through various spell combinations. From direct damage spells to area-of-effect abilities, Intelligence builds can handle both single-target and group encounters effectively.",
+    "message": "PoE2 Intelligence skills offer diverse spellcasting options, allowing mages to adapt their strategy through various spell combinations. From direct damage spells to area-of-effect abilities, Intelligence builds can handle both single-target and group encounters effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        483
+      ]
+    ]
+  },
+  "+PZx0E": {
+    "translation": "PoE2 Strength Skills demonstrate excellent synergy with support gems and passive skills. These red gem abilities can be enhanced through strategic gem combinations and careful build planning.",
+    "message": "PoE2 Strength Skills demonstrate excellent synergy with support gems and passive skills. These red gem abilities can be enhanced through strategic gem combinations and careful build planning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        359
+      ]
+    ]
+  },
+  "o+2pHs": {
+    "translation": "PoE2 Strength Skills feature powerful AoE abilities like Ground Slam and Cleave for effective crowd control. These Strength-based attacks can handle multiple enemies while maintaining strong single-target damage potential.",
+    "message": "PoE2 Strength Skills feature powerful AoE abilities like Ground Slam and Cleave for effective crowd control. These Strength-based attacks can handle multiple enemies while maintaining strong single-target damage potential.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        344
+      ]
+    ]
+  },
+  "wOwmov": {
+    "translation": "PoE2 Support Gems dramatically alter combat capabilities by modifying damage types, adding effects, or changing skill behaviors. These modifications through Support Gems allow players to create unique and powerful skill combinations.",
+    "message": "PoE2 Support Gems dramatically alter combat capabilities by modifying damage types, adding effects, or changing skill behaviors. These modifications through Support Gems allow players to create unique and powerful skill combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        696
+      ]
+    ]
+  },
+  "i/DAEv": {
+    "translation": "PoE2's gem system allows for powerful combinations between Skill Gems and Support Gems. Players can create unique builds by linking complementary gems together, enhancing their effectiveness in combat and providing diverse gameplay options.",
+    "message": "PoE2's gem system allows for powerful combinations between Skill Gems and Support Gems. Players can create unique builds by linking complementary gems together, enhancing their effectiveness in combat and providing diverse gameplay options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        569
+      ]
+    ]
+  },
+  "jUaDnb": {
+    "translation": "Popular Green Skill Gems for ranged combat in Path of Exile 2 include Tornado Shot for AoE damage, Ice Shot for crowd control, and Puncture for single-target damage. These Dexterity-based gems excel in ranged combat scenarios.",
+    "message": "Popular Green Skill Gems for ranged combat in Path of Exile 2 include Tornado Shot for AoE damage, Ice Shot for crowd control, and Puncture for single-target damage. These Dexterity-based gems excel in ranged combat scenarios.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        589
+      ]
+    ]
+  },
+  "2ziObN": {
+    "translation": "Practice and Improvement Tips",
+    "message": "Practice and Improvement Tips",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        87
+      ]
+    ]
+  },
+  "DHhJ7s": {
+    "translation": "Previous",
+    "message": "Previous",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/pagination.tsx",
+        24
+      ]
+    ]
+  },
+  "aHCEmh": {
+    "translation": "Pricing",
+    "message": "Pricing",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        12
+      ]
+    ]
+  },
+  "ScJ9fj": {
+    "translation": "Privacy policy",
+    "message": "Privacy policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ],
+      [
+        "components/wegic/footer.tsx",
+        92
+      ]
+    ]
+  },
+  "woRfhL": {
+    "translation": "Privacy Policy for #0#",
+    "message": "Privacy Policy for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        16
+      ]
+    ]
+  },
+  "T7bBcH": {
+    "translation": "Professional Techniques",
+    "message": "Professional Techniques",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        133
+      ]
+    ]
+  },
+  "H+5wfn": {
+    "translation": "Progress from basic Dandy's World sketches to complex character compositions. Learn essential art principles through character-focused exercises and tutorials.",
+    "message": "Progress from basic Dandy's World sketches to complex character compositions. Learn essential art principles through character-focused exercises and tutorials.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        129
+      ]
+    ]
+  },
+  "VUcR6L": {
+    "translation": "Ranged Combat Focus",
+    "message": "Ranged Combat Focus",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        414
+      ]
+    ]
+  },
+  "zdFqOJ": {
+    "translation": "Red Gems (Strength)",
+    "message": "Red Gems (Strength)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        553
+      ]
+    ]
+  },
+  "XDr3Q0": {
+    "translation": "Red Skill Gems (Strength)",
+    "message": "Red Skill Gems (Strength)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        756
+      ]
+    ]
+  },
+  "ZzMbBc": {
+    "translation": "Red Skill Gems focus on melee combat and physical damage, featuring powerful strikes, slams, and defensive abilities. Popular skills include Cleave, Heavy Strike, and Ground Slam, ideal for warrior-type builds in Path of Exile 2.",
+    "message": "Red Skill Gems focus on melee combat and physical damage, featuring powerful strikes, slams, and defensive abilities. Popular skills include Cleave, Heavy Strike, and Ground Slam, ideal for warrior-type builds in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        554
+      ]
+    ]
+  },
+  "dS5A3M": {
+    "translation": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
+    "message": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        88
+      ]
+    ]
+  },
+  "FCMZT7": {
+    "translation": "REQUIREMENTS:",
+    "message": "REQUIREMENTS:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        101
+      ]
+    ]
+  },
+  "yY6AgM": {
+    "translation": "Save Build",
+    "message": "Save Build",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        300
+      ]
+    ]
+  },
+  "U1e3dH": {
+    "translation": "Saving build...",
+    "message": "Saving build...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        116
+      ]
+    ]
+  },
+  "XvjC4F": {
+    "translation": "Saving...",
+    "message": "Saving...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        300
+      ]
+    ]
+  },
+  "giZAjB": {
+    "translation": "Search skills...",
+    "message": "Search skills...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillFilter.tsx",
+        57
+      ]
+    ]
+  },
+  "ZqvdDl": {
+    "translation": "Sign In With Google",
+    "message": "Sign In With Google",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        50
+      ]
+    ]
+  },
+  "5KwHac": {
+    "translation": "Since Jujutsu Kaisen Phantom Parade is primarily available in Japanese, you can use translation tools or guides created by the community. Additionally, some players use VPNs to access the game from regions outside Japan.",
+    "message": "Since Jujutsu Kaisen Phantom Parade is primarily available in Japanese, you can use translation tools or guides created by the community. Additionally, some players use VPNs to access the game from regions outside Japan.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        217
+      ]
+    ]
+  },
+  "So8vLA": {
+    "translation": "Skill Combinations",
+    "message": "Skill Combinations",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        429
+      ]
+    ]
+  },
+  "b2kWPd": {
+    "translation": "Skill Development",
+    "message": "Skill Development",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        128
+      ]
+    ]
+  },
+  "fCL3cR": {
+    "translation": "Skill Gems - Core Combat Abilities",
+    "message": "Skill Gems - Core Combat Abilities",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        543
+      ]
+    ]
+  },
+  "x+zwNc": {
+    "translation": "Skill Gems can be enhanced with Support Gems, creating powerful combinations that modify and amplify their effects, allowing for deep customization of character builds in PoE2.",
+    "message": "Skill Gems can be enhanced with Support Gems, creating powerful combinations that modify and amplify their effects, allowing for deep customization of character builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        625
+      ]
+    ]
+  },
+  "D6yiax": {
+    "translation": "Skill gems in Path of Exile 2 gain experience as you use them and level up automatically when enough experience is gained. Higher level gems provide increased effectiveness but may require higher attribute values to use. Some gems can also be enhanced through quality improvements.",
+    "message": "Skill gems in Path of Exile 2 gain experience as you use them and level up automatically when enough experience is gained. Higher level gems provide increased effectiveness but may require higher attribute values to use. Some gems can also be enhanced through quality improvements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        828
+      ]
+    ]
+  },
+  "Gy87f7": {
+    "translation": "Skill Gems in Path of Exile 2 work in conjunction with the passive skill tree, where allocated points can enhance the effectiveness of your chosen gems. The passive tree starts in different sections based on your character's primary attribute, allowing you to specialize in specific Skill Gem types and create diverse build combinations.",
+    "message": "Skill Gems in Path of Exile 2 work in conjunction with the passive skill tree, where allocated points can enhance the effectiveness of your chosen gems. The passive tree starts in different sections based on your character's primary attribute, allowing you to specialize in specific Skill Gem types and create diverse build combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        660
+      ]
+    ]
+  },
+  "ndUYkQ": {
+    "translation": "Skill Gems in PoE2 can significantly impact team play through various support and synergy effects. Certain gems provide auras, buffs, or defensive benefits to allies, while others can create powerful offensive combinations when used together. Understanding these interactions is crucial for effective group gameplay.",
+    "message": "Skill Gems in PoE2 can significantly impact team play through various support and synergy effects. Certain gems provide auras, buffs, or defensive benefits to allies, while others can create powerful offensive combinations when used together. Understanding these interactions is crucial for effective group gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        676
+      ]
+    ]
+  },
+  "PoDInI": {
+    "translation": "Skill Gems in PoE2 gain experience as you use them in combat. As gems level up, they become more powerful, dealing increased damage or providing enhanced effects. Some gems can also be enhanced further through specific Support Gems and passive skill tree nodes.",
+    "message": "Skill Gems in PoE2 gain experience as you use them in combat. As gems level up, they become more powerful, dealing increased damage or providing enhanced effects. Some gems can also be enhanced further through specific Support Gems and passive skill tree nodes.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        597
+      ]
+    ]
+  },
+  "yPXV5d": {
+    "translation": "Skill Progression",
+    "message": "Skill Progression",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        791
+      ]
+    ]
+  },
+  "x+1D9r": {
+    "translation": "Skill Synergies",
+    "message": "Skill Synergies",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        358
+      ]
+    ]
+  },
+  "PYeaTU": {
+    "translation": "Specializes in ranged combat and agile playstyles. Includes powerful skills like Tornado Shot and Ice Shot, with strong support combinations for critical strikes and damage over time effects. Ideal for players who prefer mobility and precision.",
+    "message": "Specializes in ranged combat and agile playstyles. Includes powerful skills like Tornado Shot and Ice Shot, with strong support combinations for critical strikes and damage over time effects. Ideal for players who prefer mobility and precision.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        762
+      ]
+    ]
+  },
+  "pAcweS": {
+    "translation": "SPEED:",
+    "message": "SPEED:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        97
+      ]
+    ]
+  },
+  "P4lxjn": {
+    "translation": "Step-by-Step Learning",
+    "message": "Step-by-Step Learning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        103
+      ]
+    ]
+  },
+  "ZDK00R": {
+    "translation": "Strength Skills (red gems) focus on direct physical damage and survivability, while Dexterity skills emphasize speed and precision, and Intelligence skills focus on spells and elemental damage. Strength-based abilities excel in close combat and defensive capabilities, making them unique among the three attribute types.",
+    "message": "Strength Skills (red gems) focus on direct physical damage and survivability, while Dexterity skills emphasize speed and precision, and Intelligence skills focus on spells and elemental damage. Strength-based abilities excel in close combat and defensive capabilities, making them unique among the three attribute types.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        397
+      ]
+    ]
+  },
+  "8LeiXO": {
+    "translation": "Strength Skills (red gems) in PoE2 primarily focus on melee combat and physical damage. These skills excel at delivering powerful strikes, ground slams, and area-of-effect attacks. They naturally synergize with high life pools and armor, making them ideal for tanky builds. Key features include War Cries for buffing, heavy strikes for single-target damage, and ground slams for crowd control.",
+    "message": "Strength Skills (red gems) in PoE2 primarily focus on melee combat and physical damage. These skills excel at delivering powerful strikes, ground slams, and area-of-effect attacks. They naturally synergize with high life pools and armor, making them ideal for tanky builds. Key features include War Cries for buffing, heavy strikes for single-target damage, and ground slams for crowd control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        377
+      ]
+    ]
+  },
+  "LhGQJv": {
+    "translation": "Strength Skills in Path of Exile 2 feature powerful impact mechanics that can stun, knock back, or otherwise control enemies. These red skills excel at creating space and controlling battlefield positioning.",
+    "message": "Strength Skills in Path of Exile 2 feature powerful impact mechanics that can stun, knock back, or otherwise control enemies. These red skills excel at creating space and controlling battlefield positioning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        369
+      ]
+    ]
+  },
+  "ifAE8x": {
+    "translation": "Strength Skills in PoE2 excel at delivering powerful physical damage through melee attacks and ground slams. These red gem abilities form the core of physical damage builds, making them essential for close-combat focused characters.",
+    "message": "Strength Skills in PoE2 excel at delivering powerful physical damage through melee attacks and ground slams. These red gem abilities form the core of physical damage builds, making them essential for close-combat focused characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        334
+      ]
+    ]
+  },
+  "Pf823r": {
+    "translation": "Strength Skills include valuable team support options through abilities like Rallying Cry and Enduring Cry. These red gem skills enhance group play by providing buffs and defensive benefits to allies.",
+    "message": "Strength Skills include valuable team support options through abilities like Rallying Cry and Enduring Cry. These red gem skills enhance group play by providing buffs and defensive benefits to allies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        349
+      ]
+    ]
+  },
+  "prIkB+": {
+    "translation": "Strength Skills scale effectively through several mechanisms: physical damage increases with weapon quality, red gems gain power through leveling, and passive tree nodes enhance Strength-based abilities. Additionally, these skills benefit from life scaling, making them increasingly powerful as characters develop.",
+    "message": "Strength Skills scale effectively through several mechanisms: physical damage increases with weapon quality, red gems gain power through leveling, and passive tree nodes enhance Strength-based abilities. Additionally, these skills benefit from life scaling, making them increasingly powerful as characters develop.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        389
+      ]
+    ]
+  },
+  "PKAYT3": {
+    "translation": "Strength-based skills benefit from natural life scaling mechanics, making them ideal for high-health builds. The red gem system inherently supports survivability while maintaining strong offensive capabilities.",
+    "message": "Strength-based skills benefit from natural life scaling mechanics, making them ideal for high-health builds. The red gem system inherently supports survivability while maintaining strong offensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        364
+      ]
+    ]
+  },
+  "vmiqyT": {
+    "translation": "Strength-based skills provide valuable team support through several mechanics: War Cries offer temporary buffs to nearby allies, Rallying Cry increases group damage output, and many Strength Skills create defensive zones that benefit the entire team. These red gem abilities also help control battlefield positioning through knockback and stun effects.",
+    "message": "Strength-based skills provide valuable team support through several mechanics: War Cries offer temporary buffs to nearby allies, Rallying Cry increases group damage output, and many Strength Skills create defensive zones that benefit the entire team. These red gem abilities also help control battlefield positioning through knockback and stun effects.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        381
+      ]
+    ]
+  },
+  "DRzks3": {
+    "translation": "Strong emphasis on group play mechanics. Skills can be combined between players for enhanced effects, with auras and buffs benefiting entire parties. Perfect for cooperative gameplay and challenging group content.",
+    "message": "Strong emphasis on group play mechanics. Skills can be combined between players for enhanced effects, with auras and buffs benefiting entire parties. Perfect for cooperative gameplay and challenging group content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        787
+      ]
+    ]
+  },
+  "v+HYpp": {
+    "translation": "Support Gem Integration",
+    "message": "Support Gem Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        624
+      ]
+    ]
+  },
+  "HnnNzx": {
+    "translation": "Support Gems - Ability Enhancement",
+    "message": "Support Gems - Ability Enhancement",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        548
+      ]
+    ]
+  },
+  "/qzRU4": {
+    "translation": "Support Gems can modify skill damage in Path of Exile 2 through various multipliers and effects. They might increase base damage, add elemental damage, enhance critical strike chances, or provide damage over time effects. Some Support Gems also offer damage bonuses under specific conditions or against certain types of enemies.",
+    "message": "Support Gems can modify skill damage in Path of Exile 2 through various multipliers and effects. They might increase base damage, add elemental damage, enhance critical strike chances, or provide damage over time effects. Some Support Gems also offer damage bonuses under specific conditions or against certain types of enemies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        739
+      ]
+    ]
+  },
+  "bDfPmj": {
+    "translation": "Support Gems in Path of Exile 2 are specialized gems that modify and enhance active skill gems. They allow players to customize their abilities by altering damage types, adding effects, or changing skill behaviors. These Support Gems can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics and character capabilities.",
+    "message": "Support Gems in Path of Exile 2 are specialized gems that modify and enhance active skill gems. They allow players to customize their abilities by altering damage types, adding effects, or changing skill behaviors. These Support Gems can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics and character capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        719
+      ]
+    ]
+  },
+  "ZTydNa": {
+    "translation": "Support Gems in Path of Exile 2 can enhance defensive abilities, providing various forms of protection through skill modifications. Players can utilize Support Gems to improve survivability and create robust defensive setups.",
+    "message": "Support Gems in Path of Exile 2 can enhance defensive abilities, providing various forms of protection through skill modifications. Players can utilize Support Gems to improve survivability and create robust defensive setups.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        701
+      ]
+    ]
+  },
+  "GZFU/j": {
+    "translation": "Support Gems in Path of Exile 2 gain experience as you use them in combat, eventually leveling up to become more powerful. Higher-level Support Gems typically provide stronger effects but also require higher attribute values. Players can control gem leveling based on their build requirements and attribute availability.",
+    "message": "Support Gems in Path of Exile 2 gain experience as you use them in combat, eventually leveling up to become more powerful. Higher-level Support Gems typically provide stronger effects but also require higher attribute values. Players can control gem leveling based on their build requirements and attribute availability.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        747
+      ]
+    ]
+  },
+  "LcmDag": {
+    "translation": "Support Gems in Path of Exile 2 modify and enhance Active Skill Gems when linked together. They can alter damage types, add effects, increase attack speed, or provide utility benefits. The combination of Skill Gems with Support Gems creates powerful synergies for character builds.",
+    "message": "Support Gems in Path of Exile 2 modify and enhance Active Skill Gems when linked together. They can alter damage types, add effects, increase attack speed, or provide utility benefits. The combination of Skill Gems with Support Gems creates powerful synergies for character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        581
+      ]
+    ]
+  },
+  "HNSEdY": {
+    "translation": "Support gems in Path of Exile 2 modify and enhance the effects of active skill gems. They can be linked to active skills to add effects like increased damage, additional projectiles, or modified behavior. The combination of active skills and support gems allows for deep customization of your character's abilities.",
+    "message": "Support gems in Path of Exile 2 modify and enhance the effects of active skill gems. They can be linked to active skills to add effects like increased damage, additional projectiles, or modified behavior. The combination of active skills and support gems allows for deep customization of your character's abilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        804
+      ]
+    ]
+  },
+  "bOTDnj": {
+    "translation": "Support Gems in Path of Exile 2 modify and enhance the effects of active Skill Gems. When linked together, Support Gems can alter various aspects of the main skill, such as damage output, area of effect, critical strike chance, or adding new effects. This system allows for deep customization of character builds through different Skill Gem combinations.",
+    "message": "Support Gems in Path of Exile 2 modify and enhance the effects of active Skill Gems. When linked together, Support Gems can alter various aspects of the main skill, such as damage output, area of effect, critical strike chance, or adding new effects. This system allows for deep customization of character builds through different Skill Gem combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        652
+      ]
+    ]
+  },
+  "EoVn+L": {
+    "translation": "Support Gems in Path of Exile 2 significantly impact character builds by modifying skill mechanics, damage output, and utility effects. They can transform basic abilities into powerful combinations, enhance defensive capabilities, increase attack or cast speed, and add various effects like critical strikes or status ailments. The choice of Support Gems directly influences build effectiveness and playstyle options.",
+    "message": "Support Gems in Path of Exile 2 significantly impact character builds by modifying skill mechanics, damage output, and utility effects. They can transform basic abilities into powerful combinations, enhance defensive capabilities, increase attack or cast speed, and add various effects like critical strikes or status ailments. The choice of Support Gems directly influences build effectiveness and playstyle options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        731
+      ]
+    ]
+  },
+  "xrRhmD": {
+    "translation": "Support Gems in PoE2 modify and enhance Skill Gems' effects when linked together. They can alter damage types, add projectiles, increase attack speed, or provide utility effects, creating deep customization options for character builds.",
+    "message": "Support Gems in PoE2 modify and enhance Skill Gems' effects when linked together. They can alter damage types, add projectiles, increase attack speed, or provide utility effects, creating deep customization options for character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        549
+      ]
+    ]
+  },
+  "igPCWg": {
+    "translation": "Support Gems in PoE2 seamlessly integrate with active skills through the linking system. Players can combine multiple Support Gems with a single active skill, creating complex and powerful skill interactions that enhance their character's effectiveness.",
+    "message": "Support Gems in PoE2 seamlessly integrate with active skills through the linking system. Players can combine multiple Support Gems with a single active skill, creating complex and powerful skill interactions that enhance their character's effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        691
+      ]
+    ]
+  },
+  "zJznXk": {
+    "translation": "Support Gems System",
+    "message": "Support Gems System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        771
+      ]
+    ]
+  },
+  "Xff8Oa": {
+    "translation": "Support Skills",
+    "message": "Support Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        230
+      ]
+    ]
+  },
+  "7ZQrYT": {
+    "translation": "Team Support",
+    "message": "Team Support",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        348
+      ]
+    ]
+  },
+  "k+aCcA": {
+    "translation": "Team Synergy",
+    "message": "Team Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        786
+      ]
+    ]
+  },
+  "kF8bSs": {
+    "translation": "Team Synergy Planning",
+    "message": "Team Synergy Planning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        857
+      ]
+    ]
+  },
+  "UCLeG0": {
+    "translation": "Terms of service",
+    "message": "Terms of service",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        93
+      ]
+    ]
+  },
+  "X+aiz8": {
+    "translation": "Terms of Service for #0#",
+    "message": "Terms of Service for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        16
+      ]
+    ]
+  },
+  "UxGE0W": {
+    "translation": "The most effective dexterity skill combinations in Path of Exile 2 include: Tornado Shot with Greater Multiple Projectiles for AoE damage, Puncture with Damage on Full Life Support for single-target damage, and Split Arrow with Chain Support for mob clearing. These combinations provide versatile options for different combat scenarios.",
+    "message": "The most effective dexterity skill combinations in Path of Exile 2 include: Tornado Shot with Greater Multiple Projectiles for AoE damage, Puncture with Damage on Full Life Support for single-target damage, and Split Arrow with Chain Support for mob clearing. These combinations provide versatile options for different combat scenarios.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        452
+      ]
+    ]
+  },
+  "HDXzHc": {
+    "translation": "The most effective dexterity skills for PoE2 boss fights include: Barrage for single-target damage, Puncture for sustained bleeding damage, and Tornado Shot for managing additional enemies. These skills, combined with appropriate support gems, provide strong options for challenging boss encounters.",
+    "message": "The most effective dexterity skills for PoE2 boss fights include: Barrage for single-target damage, Puncture for sustained bleeding damage, and Tornado Shot for managing additional enemies. These skills, combined with appropriate support gems, provide strong options for challenging boss encounters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        468
+      ]
+    ]
+  },
+  "YHuztc": {
+    "translation": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ]
+    ]
+  },
+  "XsJQz+": {
+    "translation": "The passive skill tree in Path of Exile 2 enhances skill gems through various nodes that boost specific attributes or effects. Players can allocate passive points to strengthen their chosen skills, whether by increasing damage, improving critical strike chances, or enhancing defensive capabilities.",
+    "message": "The passive skill tree in Path of Exile 2 enhances skill gems through various nodes that boost specific attributes or effects. Players can allocate passive points to strengthen their chosen skills, whether by increasing damage, improving critical strike chances, or enhancing defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        820
+      ]
+    ]
+  },
+  "No7+CH": {
+    "translation": "The PoE2 Skills Planner offers various movement options: Flame Dash or Lightning Warp for spellcasters, Whirling Blades for melee characters, and Smoke Mine for general mobility. Choose based on your character's attributes and build requirements.",
+    "message": "The PoE2 Skills Planner offers various movement options: Flame Dash or Lightning Warp for spellcasters, Whirling Blades for melee characters, and Smoke Mine for general mobility. Choose based on your character's attributes and build requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        905
+      ]
+    ]
+  },
+  "FLydL7": {
+    "translation": "The PoE2 Skills Planner suggests defensive combinations like Ice Barrier with Increased Duration, Vitality with support gems for enhanced life regeneration, or Temporal Chains with area effect supports. These combinations help improve survivability in challenging content.",
+    "message": "The PoE2 Skills Planner suggests defensive combinations like Ice Barrier with Increased Duration, Vitality with support gems for enhanced life regeneration, or Temporal Chains with area effect supports. These combinations help improve survivability in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        897
+      ]
+    ]
+  },
+  "24RJBw": {
+    "translation": "The principal of the Kyoto Jujutsu High School, he often clashes with Gojo but is respected for his knowledge and experience in jujutsu.",
+    "message": "The principal of the Kyoto Jujutsu High School, he often clashes with Gojo but is respected for his knowledge and experience in jujutsu.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        323
+      ]
+    ]
+  },
+  "AU0l03": {
+    "translation": "The principal of the Tokyo Jujutsu High School, he is known for his expertise in creating cursed puppets and has a laid-back attitude.",
+    "message": "The principal of the Tokyo Jujutsu High School, he is known for his expertise in creating cursed puppets and has a laid-back attitude.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        318
+      ]
+    ]
+  },
+  "A77eUm": {
+    "translation": "The Skill Gems system integrates seamlessly with Path of Exile 2's passive skill tree, enabling players to create specialized builds by allocating points that enhance their chosen Skill Gems' effectiveness.",
+    "message": "The Skill Gems system integrates seamlessly with Path of Exile 2's passive skill tree, enabling players to create specialized builds by allocating points that enhance their chosen Skill Gems' effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        630
+      ]
+    ]
+  },
+  "WU9T4o": {
+    "translation": "The Strength Skills system offers remarkable combat flexibility through skills like Heavy Strike for single targets and Lacerate for area damage. These Strength-based abilities adapt to different combat situations effectively.",
+    "message": "The Strength Skills system offers remarkable combat flexibility through skills like Heavy Strike for single targets and Lacerate for area damage. These Strength-based abilities adapt to different combat situations effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        354
+      ]
+    ]
+  },
+  "pDFUtP": {
+    "translation": "The Strength-based skill system provides robust defensive options through War Cries and fortification mechanics. These red skills naturally synergize with high armor and life pools, creating durable tanky builds that can withstand significant damage.",
+    "message": "The Strength-based skill system provides robust defensive options through War Cries and fortification mechanics. These red skills naturally synergize with high armor and life pools, creating durable tanky builds that can withstand significant damage.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        339
+      ]
+    ]
+  },
+  "30GqmK": {
+    "translation": "The strongest sorcerer in the series, known for his exceptional skills and protective nature towards his students.",
+    "message": "The strongest sorcerer in the series, known for his exceptional skills and protective nature towards his students.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        248
+      ]
+    ]
+  },
+  "GYzcuY": {
+    "translation": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "message": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        25
+      ]
+    ]
+  },
+  "Xwg1Sn": {
+    "translation": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        17
+      ]
+    ]
+  },
+  "S1ia36": {
+    "translation": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        36
+      ]
+    ]
+  },
+  "x4f8pZ": {
+    "translation": "Tips",
+    "message": "Tips",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        16
+      ]
+    ]
+  },
+  "lwBH3z": {
+    "translation": "Tips Of Dandys World Draw",
+    "message": "Tips Of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        94
+      ]
+    ]
+  },
+  "+yrJEm": {
+    "translation": "To assist us in analyzing how our Service is used;",
+    "message": "To assist us in analyzing how our Service is used;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        30
+      ]
+    ]
+  },
+  "tFiI7E": {
+    "translation": "To begin drawing Dandy's World characters, you only need basic art supplies like pencils, paper, and erasers. For digital art, a drawing tablet and software like Procreate or Photoshop are recommended but not required. We provide tutorials for both traditional and digital mediums.",
+    "message": "To begin drawing Dandy's World characters, you only need basic art supplies like pencils, paper, and erasers. For digital art, a drawing tablet and software like Procreate or Photoshop are recommended but not required. We provide tutorials for both traditional and digital mediums.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        146
+      ]
+    ]
+  },
+  "sHKGIZ": {
+    "translation": "To create an effective build using the PoE2 Skills Planner, combine synergistic active skills with appropriate support gems, integrate utility skills for buffs and defense, and ensure your passive skill tree choices complement your selected skills. Consider your character's primary attributes and desired playstyle when planning.",
+    "message": "To create an effective build using the PoE2 Skills Planner, combine synergistic active skills with appropriate support gems, integrate utility skills for buffs and defense, and ensure your passive skill tree choices complement your selected skills. Consider your character's primary attributes and desired playstyle when planning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        885
+      ]
+    ]
+  },
+  "QYfZIH": {
+    "translation": "To download Jujutsu Kaisen Phantom Parade on Android, visit the Google Play Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the install button. Make sure your device runs Android 8.0 or later.",
+    "message": "To download Jujutsu Kaisen Phantom Parade on Android, visit the Google Play Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the install button. Make sure your device runs Android 8.0 or later.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        213
+      ]
+    ]
+  },
+  "2wkkZE": {
+    "translation": "To download Jujutsu Kaisen Phantom Parade on iOS, visit the Apple App Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the download button. Ensure your device meets the compatibility requirements (iOS 12.0 or later).",
+    "message": "To download Jujutsu Kaisen Phantom Parade on iOS, visit the Apple App Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the download button. Ensure your device meets the compatibility requirements (iOS 12.0 or later).",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        209
+      ]
+    ]
+  },
+  "gN00PD": {
+    "translation": "To facilitate our Service;",
+    "message": "To facilitate our Service;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
+      ]
+    ]
+  },
+  "lzF3W8": {
+    "translation": "To optimize a Strength Skills build: Choose complementary red gems that share scaling mechanisms, invest in relevant passive tree nodes, use appropriate support gems, and ensure your gear enhances physical damage and survivability. Focus on synergies between Strength-based abilities and your chosen defensive strategy.",
+    "message": "To optimize a Strength Skills build: Choose complementary red gems that share scaling mechanisms, invest in relevant passive tree nodes, use appropriate support gems, and ensure your gear enhances physical damage and survivability. Focus on synergies between Strength-based abilities and your chosen defensive strategy.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        405
+      ]
+    ]
+  },
+  "lNAN+A": {
+    "translation": "To optimize Intelligence skills for endgame content, players should focus on combining complementary skills with appropriate support gems. For example, pairing Fireball with Spell Echo for increased damage output, using defensive skills like Ice Barrier for survival, and incorporating utility skills like Temporal Chains for crowd control.",
+    "message": "To optimize Intelligence skills for endgame content, players should focus on combining complementary skills with appropriate support gems. For example, pairing Fireball with Spell Echo for increased damage output, using defensive skills like Ice Barrier for survival, and incorporating utility skills like Temporal Chains for crowd control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        522
+      ]
+    ]
+  },
+  "TIkU8p": {
+    "translation": "To perform Service-related services;",
+    "message": "To perform Service-related services;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        29
+      ]
+    ]
+  },
+  "jiYr9i": {
+    "translation": "To provide the Service on our behalf;",
+    "message": "To provide the Service on our behalf;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        28
+      ]
+    ]
+  },
+  "8sKmE2": {
+    "translation": "Top Blue Skill Gems for spellcasters include Fireball for area damage, Arc for chain lightning effects, and Frostbolt for crowd control. These Intelligence-based gems provide powerful magical abilities essential for spellcasting builds in PoE2.",
+    "message": "Top Blue Skill Gems for spellcasters include Fireball for area damage, Arc for chain lightning effects, and Frostbolt for crowd control. These Intelligence-based gems provide powerful magical abilities essential for spellcasting builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        593
+      ]
+    ]
+  },
+  "ZhoEAz": {
+    "translation": "Understanding Basic Shapes in Dandy's World Characters",
+    "message": "Understanding Basic Shapes in Dandy's World Characters",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        45
+      ]
+    ]
+  },
+  "g44YLV": {
+    "translation": "Unique Character Designs",
+    "message": "Unique Character Designs",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        98
+      ]
+    ]
+  },
+  "ONWvwQ": {
+    "translation": "Upload",
+    "message": "Upload",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/button.tsx",
+        44
+      ]
+    ]
+  },
+  "/eguJc": {
+    "translation": "Uploading",
+    "message": "Uploading",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/picture.tsx",
+        59
+      ]
+    ]
+  },
+  "Tctkpv": {
+    "translation": "Using the Path of Exile 2 Skills Planner, combine skills like Arc or Fireball with Critical Strike support gems. For spellcasters, skills like Wave of Conviction can lower enemy resistances, while support gems like Increased Critical Strikes enhance your critical hit chances.",
+    "message": "Using the Path of Exile 2 Skills Planner, combine skills like Arc or Fireball with Critical Strike support gems. For spellcasters, skills like Wave of Conviction can lower enemy resistances, while support gems like Increased Critical Strikes enhance your critical hit chances.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        901
+      ]
+    ]
+  },
+  "2t3ERA": {
+    "translation": "Using the PoE2 Skills Planner, you can optimize team play by combining auras like Grace or Vitality, support skills like Rallying Cry, and defensive abilities like Frost Shield. These combinations enhance group survivability and damage output.",
+    "message": "Using the PoE2 Skills Planner, you can optimize team play by combining auras like Grace or Vitality, support skills like Rallying Cry, and defensive abilities like Frost Shield. These combinations enhance group survivability and damage output.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        909
+      ]
+    ]
+  },
+  "qNd2+R": {
+    "translation": "Versatile Art Styles",
+    "message": "Versatile Art Styles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        108
+      ]
+    ]
+  },
+  "YAdzdY": {
+    "translation": "Versatile Spellcasting",
+    "message": "Versatile Spellcasting",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        482
+      ]
+    ]
+  },
+  "fwjhig": {
+    "translation": "Versatile Support Gem System",
+    "message": "Versatile Support Gem System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        685
+      ]
+    ]
+  },
+  "yhZMgW": {
+    "translation": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ]
+    ]
+  },
+  "X+XmuC": {
+    "translation": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        17
+      ]
+    ]
+  },
+  "PwAQEK": {
+    "translation": "Welcome to Dandy's World Draw, where artistic imagination meets structured learning in a vibrant creative community. Since our establishment in 2023, Dandy's World has become a premier destination for aspiring artists and seasoned illustrators alike, offering comprehensive tutorials and resources focused on character illustration. Our platform uniquely combines the charm of Dandy's World characters with professional art instruction, making the learning process both enjoyable and effective. Through our carefully crafted step-by-step guides, artists can master drawing techniques while exploring the delightful universe of Dandy's World. Whether you're sketching Rodger's playful expressions or capturing Shelly's dynamic poses, our community-driven platform provides the perfect environment for artistic growth. With weekly challenges, live drawing sessions, and a supportive network of fellow artists, Dandy's World Draw transforms the journey of learning character illustration into an engaging adventure. Join thousands of artists who have already discovered the joy of bringing Dandy's World characters to life through their artwork, and become part of a growing community dedicated to artistic excellence and creative expression.",
+    "message": "Welcome to Dandy's World Draw, where artistic imagination meets structured learning in a vibrant creative community. Since our establishment in 2023, Dandy's World has become a premier destination for aspiring artists and seasoned illustrators alike, offering comprehensive tutorials and resources focused on character illustration. Our platform uniquely combines the charm of Dandy's World characters with professional art instruction, making the learning process both enjoyable and effective. Through our carefully crafted step-by-step guides, artists can master drawing techniques while exploring the delightful universe of Dandy's World. Whether you're sketching Rodger's playful expressions or capturing Shelly's dynamic poses, our community-driven platform provides the perfect environment for artistic growth. With weekly challenges, live drawing sessions, and a supportive network of fellow artists, Dandy's World Draw transforms the journey of learning character illustration into an engaging adventure. Join thousands of artists who have already discovered the joy of bringing Dandy's World characters to life through their artwork, and become part of a growing community dedicated to artistic excellence and creative expression.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        27
+      ]
+    ]
+  },
+  "4mHXk2": {
+    "translation": "Welcome to Dandy's World drawing tutorials! Before starting, gather essential tools: pencils (HB, 2B), erasers, quality paper, and coloring materials. For digital artists, ensure you have a drawing tablet and software like Procreate or Photoshop ready.",
+    "message": "Welcome to Dandy's World drawing tutorials! Before starting, gather essential tools: pencils (HB, 2B), erasers, quality paper, and coloring materials. For digital artists, ensure you have a drawing tablet and software like Procreate or Photoshop ready.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        39
+      ]
+    ]
+  },
+  "+g53YR": {
+    "translation": "What are Intelligence Skills in Path of Exile 2?",
+    "message": "What are Intelligence Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        505
+      ]
+    ]
+  },
+  "SgcLUN": {
+    "translation": "What are meta gems in Path of Exile 2?",
+    "message": "What are meta gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        815
+      ]
+    ]
+  },
+  "iIb9EN": {
+    "translation": "What are Meta Gems in Path of Exile 2?",
+    "message": "What are Meta Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        663
+      ]
+    ]
+  },
+  "yUQN2E": {
+    "translation": "What are Meta Gems in PoE2?",
+    "message": "What are Meta Gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        604
+      ]
+    ]
+  },
+  "vodn3f": {
+    "translation": "What are Support Gems in Path of Exile 2?",
+    "message": "What are Support Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        718
+      ]
+    ]
+  },
+  "8yXSHr": {
+    "translation": "What are the benefits of combining different colored Skill Gems?",
+    "message": "What are the benefits of combining different colored Skill Gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        671
+      ]
+    ]
+  },
+  "JUd0hO": {
+    "translation": "What are the best defensive skill combinations in Path of Exile 2?",
+    "message": "What are the best defensive skill combinations in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        896
+      ]
+    ]
+  },
+  "c6yy8+": {
+    "translation": "What are the best defensive skills in PoE2?",
+    "message": "What are the best defensive skills in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        823
+      ]
+    ]
+  },
+  "paFODa": {
+    "translation": "What are the best Dexterity skills for beginners in Path of Exile 2?",
+    "message": "What are the best Dexterity skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        459
+      ]
+    ]
+  },
+  "Ttp4+Y": {
+    "translation": "What are the best Dexterity skills for boss fights in Path of Exile 2?",
+    "message": "What are the best Dexterity skills for boss fights in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        467
+      ]
+    ]
+  },
+  "koymT5": {
+    "translation": "What are the best Intelligence skills for beginners in Path of Exile 2?",
+    "message": "What are the best Intelligence skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        517
+      ]
+    ]
+  },
+  "CvL4R+": {
+    "translation": "What are the best movement skills for different character types?",
+    "message": "What are the best movement skills for different character types?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        904
+      ]
+    ]
+  },
+  "lfZF2Z": {
+    "translation": "What are the best Red Skill Gems for beginners?",
+    "message": "What are the best Red Skill Gems for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        584
+      ]
+    ]
+  },
+  "ocN0f+": {
+    "translation": "What are the best skill combinations for beginners in Path of Exile 2?",
+    "message": "What are the best skill combinations for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        888
+      ]
+    ]
+  },
+  "QkJbEe": {
+    "translation": "What are the best skill combinations for beginners in PoE2?",
+    "message": "What are the best skill combinations for beginners in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        807
+      ]
+    ]
+  },
+  "Soewil": {
+    "translation": "What are the best Skill Gems for beginners in Path of Exile 2?",
+    "message": "What are the best Skill Gems for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        655
+      ]
+    ]
+  },
+  "Q6oJnt": {
+    "translation": "What are the best Strength Skills for beginners in Path of Exile 2?",
+    "message": "What are the best Strength Skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        384
+      ]
+    ]
+  },
+  "4NP9YF": {
+    "translation": "What are the best Strength Skills for boss fights in Path of Exile 2?",
+    "message": "What are the best Strength Skills for boss fights in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        400
+      ]
+    ]
+  },
+  "NFMUoc": {
+    "translation": "What are the best Support Gems combinations for beginners?",
+    "message": "What are the best Support Gems combinations for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        726
+      ]
+    ]
+  },
+  "QOft4q": {
+    "translation": "What are the key defensive Intelligence skills in Path of Exile 2?",
+    "message": "What are the key defensive Intelligence skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        525
+      ]
+    ]
+  },
+  "nof9TG": {
+    "translation": "What are the key features of Jujutsu Kaisen Phantom Parade?",
+    "message": "What are the key features of Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        196
+      ]
+    ]
+  },
+  "XGVhle": {
+    "translation": "What are the key support gems for Strength Skills in Path of Exile 2?",
+    "message": "What are the key support gems for Strength Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        392
+      ]
+    ]
+  },
+  "ZYPue3": {
+    "translation": "What are the main characteristics of Dexterity Skills in Path of Exile 2?",
+    "message": "What are the main characteristics of Dexterity Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        447
+      ]
+    ]
+  },
+  "/mEwQk": {
+    "translation": "What are the main characteristics of Strength Skills in Path of Exile 2?",
+    "message": "What are the main characteristics of Strength Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        376
+      ]
+    ]
+  },
+  "JxO5Zc": {
+    "translation": "What are the main types of Intelligence skills available in PoE2?",
+    "message": "What are the main types of Intelligence skills available in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        509
+      ]
+    ]
+  },
+  "d4owts": {
+    "translation": "What are the main types of skill gems in Path of Exile 2?",
+    "message": "What are the main types of skill gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        799
+      ],
+      [
+        "config/site.ts",
+        880
+      ]
+    ]
+  },
+  "YE3fcf": {
+    "translation": "What are the main types of Skill Gems in Path of Exile 2?",
+    "message": "What are the main types of Skill Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        576
+      ],
+      [
+        "config/site.ts",
+        647
+      ]
+    ]
+  },
+  "1hode8": {
+    "translation": "What are the most powerful Blue Skill Gems for spellcasters?",
+    "message": "What are the most powerful Blue Skill Gems for spellcasters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        592
+      ]
+    ]
+  },
+  "AJVe8z": {
+    "translation": "What are the system requirements for Jujutsu Kaisen Phantom Parade?",
+    "message": "What are the system requirements for Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        192
+      ]
+    ]
+  },
+  "45Tqbt": {
+    "translation": "What is Dandy's World Draw and who is it for?",
+    "message": "What is Dandy's World Draw and who is it for?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        141
+      ]
+    ]
+  },
+  "K3QPzq": {
+    "translation": "What is Jujutsu Kaisen Phantom Parade and where can I download it?",
+    "message": "What is Jujutsu Kaisen Phantom Parade and where can I download it?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        184
+      ]
+    ]
+  },
+  "4WuGIw": {
+    "translation": "What role do Intelligence skills play in group content?",
+    "message": "What role do Intelligence skills play in group content?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        533
+      ]
+    ]
+  },
+  "EmMzNd": {
+    "translation": "What role do Support Gems play in group gameplay?",
+    "message": "What role do Support Gems play in group gameplay?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        742
+      ]
+    ]
+  },
+  "OWhEDw": {
+    "translation": "What should I do if I encounter a language barrier while playing Jujutsu Kaisen Phantom Parade?",
+    "message": "What should I do if I encounter a language barrier while playing Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        216
+      ]
+    ]
+  },
+  "ynLL9q": {
+    "translation": "When was Jujutsu Kaisen Phantom Parade officially released?",
+    "message": "When was Jujutsu Kaisen Phantom Parade officially released?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        188
+      ]
+    ]
+  },
+  "CQWnGL": {
+    "translation": "Which are the most popular Dexterity skill combinations in PoE2?",
+    "message": "Which are the most popular Dexterity skill combinations in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        451
+      ]
+    ]
+  },
+  "IDXfv8": {
+    "translation": "Which Green Skill Gems are most effective for ranged combat?",
+    "message": "Which Green Skill Gems are most effective for ranged combat?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        588
+      ]
+    ]
+  },
+  "Y7S/iq": {
+    "translation": "While Dandy's World characters are protected by copyright, we offer guidelines for fan art creation. Personal and educational use is encouraged, but commercial use requires proper licensing. Contact our licensing team for commercial inquiries.",
+    "message": "While Dandy's World characters are protected by copyright, we offer guidelines for fan art creation. Personal and educational use is encouraged, but commercial use requires proper licensing. Contact our licensing team for commercial inquiries.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        170
+      ]
+    ]
+  },
+  "nrsbsF": {
+    "translation": "While maintaining core character elements, Dandy's World encourages artistic interpretation. Experiment with different poses, expressions, and scenarios while drawing your favorite characters.",
+    "message": "While maintaining core character elements, Dandy's World encourages artistic interpretation. Experiment with different poses, expressions, and scenarios while drawing your favorite characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        124
+      ]
+    ]
+  },
+  "ekD2sN": {
+    "translation": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
+    "message": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        158
+      ]
+    ]
+  },
+  "L63PDE": {
+    "translation": "Yes, Jujutsu Kaisen Phantom Parade features full voice acting from the original anime cast, enhancing the immersive storytelling experience.",
+    "message": "Yes, Jujutsu Kaisen Phantom Parade features full voice acting from the original anime cast, enhancing the immersive storytelling experience.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        221
+      ]
+    ]
+  },
+  "038m1W": {
+    "translation": "Yes, Jujutsu Kaisen Phantom Parade is free to play. However, it includes in-app purchases for character upgrades, special items, and other enhancements.",
+    "message": "Yes, Jujutsu Kaisen Phantom Parade is free to play. However, it includes in-app purchases for character upgrades, special items, and other enhancements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        201
+      ]
+    ]
+  },
+  "V4swDT": {
+    "translation": "Yes, Path of Exile 2's gem system allows players to combine different types of Skill Gems and Support Gems for unique builds. For example, you can mix Red, Green, and Blue gems as long as your character meets the attribute requirements for each gem.",
+    "message": "Yes, Path of Exile 2's gem system allows players to combine different types of Skill Gems and Support Gems for unique builds. For example, you can mix Red, Green, and Blue gems as long as your character meets the attribute requirements for each gem.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        601
+      ]
+    ]
+  },
+  "3/hGXf": {
+    "translation": "Yes! We encourage sharing your Dandy's World artwork within our community. You can post your drawings on our platform, receive feedback from other artists, and participate in weekly challenges. Just remember to follow our community guidelines and credit Dandy's World appropriately.",
+    "message": "Yes! We encourage sharing your Dandy's World artwork within our community. You can post your drawings on our platform, receive feedback from other artists, and participate in weekly challenges. Just remember to follow our community guidelines and credit Dandy's World appropriately.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        154
+      ]
+    ]
+  },
+  "DattYp": {
+    "translation": "Yes! We host regular Dandy's World drawing challenges, monthly contests, and special events. These include character-of-the-month challenges, seasonal themed contests, and community art jams. Winners often receive recognition and special features on our platform.",
+    "message": "Yes! We host regular Dandy's World drawing challenges, monthly contests, and special events. These include character-of-the-month challenges, seasonal themed contests, and community art jams. Winners often receive recognition and special features on our platform.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        174
+      ]
+    ]
+  },
+  "oTbbJ/": {
+    "translation": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        19
+      ]
+    ]
+  }
+}

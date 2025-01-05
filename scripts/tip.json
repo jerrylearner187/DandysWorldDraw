@@ -1,0 +1,42 @@
+[
+  {
+    "img": "fa-solid fa-palette",
+    "tip": msg`Unique Character Designs`,
+    "description": msg`Dandy's World features distinctive character designs that are easy to draw. Each character, from Rodger to Shelly, has clear shapes and memorable features that make them perfect for both beginners and advanced artists.`
+  },
+  {
+    "img": "fa-solid fa-pencil",
+    "tip": msg`Step-by-Step Learning`,
+    "description": msg`Master drawing Dandy's World characters through progressive tutorials. Our structured approach breaks down complex characters into simple shapes, making it accessible for artists of all skill levels.`
+  },
+  {
+    "img": "fa-solid fa-layer-group",
+    "tip": msg`Versatile Art Styles`,
+    "description": msg`Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.`
+  },
+  {
+    "img": "fa-solid fa-users",
+    "tip": msg`Active Community`,
+    "description": msg`Join a vibrant community of Dandy's World artists. Share your drawings, get feedback, and participate in weekly challenges to improve your skills while connecting with fellow artists.`
+  },
+  {
+    "img": "fa-solid fa-book-open",
+    "tip": msg`Comprehensive Resources`,
+    "description": msg`Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.`
+  },
+  {
+    "img": "fa-solid fa-wand-magic-sparkles",
+    "tip": msg`Creative Freedom`,
+    "description": msg`While maintaining core character elements, Dandy's World encourages artistic interpretation. Experiment with different poses, expressions, and scenarios while drawing your favorite characters.`
+  },
+  {
+    "img": "fa-solid fa-graduation-cap",
+    "tip": msg`Skill Development`,
+    "description": msg`Progress from basic Dandy's World sketches to complex character compositions. Learn essential art principles through character-focused exercises and tutorials.`
+  },
+  {
+    "img": "fa-solid fa-paint-brush",
+    "tip": msg`Professional Techniques`,
+    "description": msg`Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.`
+  }
+]

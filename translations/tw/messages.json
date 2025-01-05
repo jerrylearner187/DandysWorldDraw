@@ -1,0 +1,4501 @@
+{
+  "32fNxX": {
+    "translation": "#0#保留自行修改或更換這些服務條款的權利。我們會以電子郵件通知用戶任何變更。您持續使用本網站即表示您接受此類變更。",
+    "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
+  "qVv47w": {
+    "translation": "1. 信息收集和使用",
+    "message": "1. Information Collection and Use",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        18
+      ]
+    ]
+  },
+  "dnEZiE": {
+    "translation": "1. 使用许可证",
+    "message": "1. Use License",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        18
+      ]
+    ]
+  },
+  "RUEwir": {
+    "translation": "2. 日志数据",
+    "message": "2. Log Data",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        20
+      ]
+    ]
+  },
+  "AV4xaK": {
+    "translation": "2. 所有权",
+    "message": "2. Ownership",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        20
+      ]
+    ]
+  },
+  "hczIS1": {
+    "translation": "3. Cookies",
+    "message": "3. Cookies",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        22
+      ]
+    ]
+  },
+  "69EiaO": {
+    "translation": "3. 用户数据收集",
+    "message": "3. User Data Collection",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        22
+      ]
+    ]
+  },
+  "pik+Gj": {
+    "translation": "4. 管辖法律",
+    "message": "4. Governing Law",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        24
+      ]
+    ]
+  },
+  "gSmscK": {
+    "translation": "4. 服务提供商",
+    "message": "4. Service Providers",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        24
+      ]
+    ]
+  },
+  "HT0gtE": {
+    "translation": "5. 条款变更",
+    "message": "5. Changes to Terms",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        26
+      ]
+    ]
+  },
+  "0jvfq0": {
+    "translation": "5. 安全性",
+    "message": "5. Security",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        33
+      ]
+    ]
+  },
+  "UA5K4X": {
+    "translation": "6. 联系信息",
+    "message": "6. Contact Information",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        28
+      ]
+    ]
+  },
+  "c72RA6": {
+    "translation": "6. 链接到其他网站",
+    "message": "6. Links to Other Sites",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        35
+      ]
+    ]
+  },
+  "FhdZtA": {
+    "translation": "7. 隐私政策变更",
+    "message": "7. Changes to This Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        37
+      ]
+    ]
+  },
+  "h++ayx": {
+    "translation": "一個自信而能幹的巫師，以其強烈的個性和戰鬥技巧而聞名。",
+    "message": "A confident and capable sorcerer, she is known for her strong personality and combat skills.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        298
+      ]
+    ]
+  },
+  "IzYS7Z": {
+    "translation": "一個自信而凶猛的呪術師，在戰鬥中使用詛咒工具。",
+    "message": "A confident and fierce Jujutsu Sorcerer who uses cursed tools in battle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        238
+      ]
+    ]
+  },
+  "9U3l20": {
+    "translation": "一個忠心於職責的巫師,她經常面臨挑戰性的處境,但仍努力證明自己。",
+    "message": "A dedicated sorcerer who is earnest in her duties, she often finds herself in challenging situations but strives to prove herself.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        288
+      ]
+    ]
+  },
+  "/mWTuu": {
+    "translation": "東京呪術高中福岡校的一年級學生,以其獨特的戰鬥風格著稱。",
+    "message": "A first-year student at the Fukuoka campus of Tokyo Jujutsu High, known for her unique combat style.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        253
+      ]
+    ]
+  },
+  "OKBeaG": {
+    "translation": "東京呪術高中的一年級學生,在吞下宿輪宿敷其中一根手指後成為其寄體。",
+    "message": "A first-year student at Tokyo Jujutsu High who becomes the vessel for Ryomen Sukuna after ingesting one of his fingers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        228
+      ]
+    ]
+  },
+  "RdVUza": {
+    "translation": "從薪資工人轉變為巫師的Nanami,務實且技藝高超,使用「比率技術」在戰鬥中造成重大傷害。",
+    "message": "A former salaryman turned sorcerer, Nanami is pragmatic and highly skilled, using his \"Ratio Technique\" to deal significant damage in battles.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        293
+      ]
+    ]
+  },
+  "pdCaP+": {
+    "translation": "加茂家族的成員,擁有能操縱血液的獨特詛咒能力。",
+    "message": "A member of the Kamo family, he possesses a unique cursed technique that allows him to manipulate blood.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        283
+      ]
+    ]
+  },
+  "bq9uHR": {
+    "translation": "一個結合科技和詛咒能量的強大機械實體,在戰鬥中提供獨特的策略。",
+    "message": "A powerful mechanical entity that combines technology with cursed energy, offering unique strategies in battle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        313
+      ]
+    ]
+  },
+  "O+2B9p": {
+    "translation": "是榛名家族強大的巫師,擅長肉體combat和詛咒技術。",
+    "message": "A powerful sorcerer from the Zenin family, she excels in physical combat and cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        243
+      ]
+    ]
+  },
+  "4TFm7i": {
+    "translation": "悟空Gojo的可靠助手,以其在呪術界的支持角色和戰略思維而聞名。",
+    "message": "A reliable aide to Satoru Gojo, known for his supportive role in the Jujutsu community and his strategic thinking.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        273
+      ]
+    ]
+  },
+  "fV22B7": {
+    "translation": "一位擅長逆詛術的醫生兼巫師,能夠治療他人。",
+    "message": "A skilled doctor and sorcerer who specializes in reverse curse techniques, allowing her to heal others.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        268
+      ]
+    ]
+  },
+  "aalQ7o": {
+    "translation": "一名二級呪術師,以其獨特的陰影技術而著稱。",
+    "message": "A talented Grade 2 Jujutsu Sorcerer known for his unique shadow techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        233
+      ]
+    ]
+  },
+  "T+EgFA": {
+    "translation": "智力技能的一個獨特特點是能夠召喚和控制隨從。像召喚骷髏這樣的技能在提供額外的戰鬥支持的同時，還能創造防守的干擾，使智力構建在管理戰場控制方面特別有效。",
+    "message": "A unique aspect of Intelligence skills is the ability to summon and control minions. Skills like Summon Skeletons provide additional combat support while creating defensive distractions, making Intelligence builds particularly effective at managing battlefield control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        488
+      ]
+    ]
+  },
+  "0R/rnX": {
+    "translation": "通過詛咒技術創造的獨特角色帕達,擁有嬉鬧的性格,但是作為多重形態的強大戰士。",
+    "message": "A unique character created through cursed techniques, Panda has a playful demeanor but is a formidable fighter with multiple forms.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        303
+      ]
+    ]
+  },
+  "uyJsf6": {
+    "translation": "關於",
+    "message": "About",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        25
+      ]
+    ]
+  },
+  "isTHa0": {
+    "translation": "沒錯！流浪騎士的社群提供多種支援選項：詳細的逐步指南、視頻教程、社區論壇，以及來自經驗豐富藝術家的反饋。您還可以參加我們每週的實時繪畫課程以獲得即時指導。",
+    "message": "Absolutely! The Dandy's World community offers multiple support options: detailed step-by-step guides, video tutorials, community forums, and feedback from experienced artists. You can also join our weekly live drawing sessions for real-time guidance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        166
+      ]
+    ]
+  },
+  "UEU44n": {
+    "translation": "獲取各種流浪騎士繪畫資源，包括角色指南、色彩調色板和比例圖。完美保持您的藝術作品的真實性。",
+    "message": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        119
+      ]
+    ]
+  },
+  "9hvc9M": {
+    "translation": "為流放之路2的新手玩家提供全面的指南。我們的計劃工具包含推薦的技能組合、升級策略和構建建議，以幫助初學者取得成功。",
+    "message": "Access comprehensive guides for new players in Path of Exile 2. Our planner includes recommended skill combinations, leveling strategies, and build suggestions to help beginners succeed.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        863
+      ]
+    ]
+  },
+  "Xs7qNN": {
+    "translation": "活躍的社群",
+    "message": "Active Community",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        113
+      ]
+    ]
+  },
+  "Jf2Ljl": {
+    "translation": "添加細節和表情",
+    "message": "Adding Details and Expressions",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        73
+      ]
+    ]
+  },
+  "cUSavi": {
+    "translation": "遊戲中介紹的原創特級詛咒靈,擁有能夠抵消其他詛咒技術的獨特能力。",
+    "message": "An original Special Grade Cursed Spirit introduced in the game, with a unique ability to nullify other cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        263
+      ]
+    ]
+  },
+  "fYJg3B": {
+    "translation": "使用我們的流放之路2技能計劃工具分析防禦能力。計算有效的生命值池，評估防禦技能組合，並使用各種技能寶石設置規劃角色的生存能力。",
+    "message": "Analyze defensive capabilities with our PoE2 Skills Planner. Calculate effective health pools, evaluate defensive skill combinations, and plan your character's survivability using various skill gem setups.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        848
+      ]
+    ]
+  },
+  "qHLB5X": {
+    "translation": "另一位來自福岡校區的一年級生,擁有與屏障相關的詛咒技術。",
+    "message": "Another first-year from the Fukuoka campus, he possesses barrier-related cursed techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        258
+      ]
+    ]
+  },
+  "JrsO8P": {
+    "translation": "使用官方的流浪騎士調色板上色。從基本顏色開始，然後添加陰影和高光。請記住，每個角色都有其獨特的顏色方案 - 例如羅傑的灰色禮服和紫藍色的綁帶。",
+    "message": "Apply colors using the official Dandy's World color palette. Start with base colors, then add shading and highlights. Remember that each character has their unique color scheme - like Rodger's gray tuxedo and purple-blue band.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        67
+      ]
+    ]
+  },
+  "NiSGP0": {
+    "translation": "在流浪騎士中是否有繪畫挑戰或活動？",
+    "message": "Are there any drawing challenges or events in Dandy's World?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        173
+      ]
+    ]
+  },
+  "4+KTpU": {
+    "translation": "流浪騎士的教程是否有不同的難度級別？",
+    "message": "Are there different difficulty levels in Dandy's World tutorials?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        157
+      ]
+    ]
+  },
+  "O05cq/": {
+    "translation": "區域控制",
+    "message": "Area Control",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        343
+      ]
+    ]
+  },
+  "sPu965": {
+    "translation": "攻擊速度與暴擊",
+    "message": "Attack Speed & Critical Strikes",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        852
+      ]
+    ]
+  },
+  "w7JxcK": {
+    "translation": "攻擊速度增強",
+    "message": "Attack Speed Enhancement",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        419
+      ]
+    ]
+  },
+  "PNdsa0": {
+    "translation": "屬性需求",
+    "message": "Attribute Requirements",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        705
+      ]
+    ]
+  },
+  "4i/H8S": {
+    "translation": "可用技能",
+    "message": "Available Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        154
+      ]
+    ]
+  },
+  "0BQ0oZ": {
+    "translation": "首先將流浪騎士的角色分解為基本形狀。大多數角色始於簡單的幾何形狀 - 羅傑的頭部是圓形，身體結構是矩形。在添加細節之前練習這些基礎形狀。",
+    "message": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        46
+      ]
+    ]
+  },
+  "vyTf0S": {
+    "translation": "新手友好的指南",
+    "message": "Beginner-Friendly Guides",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        862
+      ]
+    ]
+  },
+  "ExFMj8": {
+    "translation": "部落格",
+    "message": "Blogs",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        13
+      ]
+    ]
+  },
+  "0y1Z1Z": {
+    "translation": "藍色寶石（智力）",
+    "message": "Blue Gems (Intelligence)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        563
+      ]
+    ]
+  },
+  "hBkuTE": {
+    "translation": "藍色技能寶石（智力）",
+    "message": "Blue Skill Gems (Intelligence)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        766
+      ]
+    ]
+  },
+  "ScaRFk": {
+    "translation": "藍色技能寶石專注於施法和元素傷害。具有強大的法術，如火球、冰霜箭和電弧，完美適合流放之路2中的法師構建。還包括召喚小兵和實用法術。",
+    "message": "Blue Skill Gems specialize in spellcasting and elemental damage. Features powerful spells like Fireball, Frostbolt, and Arc, perfect for mage builds in Path of Exile 2. Also includes minion summoning and utility spells.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        564
+      ]
+    ]
+  },
+  "FPAKH+": {
+    "translation": "構建優化",
+    "message": "Build Optimization",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        842
+      ]
+    ]
+  },
+  "p536Zb": {
+    "translation": "構建多樣性",
+    "message": "Build Versatility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        634
+      ]
+    ]
+  },
+  "yZ2PlW": {
+    "translation": "使用#0#即表示您接受這些服務條款。",
+    "message": "By using #0#, you signify your acceptance of these Terms of Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        30
+      ]
+    ]
+  },
+  "6j7vqA": {
+    "translation": "在流放之路2中，不同類型的技能寶石可以結合使用嗎？",
+    "message": "Can different types of Skill Gems be combined in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        600
+      ]
+    ]
+  },
+  "to68Nn": {
+    "translation": "我可以在線分享我的流浪騎士藝術作品嗎？",
+    "message": "Can I share my Dandy's World artwork online?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        153
+      ]
+    ]
+  },
+  "i4CL2W": {
+    "translation": "我可以將流浪騎士的繪畫用於商業用途嗎？",
+    "message": "Can I use Dandy's World drawings for commercial purposes?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        169
+      ]
+    ]
+  },
+  "i/HCFv": {
+    "translation": "支援寶石可以與任何技能寶石一起使用嗎？",
+    "message": "Can Support Gems be used with any skill gem?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        734
+      ]
+    ]
+  },
+  "yz7wBu": {
+    "translation": "關閉",
+    "message": "Close",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        56
+      ]
+    ]
+  },
+  "FN4Har": {
+    "translation": "為您的流浪騎士角色上色",
+    "message": "Coloring Your Dandy's World Character",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        66
+      ]
+    ]
+  },
+  "CfQHuH": {
+    "translation": "戰鬥機制",
+    "message": "Combat Mechanics",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        619
+      ],
+      [
+        "config/site.ts",
+        781
+      ]
+    ]
+  },
+  "atHs5t": {
+    "translation": "戰鬥多樣性",
+    "message": "Combat Versatility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        353
+      ]
+    ]
+  },
+  "8YivsP": {
+    "translation": "在流放之路2中，將不同顏色的技能寶石結合可以實現多樣化的角色建設。例如，混合綠色和藍色技能寶石可以創造出同時利用遠程攻擊和法術的混合型建設，而結合紅色和綠色寶石則可以產生強大的近戰建設，具備增強的機動性和防禦能力。",
+    "message": "Combining different colored Skill Gems in Path of Exile 2 allows for versatile character builds. For example, mixing Green and Blue Skill Gems can create hybrid builds that utilize both ranged attacks and spells, while combining Red and Green gems can result in powerful melee builds with enhanced mobility and defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        672
+      ]
+    ]
+  },
+  "b+LYK6": {
+    "translation": "通過添加最後的修飾和可選的背景元素來完成您的流浪騎士繪畫。檢討您的作品以確保其與原始角色設計的一致性。與流浪騎士繪畫社群分享您的藝術作品以獲取反饋。",
+    "message": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        81
+      ]
+    ]
+  },
+  "jus2sV": {
+    "translation": "全面資源",
+    "message": "Comprehensive Resources",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        118
+      ]
+    ]
+  },
+  "PuvTyx": {
+    "translation": "綜合技能系統",
+    "message": "Comprehensive Skill System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        837
+      ]
+    ]
+  },
+  "akF51D": {
+    "translation": "Cookies 是一些包含少量数据的文件,通常用作匿名的唯一标识符。它们从您访问的网站发送到您的浏览器,并存储在您设备的内部内存中。本服务未明确使用这些 Cookies。然而,该应用可能使用第三方代码和库,它们使用 Cookies 来收集信息并改善其服务。您可以选择接受或拒绝这些 Cookies,并了解何时有 Cookie 发送到您的设备。如果您选择拒绝我们的 Cookies,您可能无法使用该服务的某些部分。",
+    "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        23
+      ]
+    ]
+  },
+  "/VjFmG": {
+    "translation": "成本倍增器：",
+    "message": "COST MULTIPLIER:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        91
+      ]
+    ]
+  },
+  "/36SYM": {
+    "translation": "成本：",
+    "message": "COST:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        87
+      ]
+    ]
+  },
+  "88ZhIO": {
+    "translation": "使用我們的流放之路2技能規劃師輕鬆創建和修改角色建構。嘗試不同的技能組合、輔助寶石和角色職業，找出最適合您的遊玩風格。",
+    "message": "Create and modify builds easily with our Path of Exile 2 Skills Planner. Experiment with different skill combinations, support gems, and character classes to find your perfect playstyle.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        873
+      ]
+    ]
+  },
+  "0Igqrf": {
+    "translation": "創作乾淨的線條藝術",
+    "message": "Creating Clean Line Art",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        59
+      ]
+    ]
+  },
+  "dPg4Dg": {
+    "translation": "創作自由",
+    "message": "Creative Freedom",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        123
+      ]
+    ]
+  },
+  "7TpNih": {
+    "translation": "致命一擊潛力",
+    "message": "Critical Strike Potential",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        434
+      ],
+      [
+        "config/site.ts",
+        497
+      ]
+    ]
+  },
+  "i3FKK/": {
+    "translation": "目前，呪術迴戰幽靈遊行主要以日語版本為主。日本以外的玩家可能需要使用VPN來存取該遊戲。",
+    "message": "Currently, Jujutsu Kaisen Phantom Parade is primarily available in Japanese. Players outside Japan may need to use a VPN to access the game.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        205
+      ]
+    ]
+  },
+  "QM/9nh": {
+    "translation": "傷害：",
+    "message": "DAMAGE:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        108
+      ]
+    ]
+  },
+  "6Mk9Tp": {
+    "translation": "流浪騎士的藝術風格適應多種媒介。無論您喜歡傳統素描、數位藝術或水彩畫，角色設計在不同藝術技法中都能完美轉換。",
+    "message": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        109
+      ]
+    ]
+  },
+  "Qh5TG7": {
+    "translation": "流浪騎士角色繪圖教程與資源",
+    "message": "Dandy's World Character Drawing Tutorials & Resources",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        21
+      ]
+    ]
+  },
+  "5h7rjv": {
+    "translation": "流浪騎士繪畫是一個全面的繪畫平台，旨在幫助初學者和有經驗的藝術家學習如何繪製流浪騎士角色。它提供逐步教程、資源和社區支持，讓任何人有興趣精通角色插畫。",
+    "message": "Dandy's World Draw is a comprehensive drawing platform designed for both beginners and experienced artists who want to learn how to draw Dandy's World characters. It offers step-by-step tutorials, resources, and community support for anyone interested in mastering character illustration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        142
+      ]
+    ]
+  },
+  "Yy0qpp": {
+    "translation": "流浪騎士擁有獨特的角色設計，易於繪製。每個角色，從羅傑到謝莉，都具有明確的形狀和難忘的特徵，完美適合初學者和進階藝術家。",
+    "message": "Dandy's World features distinctive character designs that are easy to draw. Each character, from Rodger to Shelly, has clear shapes and memorable features that make them perfect for both beginners and advanced artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        99
+      ]
+    ]
+  },
+  "cfyIgr": {
+    "translation": "流浪騎士繪畫",
+    "message": "Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        5
+      ]
+    ]
+  },
+  "oAnTvN": {
+    "translation": "通過寶石升級和質量提升的深入技能發展系統。隨著進度提升，技能變得更強，並可通過各種輔助組合增強其效果。",
+    "message": "Deep skill development system through gem leveling and quality improvements. Skills become more powerful as you progress, with options to enhance their effects through various support combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        792
+      ]
+    ]
+  },
+  "KOvQUt": {
+    "translation": "深入的技能整合",
+    "message": "Deep Skill Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        690
+      ]
+    ]
+  },
+  "6Iev04": {
+    "translation": "防禦規劃",
+    "message": "Defense Planning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        847
+      ]
+    ]
+  },
+  "igGiip": {
+    "translation": "防禦能力",
+    "message": "Defensive Capabilities",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        338
+      ],
+      [
+        "config/site.ts",
+        424
+      ],
+      [
+        "config/site.ts",
+        492
+      ],
+      [
+        "config/site.ts",
+        700
+      ]
+    ]
+  },
+  "rml26s": {
+    "translation": "使用我們的流放之路2技能規劃器設計有效的隊伍組合。規劃支援技能、光環和防禦能力，以創造強大的團隊協同作戰，挑戰艱難的內容。",
+    "message": "Design effective team compositions with our PoE2 Skills Planner. Plan support skills, auras, and defensive abilities to create powerful group synergies for challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        858
+      ]
+    ]
+  },
+  "7aqnOj": {
+    "translation": "流放之路2中的敏捷技能主要專注於遠程戰鬥和靈活的遊戲玩法。這些綠色技能在打擊與撤退戰術中表現出色，提供建造陷阱、修改彈藥類型和精確打擊的能力。對於喜歡靈活戰術作戰的玩家來說，這些技能特別有效。",
+    "message": "Dexterity skills in Path of Exile 2 are primarily focused on ranged combat and agile gameplay. These green-colored skills excel in hit-and-run tactics, offering abilities for constructing traps, modifying ammunition types, and executing precise strikes. They're particularly effective for players who prefer a mobile, tactical approach to combat.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        448
+      ]
+    ]
+  },
+  "pg57vT": {
+    "translation": "流放之路2中的敏捷技能具有優越的攻擊速度機制。關鍵技能如狂怒和血怒顯著提升攻擊速度，使得快速連擊成為可能，並增加每秒傷害潛力。",
+    "message": "Dexterity skills in PoE2 feature superior attack speed mechanics. Key skills like Frenzy and Blood Rage significantly boost attack speed, allowing for rapid-fire combat sequences and increased DPS potential.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        420
+      ]
+    ]
+  },
+  "iWojYC": {
+    "translation": "敏捷技能在流放之路2中提供幾種防禦優勢：優雅光環增加隊伍閃避，反抗旗幟減少所受傷害，煙霧地雷提供增加的閃避和移動速度。這些防禦性敏捷技能對於在艱難內容中的團隊生存至關重要。",
+    "message": "Dexterity skills provide several defensive benefits in PoE2: Grace aura increases team evasion, Defiance Banner reduces damage taken, and Smoke Mine grants increased evasion and movement speed. These defensive dexterity skills are crucial for team survival in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        456
+      ]
+    ]
+  },
+  "cBmrvx": {
+    "translation": "基於敏捷的構建在擊中暴擊方面表現出色，特別是使用如彈幕和冰箭等技能。這些技能可以通過支援寶石進一步增強，以達到毀滅性的暴擊率。",
+    "message": "Dexterity-based builds excel at landing critical strikes, particularly with skills like Barrage and Ice Shot. These skills can be enhanced with support gems to achieve devastating critical hit rates.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        435
+      ]
+    ]
+  },
+  "WQWUiU": {
+    "translation": "多樣的技能寶石類型",
+    "message": "Diverse Skill Gem Types",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        614
+      ]
+    ]
+  },
+  "xbpW40": {
+    "translation": "我需要特殊設備才能開始繪製流浪騎士角色嗎？",
+    "message": "Do I need special equipment to start drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        145
+      ]
+    ]
+  },
+  "GTZBEP": {
+    "translation": "呪術迴戰幽靈遊行是否包含原版動畫的聲優陣容?",
+    "message": "Does Jujutsu Kaisen Phantom Parade include the original anime cast?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        220
+      ]
+    ]
+  },
+  "Xm2xny": {
+    "translation": "動態戰鬥系統，具有物理和元素傷害類型。特色包含控制人群、增益和狀態效果。技能可以結合以實現強大的協同作戰，無論是在單獨或團隊遊玩中。",
+    "message": "Dynamic combat system with physical and elemental damage types. Features crowd control, buffs, and status effects. Skills can be combined for powerful synergies in both solo and group play.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        782
+      ]
+    ]
+  },
+  "kTY5vL": {
+    "translation": "動態技能修改",
+    "message": "Dynamic Skill Modification",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        710
+      ]
+    ]
+  },
+  "CsXK/Q": {
+    "translation": "每個技能寶石提供獨特的戰鬥能力 - 紅色寶石擅長近戰和物理傷害，綠色寶石專注於遠程攻擊和敏捷，而藍色寶石則專精於施法和元素傷害。",
+    "message": "Each Skill Gem provides distinct combat abilities - Red gems excel in melee combat and physical damage, Green gems focus on ranged attacks and agility, while Blue gems specialize in spellcasting and elemental damage.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        620
+      ]
+    ]
+  },
+  "xKpboT": {
+    "translation": "流放之路2中每個輔助寶石都有特定的屬性需求（力量、敏捷、智力），這影響了哪些角色建構可以有效地利用它們。這個系統創造了角色發展中的有意義選擇。",
+    "message": "Each Support Gem in PoE2 has specific attribute requirements (Strength, Dexterity, Intelligence), affecting which character builds can effectively utilize them. This system creates meaningful choices in character development.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        706
+      ]
+    ]
+  },
+  "jFbf9R": {
+    "translation": "元素傷害精通",
+    "message": "Elemental Damage Mastery",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        477
+      ]
+    ]
+  },
+  "I0Az3M": {
+    "translation": "增強戰鬥效果",
+    "message": "Enhanced Combat Effects",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        695
+      ]
+    ]
+  },
+  "WVSKOy": {
+    "translation": "力量技能的基本輔助寶石包括：近戰物理傷害輔助以提高傷害輸出、強化輔助以增強防禦、殘酷輔助以適合純物理傷害的建構，以及血魔法輔助以進行生命基礎的施法。這些顯著提升了紅色寶石能力的效果。",
+    "message": "Essential support gems for Strength Skills include: Melee Physical Damage Support for increased damage output, Fortify Support for defense, Brutality Support for pure physical damage builds, and Blood Magic Support for life-based casting. These enhance the effectiveness of red gem abilities significantly.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        393
+      ]
+    ]
+  },
+  "MwaR4Z": {
+    "translation": "通過被動技能進行大幅度的角色自訂。共享的被動樹讓所有職業都能夠訪問各種節點，啟用多樣的建構選擇和獨特的角色發展路徑。",
+    "message": "Extensive character customization through passive skills. The shared passive tree allows all classes to access various nodes, enabling diverse build options and unique character development paths.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        777
+      ]
+    ]
+  },
+  "6jIXss": {
+    "translation": "無法儲存建構",
+    "message": "Failed to save build",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        140
+      ]
+    ]
+  },
+  "lIFSzb": {
+    "translation": "上傳文件失敗：#0#",
+    "message": "Failed to upload file: {0}",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        23
+      ]
+    ]
+  },
+  "aJ4pMe": {
+    "translation": "常見問題",
+    "message": "FAQs",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        23
+      ]
+    ]
+  },
+  "PpZkda": {
+    "translation": "功能",
+    "message": "Features",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
+      ]
+    ]
+  },
+  "OjNld0": {
+    "translation": "流浪騎士繪畫的特點",
+    "message": "Features Of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        32
+      ]
+    ]
+  },
+  "m65fV0": {
+    "translation": "流放之路2敏捷技能的特徵",
+    "message": "Features Of POE2 Dexterity Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        410
+      ]
+    ]
+  },
+  "GVIp5w": {
+    "translation": "流放之路2寶石的特徵",
+    "message": "Features Of POE2 Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        539
+      ]
+    ]
+  },
+  "bLqRlz": {
+    "translation": "流放之路2智力技能的特徵",
+    "message": "Features Of POE2 Intelligence Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        473
+      ]
+    ]
+  },
+  "GyMkYP": {
+    "translation": "流放之路2技能寶石的特徵",
+    "message": "Features Of POE2 skill Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        610
+      ]
+    ]
+  },
+  "75xj60": {
+    "translation": "流放之路2技能的特徵",
+    "message": "Features Of POE2 Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        752
+      ]
+    ]
+  },
+  "rkn1bM": {
+    "translation": "流放之路2技能規劃工具的特徵",
+    "message": "Features Of POE2 Skills Planner",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        833
+      ]
+    ]
+  },
+  "H3SGDp": {
+    "translation": "流放之路2力量技能的特徵",
+    "message": "Features Of POE2 Strength Skills",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        329
+      ]
+    ]
+  },
+  "N/DeOS": {
+    "translation": "流放之路2輔助寶石的特徵",
+    "message": "Features Of POE2 Support Gems",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        681
+      ]
+    ]
+  },
+  "HUVqLy": {
+    "translation": "最後的修飾和背景",
+    "message": "Final Touches and Background",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        80
+      ]
+    ]
+  },
+  "kAFCHd": {
+    "translation": "靈活的建構創建",
+    "message": "Flexible Build Creation",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        872
+      ]
+    ]
+  },
+  "3YcJsM": {
+    "translation": "專注於角色特定的細節和表情。練習繪製流浪騎士中各種典型的情感和姿態。注意羅傑的眯眼和獨特配件等特徵。",
+    "message": "Focus on character-specific details and expressions. Practice drawing various emotions and poses typical in Dandy's World. Pay attention to unique features like Rodger's squinted eye or distinctive accessories.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        74
+      ]
+    ]
+  },
+  "qqyb4m": {
+    "translation": "專注於近戰和物理傷害。擁有強力的打擊、重擊和地面猛擊等範圍攻擊，以及通過戰吼進行的防禦能力。非常適合喜歡直接戰鬥和高生存能力的戰士。",
+    "message": "Focused on melee combat and physical damage. Features powerful strikes, AoE attacks like Cleave and Ground Slam, and defensive abilities through War Cries. Perfect for warriors who prefer direct combat and high survivability.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        757
+      ]
+    ]
+  },
+  "st6ZC4": {
+    "translation": "为了获得更好的体验,在使用我们的服务时,我可能需要您提供某些可识别的个人信息。所请求的信息将保留在您的设备上,并且我不会以任何方式收集。该应用确实使用可能收集用于识别您的信息的第三方服务。",
+    "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        19
+      ]
+    ]
+  },
+  "76LTZg": {
+    "translation": "對於流放之路2的初學者，推薦的技能組合包括：龍卷射擊 + 增強多重射擊以獲得遠程傷害、冰箭 + 低溫以進行控制、火球 + 法術回聲以獲取法術傷害、以及地面猛擊 + 強化以進行近戰戰鬥。這些組合提供良好的傷害輸出，同時相對簡單易用。",
+    "message": "For beginners in Path of Exile 2, recommended skill combinations include: Tornado Shot + Greater Multiple Projectiles for ranged damage, Ice Shot + Hypothermia for crowd control, Fireball + Spell Echo for spell damage, and Ground Slam + Fortify for melee combat. These combinations provide good damage output while being relatively straightforward to use.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        808
+      ]
+    ]
+  },
+  "BnNtJ0": {
+    "translation": "對於流放之路2的初學者，推薦的輔助寶石組合包括：增強多重射擊輔助與範圍傷害技能、滿生命傷害輔助與單體目標攻擊、更快攻擊輔助與基本攻擊技能、以及法術回聲輔助與施法能力。這些輔助寶石提供直接的好處，易於理解和有效利用。",
+    "message": "For beginners in Path of Exile 2, recommended Support Gem combinations include: Greater Multiple Projectiles Support with area damage skills, Damage on Full Life Support with single-target attacks, Faster Attacks Support with basic attack skills, and Spell Echo Support with casting abilities. These Support Gems provide straightforward benefits that are easy to understand and utilize effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        727
+      ]
+    ]
+  },
+  "AA2bAI": {
+    "translation": "對於流放之路2的初學者，推薦的敏捷技能包括：冰箭以獲取控場和傷害、分裂箭以輕鬆清理小怪，以及腐蝕箭以獲得可靠的持續傷害。這些技能簡單易用，提供良好的效能且對裝備需求較低。",
+    "message": "For beginners in PoE2, recommended dexterity skills include: Ice Shot for crowd control and damage, Split Arrow for easy mob clearing, and Caustic Arrow for reliable damage over time. These skills are straightforward to use and provide good effectiveness with minimal gear requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        460
+      ]
+    ]
+  },
+  "UkncHN": {
+    "translation": "對於流放之路2的初學者，推薦的智力技能包括火球以獲取穩定的傷害輸出、冰霜箭以進行控場、弧光以獲取連鎖閃電傷害，以及召喚骸骨以提供額外的戰鬥支持。這些技能簡單易用，為理解施法機制提供了良好的基礎。",
+    "message": "For beginners in PoE2, recommended Intelligence skills include Fireball for consistent damage output, Frostbolt for crowd control, Arc for chain lightning damage, and Summon Skeletons for additional combat support. These skills are straightforward to use and provide a good foundation for understanding spellcasting mechanics.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        518
+      ]
+    ]
+  },
+  "kwHGrZ": {
+    "translation": "對於流放之路2的初學者，推薦的紅色技能寶石包括：重擊以獲得單體傷害、地面猛擊以進行控場，以及重擊以獲得近戰攻擊選擇。這些力量型寶石簡單易用，為新玩家提供有效的戰鬥選擇。",
+    "message": "For beginners in PoE2, recommended Red Skill Gems include Cleave for area damage, Heavy Strike for single-target damage, and Ground Slam for crowd control. These Strength-based gems are straightforward to use and provide effective combat options for new players.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        585
+      ]
+    ]
+  },
+  "/NxQUS": {
+    "translation": "對於流放之路2的初學者，推薦的技能寶石包括：龍卷射擊配合增強多重射擊以獲得遠程建構、冰箭配合低溫以獲得控場、火球以用於施法者，以及重擊以用於近戰建構。這些技能寶石提供直接的機制，同時對早期遊戲內容仍然有效。",
+    "message": "For beginners in PoE2, recommended Skill Gems include: Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for crowd control, Fireball for spellcasters, and Heavy Strike for melee builds. These Skill Gems provide straightforward mechanics while remaining effective for early game content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        656
+      ]
+    ]
+  },
+  "g8laWJ": {
+    "translation": "對於初學者，推薦的力量技能包括：重擊以獲得單體傷害、地面猛擊以獲得範圍控制、劈砍以獲得群體清理，以及持續戰吼以獲得生存能力。這些紅色寶石能力簡單易用，為理解力量技能系統提供良好的基礎。",
+    "message": "For beginners, recommended Strength Skills include: Heavy Strike for single-target damage, Ground Slam for area control, Cleave for group clearing, and Enduring Cry for survival. These red gem abilities are straightforward to use and provide a good foundation for understanding the Strength skill system.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        385
+      ]
+    ]
+  },
+  "qRH6Ma": {
+    "translation": "對於初學者，流放之路2技能規劃工具推薦的組合如：龍卷射擊配合增強多重射擊以獲得遠程建構、冰箭配合低溫以獲得控制導向的遊玩，或火球配合法術回聲以獲得施法建構。這些組合提供良好的傷害且相對簡單易用。",
+    "message": "For beginners, the PoE2 Skills Planner recommends combinations like Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for control-oriented gameplay, or Fireball with Spell Echo for spellcasting builds. These combinations provide good damage and are relatively straightforward to use.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        889
+      ]
+    ]
+  },
+  "Q0ENOT": {
+    "translation": "對於首領戰鬥，強力的力量技能包括：重擊以獲得高單體傷害、熔岩重擊以獲得穩定的傷害輸出、地獄之擊以獲得爆發傷害，以及持續戰吼以便生存。這些紅色寶石能力提供了應對困難首領戰鬥所需的持續傷害和生存能力。",
+    "message": "For boss encounters, powerful Strength Skills include: Heavy Strike for high single-target damage, Molten Strike for consistent damage output, Infernal Blow for burst damage, and Enduring Cry for survival. These red gem abilities provide the sustained damage and survivability needed for challenging boss fights.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        401
+      ]
+    ]
+  },
+  "0qnBBD": {
+    "translation": "對於iOS裝置,呪術迴戰幽靈遊行需要iOS 12.0或更高版本,約需407.6 MB的儲存空間。對於Android裝置,則需要Android 8.0或更高版本。",
+    "message": "For iOS, Jujutsu Kaisen Phantom Parade requires iOS 12.0 or later and approximately 407.6 MB of storage space. For Android, it requires Android 8.0 or later.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        193
+      ]
+    ]
+  },
+  "F7G/TS": {
+    "translation": "常見問題",
+    "message": "Frequently Asked Questions",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/faqs.tsx",
+        31
+      ]
+    ]
+  },
+  "GgVATf": {
+    "translation": "寶石協同效應",
+    "message": "Gem Synergies",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        568
+      ]
+    ]
+  },
+  "T8FLO1": {
+    "translation": "開始流浪騎士繪畫",
+    "message": "Getting Started with Dandy's World Drawing",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        38
+      ]
+    ]
+  },
+  "OQjgfs": {
+    "translation": "綠色敏捷技能提供強大的防禦選擇，通過閃避和機動性增強。技能如優雅和抗拒旗幟增強團隊生存能力的同時保持攻擊能力。",
+    "message": "Green dexterity skills offer robust defensive options through evasion and mobility. Skills such as Grace and Defiance Banner enhance team survivability while maintaining offensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        425
+      ]
+    ]
+  },
+  "gNoxUU": {
+    "translation": "綠色寶石（敏捷）",
+    "message": "Green Gems (Dexterity)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        558
+      ]
+    ]
+  },
+  "QcQF16": {
+    "translation": "綠色技能寶石（敏捷）",
+    "message": "Green Skill Gems (Dexterity)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        761
+      ]
+    ]
+  },
+  "At6Qpc": {
+    "translation": "綠色技能寶石擅長於遠程戰鬥和基於敏捷的能力。關鍵技能如龍卷射擊、冰箭和刺穿為弓箭手和刺客類型的建構在流放之路2中提供出色的選擇。",
+    "message": "Green Skill Gems excel in ranged combat and agility-based abilities. Key skills like Tornado Shot, Ice Shot, and Puncture provide excellent options for bow users and assassin-style builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        559
+      ]
+    ]
+  },
+  "hnWur2": {
+    "translation": "高度可自定義的技能修改系統。輔助寶石增強主動技能的效果，允許進行深入的建構自訂。通過將輔助寶石與主動技能連結以增強力量和效用，創造獨特的組合。",
+    "message": "Highly customizable skill modification system. Support gems enhance active skills' effects, allowing for deep build customization. Create unique combinations by linking support gems with active skills for increased power and utility.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        772
+      ]
+    ]
+  },
+  "i0qMbr": {
+    "translation": "首頁",
+    "message": "Home",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        11
+      ],
+      [
+        "components/wegic/header.tsx",
+        7
+      ]
+    ]
+  },
+  "5FWvsY": {
+    "translation": "我如何在Android上下載呪術迴戰幽靈遊行?",
+    "message": "How can I download Jujutsu Kaisen Phantom Parade on Android?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        212
+      ]
+    ]
+  },
+  "1adYoo": {
+    "translation": "我如何在iOS上下載呪術迴戰幽靈遊行?",
+    "message": "How can I download Jujutsu Kaisen Phantom Parade on iOS?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        208
+      ]
+    ]
+  },
+  "hBpVMm": {
+    "translation": "我該如何優化自己在流放之路2中的力量技能建構？",
+    "message": "How can I optimize my Strength Skills build in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        404
+      ]
+    ]
+  },
+  "A3fPkq": {
+    "translation": "我如何跟蹤我繪製流浪騎士角色的進展？",
+    "message": "How can I track my progress in drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        177
+      ]
+    ]
+  },
+  "RbYob3": {
+    "translation": "如何為流放之路2中的智力技能優化結尾內容？",
+    "message": "How can Intelligence skills be optimized for endgame content in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        521
+      ]
+    ]
+  },
+  "87v437": {
+    "translation": "敏捷技能如何影響流放之路2中的不同角色類別？",
+    "message": "How do Dexterity skills affect different character classes in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        463
+      ]
+    ]
+  },
+  "W7khBP": {
+    "translation": "敏捷技能如何增強流放之路2中的團隊防禦？",
+    "message": "How do Dexterity skills enhance team defense in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        455
+      ]
+    ]
+  },
+  "k2a81l": {
+    "translation": "不同角色類別如何以不同方式利用技能寶石？",
+    "message": "How do different character classes utilize Skill Gems differently?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        667
+      ]
+    ]
+  },
+  "h6PW5i": {
+    "translation": "不同角色類別如何利用技能寶石？",
+    "message": "How do different character classes utilize skill gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        811
+      ]
+    ]
+  },
+  "qjQTW5": {
+    "translation": "我該如何在流放之路2中創建一個有效的技能建構？",
+    "message": "How do I create an effective skill build in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        884
+      ]
+    ]
+  },
+  "ppUwan": {
+    "translation": "我該如何利用技能優化角色的暴擊幾率？",
+    "message": "How do I optimize my character's critical strike chances using skills?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        900
+      ]
+    ]
+  },
+  "HVo8Qx": {
+    "translation": "智力技能如何影響流放之路2中的法師建構？",
+    "message": "How do Intelligence skills affect Mage builds in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        513
+      ]
+    ]
+  },
+  "xXQkPj": {
+    "translation": "智力技能在流放之路2中如何與輔助寶石互動？",
+    "message": "How do Intelligence skills interact with support gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        529
+      ]
+    ]
+  },
+  "m2Gksy": {
+    "translation": "被動技能如何與技能寶石互動？",
+    "message": "How do passive skills interact with skill gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        819
+      ]
+    ]
+  },
+  "ryLRic": {
+    "translation": "技能寶石如何影響流放之路2中的團隊合作？",
+    "message": "How do skill gems affect team play in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        908
+      ]
+    ]
+  },
+  "j5jOpJ": {
+    "translation": "技能寶石如何影響流放之路2中的團隊合作？",
+    "message": "How do Skill Gems affect team play in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        675
+      ]
+    ]
+  },
+  "EsTa/o": {
+    "translation": "技能寶石如何與流放之路2中的被動技能樹整合？",
+    "message": "How do Skill Gems integrate with the passive skill tree in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        659
+      ]
+    ]
+  },
+  "UTMZPT": {
+    "translation": "技能寶石如何在流放之路2中升級？",
+    "message": "How do skill gems level up in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        827
+      ]
+    ]
+  },
+  "rlZCTA": {
+    "translation": "技能寶石如何在流放之路2中升級？",
+    "message": "How do Skill Gems level up in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        596
+      ]
+    ]
+  },
+  "qERQah": {
+    "translation": "力量技能如何在流放之路2中为团队合作带来好处？",
+    "message": "How do Strength Skills benefit team play in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        380
+      ]
+    ]
+  },
+  "v3ijFS": {
+    "translation": "力量技能与流放之路2中的其他属性技能相比如何？",
+    "message": "How do Strength Skills compare to other attribute skills in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        396
+      ]
+    ]
+  },
+  "UWOgcG": {
+    "translation": "力量技能如何随着流放之路2中的角色进展而提升？",
+    "message": "How do Strength Skills scale with character progression in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        388
+      ]
+    ]
+  },
+  "nNME7C": {
+    "translation": "辅助宝石如何影响角色构建？",
+    "message": "How do Support Gems affect character builds?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        730
+      ]
+    ]
+  },
+  "yF0XDP": {
+    "translation": "辅助宝石如何影响流放之路2中的技能伤害？",
+    "message": "How do Support Gems affect skill damage in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        738
+      ]
+    ]
+  },
+  "Tn7Zef": {
+    "translation": "辅助宝石在流放之路2中如何运作？",
+    "message": "How do Support Gems work in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        580
+      ]
+    ]
+  },
+  "1KIhkX": {
+    "translation": "辅助宝石与流放之路2中不同属性类型的技能如何结合？",
+    "message": "How do Support Gems work with different attribute types in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        722
+      ]
+    ]
+  },
+  "N5flWT": {
+    "translation": "在流放之路2中，辅助宝石如何与技能宝石配合使用？",
+    "message": "How do support gems work with skill gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        803
+      ],
+      [
+        "config/site.ts",
+        892
+      ]
+    ]
+  },
+  "mEVwZQ": {
+    "translation": "辅助宝石如何与流放之路2中的技能宝石配合？",
+    "message": "How do Support Gems work with Skill Gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        651
+      ]
+    ]
+  },
+  "MhqG83": {
+    "translation": "如何提升辅助宝石的等级？",
+    "message": "How do you level up Support Gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        746
+      ]
+    ]
+  },
+  "bLDuMO": {
+    "translation": "學習流浪騎士角色繪畫需要多長時間？",
+    "message": "How long does it take to learn drawing Dandy's World characters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        149
+      ]
+    ]
+  },
+  "qhR+kn": {
+    "translation": "新的流浪騎士繪畫教程多久更新一次？",
+    "message": "How often are new Dandy's World drawing tutorials added?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        161
+      ]
+    ]
+  },
+  "dQt+7J": {
+    "translation": "我可能会雇用第三方公司和个人,原因如下:",
+    "message": "I may employ third-party companies and individuals due to the following reasons:",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        25
+      ]
+    ]
+  },
+  "EUZXzT": {
+    "translation": "我可能会不时更新我们的隐私政策。因此,您被建议定期查看此页面以了解任何变更。我将通过在此页面上发布新的隐私政策来通知您任何变更。这些变更在发布在此页面后立即生效。",
+    "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        38
+      ]
+    ]
+  },
+  "5dDG4E": {
+    "translation": "我重视您对我们提供个人信息的信任,因此我们正在努力使用商业上可接受的方式来保护它。但请记住,通过互联网传输或电子存储的任何方法都不是100%安全和可靠的,我无法保证其绝对安全。",
+    "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        34
+      ]
+    ]
+  },
+  "gFP4HL": {
+    "translation": "我想告知本服务的用户,这些第三方可以访问您的个人信息。原因是为了执行委托给他们的任务。但是,他们有义务不披露或使用该信息作任何其他用途。",
+    "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        32
+      ]
+    ]
+  },
+  "xeCjro": {
+    "translation": "我想告知您,每当您使用我的服务时,如果出现应用程序错误,我会收集您手机上的数据和信息(通过第三方产品),称为日志数据。这些日志数据可能包括您的设备互联网协议('IP')地址、设备名称、操作系统版本、使用我的服务时的应用程序配置、使用服务的时间和日期以及其他统计信息。",
+    "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        21
+      ]
+    ]
+  },
+  "d1ALrF": {
+    "translation": "如果您對這些條款有任何疑問,請與#0#聯繫。",
+    "message": "If you have any questions about these Terms, please contact us at #0#.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        29
+      ]
+    ]
+  },
+  "JsEKN8": {
+    "translation": "影响机制",
+    "message": "Impact Mechanics",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        368
+      ]
+    ]
+  },
+  "V6juom": {
+    "translation": "在团队内容中，智力技能通过元素伤害、控制敌人和提供效用效果提供至关重要的支持。技能比如时间链可以控制敌人的移动，而光环和防御能力可以保护整个队伍。这使得基于智力的角色成为流放之路2中宝贵的团队成员。",
+    "message": "In group content, Intelligence skills provide crucial support through elemental damage, crowd control, and utility effects. Skills like Temporal Chains can control enemy movement, while auras and defensive abilities can protect the entire party. This makes Intelligence-based characters valuable team members in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        534
+      ]
+    ]
+  },
+  "cOrZ61": {
+    "translation": "在流放之路2中，每个角色职业都根据其主要属性对某些技能宝石有自然的偏好。游侠擅长于绿色技能宝石以进行远程战斗，圣殿骑士则利用蓝色技能宝石进行施法，而野蛮人自然与红色技能宝石相结合以进行近战战斗。然而，任何职业都可以使用任何技能宝石，只要满足属性要求。",
+    "message": "In Path of Exile 2, each character class has natural affinities for certain Skill Gems based on their primary attributes. Rangers excel with Green Skill Gems for ranged combat, Templars benefit from Blue Skill Gems for spellcasting, and Marauders naturally align with Red Skill Gems for melee combat. However, any class can use any Skill Gem if they meet the attribute requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        668
+      ]
+    ]
+  },
+  "Eq/v2W": {
+    "translation": "在流放之路2中，每个职业对某些技能宝石有自然的偏好：游侠擅长使用绿色技能（如龙卷风射击），野蛮人则受益于红色技能（如地面猛击），而女巫专精于蓝色技能（如火球术）。然而，任何职业只要满足属性要求均可使用任意技能宝石。",
+    "message": "In Path of Exile 2, each character class has natural affinities for certain skill gems: Rangers excel with green skills like Tornado Shot, Marauders benefit from red skills like Ground Slam, and Witches specialize in blue skills like Fireball. However, any class can use any skill gem if they meet the attribute requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        812
+      ]
+    ]
+  },
+  "Ft7Ocz": {
+    "translation": "在流放之路2中，基于属性的技能宝石主要有三种类型：红色（力量）宝石专注于近战和物理伤害，绿色（灵巧）宝石专精于远程攻击和灵活性，蓝色（智力）宝石则集中于施法和元素伤害。每种类型都提供独特的游戏机制和构建可能性。",
+    "message": "In Path of Exile 2, there are three primary types of Skill Gems based on attributes: Red (Strength) gems focus on melee combat and physical damage, Green (Dexterity) gems specialize in ranged attacks and agility, and Blue (Intelligence) gems concentrate on spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        648
+      ]
+    ]
+  },
+  "5ZTRiC": {
+    "translation": "在流放之路2的团队玩法中，辅助宝石对于创建协同作用的团队组合至关重要。它们可以增强全队的增益效果，提供额外的防御层，提高控制能力，并提升整体团队的伤害输出。战略性地使用辅助宝石有助于优化在挑战内容中的团队表现。",
+    "message": "In Path of Exile 2's group gameplay, Support Gems are crucial for creating synergistic team compositions. They can enhance party-wide buffs, provide additional defensive layers, improve crowd control capabilities, and boost overall team damage output. Strategic use of Support Gems helps optimize group performance in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        743
+      ]
+    ]
+  },
+  "SnCrD7": {
+    "translation": "在流放之路2中，灵巧技能对不同职业的影响各异：游侠擅长使用诸如龙卷风射击的弓箭技能，决斗者则从狂怒和撕裂等技能中受益，而暗影则能够有效使用基于毒素的灵巧技能。每个职业根据其被动树的位置和自然属性可以不同地利用这些技能。",
+    "message": "In PoE2, dexterity skills impact different classes uniquely: Rangers excel with bow skills like Tornado Shot, Duelists benefit from skills like Frenzy and Lacerate, while Shadows can effectively use poison-based dexterity skills. Each class can utilize these skills differently based on their passive tree position and natural attributes.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        464
+      ]
+    ]
+  },
+  "uriovw": {
+    "translation": "在流放之路2技能规划器中，辅助宝石修改和增强主动技能宝石的效果。它们可以增加伤害、添加额外的投射物、提高施法速度或提供效用效果。适当的辅助宝石可以显著提升你技能的有效性。",
+    "message": "In the Path of Exile 2 Skills Planner, support gems modify and enhance active skill gems' effects. They can increase damage, add additional projectiles, improve casting speed, or provide utility effects. The right support gems can significantly boost your skills' effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        893
+      ]
+    ]
+  },
+  "g1A+ws": {
+    "translation": "在流放之路2中，智力技能（蓝色技能宝石）是专注于施法和元素伤害的专业能力。这些技能包括攻击法术、召唤小怪的能力和能够让玩家造成魔法伤害、控制战场和支持盟友的效用效果。",
+    "message": "Intelligence skills (blue skill gems) in Path of Exile 2 are specialized abilities focused on spellcasting and elemental damage. These skills include offensive spells, minion summoning abilities, and utility effects that allow players to deal magical damage, control the battlefield, and support allies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        506
+      ]
+    ]
+  },
+  "CSZLhb": {
+    "translation": "智力技能是流放之路2中法师构建的基础，通过元素法术提供必需的伤害输出、通过障碍物和控制敌人来提供防御能力，并通过召唤小怪提供效用。这些技能可以与辅助宝石结合，创造出增强攻击和防御能力的强大协同作用。",
+    "message": "Intelligence skills are fundamental to Mage builds in PoE2, providing essential damage output through elemental spells, defensive capabilities through barriers and crowd control, and utility through minion summoning. These skills can be combined with support gems to create powerful synergies that enhance both offensive and defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        514
+      ]
+    ]
+  },
+  "HP+1C4": {
+    "translation": "流放之路2中的智力技能可以通过辅助宝石进行增强，以修改其行为和效果。常见的组合包括使用法术回声实现重复施法，元素专注以提高元素伤害，以及更快施法以提高施法速度。适当的辅助宝石可以显著提升技能表现。",
+    "message": "Intelligence skills in Path of Exile 2 can be enhanced by support gems to modify their behavior and effectiveness. Common combinations include using Spell Echo for repeated casting, Elemental Focus for increased elemental damage, and Faster Casting for improved spell speed. The right support gems can significantly boost skill performance.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        530
+      ]
+    ]
+  },
+  "w0vEsM": {
+    "translation": "流放之路2中的智力技能在元素伤害输出方面表现出色，拥有火球术、冰霜箭和电击等强大法术，分别造成毁灭性的火焰、寒冷和闪电伤害。通过辅助宝石，这些技能的元素效果可以得到最大化。",
+    "message": "Intelligence skills in Path of Exile 2 excel at elemental damage output, featuring powerful spells like Fireball, Frostbolt, and Arc that deal devastating fire, cold, and lightning damage respectively. These skills can be enhanced with support gems to maximize elemental effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        478
+      ]
+    ]
+  },
+  "xdBWA0": {
+    "translation": "在流放之路2中，智力技能具有高致命一击潜力，特别是与电击和闪电打击等法术结合使用时。当与适当的辅助宝石结合时，这些技能可以造成毁灭性的致命一击，显著提升伤害输出。",
+    "message": "Intelligence skills in PoE2 feature high critical strike potential, particularly with spells like Arc and Lightning Strike. When combined with appropriate support gems, these skills can deliver devastating critical hits that significantly boost damage output.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        498
+      ]
+    ]
+  },
+  "JXVsIx": {
+    "translation": "智力技能包括强大的防御选项，如冰墙和冰霜护盾，通过伤害吸收和控制效果提供关键的生存能力。这些防御机制在维持战场存在方面至关重要。",
+    "message": "Intelligence skills include powerful defensive options such as Ice Barrier and Frost Shield, providing crucial survivability through damage absorption and crowd control effects. These defensive mechanisms are essential for maintaining battlefield presence.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        493
+      ]
+    ]
+  },
+  "RLPmGq": {
+    "translation": "流浪騎士繪畫的介紹",
+    "message": "Introduction of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        26
+      ]
+    ]
+  },
+  "rr52zJ": {
+    "translation": "呪術迴戰幽靈遊行是否提供英語版本?",
+    "message": "Is Jujutsu Kaisen Phantom Parade available in English?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        204
+      ]
+    ]
+  },
+  "tlfYGz": {
+    "translation": "呪術迴戰幽靈遊行是否為免費遊戲?",
+    "message": "Is Jujutsu Kaisen Phantom Parade free to play?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        200
+      ]
+    ]
+  },
+  "qG3jbM": {
+    "translation": "如果我在繪畫時遇到困難，有支援嗎？",
+    "message": "Is there support available if I get stuck while drawing?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        165
+      ]
+    ]
+  },
+  "MmfsOI": {
+    "translation": "加入一個充滿活力的流浪騎士藝術家社群。分享您的繪畫，獲取反饋，並參加每週挑戰以提高您的技能，同時與其他藝術家聯繫。",
+    "message": "Join a vibrant community of Dandy's World artists. Share your drawings, get feedback, and participate in weekly challenges to improve your skills while connecting with fellow artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        114
+      ]
+    ]
+  },
+  "LpV4OJ": {
+    "translation": "呪術迴戰幽靈遊行是一款基於熱門動畫系列「呪術迴戰」的手機角色扮演遊戲。它具備回合制戰鬥、豐富的劇情情節以及角色收集機制。您可以從Apple App Store下載iOS版本,或從Google Play Store下載Android版本。",
+    "message": "Jujutsu Kaisen Phantom Parade is a mobile RPG game based on the popular anime series Jujutsu Kaisen. It features turn-based combat, a rich storyline, and character collection mechanics. You can download Jujutsu Kaisen Phantom Parade from the Apple App Store for iOS devices and the Google Play Store for Android devices.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        185
+      ]
+    ]
+  },
+  "VuEEPs": {
+    "translation": "呪術迴戰幽靈遊行提供具有呪術迴戰宇宙中角色的回合制戰鬥、充滿生氣的劇情情節以及完整配音,並設有卡抽系統用於角色收集。該遊戲為粉絲提供沉浸式的體驗。",
+    "message": "Jujutsu Kaisen Phantom Parade offers turn-based combat with characters from the Jujutsu Kaisen universe, a rich storyline with full voice acting, and a gacha system for character collection. The game provides an immersive experience for fans of the series.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        197
+      ]
+    ]
+  },
+  "J73Tj0": {
+    "translation": "呪術迴戰幽靈遊行於2024年12月7日正式發行,現已在iOS和Android平台上提供下載。",
+    "message": "Jujutsu Kaisen Phantom Parade was officially released on December 7, 2024. It is now available for download on both iOS and Android platforms.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        189
+      ]
+    ]
+  },
+  "nBxiSt": {
+    "translation": "关键的防御智力技能包括冰墙用于伤害吸收，冰霜护盾用于保护，时间链用于控制敌人，以及相位奔跑用于机动性。这些技能帮助法师在具有挑战性的遭遇中生存，提供各种防御层和逃生选项。",
+    "message": "Key defensive Intelligence skills include Ice Barrier for damage absorption, Frost Shield for protection, Temporal Chains for enemy control, and Phase Run for mobility. These skills help Mages survive challenging encounters by providing various defensive layers and escape options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        526
+      ]
+    ]
+  },
+  "VFvlAZ": {
+    "translation": "擅長詛咒言語能力的東殿,能夠通過特定的詞語來操縱詛咒。他常用飯糰作為安全溝通的方式。",
+    "message": "Known for his cursed speech abilities, Toge can manipulate curses through specific words. He often uses rice balls as a way to communicate safely.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        278
+      ]
+    ]
+  },
+  "CUo907": {
+    "translation": "以其強大的力量和戰鬥實力而聞名,Todo也以其直白的性格和對朋友的忠誠而著稱。",
+    "message": "Known for his immense strength and combat prowess, Todo is also characterized by his straightforward personality and loyalty to friends.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        308
+      ]
+    ]
+  },
+  "BNIT3q": {
+    "translation": "學習專業的流浪騎士角色繪畫技術。通過專業的教程和指南掌握陰影、上色和細節工作。",
+    "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        134
+      ]
+    ]
+  },
+  "OZ6jLr": {
+    "translation": "學習流浪騎士角色的正確比例。使用頭部大小作為基本測量單位。例如，羅傑的身體通常是2.5個頭的高度。創建指導線以保持整個繪畫的一致比例。",
+    "message": "Learn the correct proportions for Dandy's World characters. Use the head size as a basic unit of measurement. For example, Rodger's body is typically 2.5 heads tall. Create guidelines to maintain consistent proportions throughout your drawing.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        53
+      ]
+    ]
+  },
+  "kWWrvV": {
+    "translation": "學習繪製流浪騎士角色",
+    "message": "Learn to Draw Dandy's World Characters",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        16
+      ]
+    ]
+  },
+  "99//iK": {
+    "translation": "學習繪製流浪騎士角色的時間因人而異。大多數初學者可以在2-4週的定期練習內創建可辨識的角色。我們的結構化教程將複雜角色分解為簡單步驟，使學習過程更易於管理。",
+    "message": "Learning to draw Dandy's World characters varies by individual. Most beginners can create recognizable characters within 2-4 weeks of regular practice. Our structured tutorials break down complex characters into simple steps, making the learning process more manageable.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        150
+      ]
+    ]
+  },
+  "VrNagU": {
+    "translation": "等级：",
+    "message": "Level:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        83
+      ]
+    ]
+  },
+  "OTtIU8": {
+    "translation": "生命增长",
+    "message": "Life Scaling",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        363
+      ]
+    ]
+  },
+  "Z3FXyt": {
+    "translation": "加載中...",
+    "message": "Loading...",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/loading.tsx",
+        8
+      ]
+    ]
+  },
+  "EvqQVm": {
+    "translation": "主技能",
+    "message": "Main Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        191
+      ]
+    ]
+  },
+  "R/on3o": {
+    "translation": "流放之路2中有许多技能宝石提供团队基础的好处，允许玩家通过增益、光环和防御能力支持盟友，以增强团队玩法。",
+    "message": "Many Skill Gems in Path of Exile 2 offer team-based benefits, allowing players to support allies through buffs, auras, and defensive abilities for enhanced group play.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        640
+      ]
+    ]
+  },
+  "6CXeFo": {
+    "translation": "通過逐步教程掌握繪製流浪騎士角色。我们的结构性方法将复杂角色分解为简单形状，使所有技能级别的艺术家都能轻松掌握。",
+    "message": "Master drawing Dandy's World characters through progressive tutorials. Our structured approach breaks down complex characters into simple shapes, making it accessible for artists of all skill levels.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        104
+      ]
+    ]
+  },
+  "SedUJT": {
+    "translation": "通过逐步教程掌握流浪骑士角色的绘制。获取专业提示，角色指南，并加入我们的艺术家创意社区。",
+    "message": "Master drawing Dandy's World characters with step-by-step tutorials. Get expert tips, character guides, and join our creative community of artists.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        17
+      ],
+      [
+        "config/site.ts",
+        22
+      ]
+    ]
+  },
+  "lY3yG3": {
+    "translation": "掌握角色比例",
+    "message": "Mastering Character Proportions",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        52
+      ]
+    ]
+  },
+  "H3p+ql": {
+    "translation": "元素魔法和召唤的高手。拥有强大的法术如火球术和电击，以及召唤小怪的能力。对于寻求高魔法伤害输出和战场控制的施法者至关重要。",
+    "message": "Masters of elemental magic and summoning. Features powerful spells like Fireball and Arc, alongside minion summoning abilities. Essential for spellcasters seeking high magical damage output and battlefield control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        767
+      ]
+    ]
+  },
+  "CH2/BC": {
+    "translation": "元宝石是流放之路2中高级技能宝石，在特定条件下触发，为角色构建增加了复杂性。这些宝石可以自动激活其他连结技能，或提供独特效果，为战斗中的技能组合和自动技能序列创造了复杂化的潜力。",
+    "message": "Meta Gems are advanced Skill Gems in PoE2 that trigger under specific conditions, adding complexity to character builds. These gems can activate other linked skills automatically or provide unique effects, allowing for sophisticated skill combinations and automated skill sequences in combat.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        664
+      ]
+    ]
+  },
+  "6NWiBo": {
+    "translation": "流放之路2中的元宝石是高级宝石，在特定条件下触发。它们通过允许自动技能激活或在满足特定条件时提供独特效果，为构建增加了复杂性，从而创建更为复杂的角色构建。",
+    "message": "Meta Gems in Path of Exile 2 are advanced gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or providing unique effects when certain conditions are met, creating more sophisticated character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        605
+      ]
+    ]
+  },
+  "sZUkBE": {
+    "translation": "流放之路2中的元宝石是高级技能宝石，在特定条件下触发。它们通过允许自动技能激活或在不同技能之间创建独特的互动模式，增加了构建的复杂性，使得角色构建更加精致。",
+    "message": "Meta gems in Path of Exile 2 are advanced skill gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or creating unique interaction patterns between different skills, enabling more sophisticated character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        816
+      ]
+    ]
+  },
+  "IYxXKr": {
+    "translation": "召唤小怪",
+    "message": "Minion Summoning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        487
+      ]
+    ]
+  },
+  "44khzM": {
+    "translation": "移动与灵活性",
+    "message": "Movement and Agility",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        439
+      ]
+    ]
+  },
+  "qQKpn1": {
+    "translation": "多人协作",
+    "message": "Multiplayer Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        639
+      ]
+    ]
+  },
+  "bHt2FX": {
+    "translation": "網路錯誤或跨來源資源共享（CORS）問題。",
+    "message": "Network error or CORS issue.",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/useS34R2.ts",
+        27
+      ]
+    ]
+  },
+  "isRobC": {
+    "translation": "新",
+    "message": "New",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        41
+      ]
+    ]
+  },
+  "6vUzxA": {
+    "translation": "新流浪骑士教程每周添加，包括角色指南、技術示範和特殊主題課程。我們會根據社群反饋定期更新內容，並隨著新角色的出現引入教程。",
+    "message": "New Dandy's World tutorials are added weekly, including character guides, technique demonstrations, and special themed lessons. We regularly update our content based on community feedback and introduce tutorials for new characters as they appear.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        162
+      ]
+    ]
+  },
+  "ko93eb": {
+    "translation": "新用戶登錄將獲得2個積分",
+    "message": "New users who log in will receive 2 credits",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        39
+      ]
+    ]
+  },
+  "hXzOVo": {
+    "translation": "下一个",
+    "message": "Next",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/pagination.tsx",
+        36
+      ]
+    ]
+  },
+  "4WSj+R": {
+    "translation": "并非所有辅助宝石都可以与流放之路2中的每个技能宝石配合使用。辅助宝石根据技能类型（攻击、法术、小怪等）和属性要求有特定的兼容性要求。玩家必须仔细检查宝石描述和要求，以确保在创建技能组合时的兼容性。",
+    "message": "Not all Support Gems can be used with every skill gem in Path of Exile 2. Support Gems have specific compatibility requirements based on the skill type (attack, spell, minion, etc.) and attribute requirements. Players must carefully check gem descriptions and requirements to ensure proper compatibility when creating skill combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        735
+      ]
+    ]
+  },
+  "FvxCMW": {
+    "translation": "一旦熟悉基本形狀，專注於線條藝術。從輕描開始，然後逐漸細化您的線條。對於流浪騎士角色，使用不同的線條粗細為您的繪畫增添深度和特色。",
+    "message": "Once comfortable with basic shapes, focus on line art. Start with light sketching, then gradually refine your lines. For Dandy's World characters, use varying line weights to add depth and character to your drawings.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        60
+      ]
+    ]
+  },
+  "mFvrex": {
+    "translation": "通过规划攻击速度和致命一击组合来优化您角色的DPS。我们的规划工具帮助您选择最佳的技能宝石和辅助宝石，以最大化您在流放之路2中的伤害输出。",
+    "message": "Optimize your character's DPS by planning attack speed and critical strike combinations. Our planner helps you select the best skill gems and support gems to maximize your damage output in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        853
+      ]
+    ]
+  },
+  "d2Hx1C": {
+    "translation": "我們的平台包括進度跟蹤系統，您可以保存您的流浪騎士藝術作品，隨時間對比進步，並獲得成就徽章。我們還鼓勵維持個人的藝術作品集，以視覺化您的發展。",
+    "message": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        178
+      ]
+    ]
+  },
+  "MyRipQ": {
+    "translation": "被動技能樹",
+    "message": "Passive Skill Tree",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        776
+      ]
+    ]
+  },
+  "QAAPjM": {
+    "translation": "被動樹整合",
+    "message": "Passive Tree Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        867
+      ]
+    ]
+  },
+  "cu+r4f": {
+    "translation": "被動樹協同",
+    "message": "Passive Tree Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        629
+      ]
+    ]
+  },
+  "yujZ2L": {
+    "translation": "流放之路2 具有三種主要類型的技能寶石：紅色（力量）寶石專注於近戰和物理傷害，綠色（敏捷）寶石專精於遠程攻擊和靈活性，以及藍色（智力）寶石圍繞施法和元素傷害。每種類型有其獨特特徵，且可以透過輔助寶石進行強化。",
+    "message": "Path of Exile 2 features three main types of skill gems: Red (Strength) gems focusing on melee combat and physical damage, Green (Dexterity) gems specializing in ranged attacks and agility, and Blue (Intelligence) gems centered on spellcasting and elemental damage. Each type has unique characteristics and can be enhanced with support gems.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        800
+      ]
+    ]
+  },
+  "9sef72": {
+    "translation": "流放之路2 具有三種主要類型的技能寶石：紅色（力量）寶石適用於近戰，綠色（敏捷）寶石適用於遠程攻擊，藍色（智力）寶石適用於施法。每種類型擁有獨特特徵，並可透過輔助寶石進行更深層的客製化。",
+    "message": "Path of Exile 2 features three primary types of Skill Gems: Red (Strength) Gems for melee combat, Green (Dexterity) Gems for ranged attacks, and Blue (Intelligence) Gems for spellcasting. Each type has unique characteristics and can be enhanced with Support Gems for deeper customization.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        577
+      ]
+    ]
+  },
+  "RNVqI9": {
+    "translation": "流放之路2 技能寶石提供主要戰鬥能力，分為紅色（力量）、綠色（敏捷）和藍色（智力）類別。每顆技能寶石提供獨特戰鬥能力，從強大的近戰攻擊到毀滅性的法術。",
+    "message": "Path of Exile 2 Skill Gems provide primary combat abilities, divided into Red (Strength), Green (Dexterity), and Blue (Intelligence) categories. Each Skill Gem offers unique combat capabilities, from powerful melee attacks to devastating spells.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        544
+      ]
+    ]
+  },
+  "oEMAxY": {
+    "translation": "流放之路2 技能規劃器將寶石分類為三種類型：紅色（力量）適用於近戰和物理傷害，綠色（敏捷）適用於遠程和靈活戰鬥，藍色（智力）適用於施法和元素傷害。每一類型提供獨特的遊戲機制和建造可能性。",
+    "message": "Path of Exile 2 Skills Planner categorizes gems into three main types: Red (Strength) for melee and physical damage, Green (Dexterity) for ranged and agile combat, and Blue (Intelligence) for spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        881
+      ]
+    ]
+  },
+  "c/quQp": {
+    "translation": "流放之路2 技能規劃器擁有豐富的紅色（力量）、綠色（敏捷）和藍色（智力）技能寶石收藏，讓玩家能透過策略寶石組合和輔助寶石增強來打造強大的角色構建。",
+    "message": "Path of Exile 2 Skills Planner features an extensive collection of Red (Strength), Green (Dexterity), and Blue (Intelligence) skill gems, allowing players to create powerful character builds through strategic gem combinations and support gem enhancements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        838
+      ]
+    ]
+  },
+  "pr9uiD": {
+    "translation": "流放之路2 最佳防禦技能包括：冰障和霜盾用於傷害吸收，時間鏈條用於敵我控制，階段奔跑用於逃脫機制，以及各種光環技能如優雅和活力增強生存能力。這些技能可以與輔助寶石結合以改善防禦能力。",
+    "message": "Path of Exile 2's best defensive skills include: Ice Barrier and Frost Shield for damage absorption, Temporal Chains for enemy control, Phase Run for escape mechanics, and various aura skills like Grace and Vitality for enhanced survivability. These skills can be combined with support gems for improved defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        824
+      ]
+    ]
+  },
+  "Rl390J": {
+    "translation": "流放之路2 的敏捷技能強調流動性和快速定位。像煙霧地雷和階段奔跑的技能提供了戰鬥和探索的基本移動選擇。",
+    "message": "Path of Exile 2's dexterity skills emphasize mobility and quick positioning. Skills like Smoke Mine and Phase Run provide essential movement options for both combat and exploration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        440
+      ]
+    ]
+  },
+  "i79PN8": {
+    "translation": "流放之路2 的敏捷技能在遠程戰鬥中表現出色，提供精確的目標鎖定和多樣的攻擊選項。像龍卷風射擊和分裂箭提供優異的區域覆蓋，同時保持與敵人的安全距離。",
+    "message": "Path of Exile 2's dexterity skills excel in ranged combat, offering precise targeting and versatile attack options. Skills like Tornado Shot and Split Arrow provide excellent area coverage while maintaining safe distance from enemies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        415
+      ]
+    ]
+  },
+  "gVAQ6M": {
+    "translation": "流放之路2 的智力技能可分為三種類型：直接傷害法術（如火球和弧光）、召喚隨從技能（如召喚骷髏）和實用/輔助技能（包括光環和防禦能力）。每種類型在戰鬥中發揮不同角色並可以透過輔助寶石進行強化。",
+    "message": "Path of Exile 2's Intelligence skills can be categorized into three main types: Direct damage spells (like Fireball and Arc), Minion summoning skills (such as Summon Skeletons), and Utility/Support skills (including auras and defensive abilities). Each type serves different roles in combat and can be enhanced with support gems.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        510
+      ]
+    ]
+  },
+  "JLMWo5": {
+    "translation": "流放之路2 的技能寶石系統包含三種類型：紅色（力量）、綠色（敏捷）和藍色（智力）寶石，每種類型提供獨特的戰鬥能力和構建可能性。",
+    "message": "Path of Exile 2's Skill Gems system features three primary types: Red (Strength), Green (Dexterity), and Blue (Intelligence) gems, each offering unique combat capabilities and build possibilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        615
+      ]
+    ]
+  },
+  "m7EtTn": {
+    "translation": "流放之路2 的輔助寶石按三個主要屬性進行分類：力量（紅色）、敏捷（綠色）和智力（藍色）。每類輔助寶石需要特定的屬性等級，並提供不同的修飾效果於主動技能。紅色輔助寶石通常增強物理傷害和防禦能力，綠色輔助寶石著重於投射物和速度修飾，而藍色輔助寶石通常提升元素和法術效果。",
+    "message": "Path of Exile 2's Support Gems are categorized by three main attributes: Strength (Red), Dexterity (Green), and Intelligence (Blue). Each type of Support Gem requires specific attribute levels and provides different modifications to active skills. Red Support Gems often enhance physical damage and defensive capabilities, Green Support Gems focus on projectile and speed modifications, while Blue Support Gems typically boost elemental and spell effects.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        723
+      ]
+    ]
+  },
+  "zFELgS": {
+    "translation": "流放之路2 的輔助寶石可實時修改技能機制，使玩家能夠根據不同情況調整他們的能力。這種靈活性使多樣的玩法風格和戰略深度成為可能。",
+    "message": "Path of Exile 2's Support Gems can modify skill mechanics in real-time, allowing players to adapt their abilities to different situations. This flexibility enables diverse playstyles and strategic depth.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        711
+      ]
+    ]
+  },
+  "rcR3jp": {
+    "translation": "流放之路2 的輔助寶石提供前所未有的客製化，允許玩家在多種方式中修飾和增強他們的主動技能。每顆輔助寶石都可以與主動技能連結，創造強大的組合，從根本上改變遊戲機制。",
+    "message": "Path of Exile 2's Support Gems offer unprecedented customization, allowing players to modify and enhance their active skills in various ways. Each Support Gem can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        686
+      ]
+    ]
+  },
+  "9ZrB50": {
+    "translation": "物理傷害專注",
+    "message": "Physical Damage Focus",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        333
+      ]
+    ]
+  },
+  "VKMSyV": {
+    "translation": "使用詳細的技能協同、傷害計算和防禦能力信息來規劃和優化您的流放之路2 角色構建。我們的規劃器幫助您通過有效的技能寶石組合最大化角色潛力。",
+    "message": "Plan and optimize your PoE2 character builds with detailed information about skill synergies, damage calculations, and defensive capabilities. Our planner helps you maximize your character's potential through effective skill gem combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        843
+      ]
+    ]
+  },
+  "8gPvqK": {
+    "translation": "與被動樹決策一起規劃您的技能寶石選擇。我們的流放之路2 技能規劃器通過展示技能寶石如何與被動樹選擇互動來幫助您創建統一的構建。",
+    "message": "Plan your skill gem choices alongside passive tree decisions. Our PoE2 Skills Planner helps you create cohesive builds by showing how skill gems interact with passive tree choices.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        868
+      ]
+    ]
+  },
+  "+BRJj6": {
+    "translation": "玩家可以結合不同的技能寶石來創造獨特的構建，無論是專注於純傷害輸出、防禦能力，還是混合方式，以應對流放之路2 的挑戰內容。",
+    "message": "Players can combine different Skill Gems to create unique builds, whether focusing on pure damage output, defensive capabilities, or hybrid approaches in PoE2's challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        635
+      ]
+    ]
+  },
+  "SaquMu": {
+    "translation": "請輸入標題",
+    "message": "Please enter a title",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        102
+      ]
+    ]
+  },
+  "aobb0H": {
+    "translation": "請輸入作者",
+    "message": "Please enter an author",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        106
+      ]
+    ]
+  },
+  "h1pZGt": {
+    "translation": "請至少選擇一個主要技能",
+    "message": "Please select at least one main skill",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        110
+      ]
+    ]
+  },
+  "+Y65s1": {
+    "translation": "請登錄以繼續",
+    "message": "Please Sign In To Continue",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        38
+      ]
+    ]
+  },
+  "6EKMS0": {
+    "translation": "流放之路2 敏捷技能在創造強大組合的能力上大放異彩。流行的搭配如穿刺與滿生命時的傷害輔助或龍卷風射擊與更大多重射程最大化戰鬥效能。",
+    "message": "PoE2 dexterity skills shine in their ability to create powerful combinations. Popular pairings like Puncture with Damage on Full Life Support or Tornado Shot with Greater Multiple Projectiles maximize combat effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        430
+      ]
+    ]
+  },
+  "Ef7fXT": {
+    "translation": "流放之路2 智力技能提供多樣的施法選擇，允許法師透過各種法術組合適應其戰略。從直接傷害法術到區域效果能力，智力構建可以有效應對單目標和群體戰鬥。",
+    "message": "PoE2 Intelligence skills offer diverse spellcasting options, allowing mages to adapt their strategy through various spell combinations. From direct damage spells to area-of-effect abilities, Intelligence builds can handle both single-target and group encounters effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        483
+      ]
+    ]
+  },
+  "+PZx0E": {
+    "translation": "流放之路2 力量技能展现出与支援宝石和被动技能的优秀协同。这些红色宝石的能力可以通过战略宝石组合和细致的构建规划得以增强。",
+    "message": "PoE2 Strength Skills demonstrate excellent synergy with support gems and passive skills. These red gem abilities can be enhanced through strategic gem combinations and careful build planning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        359
+      ]
+    ]
+  },
+  "o+2pHs": {
+    "translation": "流放之路2 力量技能具有强大的范围攻击能力，如地面猛击和劈砍，有效进行人群控制。这些基于力量的攻击可以处理多个敌人，同时保持强大的单体伤害潜力。",
+    "message": "PoE2 Strength Skills feature powerful AoE abilities like Ground Slam and Cleave for effective crowd control. These Strength-based attacks can handle multiple enemies while maintaining strong single-target damage potential.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        344
+      ]
+    ]
+  },
+  "wOwmov": {
+    "translation": "流放之路2 支援宝石通过改变伤害类型、添加效果或改变技能行为显著改变战斗能力。这些通过支援宝石的修改允许玩家创造独特而强大的技能组合。",
+    "message": "PoE2 Support Gems dramatically alter combat capabilities by modifying damage types, adding effects, or changing skill behaviors. These modifications through Support Gems allow players to create unique and powerful skill combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        696
+      ]
+    ]
+  },
+  "i/DAEv": {
+    "translation": "流放之路2 的宝石系统允许技能宝石与支援宝石之间的强大组合。玩家可以通过将互补的宝石连接在一起，创造独特的构建，从而在战斗中增强其效果并提供多样的游戏选项。",
+    "message": "PoE2's gem system allows for powerful combinations between Skill Gems and Support Gems. Players can create unique builds by linking complementary gems together, enhancing their effectiveness in combat and providing diverse gameplay options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        569
+      ]
+    ]
+  },
+  "jUaDnb": {
+    "translation": "流放之路2 中流行的绿色技能宝石包括龙卷风箭（Tornado Shot）用于范围伤害，冰霜箭（Ice Shot）用于人群控制，以及穿刺（Puncture）用于单体伤害。这些基于敏捷的宝石在远程战斗中表现出色。",
+    "message": "Popular Green Skill Gems for ranged combat in Path of Exile 2 include Tornado Shot for AoE damage, Ice Shot for crowd control, and Puncture for single-target damage. These Dexterity-based gems excel in ranged combat scenarios.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        589
+      ]
+    ]
+  },
+  "2ziObN": {
+    "translation": "練習與提升技巧",
+    "message": "Practice and Improvement Tips",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        87
+      ]
+    ]
+  },
+  "DHhJ7s": {
+    "translation": "上一步",
+    "message": "Previous",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/pagination.tsx",
+        24
+      ]
+    ]
+  },
+  "aHCEmh": {
+    "translation": "定价",
+    "message": "Pricing",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        12
+      ]
+    ]
+  },
+  "ScJ9fj": {
+    "translation": "隱私權政策",
+    "message": "Privacy policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ],
+      [
+        "components/wegic/footer.tsx",
+        92
+      ]
+    ]
+  },
+  "woRfhL": {
+    "translation": "#0#的隱私政策",
+    "message": "Privacy Policy for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        16
+      ]
+    ]
+  },
+  "T7bBcH": {
+    "translation": "專業技巧",
+    "message": "Professional Techniques",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        133
+      ]
+    ]
+  },
+  "H+5wfn": {
+    "translation": "從基本的流浪騎士素描進展到複雜的角色構圖。通過角色專注的練習和教程學習基本的藝術原則。",
+    "message": "Progress from basic Dandy's World sketches to complex character compositions. Learn essential art principles through character-focused exercises and tutorials.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        129
+      ]
+    ]
+  },
+  "VUcR6L": {
+    "translation": "远程战斗专注",
+    "message": "Ranged Combat Focus",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        414
+      ]
+    ]
+  },
+  "zdFqOJ": {
+    "translation": "红色宝石（力量）",
+    "message": "Red Gems (Strength)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        553
+      ]
+    ]
+  },
+  "XDr3Q0": {
+    "translation": "红色技能宝石（力量）",
+    "message": "Red Skill Gems (Strength)",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        756
+      ]
+    ]
+  },
+  "ZzMbBc": {
+    "translation": "红色技能宝石专注于近战战斗和物理伤害，具有强大的攻击、猛击和防御能力。流行的技能包括劈砍、重击和地面猛击，非常适合在流放之路2 中的战士类型构建。",
+    "message": "Red Skill Gems focus on melee combat and physical damage, featuring powerful strikes, slams, and defensive abilities. Popular skills include Cleave, Heavy Strike, and Ground Slam, ideal for warrior-type builds in Path of Exile 2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        554
+      ]
+    ]
+  },
+  "dS5A3M": {
+    "translation": "定期練習是掌握流浪騎士角色繪畫的關鍵。加入在線社群，參加繪畫挑戰，並學習官方參考材料。保持一本專門用於流浪騎士練習的素描簿。",
+    "message": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        88
+      ]
+    ]
+  },
+  "FCMZT7": {
+    "translation": "要求：",
+    "message": "REQUIREMENTS:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        101
+      ]
+    ]
+  },
+  "yY6AgM": {
+    "translation": "保存构建",
+    "message": "Save Build",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        300
+      ]
+    ]
+  },
+  "U1e3dH": {
+    "translation": "正在保存构建...",
+    "message": "Saving build...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        116
+      ]
+    ]
+  },
+  "XvjC4F": {
+    "translation": "正在保存...",
+    "message": "Saving...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        300
+      ]
+    ]
+  },
+  "giZAjB": {
+    "translation": "搜索技能...",
+    "message": "Search skills...",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillFilter.tsx",
+        57
+      ]
+    ]
+  },
+  "ZqvdDl": {
+    "translation": "使用Google登錄",
+    "message": "Sign In With Google",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/login/GoogleLogin.tsx",
+        50
+      ]
+    ]
+  },
+  "5KwHac": {
+    "translation": "由於呪術迴戰幽靈遊行主要以日語版本提供,您可以使用社區創建的翻譯工具或指南。此外,一些玩家使用VPN來存取日本以外地區的遊戲。",
+    "message": "Since Jujutsu Kaisen Phantom Parade is primarily available in Japanese, you can use translation tools or guides created by the community. Additionally, some players use VPNs to access the game from regions outside Japan.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        217
+      ]
+    ]
+  },
+  "So8vLA": {
+    "translation": "技能组合",
+    "message": "Skill Combinations",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        429
+      ]
+    ]
+  },
+  "b2kWPd": {
+    "translation": "技能發展",
+    "message": "Skill Development",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        128
+      ]
+    ]
+  },
+  "fCL3cR": {
+    "translation": "技能宝石 - 核心战斗能力",
+    "message": "Skill Gems - Core Combat Abilities",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        543
+      ]
+    ]
+  },
+  "x+zwNc": {
+    "translation": "技能宝石可以通过支援宝石增强，创造出强大的组合，修改和放大其效果，从而允许深度定制在流放之路2 中的角色构建。",
+    "message": "Skill Gems can be enhanced with Support Gems, creating powerful combinations that modify and amplify their effects, allowing for deep customization of character builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        625
+      ]
+    ]
+  },
+  "D6yiax": {
+    "translation": "流放之路2 中的技能宝石通过使用而获得经验，当获得足够的经验时自动升级。更高等级的宝石提供更强的效果，但可能需要更高的属性值才能使用。一些宝石还可以通过质量提升来增强。",
+    "message": "Skill gems in Path of Exile 2 gain experience as you use them and level up automatically when enough experience is gained. Higher level gems provide increased effectiveness but may require higher attribute values to use. Some gems can also be enhanced through quality improvements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        828
+      ]
+    ]
+  },
+  "Gy87f7": {
+    "translation": "流放之路2 中的技能宝石与被动技能树协同工作，被分配的点数可以增强所选宝石的效果。被动树根据角色的主要属性从不同部分开始，允许你专注于特定类型的技能宝石，并创造多样化的构建组合。",
+    "message": "Skill Gems in Path of Exile 2 work in conjunction with the passive skill tree, where allocated points can enhance the effectiveness of your chosen gems. The passive tree starts in different sections based on your character's primary attribute, allowing you to specialize in specific Skill Gem types and create diverse build combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        660
+      ]
+    ]
+  },
+  "ndUYkQ": {
+    "translation": "流放之路2 中的技能宝石可以通过各种支援和协同效应显著影响团队游戏。某些宝石为盟友提供光环、增益或防御福利，而其他宝石则可以在使用时创造强大的进攻组合。理解这些相互作用对于有效的团队游戏至关重要。",
+    "message": "Skill Gems in PoE2 can significantly impact team play through various support and synergy effects. Certain gems provide auras, buffs, or defensive benefits to allies, while others can create powerful offensive combinations when used together. Understanding these interactions is crucial for effective group gameplay.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        676
+      ]
+    ]
+  },
+  "PoDInI": {
+    "translation": "流放之路2 中的技能宝石在战斗中使用时获得经验。随着宝石等级的提高，它们变得更强大，造成更高的伤害或提供增强的效果。一些宝石还可以通过特定的支援宝石和被动技能树节点进一步增强。",
+    "message": "Skill Gems in PoE2 gain experience as you use them in combat. As gems level up, they become more powerful, dealing increased damage or providing enhanced effects. Some gems can also be enhanced further through specific Support Gems and passive skill tree nodes.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        597
+      ]
+    ]
+  },
+  "yPXV5d": {
+    "translation": "技能进阶",
+    "message": "Skill Progression",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        791
+      ]
+    ]
+  },
+  "x+1D9r": {
+    "translation": "技能协同",
+    "message": "Skill Synergies",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        358
+      ]
+    ]
+  },
+  "PYeaTU": {
+    "translation": "专注于远程战斗和灵活的玩法风格。包括强大的技能如龙卷风箭和冰霜箭，以及强力的支持组合用于致命一击和持续伤害效果。非常适合喜欢机动性和精准度的玩家。",
+    "message": "Specializes in ranged combat and agile playstyles. Includes powerful skills like Tornado Shot and Ice Shot, with strong support combinations for critical strikes and damage over time effects. Ideal for players who prefer mobility and precision.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        762
+      ]
+    ]
+  },
+  "pAcweS": {
+    "translation": "速度：",
+    "message": "SPEED:",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillCard.tsx",
+        97
+      ]
+    ]
+  },
+  "P4lxjn": {
+    "translation": "逐步學習",
+    "message": "Step-by-Step Learning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        103
+      ]
+    ]
+  },
+  "ZDK00R": {
+    "translation": "力量技能（红色宝石）专注于直接的物理伤害和生存能力，而敏捷技能则强调速度和精准度，智力技能则聚焦于法术和元素伤害。基于力量的能力在近战和防御能力方面表现卓越，使其在三种属性类型中独树一帜。",
+    "message": "Strength Skills (red gems) focus on direct physical damage and survivability, while Dexterity skills emphasize speed and precision, and Intelligence skills focus on spells and elemental damage. Strength-based abilities excel in close combat and defensive capabilities, making them unique among the three attribute types.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        397
+      ]
+    ]
+  },
+  "8LeiXO": {
+    "translation": "流放之路2 中的力量技能（红色宝石）主要专注于近战战斗和物理伤害。这些技能擅长于施放强力攻击、地面猛击和范围攻击。它们自然与高生命值和护甲协同，非常适合耐久型构建。主要特点包括增加战吼用于增益、重击用于单体伤害，以及地面猛击用于人群控制。",
+    "message": "Strength Skills (red gems) in PoE2 primarily focus on melee combat and physical damage. These skills excel at delivering powerful strikes, ground slams, and area-of-effect attacks. They naturally synergize with high life pools and armor, making them ideal for tanky builds. Key features include War Cries for buffing, heavy strikes for single-target damage, and ground slams for crowd control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        377
+      ]
+    ]
+  },
+  "LhGQJv": {
+    "translation": "流放之路2 中的力量技能具有强大的冲击机制，可以使敌人眩晕、击退或以其他方式控制敌人。这些红色技能擅长创造空间和控制战场位置。",
+    "message": "Strength Skills in Path of Exile 2 feature powerful impact mechanics that can stun, knock back, or otherwise control enemies. These red skills excel at creating space and controlling battlefield positioning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        369
+      ]
+    ]
+  },
+  "ifAE8x": {
+    "translation": "流放之路2 中的力量技能擅长通过近战攻击和地面猛击造成强大的物理伤害。这些红色宝石能力构成了物理伤害构建的核心，使其对于注重近战的角色至关重要。",
+    "message": "Strength Skills in PoE2 excel at delivering powerful physical damage through melee attacks and ground slams. These red gem abilities form the core of physical damage builds, making them essential for close-combat focused characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        334
+      ]
+    ]
+  },
+  "Pf823r": {
+    "translation": "力量技能通过能力如集结怒吼和持久怒吼提供有价值的团队支持选项。这些红色宝石技能通过提供增益和防御福利增强团队游戏。",
+    "message": "Strength Skills include valuable team support options through abilities like Rallying Cry and Enduring Cry. These red gem skills enhance group play by providing buffs and defensive benefits to allies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        349
+      ]
+    ]
+  },
+  "prIkB+": {
+    "translation": "力量技能通过几个机制有效扩展：物理伤害随着武器质量的提高而增加，红色宝石通过升级获得力量，被动树节点提升力量型能力。此外，这些技能还受益于生命值扩展，使其随着角色的发展而愈加强大。",
+    "message": "Strength Skills scale effectively through several mechanisms: physical damage increases with weapon quality, red gems gain power through leveling, and passive tree nodes enhance Strength-based abilities. Additionally, these skills benefit from life scaling, making them increasingly powerful as characters develop.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        389
+      ]
+    ]
+  },
+  "PKAYT3": {
+    "translation": "基于力量的技能益处于自然生命值扩展机制，使其非常适合高生命值构建。红色宝石系统固有地支持生存能力，同时保持强大的攻击能力。",
+    "message": "Strength-based skills benefit from natural life scaling mechanics, making them ideal for high-health builds. The red gem system inherently supports survivability while maintaining strong offensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        364
+      ]
+    ]
+  },
+  "vmiqyT": {
+    "translation": "基于力量的技能通过多种机制为团队提供有价值的支持：战吼为附近的盟友提供暂时的增益，集结怒吼提高团队输出，许多力量技能创建防御区域，使整个团队受益。这些红色宝石能力还通过击退和眩晕效果帮助控制战场位置。",
+    "message": "Strength-based skills provide valuable team support through several mechanics: War Cries offer temporary buffs to nearby allies, Rallying Cry increases group damage output, and many Strength Skills create defensive zones that benefit the entire team. These red gem abilities also help control battlefield positioning through knockback and stun effects.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        381
+      ]
+    ]
+  },
+  "DRzks3": {
+    "translation": "强烈强调团队玩法机制。技能可以在玩家之间组合以增强效果，光环和增益使整个团队受益。非常适合合作游戏和挑战性团队内容。",
+    "message": "Strong emphasis on group play mechanics. Skills can be combined between players for enhanced effects, with auras and buffs benefiting entire parties. Perfect for cooperative gameplay and challenging group content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        787
+      ]
+    ]
+  },
+  "v+HYpp": {
+    "translation": "支援宝石集成",
+    "message": "Support Gem Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        624
+      ]
+    ]
+  },
+  "HnnNzx": {
+    "translation": "支援宝石 - 能力增强",
+    "message": "Support Gems - Ability Enhancement",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        548
+      ]
+    ]
+  },
+  "/qzRU4": {
+    "translation": "支援宝石可以通过各种倍数和效果修改流放之路2 中的技能伤害。它们可能提高基础伤害、增加元素伤害、增强暴击几率，或提供持续伤害效果。一些支援宝石在特定条件或针对特定类型的敌人时也提供伤害加成。",
+    "message": "Support Gems can modify skill damage in Path of Exile 2 through various multipliers and effects. They might increase base damage, add elemental damage, enhance critical strike chances, or provide damage over time effects. Some Support Gems also offer damage bonuses under specific conditions or against certain types of enemies.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        739
+      ]
+    ]
+  },
+  "bDfPmj": {
+    "translation": "流放之路2 中的支援宝石是专门的宝石，修改和增强主动技能宝石。它们允许玩家通过改变伤害类型、添加效果或改变技能行为来自定义其能力。这些支援宝石可以与主动技能连接，创造出强大的组合，根本改变游戏机制和角色能力。",
+    "message": "Support Gems in Path of Exile 2 are specialized gems that modify and enhance active skill gems. They allow players to customize their abilities by altering damage types, adding effects, or changing skill behaviors. These Support Gems can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics and character capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        719
+      ]
+    ]
+  },
+  "ZTydNa": {
+    "translation": "流放之路2 中的支援宝石可以增强防御能力，通过技能修改提供各种形式的保护。玩家可以利用支援宝石提高生存能力，并创建强大的防御设置。",
+    "message": "Support Gems in Path of Exile 2 can enhance defensive abilities, providing various forms of protection through skill modifications. Players can utilize Support Gems to improve survivability and create robust defensive setups.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        701
+      ]
+    ]
+  },
+  "GZFU/j": {
+    "translation": "在流放之路2中，支援宝石在战斗中使用时会获得经验，最终升级变得更强大。高等级的支援宝石通常提供更强的效果，但也需要更高的属性值。玩家可以根据他们的构建需求和属性可用性来控制宝石等级。",
+    "message": "Support Gems in Path of Exile 2 gain experience as you use them in combat, eventually leveling up to become more powerful. Higher-level Support Gems typically provide stronger effects but also require higher attribute values. Players can control gem leveling based on their build requirements and attribute availability.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        747
+      ]
+    ]
+  },
+  "LcmDag": {
+    "translation": "在流放之路2中，支援宝石可以修改和增强当链接在一起时的主动技能宝石。它们可以改变伤害类型、增加效果、提高攻击速度或提供辅助效果。技能宝石与支援宝石的组合为角色构建创造了强大的协同作用。",
+    "message": "Support Gems in Path of Exile 2 modify and enhance Active Skill Gems when linked together. They can alter damage types, add effects, increase attack speed, or provide utility benefits. The combination of Skill Gems with Support Gems creates powerful synergies for character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        581
+      ]
+    ]
+  },
+  "HNSEdY": {
+    "translation": "在流放之路2中，支援宝石修改和增强主动技能宝石的效果。它们可以链接到主动技能以增加效果，例如提高伤害、增加投射物数量或修改行为。主动技能与支援宝石的结合允许对角色的能力进行深入定制。",
+    "message": "Support gems in Path of Exile 2 modify and enhance the effects of active skill gems. They can be linked to active skills to add effects like increased damage, additional projectiles, or modified behavior. The combination of active skills and support gems allows for deep customization of your character's abilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        804
+      ]
+    ]
+  },
+  "bOTDnj": {
+    "translation": "在流放之路2中，支援宝石修改和增强主动技能宝石的效果。当链接在一起时，支援宝石可以改变主要技能的各种方面，例如伤害输出、效果范围、暴击几率或添加新效果。该系统通过不同的技能宝石组合，允许对角色构建进行深入定制。",
+    "message": "Support Gems in Path of Exile 2 modify and enhance the effects of active Skill Gems. When linked together, Support Gems can alter various aspects of the main skill, such as damage output, area of effect, critical strike chance, or adding new effects. This system allows for deep customization of character builds through different Skill Gem combinations.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        652
+      ]
+    ]
+  },
+  "EoVn+L": {
+    "translation": "在流放之路2中，支援宝石通过修改技能机制、伤害输出和效用效果对角色构建产生显著影响。它们可以将基本能力转变为强大的组合，增强防御能力，提高攻击或施法速度，并添加各种效果，如暴击或状态异常。支援宝石的选择直接影响构建的有效性和玩法选项。",
+    "message": "Support Gems in Path of Exile 2 significantly impact character builds by modifying skill mechanics, damage output, and utility effects. They can transform basic abilities into powerful combinations, enhance defensive capabilities, increase attack or cast speed, and add various effects like critical strikes or status ailments. The choice of Support Gems directly influences build effectiveness and playstyle options.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        731
+      ]
+    ]
+  },
+  "xrRhmD": {
+    "translation": "在流放之路2中，支援宝石在链接在一起时修改和增强技能宝石的效果。它们可以改变伤害类型、增加投射物、提高攻击速度或提供辅助效果，为角色构建创造深入的定制选项。",
+    "message": "Support Gems in PoE2 modify and enhance Skill Gems' effects when linked together. They can alter damage types, add projectiles, increase attack speed, or provide utility effects, creating deep customization options for character builds.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        549
+      ]
+    ]
+  },
+  "igPCWg": {
+    "translation": "在流放之路2中，支援宝石通过链接系统与主动技能无缝集成。玩家可以将多个支援宝石与单个主动技能结合，创造复杂而强大的技能交互，使角色的有效性更强。",
+    "message": "Support Gems in PoE2 seamlessly integrate with active skills through the linking system. Players can combine multiple Support Gems with a single active skill, creating complex and powerful skill interactions that enhance their character's effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        691
+      ]
+    ]
+  },
+  "zJznXk": {
+    "translation": "支援宝石系统",
+    "message": "Support Gems System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        771
+      ]
+    ]
+  },
+  "Xff8Oa": {
+    "translation": "支援技能",
+    "message": "Support Skills",
+    "comments": [],
+    "origin": [
+      [
+        "components/skills/SkillBuilder.tsx",
+        230
+      ]
+    ]
+  },
+  "7ZQrYT": {
+    "translation": "团队支持",
+    "message": "Team Support",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        348
+      ]
+    ]
+  },
+  "k+aCcA": {
+    "translation": "团队协同",
+    "message": "Team Synergy",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        786
+      ]
+    ]
+  },
+  "kF8bSs": {
+    "translation": "团队协同规划",
+    "message": "Team Synergy Planning",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        857
+      ]
+    ]
+  },
+  "UCLeG0": {
+    "translation": "服務條款",
+    "message": "Terms of service",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/footer.tsx",
+        93
+      ]
+    ]
+  },
+  "X+aiz8": {
+    "translation": "#0#的服務條款",
+    "message": "Terms of Service for #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        16
+      ]
+    ]
+  },
+  "UxGE0W": {
+    "translation": "在流放之路2中，最有效的敏捷技能组合包括：飓风射击与更大多个投射物组合用于AOE伤害，穿刺与满血伤害支援组合用于单体伤害，以及分裂箭与连锁支援组合用于清怪。这些组合提供了不同战斗场景的多样化选择。",
+    "message": "The most effective dexterity skill combinations in Path of Exile 2 include: Tornado Shot with Greater Multiple Projectiles for AoE damage, Puncture with Damage on Full Life Support for single-target damage, and Split Arrow with Chain Support for mob clearing. These combinations provide versatile options for different combat scenarios.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        452
+      ]
+    ]
+  },
+  "HDXzHc": {
+    "translation": "在流放之路2中，最有效的敏捷技能用于挑战首领的包括：弹幕用于单体伤害，穿刺用于持续流血伤害，以及飓风射击用于管理额外敌人。这些技能结合合适的支援宝石，为挑战性首领遭遇提供强大的选项。",
+    "message": "The most effective dexterity skills for PoE2 boss fights include: Barrage for single-target damage, Puncture for sustained bleeding damage, and Tornado Shot for managing additional enemies. These skills, combined with appropriate support gems, provide strong options for challenging boss encounters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        468
+      ]
+    ]
+  },
+  "YHuztc": {
+    "translation": "從網站上的文字生成的圖像的所有權歸創作該圖像的人所有。#0#對用戶創作的圖像不主張任何所有權。",
+    "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        21
+      ]
+    ]
+  },
+  "XsJQz+": {
+    "translation": "在流放之路2中，被动技能树通过各种节点增强技能宝石，提升特定属性或效果。玩家可以分配被动点以增强其选择的技能，无论是通过增加伤害、改善暴击几率，还是增强防御能力。",
+    "message": "The passive skill tree in Path of Exile 2 enhances skill gems through various nodes that boost specific attributes or effects. Players can allocate passive points to strengthen their chosen skills, whether by increasing damage, improving critical strike chances, or enhancing defensive capabilities.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        820
+      ]
+    ]
+  },
+  "No7+CH": {
+    "translation": "流放之路2的技能规划器提供多种移动选项：火焰冲刺或闪电传送用于法术施放者，旋转刀刃用于近战角色，以及烟雾地雷用于一般灵活性。根据角色的属性和构建需求进行选择。",
+    "message": "The PoE2 Skills Planner offers various movement options: Flame Dash or Lightning Warp for spellcasters, Whirling Blades for melee characters, and Smoke Mine for general mobility. Choose based on your character's attributes and build requirements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        905
+      ]
+    ]
+  },
+  "FLydL7": {
+    "translation": "流放之路2的技能规划器建议的防御组合包括：冰障与延长持续时间、活力与支援宝石的生命恢复增强组合，或时间锁链与范围效果支援的组合。这些组合有助于在具有挑战性的内容中提高生存能力。",
+    "message": "The PoE2 Skills Planner suggests defensive combinations like Ice Barrier with Increased Duration, Vitality with support gems for enhanced life regeneration, or Temporal Chains with area effect supports. These combinations help improve survivability in challenging content.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        897
+      ]
+    ]
+  },
+  "24RJBw": {
+    "translation": "京都呪術高中的校長,與悟空Gojo常有衝突,但因其在呪術方面的知識和經驗而受到尊重。",
+    "message": "The principal of the Kyoto Jujutsu High School, he often clashes with Gojo but is respected for his knowledge and experience in jujutsu.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        323
+      ]
+    ]
+  },
+  "AU0l03": {
+    "translation": "東京呪術高中的校長,以創造詛咒傀儡的專業而聞名,性格也比較悠閒。",
+    "message": "The principal of the Tokyo Jujutsu High School, he is known for his expertise in creating cursed puppets and has a laid-back attitude.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        318
+      ]
+    ]
+  },
+  "A77eUm": {
+    "translation": "技能宝石系统与流放之路2的被动技能树完美集成，使玩家能够通过分配提升其选择的技能宝石效果的点数来构建专业化的构建。",
+    "message": "The Skill Gems system integrates seamlessly with Path of Exile 2's passive skill tree, enabling players to create specialized builds by allocating points that enhance their chosen Skill Gems' effectiveness.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        630
+      ]
+    ]
+  },
+  "WU9T4o": {
+    "translation": "力量技能系统通过如重击用于单体目标和撕裂用于范围伤害的技能提供了卓越的战斗灵活性。这些基于力量的能力有效地适应不同的战斗情况。",
+    "message": "The Strength Skills system offers remarkable combat flexibility through skills like Heavy Strike for single targets and Lacerate for area damage. These Strength-based abilities adapt to different combat situations effectively.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        354
+      ]
+    ]
+  },
+  "pDFUtP": {
+    "translation": "基于力量的技能系统通过战争呐喊和堡垒机制提供了强大的防御选项。这些红色技能自然与高护甲和生命值池协同，创造出能够承受大量伤害的耐久构建。",
+    "message": "The Strength-based skill system provides robust defensive options through War Cries and fortification mechanics. These red skills naturally synergize with high armor and life pools, creating durable tanky builds that can withstand significant damage.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        339
+      ]
+    ]
+  },
+  "30GqmK": {
+    "translation": "該系列中最強大的巫師,以其出色的技能和對學生的保護性而聞名。",
+    "message": "The strongest sorcerer in the series, known for his exceptional skills and protective nature towards his students.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        248
+      ]
+    ]
+  },
+  "GYzcuY": {
+    "translation": "這些條款應受美國法律的管轄和解釋,不考慮其法律衝突的規定。",
+    "message": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        25
+      ]
+    ]
+  },
+  "Xwg1Sn": {
+    "translation": "此頁面用於告知訪客有關我在收集、使用和披露個人信息方面的政策,以防任何人決定使用我的服務。如果您選擇使用我的服務,則表示您同意按照本政策收集和使用信息。我收集的個人信息用於提供和改進服務。除了本隱私政策中所述的情況,我不會使用或與任何人分享您的信息。本隱私政策中使用的術語與我們的服務條款中的含義相同。",
+    "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        17
+      ]
+    ]
+  },
+  "S1ia36": {
+    "translation": "本服務可能包含指向其他網站的鏈接。如果您單擊第三方鏈接,您將被定向到該網站。請注意,這些外部網站不是由我運營的。因此,我強烈建議您查看這些網站的隱私政策。我對任何第三方網站或服務的內容、隱私政策或做法都沒有控制權,也不承擔任何責任。",
+    "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        36
+      ]
+    ]
+  },
+  "x4f8pZ": {
+    "translation": "小貼士",
+    "message": "Tips",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        16
+      ]
+    ]
+  },
+  "lwBH3z": {
+    "translation": "流浪騎士繪畫的提示",
+    "message": "Tips Of Dandys World Draw",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        94
+      ]
+    ]
+  },
+  "+yrJEm": {
+    "translation": "以協助我們分析我們的服務如何使用;",
+    "message": "To assist us in analyzing how our Service is used;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        30
+      ]
+    ]
+  },
+  "tFiI7E": {
+    "translation": "要開始繪製流浪騎士角色，您只需要基本的藝術用品，如鉛筆、紙張和橡皮擦。對於數字藝術，建議使用繪圖板和 Procreate 或 Photoshop 等軟件，但不是必需的。我們提供傳統和數位媒介的教程。",
+    "message": "To begin drawing Dandy's World characters, you only need basic art supplies like pencils, paper, and erasers. For digital art, a drawing tablet and software like Procreate or Photoshop are recommended but not required. We provide tutorials for both traditional and digital mediums.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        146
+      ]
+    ]
+  },
+  "sHKGIZ": {
+    "translation": "要使用流放之路2的技能规划器创建有效的构建，结合协同作用的主动技能与适当的支援宝石，整合增益和防御的实用技能，并确保你的被动技能树选择与所选技能相辅相成。在规划时考虑你的角色主要属性和期望的玩法风格。",
+    "message": "To create an effective build using the PoE2 Skills Planner, combine synergistic active skills with appropriate support gems, integrate utility skills for buffs and defense, and ensure your passive skill tree choices complement your selected skills. Consider your character's primary attributes and desired playstyle when planning.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        885
+      ]
+    ]
+  },
+  "QYfZIH": {
+    "translation": "要在Android上下載呪術迴戰幽靈遊行,請訪問Google Play商店,搜索「Jujutsu Kaisen Phantom Parade」,然後點擊安裝按鈕。請確保您的裝置運行Android 8.0或更高版本。",
+    "message": "To download Jujutsu Kaisen Phantom Parade on Android, visit the Google Play Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the install button. Make sure your device runs Android 8.0 or later.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        213
+      ]
+    ]
+  },
+  "2wkkZE": {
+    "translation": "要在iOS上下載呪術迴戰幽靈遊行,請訪問Apple App Store,搜索「Jujutsu Kaisen Phantom Parade」,然後點擊下載按鈕。確保您的裝置符合兼容性要求(iOS 12.0或更高版本)。",
+    "message": "To download Jujutsu Kaisen Phantom Parade on iOS, visit the Apple App Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the download button. Ensure your device meets the compatibility requirements (iOS 12.0 or later).",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        209
+      ]
+    ]
+  },
+  "gN00PD": {
+    "translation": "為了便利我們的服務;",
+    "message": "To facilitate our Service;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
+      ]
+    ]
+  },
+  "lzF3W8": {
+    "translation": "要优化力量技能构建：选择共享比例机制的互补红色宝石，投资相关被动树节点，使用适当的支援宝石，并确保你的装备增强物理伤害和生存能力。关注力量基础能力与所选的防御策略之间的协同作用。",
+    "message": "To optimize a Strength Skills build: Choose complementary red gems that share scaling mechanisms, invest in relevant passive tree nodes, use appropriate support gems, and ensure your gear enhances physical damage and survivability. Focus on synergies between Strength-based abilities and your chosen defensive strategy.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        405
+      ]
+    ]
+  },
+  "lNAN+A": {
+    "translation": "要优化智力技能以应对终局内容，玩家应专注于结合互补技能与适当的支援宝石。例如，火球搭配法术回声以增加伤害输出，使用冰障等防御技能以求生存，并结合时间锁链等实用技能以进行众控。",
+    "message": "To optimize Intelligence skills for endgame content, players should focus on combining complementary skills with appropriate support gems. For example, pairing Fireball with Spell Echo for increased damage output, using defensive skills like Ice Barrier for survival, and incorporating utility skills like Temporal Chains for crowd control.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        522
+      ]
+    ]
+  },
+  "TIkU8p": {
+    "translation": "執行與服務相關的服務;",
+    "message": "To perform Service-related services;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        29
+      ]
+    ]
+  },
+  "jiYr9i": {
+    "translation": "代表我們提供服務;",
+    "message": "To provide the Service on our behalf;",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        28
+      ]
+    ]
+  },
+  "8sKmE2": {
+    "translation": "适合法术施放者的顶级蓝色技能宝石包括：火球用于范围伤害，电弧用于链式闪电效果，冰箭用于众控。这些基于智力的宝石为流放之路2中的法术施放构建提供强大的魔法能力。",
+    "message": "Top Blue Skill Gems for spellcasters include Fireball for area damage, Arc for chain lightning effects, and Frostbolt for crowd control. These Intelligence-based gems provide powerful magical abilities essential for spellcasting builds in PoE2.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        593
+      ]
+    ]
+  },
+  "ZhoEAz": {
+    "translation": "理解流浪騎士角色中的基本形狀",
+    "message": "Understanding Basic Shapes in Dandy's World Characters",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        45
+      ]
+    ]
+  },
+  "g44YLV": {
+    "translation": "獨特的角色設計",
+    "message": "Unique Character Designs",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        98
+      ]
+    ]
+  },
+  "ONWvwQ": {
+    "translation": "上傳",
+    "message": "Upload",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/button.tsx",
+        44
+      ]
+    ]
+  },
+  "/eguJc": {
+    "translation": "正在上傳",
+    "message": "Uploading",
+    "comments": [],
+    "origin": [
+      [
+        "framework/components/ue-upload/picture.tsx",
+        59
+      ]
+    ]
+  },
+  "Tctkpv": {
+    "translation": "使用流放之路2技能规划器，将技能如电弧或火球与暴击支援宝石组合。对于法术施放者，技能如信念波可以降低敌人的抗性，而支援宝石如提高暴击效果则增强你的暴击几率。",
+    "message": "Using the Path of Exile 2 Skills Planner, combine skills like Arc or Fireball with Critical Strike support gems. For spellcasters, skills like Wave of Conviction can lower enemy resistances, while support gems like Increased Critical Strikes enhance your critical hit chances.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        901
+      ]
+    ]
+  },
+  "2t3ERA": {
+    "translation": "使用流放之路2技能规划器，优化团队游戏通过结合光辉或活力等光环，支援技能如集结呐喊，以及像冰盾等防御能力。这些组合增强团队的生存能力和输出伤害。",
+    "message": "Using the PoE2 Skills Planner, you can optimize team play by combining auras like Grace or Vitality, support skills like Rallying Cry, and defensive abilities like Frost Shield. These combinations enhance group survivability and damage output.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        909
+      ]
+    ]
+  },
+  "qNd2+R": {
+    "translation": "多樣化的藝術風格",
+    "message": "Versatile Art Styles",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        108
+      ]
+    ]
+  },
+  "YAdzdY": {
+    "translation": "多样化的法术施放",
+    "message": "Versatile Spellcasting",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        482
+      ]
+    ]
+  },
+  "fwjhig": {
+    "translation": "多样化的支援宝石系统",
+    "message": "Versatile Support Gem System",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        685
+      ]
+    ]
+  },
+  "yhZMgW": {
+    "translation": "我們收集個人資料（姓名、電子郵件和支付信息）以及非個人資料（網頁Cookies），以改善我們的服務。這些資料的使用受我們的隱私政策約束，該政策可在 #0# 中找到",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        23
+      ]
+    ]
+  },
+  "X+XmuC": {
+    "translation": "歡迎來到#0#!我們的網站位於#1#(網站),旨在為您提供創建自定義圖像的功能。通過訪問或使用我們的網站,您同意受這些服務條款的約束。如果您不同意任何部分的條款,則禁止您使用本網站。",
+    "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        17
+      ]
+    ]
+  },
+  "PwAQEK": {
+    "translation": "歡迎來到丹迪的世界繪畫，這裡的藝術想像力結合了結構化學習，形成了一個充滿活力的創意社區。自2023年成立以來，丹迪的世界已成為有志藝術家和經驗豐富的插畫師的首選目的地，提供以角色插畫為重點的全面教程和資源。我們的平台獨特地結合了丹迪的世界角色的魅力與專業的藝術指導，讓學習過程既愉快又有效。通過我們精心編製的逐步指南，藝術家們可以在探索丹迪世界的愉快宇宙的同時，掌握繪圖技巧。無論你是在描繪羅傑的俏皮表情，還是捕捉謝莉的動態姿勢，我們以社區為驅動的平台為藝術成長提供了完美的環境。隨著每週挑戰、現場繪圖會議和相互支持的藝術家網絡，丹迪的世界繪畫將學習角色插畫的旅程轉變為一場引人入勝的冒險。加入數以千計的藝術家，發現通過你的作品將丹迪的世界角色帶入生活的樂趣，成為一個致力於藝術卓越和創意表達的蓬勃社區的一部分。",
+    "message": "Welcome to Dandy's World Draw, where artistic imagination meets structured learning in a vibrant creative community. Since our establishment in 2023, Dandy's World has become a premier destination for aspiring artists and seasoned illustrators alike, offering comprehensive tutorials and resources focused on character illustration. Our platform uniquely combines the charm of Dandy's World characters with professional art instruction, making the learning process both enjoyable and effective. Through our carefully crafted step-by-step guides, artists can master drawing techniques while exploring the delightful universe of Dandy's World. Whether you're sketching Rodger's playful expressions or capturing Shelly's dynamic poses, our community-driven platform provides the perfect environment for artistic growth. With weekly challenges, live drawing sessions, and a supportive network of fellow artists, Dandy's World Draw transforms the journey of learning character illustration into an engaging adventure. Join thousands of artists who have already discovered the joy of bringing Dandy's World characters to life through their artwork, and become part of a growing community dedicated to artistic excellence and creative expression.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        27
+      ]
+    ]
+  },
+  "4mHXk2": {
+    "translation": "歡迎來到丹迪的世界繪畫教程！在開始之前，請準備必要的工具：鉛筆（HB、2B）、橡皮擦、優質紙張和著色材料。對於數位藝術家，請確保你有繪圖平板和像Procreate或Photoshop這樣的軟件。",
+    "message": "Welcome to Dandy's World drawing tutorials! Before starting, gather essential tools: pencils (HB, 2B), erasers, quality paper, and coloring materials. For digital artists, ensure you have a drawing tablet and software like Procreate or Photoshop ready.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        39
+      ]
+    ]
+  },
+  "+g53YR": {
+    "translation": "流放之路2中的智力技能是什么？",
+    "message": "What are Intelligence Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        505
+      ]
+    ]
+  },
+  "SgcLUN": {
+    "translation": "流放之路2中的元技能是什么？",
+    "message": "What are meta gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        815
+      ]
+    ]
+  },
+  "iIb9EN": {
+    "translation": "流放之路2中的元技能是什么？",
+    "message": "What are Meta Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        663
+      ]
+    ]
+  },
+  "yUQN2E": {
+    "translation": "流放之路2中的元技能是什么？",
+    "message": "What are Meta Gems in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        604
+      ]
+    ]
+  },
+  "vodn3f": {
+    "translation": "流放之路2中的支援宝石是什么？",
+    "message": "What are Support Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        718
+      ]
+    ]
+  },
+  "8yXSHr": {
+    "translation": "结合不同颜色的技能宝石有什么好处？",
+    "message": "What are the benefits of combining different colored Skill Gems?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        671
+      ]
+    ]
+  },
+  "JUd0hO": {
+    "translation": "流放之路2中最佳的防御技能组合是什么？",
+    "message": "What are the best defensive skill combinations in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        896
+      ]
+    ]
+  },
+  "c6yy8+": {
+    "translation": "在流放之路2中，最佳的防御技能是什么？",
+    "message": "What are the best defensive skills in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        823
+      ]
+    ]
+  },
+  "paFODa": {
+    "translation": "流放之路2中适合新手的最佳敏捷技能是什么？",
+    "message": "What are the best Dexterity skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        459
+      ]
+    ]
+  },
+  "Ttp4+Y": {
+    "translation": "流放之路2中最佳的敏捷技能用于首领战斗是什么？",
+    "message": "What are the best Dexterity skills for boss fights in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        467
+      ]
+    ]
+  },
+  "koymT5": {
+    "translation": "流放之路2中适合新手的最佳智力技能是什么？",
+    "message": "What are the best Intelligence skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        517
+      ]
+    ]
+  },
+  "CvL4R+": {
+    "translation": "不同角色类型的最佳移动技能是什么？",
+    "message": "What are the best movement skills for different character types?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        904
+      ]
+    ]
+  },
+  "lfZF2Z": {
+    "translation": "适合新手的最佳红色技能宝石是什么？",
+    "message": "What are the best Red Skill Gems for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        584
+      ]
+    ]
+  },
+  "ocN0f+": {
+    "translation": "流放之路2中适合新手的最佳技能组合是什么？",
+    "message": "What are the best skill combinations for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        888
+      ]
+    ]
+  },
+  "QkJbEe": {
+    "translation": "流放之路2中适合新手的最佳技能组合是什么？",
+    "message": "What are the best skill combinations for beginners in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        807
+      ]
+    ]
+  },
+  "Soewil": {
+    "translation": "流放之路2中适合新手的最佳技能宝石是什么？",
+    "message": "What are the best Skill Gems for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        655
+      ]
+    ]
+  },
+  "Q6oJnt": {
+    "translation": "流放之路2中适合新手的最佳力量技能是什么？",
+    "message": "What are the best Strength Skills for beginners in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        384
+      ]
+    ]
+  },
+  "4NP9YF": {
+    "translation": "流放之路2中最佳的力量技能用于首领战斗是什么？",
+    "message": "What are the best Strength Skills for boss fights in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        400
+      ]
+    ]
+  },
+  "NFMUoc": {
+    "translation": "适合新手的最佳支援宝石组合是什么？",
+    "message": "What are the best Support Gems combinations for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        726
+      ]
+    ]
+  },
+  "QOft4q": {
+    "translation": "流放之路2中关键的防御智力技能是什么？",
+    "message": "What are the key defensive Intelligence skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        525
+      ]
+    ]
+  },
+  "nof9TG": {
+    "translation": "呪術迴戰幽靈遊行的主要特性是什麼?",
+    "message": "What are the key features of Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        196
+      ]
+    ]
+  },
+  "XGVhle": {
+    "translation": "流放之路2中力量技能的关键支援宝石是什么？",
+    "message": "What are the key support gems for Strength Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        392
+      ]
+    ]
+  },
+  "ZYPue3": {
+    "translation": "流放之路2中敏捷技能的主要特征是什么？",
+    "message": "What are the main characteristics of Dexterity Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        447
+      ]
+    ]
+  },
+  "/mEwQk": {
+    "translation": "流放之路2中的力量技能的主要特徵是什麼？",
+    "message": "What are the main characteristics of Strength Skills in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        376
+      ]
+    ]
+  },
+  "JxO5Zc": {
+    "translation": "流放之路2中可用的主要智力技能類型有哪些？",
+    "message": "What are the main types of Intelligence skills available in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        509
+      ]
+    ]
+  },
+  "d4owts": {
+    "translation": "流放之路2中技能寶石的主要類型有哪些？",
+    "message": "What are the main types of skill gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        799
+      ],
+      [
+        "config/site.ts",
+        880
+      ]
+    ]
+  },
+  "YE3fcf": {
+    "translation": "流放之路2中技能寶石的主要類型有哪些？",
+    "message": "What are the main types of Skill Gems in Path of Exile 2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        576
+      ],
+      [
+        "config/site.ts",
+        647
+      ]
+    ]
+  },
+  "1hode8": {
+    "translation": "對於施法者而言，最強大的藍色技能寶石是哪些？",
+    "message": "What are the most powerful Blue Skill Gems for spellcasters?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        592
+      ]
+    ]
+  },
+  "AJVe8z": {
+    "translation": "呪術迴戰幽靈遊行的系統要求是什麼?",
+    "message": "What are the system requirements for Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        192
+      ]
+    ]
+  },
+  "45Tqbt": {
+    "translation": "什麼是丹迪的世界繪畫，它適合誰？",
+    "message": "What is Dandy's World Draw and who is it for?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        141
+      ]
+    ]
+  },
+  "K3QPzq": {
+    "translation": "什麼是呪術迴戰幽靈遊行,我可以在哪裡下載?",
+    "message": "What is Jujutsu Kaisen Phantom Parade and where can I download it?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        184
+      ]
+    ]
+  },
+  "4WuGIw": {
+    "translation": "智力技能在團隊內容中扮演什麼角色？",
+    "message": "What role do Intelligence skills play in group content?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        533
+      ]
+    ]
+  },
+  "EmMzNd": {
+    "translation": "輔助寶石在團隊遊玩中扮演什麼角色？",
+    "message": "What role do Support Gems play in group gameplay?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        742
+      ]
+    ]
+  },
+  "OWhEDw": {
+    "translation": "如果我在玩呪術迴戰幽靈遊行時遇到語言障礙,我應該怎麼做?",
+    "message": "What should I do if I encounter a language barrier while playing Jujutsu Kaisen Phantom Parade?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        216
+      ]
+    ]
+  },
+  "ynLL9q": {
+    "translation": "呪術迴戰幽靈遊行是什麼時候正式發行的?",
+    "message": "When was Jujutsu Kaisen Phantom Parade officially released?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        188
+      ]
+    ]
+  },
+  "CQWnGL": {
+    "translation": "流放之路2中最受歡迎的敏捷技能組合是哪些？",
+    "message": "Which are the most popular Dexterity skill combinations in PoE2?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        451
+      ]
+    ]
+  },
+  "IDXfv8": {
+    "translation": "哪些綠色技能寶石對於遠程戰鬥最有效？",
+    "message": "Which Green Skill Gems are most effective for ranged combat?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        588
+      ]
+    ]
+  },
+  "Y7S/iq": {
+    "translation": "雖然丹迪的世界角色受到版權保護，但我們提供了粉絲藝術創作的指南。鼓勵個人和教育用途，但商業用途需要適當的授權。請聯繫我們的授權團隊以獲取商業詢問。",
+    "message": "While Dandy's World characters are protected by copyright, we offer guidelines for fan art creation. Personal and educational use is encouraged, but commercial use requires proper licensing. Contact our licensing team for commercial inquiries.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        170
+      ]
+    ]
+  },
+  "nrsbsF": {
+    "translation": "在保持核心角色元素的同時，丹迪的世界鼓勵藝術解讀。當你繪製最愛角色時，嘗試不同的姿勢、表情和情景。",
+    "message": "While maintaining core character elements, Dandy's World encourages artistic interpretation. Experiment with different poses, expressions, and scenarios while drawing your favorite characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        124
+      ]
+    ]
+  },
+  "ekD2sN": {
+    "translation": "是的，丹迪的世界教程分為初學者、中級和高級水平。每個級別都建立在之前的技能上，幫助你從基本角色草圖進步到具有適當陰影、上色和動態姿勢的複雜插畫。",
+    "message": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        158
+      ]
+    ]
+  },
+  "L63PDE": {
+    "translation": "是的,呪術迴戰幽靈遊行採用了原版動畫的聲優陣容,增強了沉浸式的娛樂體驗。",
+    "message": "Yes, Jujutsu Kaisen Phantom Parade features full voice acting from the original anime cast, enhancing the immersive storytelling experience.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        221
+      ]
+    ]
+  },
+  "038m1W": {
+    "translation": "是的,呪術迴戰幽靈遊行是免費遊玩的。但是,它包括了用於角色升級、特殊物品和其他增強功能的內置購買。",
+    "message": "Yes, Jujutsu Kaisen Phantom Parade is free to play. However, it includes in-app purchases for character upgrades, special items, and other enhancements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        201
+      ]
+    ]
+  },
+  "V4swDT": {
+    "translation": "是的，流放之路2的寶石系統允許玩家將不同類型的技能寶石和輔助寶石進行組合以創造獨特的構建。例如，只要角色滿足每個寶石的屬性要求，就可以混合紅色、綠色和藍色寶石。",
+    "message": "Yes, Path of Exile 2's gem system allows players to combine different types of Skill Gems and Support Gems for unique builds. For example, you can mix Red, Green, and Blue gems as long as your character meets the attribute requirements for each gem.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        601
+      ]
+    ]
+  },
+  "3/hGXf": {
+    "translation": "是的！我們鼓勵你在我們的社區內分享你的丹迪的世界作品。你可以在我們的平台上發佈你的畫作，獲得其他藝術家的反饋，並參加每週的挑戰。只需記住遵循我們的社區準則，並適當地標明丹迪的世界。",
+    "message": "Yes! We encourage sharing your Dandy's World artwork within our community. You can post your drawings on our platform, receive feedback from other artists, and participate in weekly challenges. Just remember to follow our community guidelines and credit Dandy's World appropriately.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        154
+      ]
+    ]
+  },
+  "DattYp": {
+    "translation": "是的！我們定期舉辦丹迪的世界繪畫挑戰、每月比賽和特別活動。這些包括每月角色挑戰、季節主題比賽和社區藝術聚會。獲勝者通常會在我們的平台上獲得認可和特殊推薦。",
+    "message": "Yes! We host regular Dandy's World drawing challenges, monthly contests, and special events. These include character-of-the-month challenges, seasonal themed contests, and community art jams. Winners often receive recognition and special features on our platform.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        174
+      ]
+    ]
+  },
+  "oTbbJ/": {
+    "translation": "您獲得有限、非獨家、不可轉讓的許可,僅可出於個人非商業目的使用本網站及其服務。此許可不包括任何複製、修改或分發網站內容或出於商業目的使用的權利,除非事先獲得我們的書面同意。",
+    "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        19
+      ]
+    ]
+  }
+}
