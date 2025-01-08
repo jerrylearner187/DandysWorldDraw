@@ -1,6 +1,10 @@
 const openai  = require("@ai-sdk/openai")
 const { generateText } = require('ai');
+const { loadEnvConfig } = require('@next/env')
 const current_model = 'openai/gpt-4o-mini';
+if (process.env.NODE_ENV !== 'production') {
+  loadEnvConfig(process.cwd())
+}
 const doubao = openai.createOpenAI({
   baseURL: "https://ark.cn-beijing.volces.com/api/v3",
   apiKey: "7da1e475-xxxxxxx",
@@ -35,7 +39,7 @@ function kimiAIChat(prompt) {
   // console.log('openai request:', requestStr)
   const url = 'https://api.moonshot.cn/v1/chat/completions'
   // 翻译专用 key
-  const key = 'sk-svcp0mYFph83hbgaPUD8a1wkuWAL6wXpkFR8ITrxJgcVglD8'
+  const key = process.env.NEXT_PUBLIC_API_KEY
   return fetch(url, {
     method: 'POST', // Assuming it's a POST request
     headers: {
@@ -56,7 +60,7 @@ function openAIChat(prompt, model = current_model) {
   // const url = 'https://api.inferkit.ai/v1/chat/completions'
   // const key = 'Bearer sk-3GjN0Wf39FUqLoQ08e59C791F9Fc4aC299D3386a3a319cF9'
   const url = 'https://openrouter.ai/api/v1/chat/completions'
-  const key = 'Bearer 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'
+  console.log('openAIChat key:', key)
   return fetch(url, {
     method: 'POST', // Assuming it's a POST request
     headers: {

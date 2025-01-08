@@ -8,15 +8,10 @@ const path = require('path')
  * 4. 基于给定的关键词，生成网站logo
  */
 // 网站关键词
-const keyword = 'Dandys World Draw Generator'
+const keyword = 'Dandys World Draw Slot Maker'
 // 网站该要描述
 const description = `
-        <p>1. Choose from 12 different colors and adjust brush size to create your masterpiece</p>
-        <p>2. Use preset shapes like circles, squares, triangles, and ellipses</p>
-        <p>3. Add body parts like hands, feet, eyes, and nose to draw characters</p>
-        <p>4. Create nature elements with preset shapes for leaves, flowers, and petals</p>
-        5. Clear canvas if you want to create another drawing
-        6. save as png or jpg after you have finished your artwork.
+
 `
 // 参考的网站地址
 const website_likes = [
@@ -202,36 +197,31 @@ async function generateTip() {
 function parseTip(){
   const json = `
     [
-  {
-    "img": "FaPalette",
-    "tip": "Rich Color Options",
-    "description": "Dandys World Draw Generator offers 12 vibrant colors and adjustable brush sizes, giving you complete control to create stunning character artwork with precision and style."
-  },
-  {
-    "img": "FaShapes", 
-    "tip": "Preset Shapes Library",
-    "description": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure."
-  },
-  {
-    "img": "FaUserEdit",
-    "tip": "Character Parts Collection",
-    "description": "Easily add detailed character features with Dandys World Draw Generator's preset body parts library including hands, feet, eyes and nose elements."
-  },
-  {
-    "img": "FaLeaf",
-    "tip": "Nature Elements",
-    "description": "Create beautiful backgrounds using Dandys World Draw Generator's nature-themed shapes like leaves, flowers and petals to enhance your character drawings."
-  },
-  {
-    "img": "FaTrash",
-    "tip": "Easy Reset",
-    "description": "Start fresh anytime with Dandys World Draw Generator's one-click canvas clear feature, perfect for experimenting with different drawing styles."
-  },
-  {
-    "img": "FaSave",
-    "tip": "Multiple Export Options", 
-    "description": "Save and share your Dandys World Draw Generator creations in PNG or JPG format, making it simple to preserve and showcase your artwork."
-  }
+{
+"img": "Sparkles",
+"tip": "Random Story Generation",
+"description": "Dandys World Draw Slot Maker creates unique story combinations with every spin, featuring beloved Dandys World characters in unexpected scenarios."
+},
+{
+"img": "Shuffle",
+"tip": "Slot Machine Experience",
+"description": "Experience the thrill of a slot machine with the Dandys World Draw Slot Maker, where each spin reveals new character combinations and story elements."
+},
+{
+"img": "Users",
+"tip": "Cartoon Characters",
+"description": "Dive into the charming world of Dandys World characters through the Dandys World Draw Slot Maker, where your favorite heroes become part of randomly generated tales."
+},
+{
+"img": "Zap",
+"tip": "Instant Results",
+"description": "The Dandys World Draw Slot Maker instantly generates fresh story combinations with each spin, making every interaction unique and entertaining."
+},
+{
+"img": "HeartHandshake",
+"tip": "Interactive Fun",
+"description": "Engage with the Dandys World Draw Slot Maker for an entertaining experience that brings Dandys World characters to life in surprising ways."
+}
 ]
   `;
   let obj = JSON.parse(json)
@@ -291,38 +281,34 @@ function generateAbout() {
 function parseFAQ(){
   const json = `
   [
-  {
-    "question": "What is Dandys World Draw Generator?",
-    "answer": "Dandys World Draw Generator is an intuitive drawing tool that allows users to create characters and artwork using preset shapes, customizable colors, and various drawing elements. It's designed to make character creation accessible for artists of all skill levels."
-  },
-  {
-    "question": "What features does Dandys World Draw Generator offer?",
-    "answer": "Dandys World Draw Generator provides multiple features including 12 different color options, adjustable brush sizes, preset shapes (circles, squares, triangles, ellipses), character body parts, and nature elements. You can also clear your canvas and save your artwork in PNG or JPG format."
-  },
-  {
-    "question": "How do I save my artwork in Dandys World Draw Generator?",
-    "answer": "With Dandys World Draw Generator, you can easily save your completed artwork in either PNG or JPG format. Simply click the save button when you're finished with your drawing to export it to your preferred file format."
-  },
-  {
-    "question": "Can I create characters using Dandys World Draw Generator?",
-    "answer": "Yes! Dandys World Draw Generator includes a comprehensive set of preset body parts like hands, feet, eyes, and nose, making it easy to create unique characters. Combined with various shapes and colors, you can bring your character designs to life."
-  },
-  {
-    "question": "Is Dandys World Draw Generator suitable for beginners?",
-    "answer": "Absolutely! Dandys World Draw Generator is designed to be user-friendly for artists of all skill levels. With preset shapes, easy-to-use tools, and intuitive controls, beginners can start creating artwork immediately."
-  },
-  {
-    "question": "Can I draw nature elements using Dandys World Draw Generator?",
-    "answer": "Yes, Dandys World Draw Generator includes preset shapes specifically designed for creating nature elements such as leaves, flowers, and petals. These tools make it easy to add beautiful environmental details to your artwork."
-  },
-  {
-    "question": "What if I make a mistake while using Dandys World Draw Generator?",
-    "answer": "Don't worry! Dandys World Draw Generator features a canvas clear function that allows you to start fresh whenever needed. This makes it perfect for experimenting and practicing your drawing skills."
-  },
-  {
-    "question": "What drawing tools are available in Dandys World Draw Generator?",
-    "answer": "Dandys World Draw Generator offers a variety of drawing tools including adjustable brush sizes, 12 different colors, preset geometric shapes, character body parts, and nature elements. These tools provide everything you need to create detailed artwork."
-  }
+{
+"question": "What is Dandys World Draw Slot Maker?",
+"answer": "Dandys World Draw Slot Maker is an interactive story generation tool that combines slot machine mechanics with storytelling. It randomly generates unique stories featuring Dandys World characters through a spin-and-match system."
+},
+{
+"question": "How does the Dandys World Draw Slot Maker work?",
+"answer": "The Dandys World Draw Slot Maker works by spinning virtual reels containing different story elements and Dandys World characters. When you press the spin button, it randomly combines these elements to create unique story scenarios. Each spin generates a new combination of characters, settings, and plot elements."
+},
+{
+"question": "Can I save the stories generated by Dandys World Draw Slot Maker?",
+"answer": "Yes, the Dandys World Draw Slot Maker allows you to save your favorite story combinations. Once you find a story combination you like, you can save it to revisit later or share it with other Dandys World fans."
+},
+{
+"question": "Is Dandys World Draw Slot Maker suitable for all ages?",
+"answer": "Yes, the Dandys World Draw Slot Maker is designed to be family-friendly and suitable for all ages. All generated story combinations are appropriate for children while remaining entertaining for adults who enjoy the Dandys World universe."
+},
+{
+"question": "How often are new characters added to the Dandys World Draw Slot Maker?",
+"answer": "The Dandys World Draw Slot Maker is regularly updated with new characters, story elements, and features. Updates typically occur monthly, bringing fresh content and expanding the possibilities for story generation within the Dandys World universe."
+},
+{
+"question": "Can I customize the story elements in Dandys World Draw Slot Maker?",
+"answer": "While the Dandys World Draw Slot Maker primarily operates on random generation, you can influence certain aspects of the story creation process by selecting specific character categories or story themes before spinning. This allows for some customization while maintaining the exciting element of randomness."
+},
+{
+"question": "Are there any tips for using Dandys World Draw Slot Maker effectively?",
+"answer": "To get the most out of your Dandys World Draw Slot Maker experience, try these tips: 1) Spin multiple times to explore different combinations, 2) Use the theme filters to focus on specific types of stories, 3) Save your favorite combinations for inspiration, and 4) Experiment with different character combinations to discover unique storylines."
+}
 ]
   `;
   let obj = JSON.parse(json)
