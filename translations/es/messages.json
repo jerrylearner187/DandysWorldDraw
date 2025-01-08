@@ -153,168 +153,14 @@
       ]
     ]
   },
-  "h++ayx": {
-    "translation": "Una hechicera confiada y capaz, es conocida por su fuerte personalidad y habilidades de combate.",
-    "message": "A confident and capable sorcerer, she is known for her strong personality and combat skills.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        298
-      ]
-    ]
-  },
-  "IzYS7Z": {
-    "translation": "Una hechicera de Jujutsu confiada y feroz que usa herramientas malditas en la batalla.",
-    "message": "A confident and fierce Jujutsu Sorcerer who uses cursed tools in battle.",
+  "EXY/2d": {
+    "translation": "¡Absolutamente! El Generador de Dibujos de Dandy's World está diseñado para ser amigable para artistas de todos los niveles de habilidad. Con formas preestablecidas, herramientas fáciles de usar y controles intuitivos, los principiantes pueden comenzar a crear obras de arte de inmediato.",
+    "message": "Absolutely! Dandys World Draw Generator is designed to be user-friendly for artists of all skill levels. With preset shapes, easy-to-use tools, and intuitive controls, beginners can start creating artwork immediately.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
         238
-      ]
-    ]
-  },
-  "9U3l20": {
-    "translation": "Una hechicera dedicada que es sincera en sus deberes, a menudo se encuentra en situaciones desafiantes pero se esfuerza por demostrarse a sí misma.",
-    "message": "A dedicated sorcerer who is earnest in her duties, she often finds herself in challenging situations but strives to prove herself.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        288
-      ]
-    ]
-  },
-  "/mWTuu": {
-    "translation": "Una estudiante de primer año en el campus de Fukuoka de la Universidad de Jujutsu de Tokio, conocida por su estilo de combate único.",
-    "message": "A first-year student at the Fukuoka campus of Tokyo Jujutsu High, known for her unique combat style.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        253
-      ]
-    ]
-  },
-  "OKBeaG": {
-    "translation": "Una estudiante de primer año en la Universidad de Jujutsu de Tokio que se convierte en el recipiente de Ryomen Sukuna después de ingerir uno de sus dedos.",
-    "message": "A first-year student at Tokyo Jujutsu High who becomes the vessel for Ryomen Sukuna after ingesting one of his fingers.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        228
-      ]
-    ]
-  },
-  "RdVUza": {
-    "translation": "Un ex asalariado convertido en hechicero, Nanami es pragmático y muy hábil, usando su \"Técnica de Proporción\" para causar un daño significativo en las batallas.",
-    "message": "A former salaryman turned sorcerer, Nanami is pragmatic and highly skilled, using his \"Ratio Technique\" to deal significant damage in battles.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        293
-      ]
-    ]
-  },
-  "pdCaP+": {
-    "translation": "Un miembro de la familia Kamo, posee una técnica maldita única que le permite manipular la sangre.",
-    "message": "A member of the Kamo family, he possesses a unique cursed technique that allows him to manipulate blood.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        283
-      ]
-    ]
-  },
-  "bq9uHR": {
-    "translation": "Una poderosa entidad mecánica que combina la tecnología con la energía maldita, ofreciendo estrategias únicas en la batalla.",
-    "message": "A powerful mechanical entity that combines technology with cursed energy, offering unique strategies in battle.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        313
-      ]
-    ]
-  },
-  "O+2B9p": {
-    "translation": "Una poderosa hechicera de la familia Zenin, se destaca en el combate físico y las técnicas malditas.",
-    "message": "A powerful sorcerer from the Zenin family, she excels in physical combat and cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        243
-      ]
-    ]
-  },
-  "4TFm7i": {
-    "translation": "Un ayudante confiable de Satoru Gojo, conocido por su papel de apoyo en la comunidad de Jujutsu y su pensamiento estratégico.",
-    "message": "A reliable aide to Satoru Gojo, known for his supportive role in the Jujutsu community and his strategic thinking.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        273
-      ]
-    ]
-  },
-  "fV22B7": {
-    "translation": "Una médica y hechicera hábil que se especializa en técnicas de maldición inversa, lo que le permite sanar a otros.",
-    "message": "A skilled doctor and sorcerer who specializes in reverse curse techniques, allowing her to heal others.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        268
-      ]
-    ]
-  },
-  "aalQ7o": {
-    "translation": "Un talentoso Hechicero de Jujutsu de Grado 2 conocido por sus técnicas de sombra únicas.",
-    "message": "A talented Grade 2 Jujutsu Sorcerer known for his unique shadow techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        233
-      ]
-    ]
-  },
-  "T+EgFA": {
-    "translation": "Un aspecto único de las habilidades de Inteligencia es la capacidad de invocar y controlar súbditos. Habilidades como Invocar Esqueletos proporcionan apoyo adicional en combate mientras crean distracciones defensivas, lo que hace que las construcciones de Inteligencia sean particularmente efectivas para gestionar el control del campo de batalla.",
-    "message": "A unique aspect of Intelligence skills is the ability to summon and control minions. Skills like Summon Skeletons provide additional combat support while creating defensive distractions, making Intelligence builds particularly effective at managing battlefield control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        488
-      ]
-    ]
-  },
-  "0R/rnX": {
-    "translation": "Un personaje único creado a través de técnicas malditas, Panda tiene un carácter travieso pero es un luchador formidable con múltiples formas.",
-    "message": "A unique character created through cursed techniques, Panda has a playful demeanor but is a formidable fighter with multiple forms.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        303
-      ]
-    ]
-  },
-  "uyJsf6": {
-    "translation": "Acerca de",
-    "message": "About",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        25
       ]
     ]
   },
@@ -329,6 +175,17 @@
       ]
     ]
   },
+  "iNiXuw": {
+    "translation": "Accede a una variedad de formas preestablecidas en el Generador de Dibujos de Dandy's World, incluyendo círculos, cuadrados, triángulos y elipses para construir rápidamente la estructura básica de tu personaje.",
+    "message": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        194
+      ]
+    ]
+  },
   "UEU44n": {
     "translation": "Accede a una amplia gama de recursos de dibujo de Dandy's World, incluyendo guías de personajes, paletas de colores y gráficos de proporciones. Perfecto para mantener la autenticidad en tu arte.",
     "message": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
@@ -337,17 +194,6 @@
       [
         "config/site.ts",
         119
-      ]
-    ]
-  },
-  "9hvc9M": {
-    "translation": "Accede a guías completas para nuevos jugadores en Path of Exile 2. Nuestro planificador incluye combinaciones de habilidades recomendadas, estrategias de nivelación y sugerencias de construcción para ayudar a los principiantes a tener éxito.",
-    "message": "Access comprehensive guides for new players in Path of Exile 2. Our planner includes recommended skill combinations, leveling strategies, and build suggestions to help beginners succeed.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        863
       ]
     ]
   },
@@ -370,39 +216,6 @@
       [
         "config/site.ts",
         73
-      ]
-    ]
-  },
-  "cUSavi": {
-    "translation": "Un Espíritu Maldito Especial original introducido en el juego, con la habilidad única de anular otras técnicas malditas.",
-    "message": "An original Special Grade Cursed Spirit introduced in the game, with a unique ability to nullify other cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        263
-      ]
-    ]
-  },
-  "fYJg3B": {
-    "translation": "Analiza las capacidades defensivas con nuestro Planificador de Habilidades de POE2. Calcula los grupos de salud efectivos, evalúa combinaciones de habilidades defensivas y planifica la capacidad de supervivencia de tu personaje utilizando diversas configuraciones de gemas de habilidad.",
-    "message": "Analyze defensive capabilities with our PoE2 Skills Planner. Calculate effective health pools, evaluate defensive skill combinations, and plan your character's survivability using various skill gem setups.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        848
-      ]
-    ]
-  },
-  "qHLB5X": {
-    "translation": "Otro estudiante de primer año del campus de Fukuoka, posee técnicas malditas relacionadas con las barreras.",
-    "message": "Another first-year from the Fukuoka campus, he possesses barrier-related cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        258
       ]
     ]
   },
@@ -439,61 +252,6 @@
       ]
     ]
   },
-  "O05cq/": {
-    "translation": "Control de Área",
-    "message": "Area Control",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        343
-      ]
-    ]
-  },
-  "sPu965": {
-    "translation": "Velocidad de Ataque y Golpes Críticos",
-    "message": "Attack Speed & Critical Strikes",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        852
-      ]
-    ]
-  },
-  "w7JxcK": {
-    "translation": "Mejora de Velocidad de Ataque",
-    "message": "Attack Speed Enhancement",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        419
-      ]
-    ]
-  },
-  "PNdsa0": {
-    "translation": "Requisitos de Atributo",
-    "message": "Attribute Requirements",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        705
-      ]
-    ]
-  },
-  "4i/H8S": {
-    "translation": "Habilidades Disponibles",
-    "message": "Available Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        154
-      ]
-    ]
-  },
   "0BQ0oZ": {
     "translation": "Comienza descomponiendo los personajes de Dandy's World en formas básicas. La mayoría de los personajes comienzan con formas geométricas simples: círculos para la cabeza de Rodger, rectángulos para la estructura del cuerpo. Practica estas formas fundamentales antes de añadir detalles.",
     "message": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
@@ -502,17 +260,6 @@
       [
         "config/site.ts",
         46
-      ]
-    ]
-  },
-  "vyTf0S": {
-    "translation": "Guías amigables para principiantes",
-    "message": "Beginner-Friendly Guides",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        862
       ]
     ]
   },
@@ -527,61 +274,6 @@
       ]
     ]
   },
-  "0y1Z1Z": {
-    "translation": "Gemas Azules (Inteligencia)",
-    "message": "Blue Gems (Intelligence)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        563
-      ]
-    ]
-  },
-  "hBkuTE": {
-    "translation": "Gemas de Habilidad Azules (Inteligencia)",
-    "message": "Blue Skill Gems (Intelligence)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        766
-      ]
-    ]
-  },
-  "ScaRFk": {
-    "translation": "Las Gemas de Habilidad Azules se especializan en la hechicería y el daño elemental. Presentan conjuros poderosos como Bola de Fuego, Rayo de Escarcha y Arco, perfectos para construcciones de magos en Path of Exile 2. También incluyen convocación de esbirros y conjuros de utilidad.",
-    "message": "Blue Skill Gems specialize in spellcasting and elemental damage. Features powerful spells like Fireball, Frostbolt, and Arc, perfect for mage builds in Path of Exile 2. Also includes minion summoning and utility spells.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        564
-      ]
-    ]
-  },
-  "FPAKH+": {
-    "translation": "Optimización de Construcción",
-    "message": "Build Optimization",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        842
-      ]
-    ]
-  },
-  "p536Zb": {
-    "translation": "Versatilidad de Construcción",
-    "message": "Build Versatility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        634
-      ]
-    ]
-  },
   "yZ2PlW": {
     "translation": "Al utilizar #0#, usted manifiesta su aceptación de estos Términos de Servicio.",
     "message": "By using #0#, you signify your acceptance of these Terms of Service.",
@@ -593,14 +285,25 @@
       ]
     ]
   },
-  "6j7vqA": {
-    "translation": "¿Se pueden combinar diferentes tipos de Gemas de Habilidad en Path of Exile 2?",
-    "message": "Can different types of Skill Gems be combined in Path of Exile 2?",
+  "L7dq+T": {
+    "translation": "¿Puedo crear personajes usando el Generador de Dibujos de Dandy's World?",
+    "message": "Can I create characters using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        600
+        233
+      ]
+    ]
+  },
+  "PvR3qf": {
+    "translation": "¿Puedo dibujar elementos de la naturaleza usando el Generador de Dibujos de Dandy's World?",
+    "message": "Can I draw nature elements using Dandys World Draw Generator?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        241
       ]
     ]
   },
@@ -626,14 +329,36 @@
       ]
     ]
   },
-  "i/HCFv": {
-    "translation": "¿Se pueden usar las Gemas de Soporte con cualquier gema de habilidad?",
-    "message": "Can Support Gems be used with any skill gem?",
+  "f6bi7N": {
+    "translation": "Colección de Partes del Personaje",
+    "message": "Character Parts Collection",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        734
+        198
+      ]
+    ]
+  },
+  "7xMmki": {
+    "translation": "Círculo",
+    "message": "Circle",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        24
+      ]
+    ]
+  },
+  "z65MvS": {
+    "translation": "Lienzo Claro",
+    "message": "Clear Canvas",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        504
       ]
     ]
   },
@@ -659,43 +384,6 @@
       ]
     ]
   },
-  "CfQHuH": {
-    "translation": "Mecánicas de Combate",
-    "message": "Combat Mechanics",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        619
-      ],
-      [
-        "config/site.ts",
-        781
-      ]
-    ]
-  },
-  "atHs5t": {
-    "translation": "Versatilidad en el Combate",
-    "message": "Combat Versatility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        353
-      ]
-    ]
-  },
-  "8YivsP": {
-    "translation": "Combinar diferentes gemas de habilidad de colores en Path of Exile 2 permite construir personajes versátiles. Por ejemplo, mezclar gemas de habilidad Verde y Azul puede crear construcciones híbridas que utilicen tanto ataques a distancia como hechizos, mientras que combinar gemas Rojas y Verdes puede resultar en poderosas construcciones cuerpo a cuerpo con movilidad y capacidades defensivas mejoradas.",
-    "message": "Combining different colored Skill Gems in Path of Exile 2 allows for versatile character builds. For example, mixing Green and Blue Skill Gems can create hybrid builds that utilize both ranged attacks and spells, while combining Red and Green gems can result in powerful melee builds with enhanced mobility and defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        672
-      ]
-    ]
-  },
   "b+LYK6": {
     "translation": "Completa tu dibujo de Dandy's World añadiendo toques finales y elementos de fondo opcionales. Revisa tu trabajo para asegurarte de que sea consistente con el diseño original del personaje. Comparte tu arte con la comunidad de dibujo de Dandy's World para recibir retroalimentación.",
     "message": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
@@ -718,17 +406,6 @@
       ]
     ]
   },
-  "PuvTyx": {
-    "translation": "Sistema de habilidades integral",
-    "message": "Comprehensive Skill System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        837
-      ]
-    ]
-  },
   "akF51D": {
     "translation": "Las cookies son archivos con una pequeña cantidad de datos que se utilizan comúnmente como identificadores únicos anónimos. Estos se envían a su navegador desde los sitios web que visita y se almacenan en la memoria interna de su dispositivo. Este Servicio no utiliza estas cookies explícitamente. Sin embargo, la aplicación puede utilizar código y bibliotecas de terceros que utilizan cookies para recopilar información y mejorar sus servicios. Usted tiene la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a su dispositivo. Si elige rechazar nuestras cookies, es posible que no pueda utilizar algunas partes de este Servicio.",
     "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
@@ -740,36 +417,36 @@
       ]
     ]
   },
-  "/VjFmG": {
-    "translation": "MULTIPLICADOR DE COSTO:",
-    "message": "COST MULTIPLIER:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        91
-      ]
-    ]
-  },
-  "/36SYM": {
-    "translation": "COSTO:",
-    "message": "COST:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        87
-      ]
-    ]
-  },
-  "88ZhIO": {
-    "translation": "Cree y modifique construcciones fácilmente con nuestro Planificador de Habilidades de Path of Exile 2. Experimente con diferentes combinaciones de habilidades, gemas de apoyo y clases de personajes para encontrar su estilo de juego perfecto.",
-    "message": "Create and modify builds easily with our Path of Exile 2 Skills Planner. Experiment with different skill combinations, support gems, and character classes to find your perfect playstyle.",
+  "l7oHNR": {
+    "translation": "Crea hermosos fondos utilizando las formas temáticas de la naturaleza del Generador de Dibujos de Dandy's World, como hojas, flores y pétalos, para mejorar tus dibujos de personajes.",
+    "message": "Create beautiful backgrounds using Dandys World Draw Generator's nature-themed shapes like leaves, flowers and petals to enhance your character drawings.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        873
+        204
+      ]
+    ]
+  },
+  "7z8zid": {
+    "translation": "¡Crea ahora tus personajes favoritos de Dandy's World!",
+    "message": "Create your favorite Dandy's World characters now!",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        50
+      ]
+    ]
+  },
+  "iJGXFl": {
+    "translation": "Crea tus personajes favoritos de Dandy's World con nuestro generador de dibujos fácil de seguir. Perfecto para principiantes y artistas avanzados con tutoriales paso a paso.",
+    "message": "Create your favorite Dandy's World characters with our easy-to-follow drawing generator. Perfect for beginners & advanced artists with step-by-step tutorials.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        25
       ]
     ]
   },
@@ -795,43 +472,6 @@
       ]
     ]
   },
-  "7TpNih": {
-    "translation": "Potencial de Golpe Crítico",
-    "message": "Critical Strike Potential",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        434
-      ],
-      [
-        "config/site.ts",
-        497
-      ]
-    ]
-  },
-  "i3FKK/": {
-    "translation": "Actualmente, Jujutsu Kaisen Phantom Parade está disponible principalmente en japonés. Los jugadores fuera de Japón pueden necesitar usar una VPN para acceder al juego.",
-    "message": "Currently, Jujutsu Kaisen Phantom Parade is primarily available in Japanese. Players outside Japan may need to use a VPN to access the game.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        205
-      ]
-    ]
-  },
-  "QM/9nh": {
-    "translation": "DAÑO:",
-    "message": "DAMAGE:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        108
-      ]
-    ]
-  },
   "6Mk9Tp": {
     "translation": "El estilo artístico de Dandy's World es adaptable a varios medios. Ya sea que prefieras el dibujo tradicional, el arte digital o las acuarelas, los diseños de personajes se traducen bellamente a través de diferentes técnicas artísticas.",
     "message": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
@@ -851,6 +491,17 @@
       [
         "config/site.ts",
         21
+      ]
+    ]
+  },
+  "q4aWez": {
+    "translation": "Generador de Dibujos de Dandy's World | Aprende a Dibujar Personajes Paso a Paso",
+    "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        22
       ]
     ]
   },
@@ -887,125 +538,58 @@
       ]
     ]
   },
-  "oAnTvN": {
-    "translation": "Sistema profundo de desarrollo de habilidades a través de la subida de gemas y mejoras de calidad. Las habilidades se vuelven más poderosas a medida que avanzas, con opciones para mejorar sus efectos a través de varias combinaciones de apoyo.",
-    "message": "Deep skill development system through gem leveling and quality improvements. Skills become more powerful as you progress, with options to enhance their effects through various support combinations.",
+  "5gwVfz": {
+    "translation": "Generador de Dibujos de Dandy's World",
+    "message": "Dandys World Draw Generator",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        792
+        "app/[lang]/(public)/generator/page.tsx",
+        47
       ]
     ]
   },
-  "KOvQUt": {
-    "translation": "Integración Profunda de Habilidades",
-    "message": "Deep Skill Integration",
+  "v9VHUR": {
+    "translation": "El Generador de Dibujos de Dandy's World es una herramienta de dibujo intuitiva que permite a los usuarios crear personajes y obras de arte utilizando formas preestablecidas, colores personalizables y varios elementos de dibujo. Está diseñado para hacer que la creación de personajes sea accesible para artistas de todos los niveles de habilidad.",
+    "message": "Dandys World Draw Generator is an intuitive drawing tool that allows users to create characters and artwork using preset shapes, customizable colors, and various drawing elements. It's designed to make character creation accessible for artists of all skill levels.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        690
+        222
       ]
     ]
   },
-  "6Iev04": {
-    "translation": "Planificación de Defensa",
-    "message": "Defense Planning",
+  "dkj2lZ": {
+    "translation": "El Generador de Dibujos de Dandy's World ofrece 12 colores vibrantes y tamaños de brocha ajustables, dándote control total para crear obras de arte de personajes impresionantes con precisión y estilo.",
+    "message": "Dandys World Draw Generator offers 12 vibrant colors and adjustable brush sizes, giving you complete control to create stunning character artwork with precision and style.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        847
+        189
       ]
     ]
   },
-  "igGiip": {
-    "translation": "Capacidades Defensivas",
-    "message": "Defensive Capabilities",
+  "zcPVPZ": {
+    "translation": "El Generador de Dibujos de Dandy's World ofrece una variedad de herramientas de dibujo que incluyen tamaños de brocha ajustables, 12 colores diferentes, formas geométricas preestablecidas, partes del cuerpo de personajes y elementos de la naturaleza. Estas herramientas proporcionan todo lo que necesitas para crear obras de arte detalladas.",
+    "message": "Dandys World Draw Generator offers a variety of drawing tools including adjustable brush sizes, 12 different colors, preset geometric shapes, character body parts, and nature elements. These tools provide everything you need to create detailed artwork.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        338
-      ],
-      [
-        "config/site.ts",
-        424
-      ],
-      [
-        "config/site.ts",
-        492
-      ],
-      [
-        "config/site.ts",
-        700
+        250
       ]
     ]
   },
-  "rml26s": {
-    "translation": "Diseña composiciones de equipo efectivas con nuestro Planificador de Habilidades de流放之路2. Planea habilidades de apoyo, auras y habilidades defensivas para crear potentes sinergias de grupo para contenido desafiante.",
-    "message": "Design effective team compositions with our PoE2 Skills Planner. Plan support skills, auras, and defensive abilities to create powerful group synergies for challenging content.",
+  "yzIMnv": {
+    "translation": "El Generador de Dibujos de Dandy's World proporciona múltiples funciones que incluyen 12 opciones de color diferentes, tamaños de brocha ajustables, formas preestablecidas (círculos, cuadrados, triángulos, elipses), partes del cuerpo de personajes y elementos de la naturaleza. También puedes limpiar tu lienzo y guardar tu obra de arte en formato PNG o JPG.",
+    "message": "Dandys World Draw Generator provides multiple features including 12 different color options, adjustable brush sizes, preset shapes (circles, squares, triangles, ellipses), character body parts, and nature elements. You can also clear your canvas and save your artwork in PNG or JPG format.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        858
-      ]
-    ]
-  },
-  "7aqnOj": {
-    "translation": "Las habilidades de destreza en流放之路2 se centran principalmente en el combate a distancia y el juego ágil. Estas habilidades de color verde sobresalen en tácticas de golpe y fuga, ofreciendo habilidades para construir trampas, modificar tipos de munición y ejecutar golpes precisos. Son particularmente efectivas para los jugadores que prefieren un enfoque móvil y táctico en el combate.",
-    "message": "Dexterity skills in Path of Exile 2 are primarily focused on ranged combat and agile gameplay. These green-colored skills excel in hit-and-run tactics, offering abilities for constructing traps, modifying ammunition types, and executing precise strikes. They're particularly effective for players who prefer a mobile, tactical approach to combat.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        448
-      ]
-    ]
-  },
-  "pg57vT": {
-    "translation": "Las habilidades de destreza en流放之路2 presentan mecánicas superiores de velocidad de ataque. Habilidades clave como Frenesí y Rabia de Sangre aumentan significativamente la velocidad de ataque, permitiendo secuencias de combate de fuego rápido y un mayor potencial de DPS.",
-    "message": "Dexterity skills in PoE2 feature superior attack speed mechanics. Key skills like Frenzy and Blood Rage significantly boost attack speed, allowing for rapid-fire combat sequences and increased DPS potential.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        420
-      ]
-    ]
-  },
-  "iWojYC": {
-    "translation": "Las habilidades de destreza brindan varios beneficios defensivos en流放之路2: el aura de Gracia aumenta la evasión del equipo, la Bandera de Desafío reduce el daño recibido y la Mina de Humo otorga mayor evasión y velocidad de movimiento. Estas habilidades defensivas de destreza son cruciales para la supervivencia del equipo en contenido desafiante.",
-    "message": "Dexterity skills provide several defensive benefits in PoE2: Grace aura increases team evasion, Defiance Banner reduces damage taken, and Smoke Mine grants increased evasion and movement speed. These defensive dexterity skills are crucial for team survival in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        456
-      ]
-    ]
-  },
-  "cBmrvx": {
-    "translation": "Las construcciones basadas en destreza sobresalen en aterrizar golpes críticos, particularmente con habilidades como Barrage y Disparo de Hielo. Estas habilidades pueden mejorarse con gemas de apoyo para lograr tasas devastadoras de golpe crítico.",
-    "message": "Dexterity-based builds excel at landing critical strikes, particularly with skills like Barrage and Ice Shot. These skills can be enhanced with support gems to achieve devastating critical hit rates.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        435
-      ]
-    ]
-  },
-  "WQWUiU": {
-    "translation": "Tipos Diversos de Gemas de Habilidad",
-    "message": "Diverse Skill Gem Types",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        614
+        226
       ]
     ]
   },
@@ -1020,113 +604,91 @@
       ]
     ]
   },
-  "GTZBEP": {
-    "translation": "¿Incluye Jujutsu Kaisen Phantom Parade el elenco original del anime?",
-    "message": "Does Jujutsu Kaisen Phantom Parade include the original anime cast?",
+  "BByzjN": {
+    "translation": "¡No te preocupes! El Generador de Dibujos de Dandy's World cuenta con una función para limpiar el lienzo que te permite comenzar de nuevo siempre que lo necesites. Esto lo hace perfecto para experimentar y practicar tus habilidades de dibujo.",
+    "message": "Don't worry! Dandys World Draw Generator features a canvas clear function that allows you to start fresh whenever needed. This makes it perfect for experimenting and practicing your drawing skills.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        220
+        246
       ]
     ]
   },
-  "Xm2xny": {
-    "translation": "Sistema de combate dinámico con tipos de daño físico y elemental. Presenta control de multitudes, mejoras y efectos de estado. Las habilidades se pueden combinar para potentes sinergias tanto en juego en solitario como en grupo.",
-    "message": "Dynamic combat system with physical and elemental damage types. Features crowd control, buffs, and status effects. Skills can be combined for powerful synergies in both solo and group play.",
+  "mzI/c+": {
+    "translation": "Descargar",
+    "message": "Download",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        511
+      ]
+    ]
+  },
+  "HeM1nB": {
+    "translation": "Descargar como JPEG",
+    "message": "Download as JPEG",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        533
+      ]
+    ]
+  },
+  "yQ7ak/": {
+    "translation": "Descargar como PNG",
+    "message": "Download as PNG",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        524
+      ]
+    ]
+  },
+  "GLcnsp": {
+    "translation": "Agrega fácilmente características de personajes detalladas con la biblioteca de partes del cuerpo preestablecidas del Generador de Dibujos de Dandy's World, que incluye elementos como manos, pies, ojos y nariz.",
+    "message": "Easily add detailed character features with Dandys World Draw Generator's preset body parts library including hands, feet, eyes and nose elements.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        782
+        199
       ]
     ]
   },
-  "kTY5vL": {
-    "translation": "Modificación Dinámica de Habilidades",
-    "message": "Dynamic Skill Modification",
+  "VGGB1R": {
+    "translation": "Reinicio Fácil",
+    "message": "Easy Reset",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        710
+        208
       ]
     ]
   },
-  "CsXK/Q": {
-    "translation": "Cada gema de habilidad proporciona habilidades de combate distintas: las gemas rojas destacan en el combate cuerpo a cuerpo y el daño físico, las gemas verdes se centran en ataques a distancia y agilidad, mientras que las gemas azules se especializan en lanzar hechizos y daño elemental.",
-    "message": "Each Skill Gem provides distinct combat abilities - Red gems excel in melee combat and physical damage, Green gems focus on ranged attacks and agility, while Blue gems specialize in spellcasting and elemental damage.",
+  "rp5GhR": {
+    "translation": "Elipse",
+    "message": "Ellipse",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        620
+        "components/DrawingBoard.tsx",
+        27
       ]
     ]
   },
-  "xKpboT": {
-    "translation": "Cada gema de apoyo en Path of Exile 2 tiene requisitos de atributo específicos (Fuerza, Destreza, Inteligencia), lo que afecta a qué construcciones de personajes pueden utilizarlas de manera efectiva. Este sistema crea opciones significativas en el desarrollo del personaje.",
-    "message": "Each Support Gem in PoE2 has specific attribute requirements (Strength, Dexterity, Intelligence), affecting which character builds can effectively utilize them. This system creates meaningful choices in character development.",
+  "wovLGP": {
+    "translation": "Ojo",
+    "message": "Eye",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        706
-      ]
-    ]
-  },
-  "jFbf9R": {
-    "translation": "Maestría en Daño Elemental",
-    "message": "Elemental Damage Mastery",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        477
-      ]
-    ]
-  },
-  "I0Az3M": {
-    "translation": "Efectos de Combate Mejorados",
-    "message": "Enhanced Combat Effects",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        695
-      ]
-    ]
-  },
-  "WVSKOy": {
-    "translation": "Las gemas de apoyo esenciales para las habilidades de Fuerza incluyen: Apoyo de Daño Físico Cuerpo a Cuerpo para aumentar la producción de daño, Apoyo de Fortificación para defensa, Apoyo de Brutalidad para construcciones de daño físico puro y Apoyo de Magia de Sangre para lanzamientos basados en vida. Estas aumentan significativamente la efectividad de las habilidades de las gemas rojas.",
-    "message": "Essential support gems for Strength Skills include: Melee Physical Damage Support for increased damage output, Fortify Support for defense, Brutality Support for pure physical damage builds, and Blood Magic Support for life-based casting. These enhance the effectiveness of red gem abilities significantly.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        393
-      ]
-    ]
-  },
-  "MwaR4Z": {
-    "translation": "Amplia personalización del personaje a través de habilidades pasivas. El árbol pasivo compartido permite a todas las clases acceder a varios nodos, habilitando opciones de construcción diversas y caminos únicos de desarrollo del personaje.",
-    "message": "Extensive character customization through passive skills. The shared passive tree allows all classes to access various nodes, enabling diverse build options and unique character development paths.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        777
-      ]
-    ]
-  },
-  "6jIXss": {
-    "translation": "Error al guardar la construcción",
-    "message": "Failed to save build",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        140
+        "components/DrawingBoard.tsx",
+        33
       ]
     ]
   },
@@ -1141,28 +703,6 @@
       ]
     ]
   },
-  "aJ4pMe": {
-    "translation": "Preguntas Frecuentes",
-    "message": "FAQs",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        23
-      ]
-    ]
-  },
-  "PpZkda": {
-    "translation": "Características",
-    "message": "Features",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        8
-      ]
-    ]
-  },
   "OjNld0": {
     "translation": "Características de Dandys World Draw",
     "message": "Features Of Dandys World Draw",
@@ -1171,94 +711,6 @@
       [
         "config/site.ts",
         32
-      ]
-    ]
-  },
-  "m65fV0": {
-    "translation": "Características de las habilidades de Destreza de Path of Exile 2",
-    "message": "Features Of POE2 Dexterity Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        410
-      ]
-    ]
-  },
-  "GVIp5w": {
-    "translation": "Características de las gemas de Path of Exile 2",
-    "message": "Features Of POE2 Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        539
-      ]
-    ]
-  },
-  "bLqRlz": {
-    "translation": "Características de las habilidades de inteligencia de POE2",
-    "message": "Features Of POE2 Intelligence Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        473
-      ]
-    ]
-  },
-  "GyMkYP": {
-    "translation": "Características de las gemas de habilidad de POE2",
-    "message": "Features Of POE2 skill Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        610
-      ]
-    ]
-  },
-  "75xj60": {
-    "translation": "Características de las habilidades de POE2",
-    "message": "Features Of POE2 Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        752
-      ]
-    ]
-  },
-  "rkn1bM": {
-    "translation": "Características del planificador de habilidades de POE2",
-    "message": "Features Of POE2 Skills Planner",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        833
-      ]
-    ]
-  },
-  "H3SGDp": {
-    "translation": "Características de las habilidades de fuerza de POE2",
-    "message": "Features Of POE2 Strength Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        329
-      ]
-    ]
-  },
-  "N/DeOS": {
-    "translation": "Características de las gemas de soporte de POE2",
-    "message": "Features Of POE2 Support Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        681
       ]
     ]
   },
@@ -1273,14 +725,14 @@
       ]
     ]
   },
-  "kAFCHd": {
-    "translation": "Creación de construcciones flexible",
-    "message": "Flexible Build Creation",
+  "abEdHK": {
+    "translation": "Flor",
+    "message": "Flower",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        872
+        "components/DrawingBoard.tsx",
+        39
       ]
     ]
   },
@@ -1295,14 +747,14 @@
       ]
     ]
   },
-  "qqyb4m": {
-    "translation": "Centrado en el combate cuerpo a cuerpo y daño físico. Presenta poderosos golpes, ataques AoE como Golpe de Hacha y Golpe de Tierra, y habilidades defensivas mediante Gritos de Guerra. Perfecto para guerreros que prefieren el combate directo y una alta supervivencia.",
-    "message": "Focused on melee combat and physical damage. Features powerful strikes, AoE attacks like Cleave and Ground Slam, and defensive abilities through War Cries. Perfect for warriors who prefer direct combat and high survivability.",
+  "xN37me": {
+    "translation": "Pie",
+    "message": "Foot",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        757
+        "components/DrawingBoard.tsx",
+        32
       ]
     ]
   },
@@ -1317,113 +769,14 @@
       ]
     ]
   },
-  "76LTZg": {
-    "translation": "Para principiantes en流放之路2, las combinaciones de habilidades recomendadas incluyen: Tiro de Tornado + Múltiples Proyectiles Mayores para daño a distancia, Tiro de Hielo + Hipotermia para control de masas, Bola de Fuego + Eco de Hechizo para daño de hechizo y Golpe de Tierra + Fortificar para combate cuerpo a cuerpo. Estas combinaciones ofrecen una buena salida de daño mientras son relativamente simples de usar.",
-    "message": "For beginners in Path of Exile 2, recommended skill combinations include: Tornado Shot + Greater Multiple Projectiles for ranged damage, Ice Shot + Hypothermia for crowd control, Fireball + Spell Echo for spell damage, and Ground Slam + Fortify for melee combat. These combinations provide good damage output while being relatively straightforward to use.",
+  "A08Kgh": {
+    "translation": "Estilo Libre",
+    "message": "Freestyle",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        808
-      ]
-    ]
-  },
-  "BnNtJ0": {
-    "translation": "Para principiantes en流放之路2, las combinaciones recomendadas de gemas de soporte incluyen: Soporte de Múltiples Proyectiles Mayores con habilidades de daño en área, Soporte de Daño a Vida Completa con ataques de un solo objetivo, Soporte de Ataques Más Rápidos con habilidades de ataque básico y Soporte de Eco de Hechizo con habilidades de lanzamiento. Estas gemas de soporte brindan beneficios directos que son fáciles de entender y utilizar efectivamente.",
-    "message": "For beginners in Path of Exile 2, recommended Support Gem combinations include: Greater Multiple Projectiles Support with area damage skills, Damage on Full Life Support with single-target attacks, Faster Attacks Support with basic attack skills, and Spell Echo Support with casting abilities. These Support Gems provide straightforward benefits that are easy to understand and utilize effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        727
-      ]
-    ]
-  },
-  "AA2bAI": {
-    "translation": "Para principiantes en POE2, las habilidades de destreza recomendadas incluyen: Tiro de Hielo para control de masas y daño, Flecha Dividida para despejar grupos fácilmente y Flecha Cauterizante para daño confiable a lo largo del tiempo. Estas habilidades son sencillas de usar y proporcionan buena efectividad con requerimientos de equipo mínimos.",
-    "message": "For beginners in PoE2, recommended dexterity skills include: Ice Shot for crowd control and damage, Split Arrow for easy mob clearing, and Caustic Arrow for reliable damage over time. These skills are straightforward to use and provide good effectiveness with minimal gear requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        460
-      ]
-    ]
-  },
-  "UkncHN": {
-    "translation": "Para principiantes en POE2, las habilidades de inteligencia recomendadas incluyen Bola de Fuego para una salida de daño consistente, Rayo de Escarcha para control de masas, Arco para daño de rayo encadenado y Invocar Esqueletos para apoyo adicional en combate. Estas habilidades son sencillas de usar y ofrecen una buena base para entender la mecánica de lanzamiento de hechizos.",
-    "message": "For beginners in PoE2, recommended Intelligence skills include Fireball for consistent damage output, Frostbolt for crowd control, Arc for chain lightning damage, and Summon Skeletons for additional combat support. These skills are straightforward to use and provide a good foundation for understanding spellcasting mechanics.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        518
-      ]
-    ]
-  },
-  "kwHGrZ": {
-    "translation": "Para principiantes en POE2, las gemas de habilidades rojas recomendadas incluyen Golpe Pesado para daño a un solo objetivo, Golpe de Tierra para control de masas. Estas gemas de fuerza son sencillas de usar y brindan opciones de combate efectivas para nuevos jugadores.",
-    "message": "For beginners in PoE2, recommended Red Skill Gems include Cleave for area damage, Heavy Strike for single-target damage, and Ground Slam for crowd control. These Strength-based gems are straightforward to use and provide effective combat options for new players.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        585
-      ]
-    ]
-  },
-  "/NxQUS": {
-    "translation": "Para principiantes en POE2, las gemas de habilidades recomendadas incluyen: Tiro de Tornado con Múltiples Proyectiles Mayores para construcciones a distancia, Tiro de Hielo con Hipotermia para control de masas, Bola de Fuego para lanzadores de hechizos y Golpe Pesado para construcciones cuerpo a cuerpo. Estas gemas de habilidades proporcionan mecánicas sencillas mientras son efectivas para el contenido de los primeros niveles.",
-    "message": "For beginners in PoE2, recommended Skill Gems include: Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for crowd control, Fireball for spellcasters, and Heavy Strike for melee builds. These Skill Gems provide straightforward mechanics while remaining effective for early game content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        656
-      ]
-    ]
-  },
-  "g8laWJ": {
-    "translation": "Para principiantes, las habilidades de fuerza recomendadas incluyen: Golpe Pesado para daño a un solo objetivo, Golpe de Tierra para control de área, Golpe de Acha para despejar grupos y Grito Persistente para supervivencia. Estas habilidades de gema roja son sencillas de usar y brindan una buena base para entender el sistema de habilidades de fuerza.",
-    "message": "For beginners, recommended Strength Skills include: Heavy Strike for single-target damage, Ground Slam for area control, Cleave for group clearing, and Enduring Cry for survival. These red gem abilities are straightforward to use and provide a good foundation for understanding the Strength skill system.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        385
-      ]
-    ]
-  },
-  "qRH6Ma": {
-    "translation": "Para principiantes, el planificador de habilidades de POE2 recomienda combinaciones como Tiro de Tornado con Múltiples Proyectiles Mayores para construcciones a distancia, Tiro de Hielo con Hipotermia para juego orientado al control, o Bola de Fuego con Eco de Hechizo para construcciones de lanzadores de hechizos. Estas combinaciones proporcionan un buen daño y son relativamente sencillas de usar.",
-    "message": "For beginners, the PoE2 Skills Planner recommends combinations like Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for control-oriented gameplay, or Fireball with Spell Echo for spellcasting builds. These combinations provide good damage and are relatively straightforward to use.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        889
-      ]
-    ]
-  },
-  "Q0ENOT": {
-    "translation": "Para encuentros de jefes, las poderosas habilidades de fuerza incluyen: Golpe Pesado para alto daño a un solo objetivo, Golpe Fundente para salida de daño constante, Golpe Infernal para daño explosivo y Grito Persistente para supervivencia. Estas habilidades de gema roja proporcionan el daño sostenido y la supervivencia necesarios para combates desafiantes contra jefes.",
-    "message": "For boss encounters, powerful Strength Skills include: Heavy Strike for high single-target damage, Molten Strike for consistent damage output, Infernal Blow for burst damage, and Enduring Cry for survival. These red gem abilities provide the sustained damage and survivability needed for challenging boss fights.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        401
-      ]
-    ]
-  },
-  "0qnBBD": {
-    "translation": "Para iOS, Jujutsu Kaisen Phantom Parade requiere iOS 12.0 o posterior y aproximadamente 407.6 MB de espacio de almacenamiento. Para Android, requiere Android 8.0 o posterior.",
-    "message": "For iOS, Jujutsu Kaisen Phantom Parade requires iOS 12.0 or later and approximately 407.6 MB of storage space. For Android, it requires Android 8.0 or later.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        193
+        "components/DrawingBoard.tsx",
+        41
       ]
     ]
   },
@@ -1438,14 +791,25 @@
       ]
     ]
   },
-  "GgVATf": {
-    "translation": "Sinergias de gemas",
-    "message": "Gem Synergies",
+  "EDkBL8": {
+    "translation": "¡Generar Ahora!",
+    "message": "Generate Now!",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        568
+        "components/wegic/hero.tsx",
+        40
+      ]
+    ]
+  },
+  "8XR/WI": {
+    "translation": "Generador",
+    "message": "Generator",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
       ]
     ]
   },
@@ -1460,58 +824,14 @@
       ]
     ]
   },
-  "OQjgfs": {
-    "translation": "Las habilidades de destreza verdes ofrecen opciones defensivas robustas a través de la evasión y la movilidad. Habilidades como Gracia y Bandera de Desafío mejoran la supervivencia del equipo mientras mantienen capacidades ofensivas.",
-    "message": "Green dexterity skills offer robust defensive options through evasion and mobility. Skills such as Grace and Defiance Banner enhance team survivability while maintaining offensive capabilities.",
+  "vJ0hjc": {
+    "translation": "Mano",
+    "message": "Hand",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        425
-      ]
-    ]
-  },
-  "gNoxUU": {
-    "translation": "Gemas Verdes (Destreza)",
-    "message": "Green Gems (Dexterity)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        558
-      ]
-    ]
-  },
-  "QcQF16": {
-    "translation": "Gemas de Habilidad Verdes (Destreza)",
-    "message": "Green Skill Gems (Dexterity)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        761
-      ]
-    ]
-  },
-  "At6Qpc": {
-    "translation": "Las Gemas de Habilidad Verdes destacan en combate a distancia y habilidades basadas en agilidad. Habilidades clave como Tiro de Tornado, Tiro de Hielo y Punción ofrecen excelentes opciones para usuarios de arco y construcciones al estilo asesino en POE2.",
-    "message": "Green Skill Gems excel in ranged combat and agility-based abilities. Key skills like Tornado Shot, Ice Shot, and Puncture provide excellent options for bow users and assassin-style builds in PoE2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        559
-      ]
-    ]
-  },
-  "hnWur2": {
-    "translation": "Sistema de modificación de habilidades altamente personalizable. Las gemas de soporte mejoran los efectos de las habilidades activas, permitiendo una profunda personalización de las construcciones. Crea combinaciones únicas al vincular gemas de soporte con habilidades activas para aumentar el poder y la utilidad.",
-    "message": "Highly customizable skill modification system. Support gems enhance active skills' effects, allowing for deep build customization. Create unique combinations by linking support gems with active skills for increased power and utility.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        772
+        "components/DrawingBoard.tsx",
+        31
       ]
     ]
   },
@@ -1530,39 +850,6 @@
       ]
     ]
   },
-  "5FWvsY": {
-    "translation": "¿Cómo puedo descargar Jujutsu Kaisen Phantom Parade en Android?",
-    "message": "How can I download Jujutsu Kaisen Phantom Parade on Android?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        212
-      ]
-    ]
-  },
-  "1adYoo": {
-    "translation": "¿Cómo puedo descargar Jujutsu Kaisen Phantom Parade en iOS?",
-    "message": "How can I download Jujutsu Kaisen Phantom Parade on iOS?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        208
-      ]
-    ]
-  },
-  "hBpVMm": {
-    "translation": "¿Cómo puedo optimizar mi construcción de habilidades de fuerza en POE2?",
-    "message": "How can I optimize my Strength Skills build in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        404
-      ]
-    ]
-  },
   "A3fPkq": {
     "translation": "¿Cómo puedo rastrear mi progreso en el dibujo de personajes de Dandy's World?",
     "message": "How can I track my progress in drawing Dandy's World characters?",
@@ -1574,282 +861,14 @@
       ]
     ]
   },
-  "RbYob3": {
-    "translation": "¿Cómo se pueden optimizar las habilidades de inteligencia para contenido de final de juego en流放之路2?",
-    "message": "How can Intelligence skills be optimized for endgame content in Path of Exile 2?",
+  "LMBnSl": {
+    "translation": "¿Cómo guardo mi obra de arte en el Generador de Dibujos de Dandy's World?",
+    "message": "How do I save my artwork in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        521
-      ]
-    ]
-  },
-  "87v437": {
-    "translation": "¿Cómo afectan las habilidades de destreza a las diferentes clases de personaje en流放之路2?",
-    "message": "How do Dexterity skills affect different character classes in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        463
-      ]
-    ]
-  },
-  "W7khBP": {
-    "translation": "¿Cómo las habilidades de destreza mejoran la defensa del equipo en流放之路2?",
-    "message": "How do Dexterity skills enhance team defense in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        455
-      ]
-    ]
-  },
-  "k2a81l": {
-    "translation": "¿Cómo utilizan las diferentes clases de personaje las gemas de habilidad de manera diferente?",
-    "message": "How do different character classes utilize Skill Gems differently?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        667
-      ]
-    ]
-  },
-  "h6PW5i": {
-    "translation": "¿Cómo utilizan las diferentes clases de personaje las gemas de habilidad?",
-    "message": "How do different character classes utilize skill gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        811
-      ]
-    ]
-  },
-  "qjQTW5": {
-    "translation": "¿Cómo puedo crear una construcción de habilidades efectiva en POE2?",
-    "message": "How do I create an effective skill build in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        884
-      ]
-    ]
-  },
-  "ppUwan": {
-    "translation": "¿Cómo optimizo las posibilidades de golpe crítico de mi personaje usando habilidades?",
-    "message": "How do I optimize my character's critical strike chances using skills?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        900
-      ]
-    ]
-  },
-  "HVo8Qx": {
-    "translation": "¿Cómo afectan las habilidades de inteligencia las construcciones de magos en流放之路2?",
-    "message": "How do Intelligence skills affect Mage builds in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        513
-      ]
-    ]
-  },
-  "xXQkPj": {
-    "translation": "¿Cómo interactúan las habilidades de inteligencia con las gemas de soporte en POE2?",
-    "message": "How do Intelligence skills interact with support gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        529
-      ]
-    ]
-  },
-  "m2Gksy": {
-    "translation": "¿Cómo interactúan las habilidades pasivas con las gemas de habilidad?",
-    "message": "How do passive skills interact with skill gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        819
-      ]
-    ]
-  },
-  "ryLRic": {
-    "translation": "¿Cómo afectan las gemas de habilidad al juego en equipo en流放之路2?",
-    "message": "How do skill gems affect team play in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        908
-      ]
-    ]
-  },
-  "j5jOpJ": {
-    "translation": "¿Cómo afectan las Gemas de Habilidad al juego en equipo en流放之路2?",
-    "message": "How do Skill Gems affect team play in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        675
-      ]
-    ]
-  },
-  "EsTa/o": {
-    "translation": "¿Cómo se integran las Gemas de Habilidad con el árbol de habilidades pasivas en流放之路2?",
-    "message": "How do Skill Gems integrate with the passive skill tree in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        659
-      ]
-    ]
-  },
-  "UTMZPT": {
-    "translation": "¿Cómo suben de nivel las gemas de habilidad en流放之路2?",
-    "message": "How do skill gems level up in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        827
-      ]
-    ]
-  },
-  "rlZCTA": {
-    "translation": "¿Cómo suben de nivel las Gemas de Habilidad en流放之路2?",
-    "message": "How do Skill Gems level up in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        596
-      ]
-    ]
-  },
-  "qERQah": {
-    "translation": "¿Cómo benefician las habilidades de fuerza el juego en equipo en POE2?",
-    "message": "How do Strength Skills benefit team play in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        380
-      ]
-    ]
-  },
-  "v3ijFS": {
-    "translation": "¿Cómo se comparan las habilidades de fuerza con otras habilidades de atributo en POE2?",
-    "message": "How do Strength Skills compare to other attribute skills in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        396
-      ]
-    ]
-  },
-  "UWOgcG": {
-    "translation": "¿Cómo escalan las habilidades de fuerza con la progresión del personaje en POE2?",
-    "message": "How do Strength Skills scale with character progression in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        388
-      ]
-    ]
-  },
-  "nNME7C": {
-    "translation": "¿Cómo afectan las gemas de soporte las construcciones de personajes?",
-    "message": "How do Support Gems affect character builds?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        730
-      ]
-    ]
-  },
-  "yF0XDP": {
-    "translation": "¿Cómo afectan las gemas de soporte el daño de habilidades en POE2?",
-    "message": "How do Support Gems affect skill damage in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        738
-      ]
-    ]
-  },
-  "Tn7Zef": {
-    "translation": "¿Cómo funcionan las gemas de soporte en POE2?",
-    "message": "How do Support Gems work in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        580
-      ]
-    ]
-  },
-  "1KIhkX": {
-    "translation": "¿Cómo funcionan las gemas de soporte con diferentes tipos de atributos en POE2?",
-    "message": "How do Support Gems work with different attribute types in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        722
-      ]
-    ]
-  },
-  "N5flWT": {
-    "translation": "¿Cómo funcionan las gemas de soporte con las gemas de habilidad en POE2?",
-    "message": "How do support gems work with skill gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        803
-      ],
-      [
-        "config/site.ts",
-        892
-      ]
-    ]
-  },
-  "mEVwZQ": {
-    "translation": "¿Cómo funcionan las Gemas de Soporte con las Gemas de Habilidad en POE2?",
-    "message": "How do Support Gems work with Skill Gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        651
-      ]
-    ]
-  },
-  "MhqG83": {
-    "translation": "¿Cómo se suben de nivel las gemas de soporte?",
-    "message": "How do you level up Support Gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        746
+        229
       ]
     ]
   },
@@ -1941,160 +960,6 @@
       ]
     ]
   },
-  "JsEKN8": {
-    "translation": "Mecánicas de Impacto",
-    "message": "Impact Mechanics",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        368
-      ]
-    ]
-  },
-  "V6juom": {
-    "translation": "En contenido grupal, las habilidades de Inteligencia brindan un apoyo crucial a través de daño elemental, control de multitudes y efectos de utilidad. Habilidades como Cadenas Temporales pueden controlar el movimiento de los enemigos, mientras que auras y habilidades defensivas pueden proteger a todo el grupo. Esto hace que los personajes basados en Inteligencia sean valiosos miembros del equipo en Path of Exile 2.",
-    "message": "In group content, Intelligence skills provide crucial support through elemental damage, crowd control, and utility effects. Skills like Temporal Chains can control enemy movement, while auras and defensive abilities can protect the entire party. This makes Intelligence-based characters valuable team members in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        534
-      ]
-    ]
-  },
-  "cOrZ61": {
-    "translation": "En Path of Exile 2, cada clase de personaje tiene afinidades naturales para ciertos Gemas de Habilidades basadas en sus atributos primarios. Los Exploradores destacan con Gemas de Habilidades Verdes para combate a distancia, los Templarios se benefician de las Gemas de Habilidades Azules para lanzar conjuros, y los Marauders se alinean naturalmente con las Gemas de Habilidades Rojas para combate cuerpo a cuerpo. Sin embargo, cualquier clase puede usar cualquier Gema de Habilidades si cumplen con los requisitos de atributos.",
-    "message": "In Path of Exile 2, each character class has natural affinities for certain Skill Gems based on their primary attributes. Rangers excel with Green Skill Gems for ranged combat, Templars benefit from Blue Skill Gems for spellcasting, and Marauders naturally align with Red Skill Gems for melee combat. However, any class can use any Skill Gem if they meet the attribute requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        668
-      ]
-    ]
-  },
-  "Eq/v2W": {
-    "translation": "En Path of Exile 2, cada clase de personaje tiene afinidades naturales para ciertas gemas de habilidades: los Exploradores se destacan con habilidades verdes como Disparo Tormentoso, los Marauders se benefician de habilidades rojas como Golpe de Tierra, y las Brujas se especializan en habilidades azules como Bola de Fuego. Sin embargo, cualquier clase puede utilizar cualquier gema de habilidad si cumple con los requisitos de atributos.",
-    "message": "In Path of Exile 2, each character class has natural affinities for certain skill gems: Rangers excel with green skills like Tornado Shot, Marauders benefit from red skills like Ground Slam, and Witches specialize in blue skills like Fireball. However, any class can use any skill gem if they meet the attribute requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        812
-      ]
-    ]
-  },
-  "Ft7Ocz": {
-    "translation": "En Path of Exile 2, hay tres tipos principales de Gemas de Habilidades basadas en atributos: gemas Rojas (Fuerza) que se enfocan en combate cuerpo a cuerpo y daño físico, gemas Verdes (Destreza) que se especializan en ataques a distancia y agilidad, y gemas Azules (Inteligencia) que se concentran en lanzar conjuros y daño elemental. Cada tipo ofrece mecánicas de juego únicas y posibilidades de construcción.",
-    "message": "In Path of Exile 2, there are three primary types of Skill Gems based on attributes: Red (Strength) gems focus on melee combat and physical damage, Green (Dexterity) gems specialize in ranged attacks and agility, and Blue (Intelligence) gems concentrate on spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        648
-      ]
-    ]
-  },
-  "5ZTRiC": {
-    "translation": "En el juego grupal de Path of Exile 2, las Gemas de Apoyo son cruciales para crear composiciones de equipo sinérgicas. Pueden mejorar los beneficios grupales, proporcionar capas defensivas adicionales, mejorar las capacidades de control de multitudes y aumentar la producción total de daño del equipo. El uso estratégico de las Gemas de Apoyo ayuda a optimizar el rendimiento del grupo en contenido desafiante.",
-    "message": "In Path of Exile 2's group gameplay, Support Gems are crucial for creating synergistic team compositions. They can enhance party-wide buffs, provide additional defensive layers, improve crowd control capabilities, and boost overall team damage output. Strategic use of Support Gems helps optimize group performance in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        743
-      ]
-    ]
-  },
-  "SnCrD7": {
-    "translation": "En Path of Exile 2, las habilidades de destreza afectan de manera única a diferentes clases: los Exploradores se destacan con habilidades de arco como Disparo Tormentoso, los Duelistas se benefician de habilidades como Frenesí y Lacerar, mientras que los Sombras pueden utilizar eficazmente habilidades de destreza basadas en veneno. Cada clase puede utilizar estas habilidades de manera diferente según su posición en el árbol pasivo y atributos naturales.",
-    "message": "In PoE2, dexterity skills impact different classes uniquely: Rangers excel with bow skills like Tornado Shot, Duelists benefit from skills like Frenzy and Lacerate, while Shadows can effectively use poison-based dexterity skills. Each class can utilize these skills differently based on their passive tree position and natural attributes.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        464
-      ]
-    ]
-  },
-  "uriovw": {
-    "translation": "En el Planificador de Habilidades de Path of Exile 2, las gemas de apoyo modifican y mejoran los efectos de las gemas de habilidades activas. Pueden aumentar el daño, añadir proyectiles adicionales, mejorar la velocidad de lanzamiento o proporcionar efectos de utilidad. Las gemas de apoyo adecuadas pueden aumentar significativamente la efectividad de tus habilidades.",
-    "message": "In the Path of Exile 2 Skills Planner, support gems modify and enhance active skill gems' effects. They can increase damage, add additional projectiles, improve casting speed, or provide utility effects. The right support gems can significantly boost your skills' effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        893
-      ]
-    ]
-  },
-  "g1A+ws": {
-    "translation": "Las habilidades de Inteligencia (gemas de habilidades azules) en Path of Exile 2 son habilidades especializadas enfocadas en lanzar conjuros y daño elemental. Estas habilidades incluyen conjuros ofensivos, habilidades de invocación de compañeros y efectos de utilidad que permiten a los jugadores causar daño mágico, controlar el campo de batalla y apoyar a sus aliados.",
-    "message": "Intelligence skills (blue skill gems) in Path of Exile 2 are specialized abilities focused on spellcasting and elemental damage. These skills include offensive spells, minion summoning abilities, and utility effects that allow players to deal magical damage, control the battlefield, and support allies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        506
-      ]
-    ]
-  },
-  "CSZLhb": {
-    "translation": "Las habilidades de Inteligencia son fundamentales para las construcciones de Mago en Path of Exile 2, proporcionando salida de daño esencial a través de conjuros elementales, capacidades defensivas a través de barreras y control de multitudes, y utilidad a través de la invocación de compañeros. Estas habilidades se pueden combinar con gemas de apoyo para crear potentes sinergias que mejoran tanto las capacidades ofensivas como defensivas.",
-    "message": "Intelligence skills are fundamental to Mage builds in PoE2, providing essential damage output through elemental spells, defensive capabilities through barriers and crowd control, and utility through minion summoning. These skills can be combined with support gems to create powerful synergies that enhance both offensive and defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        514
-      ]
-    ]
-  },
-  "HP+1C4": {
-    "translation": "Las habilidades de Inteligencia en Path of Exile 2 pueden ser mejoradas por las gemas de apoyo para modificar su comportamiento y efectividad. Las combinaciones comunes incluyen el uso de Eco de Conjuros para lanzamientos repetidos, Enfoque Elemental para aumentar el daño elemental, y Lanzamiento Más Rápido para mejorar la velocidad de los conjuros. Las gemas de apoyo adecuadas pueden aumentar significativamente el rendimiento de la habilidad.",
-    "message": "Intelligence skills in Path of Exile 2 can be enhanced by support gems to modify their behavior and effectiveness. Common combinations include using Spell Echo for repeated casting, Elemental Focus for increased elemental damage, and Faster Casting for improved spell speed. The right support gems can significantly boost skill performance.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        530
-      ]
-    ]
-  },
-  "w0vEsM": {
-    "translation": "Las habilidades de Inteligencia en Path of Exile 2 destacan por su salida de daño elemental, presentando poderosos conjuros como Bola de Fuego, Proyectil Helado y Arco que infligen devastador daño de fuego, frío y relámpago respectivamente. Estas habilidades pueden ser mejoradas con gemas de apoyo para maximizar la efectividad elemental.",
-    "message": "Intelligence skills in Path of Exile 2 excel at elemental damage output, featuring powerful spells like Fireball, Frostbolt, and Arc that deal devastating fire, cold, and lightning damage respectively. These skills can be enhanced with support gems to maximize elemental effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        478
-      ]
-    ]
-  },
-  "xdBWA0": {
-    "translation": "Las habilidades de Inteligencia en Path of Exile 2 presentan un alto potencial de golpe crítico, particularmente con conjuros como Arco y Golpe de Relámpago. Cuando se combinan con gemas de apoyo apropiadas, estas habilidades pueden proporcionar golpes críticos devastadores que aumentan significativamente la salida de daño.",
-    "message": "Intelligence skills in PoE2 feature high critical strike potential, particularly with spells like Arc and Lightning Strike. When combined with appropriate support gems, these skills can deliver devastating critical hits that significantly boost damage output.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        498
-      ]
-    ]
-  },
-  "JXVsIx": {
-    "translation": "Las habilidades de Inteligencia incluyen potentes opciones defensivas como Barrera de Hielo y Escudo de Escarcha, proporcionando crucial supervivencia a través de absorción de daño y efectos de control de multitudes. Estos mecanismos defensivos son esenciales para mantener la presencia en el campo de batalla.",
-    "message": "Intelligence skills include powerful defensive options such as Ice Barrier and Frost Shield, providing crucial survivability through damage absorption and crowd control effects. These defensive mechanisms are essential for maintaining battlefield presence.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        493
-      ]
-    ]
-  },
   "RLPmGq": {
     "translation": "Introducción a Dandys World Draw",
     "message": "Introduction of Dandys World Draw",
@@ -2106,25 +971,14 @@
       ]
     ]
   },
-  "rr52zJ": {
-    "translation": "¿Está disponible Jujutsu Kaisen Phantom Parade en inglés?",
-    "message": "Is Jujutsu Kaisen Phantom Parade available in English?",
+  "DVcPYw": {
+    "translation": "¿Es adecuado el Generador de Dibujos de Dandy's World para principiantes?",
+    "message": "Is Dandys World Draw Generator suitable for beginners?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        204
-      ]
-    ]
-  },
-  "tlfYGz": {
-    "translation": "¿Es Jujutsu Kaisen Phantom Parade un juego gratuito?",
-    "message": "Is Jujutsu Kaisen Phantom Parade free to play?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        200
+        237
       ]
     ]
   },
@@ -2150,69 +1004,14 @@
       ]
     ]
   },
-  "LpV4OJ": {
-    "translation": "Jujutsu Kaisen Phantom Parade es un juego móvil de RPG basado en la popular serie de anime Jujutsu Kaisen. Presenta combate por turnos, una rica trama y mecánicas de recolección de personajes. Puedes descargar Jujutsu Kaisen Phantom Parade desde la App Store de Apple para dispositivos iOS y la Google Play Store para dispositivos Android.",
-    "message": "Jujutsu Kaisen Phantom Parade is a mobile RPG game based on the popular anime series Jujutsu Kaisen. It features turn-based combat, a rich storyline, and character collection mechanics. You can download Jujutsu Kaisen Phantom Parade from the Apple App Store for iOS devices and the Google Play Store for Android devices.",
+  "xPwtt9": {
+    "translation": "Hoja",
+    "message": "Leaf",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        185
-      ]
-    ]
-  },
-  "VuEEPs": {
-    "translation": "Jujutsu Kaisen Phantom Parade ofrece combate por turnos con personajes del universo de Jujutsu Kaisen, una rica trama con actuación de voz completa y un sistema de gacha para la recolección de personajes. El juego brinda una experiencia inmersiva para los fanáticos de la serie.",
-    "message": "Jujutsu Kaisen Phantom Parade offers turn-based combat with characters from the Jujutsu Kaisen universe, a rich storyline with full voice acting, and a gacha system for character collection. The game provides an immersive experience for fans of the series.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        197
-      ]
-    ]
-  },
-  "J73Tj0": {
-    "translation": "Jujutsu Kaisen Phantom Parade se lanzó oficialmente el 7 de diciembre de 2024. Ahora está disponible para descarga en plataformas iOS y Android.",
-    "message": "Jujutsu Kaisen Phantom Parade was officially released on December 7, 2024. It is now available for download on both iOS and Android platforms.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        189
-      ]
-    ]
-  },
-  "nBxiSt": {
-    "translation": "Las habilidades defensivas clave de Inteligencia incluyen Barrera de Hielo para absorción de daño, Escudo de Escarcha para protección, Cadenas Temporales para control de enemigos y Carrera de Fase para movilidad. Estas habilidades ayudan a los Magos a sobrevivir encuentros desafiantes proporcionando diversas capas defensivas y opciones de escape.",
-    "message": "Key defensive Intelligence skills include Ice Barrier for damage absorption, Frost Shield for protection, Temporal Chains for enemy control, and Phase Run for mobility. These skills help Mages survive challenging encounters by providing various defensive layers and escape options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        526
-      ]
-    ]
-  },
-  "VFvlAZ": {
-    "translation": "Conocido por sus habilidades de discurso maldito, Toge puede manipular las maldiciones a través de palabras específicas. A menudo usa bolas de arroz como una forma de comunicarse de manera segura.",
-    "message": "Known for his cursed speech abilities, Toge can manipulate curses through specific words. He often uses rice balls as a way to communicate safely.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        278
-      ]
-    ]
-  },
-  "CUo907": {
-    "translation": "Conocido por su inmensa fuerza y pericia en el combate, Todo también se caracteriza por su personalidad directa y lealtad a los amigos.",
-    "message": "Known for his immense strength and combat prowess, Todo is also characterized by his straightforward personality and loyalty to friends.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        308
+        "components/DrawingBoard.tsx",
+        38
       ]
     ]
   },
@@ -2260,28 +1059,6 @@
       ]
     ]
   },
-  "VrNagU": {
-    "translation": "Nivel:",
-    "message": "Level:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        83
-      ]
-    ]
-  },
-  "OTtIU8": {
-    "translation": "Escalado de Vida",
-    "message": "Life Scaling",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        363
-      ]
-    ]
-  },
   "Z3FXyt": {
     "translation": "Cargando...",
     "message": "Loading...",
@@ -2290,28 +1067,6 @@
       [
         "app/[lang]/(public)/loading.tsx",
         8
-      ]
-    ]
-  },
-  "EvqQVm": {
-    "translation": "Habilidades Principales",
-    "message": "Main Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        191
-      ]
-    ]
-  },
-  "R/on3o": {
-    "translation": "Muchas Gemas de Habilidades en Path of Exile 2 ofrecen beneficios basados en el equipo, permitiendo a los jugadores apoyar a sus aliados a través de beneficios, auras y habilidades defensivas para un mejor juego en grupo.",
-    "message": "Many Skill Gems in Path of Exile 2 offer team-based benefits, allowing players to support allies through buffs, auras, and defensive abilities for enhanced group play.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        640
       ]
     ]
   },
@@ -2352,80 +1107,25 @@
       ]
     ]
   },
-  "H3p+ql": {
-    "translation": "Maestros de la magia elemental y la invocación. Presenta poderosos conjuros como Bola de Fuego y Arco, junto con habilidades de invocación de compañeros. Esencial para hechiceros que buscan un alto daño mágico y control del campo de batalla.",
-    "message": "Masters of elemental magic and summoning. Features powerful spells like Fireball and Arc, alongside minion summoning abilities. Essential for spellcasters seeking high magical damage output and battlefield control.",
+  "IO/SDP": {
+    "translation": "Múltiples Opciones de Exportación",
+    "message": "Multiple Export Options",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        767
+        213
       ]
     ]
   },
-  "CH2/BC": {
-    "translation": "Las Gemas Meta son gemas de habilidades avanzadas en Path of Exile 2 que se activan bajo condiciones específicas, añadiendo complejidad a las construcciones de personajes. Estas gemas pueden activar automáticamente otras habilidades enlazadas o proporcionar efectos únicos, permitiendo combinaciones de habilidades sofisticadas y secuencias de habilidades automatizadas en combate.",
-    "message": "Meta Gems are advanced Skill Gems in PoE2 that trigger under specific conditions, adding complexity to character builds. These gems can activate other linked skills automatically or provide unique effects, allowing for sophisticated skill combinations and automated skill sequences in combat.",
+  "RYg1g4": {
+    "translation": "Elementos de la Naturaleza",
+    "message": "Nature Elements",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        664
-      ]
-    ]
-  },
-  "6NWiBo": {
-    "translation": "Las Gemas Meta en Path of Exile 2 son gemas avanzadas que se activan bajo condiciones específicas. Añaden complejidad a las construcciones al permitir la activación automática de habilidades o proporcionar efectos únicos cuando se cumplen ciertas condiciones, creando construcciones de personajes más sofisticadas.",
-    "message": "Meta Gems in Path of Exile 2 are advanced gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or providing unique effects when certain conditions are met, creating more sophisticated character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        605
-      ]
-    ]
-  },
-  "sZUkBE": {
-    "translation": "Las gemas meta en Path of Exile 2 son gemas de habilidades avanzadas que se activan bajo condiciones específicas. Añaden complejidad a las construcciones al permitir la activación automática de habilidades o crear patrones de interacción únicos entre diferentes habilidades, habilitando construcciones de personajes más sofisticadas.",
-    "message": "Meta gems in Path of Exile 2 are advanced skill gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or creating unique interaction patterns between different skills, enabling more sophisticated character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        816
-      ]
-    ]
-  },
-  "IYxXKr": {
-    "translation": "Invocación de Compañeros",
-    "message": "Minion Summoning",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        487
-      ]
-    ]
-  },
-  "44khzM": {
-    "translation": "Movimiento y Agilidad",
-    "message": "Movement and Agility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        439
-      ]
-    ]
-  },
-  "qQKpn1": {
-    "translation": "Sinergia Multijugador",
-    "message": "Multiplayer Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        639
+        203
       ]
     ]
   },
@@ -2437,17 +1137,6 @@
       [
         "framework/components/ue-upload/useS34R2.ts",
         27
-      ]
-    ]
-  },
-  "isRobC": {
-    "translation": "Nuevo",
-    "message": "New",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        41
       ]
     ]
   },
@@ -2473,25 +1162,14 @@
       ]
     ]
   },
-  "hXzOVo": {
-    "translation": "Siguiente",
-    "message": "Next",
+  "SfPlW9": {
+    "translation": "Nariz",
+    "message": "Nose",
     "comments": [],
     "origin": [
       [
-        "components/skills/pagination.tsx",
-        36
-      ]
-    ]
-  },
-  "4WSj+R": {
-    "translation": "No todas las Gemas de Apoyo pueden utilizarse con cada gema de habilidad en Path of Exile 2. Las Gemas de Apoyo tienen requisitos de compatibilidad específicos basados en el tipo de habilidad (ataque, hechizo, minion, etc.) y requisitos de atributos. Los jugadores deben revisar cuidadosamente las descripciones de gemas y requisitos para asegurar la compatibilidad adecuada al crear combinaciones de habilidades.",
-    "message": "Not all Support Gems can be used with every skill gem in Path of Exile 2. Support Gems have specific compatibility requirements based on the skill type (attack, spell, minion, etc.) and attribute requirements. Players must carefully check gem descriptions and requirements to ensure proper compatibility when creating skill combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        735
+        "components/DrawingBoard.tsx",
+        34
       ]
     ]
   },
@@ -2506,17 +1184,6 @@
       ]
     ]
   },
-  "mFvrex": {
-    "translation": "Optimiza el DPS de tu personaje planificando la velocidad de ataque y combinaciones de golpe crítico. Nuestro planificador te ayuda a seleccionar las mejores gemas de habilidades y gemas de apoyo para maximizar tu salida de daño en Path of Exile 2.",
-    "message": "Optimize your character's DPS by planning attack speed and critical strike combinations. Our planner helps you select the best skill gems and support gems to maximize your damage output in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        853
-      ]
-    ]
-  },
   "d2Hx1C": {
     "translation": "Nuestra plataforma incluye un sistema de seguimiento de progreso donde puedes guardar tu arte de Dandy's World, comparar mejoras a lo largo del tiempo y ganar insignias de logros. También fomentamos mantener un portafolio artístico personal para visualizar tu desarrollo.",
     "message": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
@@ -2528,256 +1195,14 @@
       ]
     ]
   },
-  "MyRipQ": {
-    "translation": "Árbol Pasivo",
-    "message": "Passive Skill Tree",
+  "nk7u3D": {
+    "translation": "Pétalo",
+    "message": "Petal",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        776
-      ]
-    ]
-  },
-  "QAAPjM": {
-    "translation": "Integración del Árbol Pasivo",
-    "message": "Passive Tree Integration",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        867
-      ]
-    ]
-  },
-  "cu+r4f": {
-    "translation": "Sinergia del Árbol Pasivo",
-    "message": "Passive Tree Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        629
-      ]
-    ]
-  },
-  "yujZ2L": {
-    "translation": "Path of Exile 2 presenta tres tipos principales de gemas de habilidades: gemas Rojas (Fuerza) enfocadas en combate cuerpo a cuerpo y daño físico, gemas Verdes (Destreza) especializadas en ataques a distancia y agilidad, y gemas Azules (Inteligencia) centradas en lanzar conjuros y daño elemental. Cada tipo tiene características únicas y puede ser mejorado con gemas de apoyo.",
-    "message": "Path of Exile 2 features three main types of skill gems: Red (Strength) gems focusing on melee combat and physical damage, Green (Dexterity) gems specializing in ranged attacks and agility, and Blue (Intelligence) gems centered on spellcasting and elemental damage. Each type has unique characteristics and can be enhanced with support gems.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        800
-      ]
-    ]
-  },
-  "9sef72": {
-    "translation": "Path of Exile 2 presenta tres tipos principales de Gemas de Habilidades: Gemas Rojas (Fuerza) para combate cuerpo a cuerpo, Gemas Verdes (Destreza) para ataques a distancia, y Gemas Azules (Inteligencia) para lanzar conjuros. Cada tipo tiene características únicas y puede ser mejorado con Gemas de Apoyo para una personalización más profunda.",
-    "message": "Path of Exile 2 features three primary types of Skill Gems: Red (Strength) Gems for melee combat, Green (Dexterity) Gems for ranged attacks, and Blue (Intelligence) Gems for spellcasting. Each type has unique characteristics and can be enhanced with Support Gems for deeper customization.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        577
-      ]
-    ]
-  },
-  "RNVqI9": {
-    "translation": "Las Gemas de Habilidad de Path of Exile 2 proporcionan habilidades de combate primarias, divididas en categorías de Rojo (Fuerza), Verde (Destreza) y Azul (Inteligencia). Cada Gema de Habilidad ofrece capacidades de combate únicas, desde poderosos ataques cuerpo a cuerpo hasta devastadores hechizos.",
-    "message": "Path of Exile 2 Skill Gems provide primary combat abilities, divided into Red (Strength), Green (Dexterity), and Blue (Intelligence) categories. Each Skill Gem offers unique combat capabilities, from powerful melee attacks to devastating spells.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        544
-      ]
-    ]
-  },
-  "oEMAxY": {
-    "translation": "El Planificador de Habilidades de Path of Exile 2 clasifica las gemas en tres tipos principales: Rojo (Fuerza) para daño cuerpo a cuerpo y físico, Verde (Destreza) para combate a distancia y ágil, y Azul (Inteligencia) para lanzar hechizos y daño elemental. Cada tipo ofrece mecánicas de juego únicas y posibilidades de construcción.",
-    "message": "Path of Exile 2 Skills Planner categorizes gems into three main types: Red (Strength) for melee and physical damage, Green (Dexterity) for ranged and agile combat, and Blue (Intelligence) for spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        881
-      ]
-    ]
-  },
-  "c/quQp": {
-    "translation": "El Planificador de Habilidades de Path of Exile 2 presenta una extensa colección de gemas de habilidad rojas (Fuerza), verdes (Destreza) y azules (Inteligencia), permitiendo a los jugadores crear poderosas construcciones de personajes a través de combinaciones estratégicas de gemas y mejoras de gemas de soporte.",
-    "message": "Path of Exile 2 Skills Planner features an extensive collection of Red (Strength), Green (Dexterity), and Blue (Intelligence) skill gems, allowing players to create powerful character builds through strategic gem combinations and support gem enhancements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        838
-      ]
-    ]
-  },
-  "pr9uiD": {
-    "translation": "Las mejores habilidades defensivas de Path of Exile 2 incluyen: Barrera de Hielo y Escudo de Escarcha para absorción de daño, Cadenas Temporales para control de enemigos, Carrera de Fase para mecánicas de escape, y varias habilidades de aura como Gracia y Vitalidad para una mayor supervivencia. Estas habilidades se pueden combinar con gemas de soporte para mejorar las capacidades defensivas.",
-    "message": "Path of Exile 2's best defensive skills include: Ice Barrier and Frost Shield for damage absorption, Temporal Chains for enemy control, Phase Run for escape mechanics, and various aura skills like Grace and Vitality for enhanced survivability. These skills can be combined with support gems for improved defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        824
-      ]
-    ]
-  },
-  "Rl390J": {
-    "translation": "Las habilidades de destreza de Path of Exile 2 enfatizan la movilidad y una rápida posición. Habilidades como Mina de Humo y Carrera de Fase proporcionan opciones de movimiento esenciales para el combate y la exploración.",
-    "message": "Path of Exile 2's dexterity skills emphasize mobility and quick positioning. Skills like Smoke Mine and Phase Run provide essential movement options for both combat and exploration.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        440
-      ]
-    ]
-  },
-  "i79PN8": {
-    "translation": "Las habilidades de destreza de Path of Exile 2 sobresalen en el combate a distancia, ofreciendo un enfoque preciso y opciones de ataque versátiles. Habilidades como Tiro Tornado y Flecha Partida proporcionan una excelente cobertura de área mientras se mantiene una distancia segura de los enemigos.",
-    "message": "Path of Exile 2's dexterity skills excel in ranged combat, offering precise targeting and versatile attack options. Skills like Tornado Shot and Split Arrow provide excellent area coverage while maintaining safe distance from enemies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        415
-      ]
-    ]
-  },
-  "gVAQ6M": {
-    "translation": "Las habilidades de Inteligencia de Path of Exile 2 se pueden clasificar en tres tipos principales: Hechizos de daño directo (como Bola de Fuego y Arco), Habilidades de invocación de esbirros (como Invocar Esqueletos), y Habilidades de utilidad/soporte (incluyendo auras y habilidades defensivas). Cada tipo cumple diferentes roles en el combate y puede ser mejorado con gemas de soporte.",
-    "message": "Path of Exile 2's Intelligence skills can be categorized into three main types: Direct damage spells (like Fireball and Arc), Minion summoning skills (such as Summon Skeletons), and Utility/Support skills (including auras and defensive abilities). Each type serves different roles in combat and can be enhanced with support gems.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        510
-      ]
-    ]
-  },
-  "JLMWo5": {
-    "translation": "El sistema de Gemas de Habilidad de Path of Exile 2 presenta tres tipos principales: Gemas Rojas (Fuerza), Gemas Verdes (Destreza) y Gemas Azules (Inteligencia), cada una ofreciendo capacidades de combate únicas y posibilidades de construcción.",
-    "message": "Path of Exile 2's Skill Gems system features three primary types: Red (Strength), Green (Dexterity), and Blue (Intelligence) gems, each offering unique combat capabilities and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        615
-      ]
-    ]
-  },
-  "m7EtTn": {
-    "translation": "Las Gemas de Soporte de Path of Exile 2 se categorizan por tres atributos principales: Fuerza (Rojo), Destreza (Verde) e Inteligencia (Azul). Cada tipo de Gema de Soporte requiere niveles específicos de atributo y proporciona diferentes modificaciones a habilidades activas. Las Gemas de Soporte Rojas suelen mejorar el daño físico y las capacidades defensivas, las Gemas de Soporte Verdes se centran en modificaciones de proyectiles y velocidad, mientras que las Gemas de Soporte Azules típicamente aumentan efectos elementales y de hechizos.",
-    "message": "Path of Exile 2's Support Gems are categorized by three main attributes: Strength (Red), Dexterity (Green), and Intelligence (Blue). Each type of Support Gem requires specific attribute levels and provides different modifications to active skills. Red Support Gems often enhance physical damage and defensive capabilities, Green Support Gems focus on projectile and speed modifications, while Blue Support Gems typically boost elemental and spell effects.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        723
-      ]
-    ]
-  },
-  "zFELgS": {
-    "translation": "Las Gemas de Soporte de Path of Exile 2 pueden modificar las mecánicas de las habilidades en tiempo real, permitiendo a los jugadores adaptar sus habilidades a diferentes situaciones. Esta flexibilidad permite estilos de juego diversos y profundidad estratégica.",
-    "message": "Path of Exile 2's Support Gems can modify skill mechanics in real-time, allowing players to adapt their abilities to different situations. This flexibility enables diverse playstyles and strategic depth.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        711
-      ]
-    ]
-  },
-  "rcR3jp": {
-    "translation": "Las Gemas de Soporte de Path of Exile 2 ofrecen una personalización sin precedentes, permitiendo a los jugadores modificar y mejorar sus habilidades activas de varias maneras. Cada Gema de Soporte puede estar vinculada con habilidades activas para crear combinaciones poderosas, transformando fundamentalmente las mecánicas del juego.",
-    "message": "Path of Exile 2's Support Gems offer unprecedented customization, allowing players to modify and enhance their active skills in various ways. Each Support Gem can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        686
-      ]
-    ]
-  },
-  "9ZrB50": {
-    "translation": "Enfoque en Daño Físico",
-    "message": "Physical Damage Focus",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        333
-      ]
-    ]
-  },
-  "VKMSyV": {
-    "translation": "Planea y optimiza las construcciones de tu personaje en PoE2 con información detallada sobre sinergias de habilidades, cálculos de daño y capacidades defensivas. Nuestro planificador te ayuda a maximizar el potencial de tu personaje a través de combinaciones efectivas de gemas de habilidad.",
-    "message": "Plan and optimize your PoE2 character builds with detailed information about skill synergies, damage calculations, and defensive capabilities. Our planner helps you maximize your character's potential through effective skill gem combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        843
-      ]
-    ]
-  },
-  "8gPvqK": {
-    "translation": "Planifica tus elecciones de gemas de habilidad junto con las decisiones del árbol pasivo. Nuestro Planificador de Habilidades de PoE2 te ayuda a crear construcciones cohesionadas mostrando cómo las gemas de habilidad interactúan con las elecciones del árbol pasivo.",
-    "message": "Plan your skill gem choices alongside passive tree decisions. Our PoE2 Skills Planner helps you create cohesive builds by showing how skill gems interact with passive tree choices.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        868
-      ]
-    ]
-  },
-  "+BRJj6": {
-    "translation": "Los jugadores pueden combinar diferentes Gemas de Habilidad para crear construcciones únicas, ya sea enfocándose en pura producción de daño, capacidades defensivas o enfoques híbridos en el contenido desafiante de PoE2.",
-    "message": "Players can combine different Skill Gems to create unique builds, whether focusing on pure damage output, defensive capabilities, or hybrid approaches in PoE2's challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        635
-      ]
-    ]
-  },
-  "SaquMu": {
-    "translation": "Por favor, introduce un título",
-    "message": "Please enter a title",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        102
-      ]
-    ]
-  },
-  "aobb0H": {
-    "translation": "Por favor, introduce un autor",
-    "message": "Please enter an author",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        106
-      ]
-    ]
-  },
-  "h1pZGt": {
-    "translation": "Por favor, selecciona al menos una habilidad principal",
-    "message": "Please select at least one main skill",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        110
+        "components/DrawingBoard.tsx",
+        40
       ]
     ]
   },
@@ -2792,83 +1217,6 @@
       ]
     ]
   },
-  "6EKMS0": {
-    "translation": "Las habilidades de destreza de PoE2 destacan en su capacidad para crear combinaciones poderosas. Parejas populares como Punción con la Gema de Soporte de Daño a Vida Completa o Tiro Tornado con Proyectiles Múltiples Mayores maximizan la efectividad del combate.",
-    "message": "PoE2 dexterity skills shine in their ability to create powerful combinations. Popular pairings like Puncture with Damage on Full Life Support or Tornado Shot with Greater Multiple Projectiles maximize combat effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        430
-      ]
-    ]
-  },
-  "Ef7fXT": {
-    "translation": "Las habilidades de inteligencia de PoE2 ofrecen diversas opciones de lanzamiento de hechizos, permitiendo a los magos adaptar su estrategia a través de varias combinaciones de hechizos. Desde hechizos de daño directo hasta habilidades de área de efecto, las construcciones de inteligencia pueden manejar eficazmente encuentros tanto de un solo objetivo como de grupo.",
-    "message": "PoE2 Intelligence skills offer diverse spellcasting options, allowing mages to adapt their strategy through various spell combinations. From direct damage spells to area-of-effect abilities, Intelligence builds can handle both single-target and group encounters effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        483
-      ]
-    ]
-  },
-  "+PZx0E": {
-    "translation": "Las habilidades de fuerza de PoE2 demuestran una excelente sinergia con gemas de soporte y habilidades pasivas. Estas habilidades de gema roja pueden mejorarse a través de combinaciones estratégicas de gemas y una cuidadosa planificación de la construcción.",
-    "message": "PoE2 Strength Skills demonstrate excellent synergy with support gems and passive skills. These red gem abilities can be enhanced through strategic gem combinations and careful build planning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        359
-      ]
-    ]
-  },
-  "o+2pHs": {
-    "translation": "Las habilidades de fuerza de PoE2 presentan poderosas habilidades de AoE como Golpe de Tierra y Cortar para un control efectivo de grupos. Estos ataques basados en Fuerza pueden manejar múltiples enemigos mientras mantienen un fuerte potencial de daño a un solo objetivo.",
-    "message": "PoE2 Strength Skills feature powerful AoE abilities like Ground Slam and Cleave for effective crowd control. These Strength-based attacks can handle multiple enemies while maintaining strong single-target damage potential.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        344
-      ]
-    ]
-  },
-  "wOwmov": {
-    "translation": "Las Gemas de Soporte de PoE2 alteran drásticamente las capacidades de combate modificando tipos de daño, agregando efectos o cambiando el comportamiento de habilidades. Estas modificaciones a través de Gemas de Soporte permiten a los jugadores crear combinaciones de habilidades únicas y poderosas.",
-    "message": "PoE2 Support Gems dramatically alter combat capabilities by modifying damage types, adding effects, or changing skill behaviors. These modifications through Support Gems allow players to create unique and powerful skill combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        696
-      ]
-    ]
-  },
-  "i/DAEv": {
-    "translation": "El sistema de gemas de PoE2 permite poderosas combinaciones entre Gemas de Habilidad y Gemas de Soporte. Los jugadores pueden crear construcciones únicas al enlazar gemas complementarias entre sí, mejorando su efectividad en combate y proporcionando diversas opciones de juego.",
-    "message": "PoE2's gem system allows for powerful combinations between Skill Gems and Support Gems. Players can create unique builds by linking complementary gems together, enhancing their effectiveness in combat and providing diverse gameplay options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        569
-      ]
-    ]
-  },
-  "jUaDnb": {
-    "translation": "Las gemas de habilidad verde populares para el combate a distancia en Path of Exile 2 incluyen Tiro Tornado para daño de área, Tiro de Hielo para control de multitudes y Punción para daño a un solo objetivo. Estas gemas basadas en destreza destacan en escenarios de combate a distancia.",
-    "message": "Popular Green Skill Gems for ranged combat in Path of Exile 2 include Tornado Shot for AoE damage, Ice Shot for crowd control, and Puncture for single-target damage. These Dexterity-based gems excel in ranged combat scenarios.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        589
-      ]
-    ]
-  },
   "2ziObN": {
     "translation": "Consejos de Práctica y Mejora",
     "message": "Practice and Improvement Tips",
@@ -2880,14 +1228,14 @@
       ]
     ]
   },
-  "DHhJ7s": {
-    "translation": "Anterior",
-    "message": "Previous",
+  "zen3yb": {
+    "translation": "Biblioteca de Formas Preestablecidas",
+    "message": "Preset Shapes Library",
     "comments": [],
     "origin": [
       [
-        "components/skills/pagination.tsx",
-        24
+        "config/site.ts",
+        193
       ]
     ]
   },
@@ -2950,50 +1298,6 @@
       ]
     ]
   },
-  "VUcR6L": {
-    "translation": "Enfoque de Combate a Distancia",
-    "message": "Ranged Combat Focus",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        414
-      ]
-    ]
-  },
-  "zdFqOJ": {
-    "translation": "Gemas Rojas (Fuerza)",
-    "message": "Red Gems (Strength)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        553
-      ]
-    ]
-  },
-  "XDr3Q0": {
-    "translation": "Gemas de Habilidad Rojas (Fuerza)",
-    "message": "Red Skill Gems (Strength)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        756
-      ]
-    ]
-  },
-  "ZzMbBc": {
-    "translation": "Las gemas de habilidad rojas se centran en el combate cuerpo a cuerpo y el daño físico, presentando ataques poderosos, golpes, y habilidades defensivas. Las habilidades populares incluyen Corte, Golpe Poderoso y Golpe de Tierra, ideales para construcciones de tipo guerrero en流放之路2.",
-    "message": "Red Skill Gems focus on melee combat and physical damage, featuring powerful strikes, slams, and defensive abilities. Popular skills include Cleave, Heavy Strike, and Ground Slam, ideal for warrior-type builds in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        554
-      ]
-    ]
-  },
   "dS5A3M": {
     "translation": "La práctica regular es clave para dominar el dibujo de personajes de Dandy's World. Únete a comunidades en línea, participa en desafíos de dibujo y estudia materiales de referencia oficiales. Mantén un cuaderno de bocetos dedicado a la práctica de Dandy's World.",
     "message": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
@@ -3005,58 +1309,25 @@
       ]
     ]
   },
-  "FCMZT7": {
-    "translation": "REQUISITOS:",
-    "message": "REQUIREMENTS:",
+  "zmgp8I": {
+    "translation": "Opciones de Color Ricas",
+    "message": "Rich Color Options",
     "comments": [],
     "origin": [
       [
-        "components/skills/SkillCard.tsx",
-        101
+        "config/site.ts",
+        188
       ]
     ]
   },
-  "yY6AgM": {
-    "translation": "Guardar Construcción",
-    "message": "Save Build",
+  "Gf+QJT": {
+    "translation": "Guarda y comparte tus creaciones del Generador de Dibujos de Dandy's World en formato PNG o JPG, facilitando la preservación y exhibición de tu obra de arte.",
+    "message": "Save and share your Dandys World Draw Generator creations in PNG or JPG format, making it simple to preserve and showcase your artwork.",
     "comments": [],
     "origin": [
       [
-        "components/skills/SkillBuilder.tsx",
-        300
-      ]
-    ]
-  },
-  "U1e3dH": {
-    "translation": "Guardando construcción...",
-    "message": "Saving build...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        116
-      ]
-    ]
-  },
-  "XvjC4F": {
-    "translation": "Guardando...",
-    "message": "Saving...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        300
-      ]
-    ]
-  },
-  "giZAjB": {
-    "translation": "Buscar habilidades...",
-    "message": "Search skills...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillFilter.tsx",
-        57
+        "config/site.ts",
+        214
       ]
     ]
   },
@@ -3071,28 +1342,6 @@
       ]
     ]
   },
-  "5KwHac": {
-    "translation": "Dado que Jujutsu Kaisen Phantom Parade está disponible principalmente en japonés, puedes usar herramientas de traducción o guías creadas por la comunidad. Además, algunos jugadores utilizan VPN para acceder al juego desde regiones fuera de Japón.",
-    "message": "Since Jujutsu Kaisen Phantom Parade is primarily available in Japanese, you can use translation tools or guides created by the community. Additionally, some players use VPNs to access the game from regions outside Japan.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        217
-      ]
-    ]
-  },
-  "So8vLA": {
-    "translation": "Combinaciones de Habilidades",
-    "message": "Skill Combinations",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        429
-      ]
-    ]
-  },
   "b2kWPd": {
     "translation": "Desarrollo de Habilidades",
     "message": "Skill Development",
@@ -3104,113 +1353,25 @@
       ]
     ]
   },
-  "fCL3cR": {
-    "translation": "Gemas de Habilidad - Habilidades de Combate Básicas",
-    "message": "Skill Gems - Core Combat Abilities",
+  "1DA6ap": {
+    "translation": "Cuadrado",
+    "message": "Square",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        25
+      ]
+    ]
+  },
+  "3W0xiR": {
+    "translation": "Comienza de nuevo en cualquier momento con la función de limpiar el lienzo con un solo clic del Generador de Dibujos de Dandy's World, perfecto para experimentar con diferentes estilos de dibujo.",
+    "message": "Start fresh anytime with Dandys World Draw Generator's one-click canvas clear feature, perfect for experimenting with different drawing styles.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        543
-      ]
-    ]
-  },
-  "x+zwNc": {
-    "translation": "Las Gemas de Habilidad pueden ser mejoradas con Gemas de Soporte, creando combinaciones poderosas que modifican y amplifican sus efectos, permitiendo una profunda personalización de las construcciones de personajes en POE2.",
-    "message": "Skill Gems can be enhanced with Support Gems, creating powerful combinations that modify and amplify their effects, allowing for deep customization of character builds in PoE2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        625
-      ]
-    ]
-  },
-  "D6yiax": {
-    "translation": "Las gemas de habilidad en流放之路2 ganan experiencia a medida que las usas y suben de nivel automáticamente cuando se obtiene suficiente experiencia. Las gemas de mayor nivel proporcionan una mayor efectividad pero pueden requerir valores de atributos más altos para usarlas. Algunas gemas también pueden ser mejoradas a través de mejoras de calidad.",
-    "message": "Skill gems in Path of Exile 2 gain experience as you use them and level up automatically when enough experience is gained. Higher level gems provide increased effectiveness but may require higher attribute values to use. Some gems can also be enhanced through quality improvements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        828
-      ]
-    ]
-  },
-  "Gy87f7": {
-    "translation": "Las Gemas de Habilidad en流放之路2 funcionan en conjunto con el árbol de habilidades pasivas, donde los puntos asignados pueden mejorar la efectividad de tus gemas elegidas. El árbol pasivo comienza en secciones diferentes según el atributo principal de tu personaje, permitiendo especializarse en tipos específicos de Gemas de Habilidad y crear diversas combinaciones de construcción.",
-    "message": "Skill Gems in Path of Exile 2 work in conjunction with the passive skill tree, where allocated points can enhance the effectiveness of your chosen gems. The passive tree starts in different sections based on your character's primary attribute, allowing you to specialize in specific Skill Gem types and create diverse build combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        660
-      ]
-    ]
-  },
-  "ndUYkQ": {
-    "translation": "Las Gemas de Habilidad en POE2 pueden impactar significativamente el juego en equipo a través de varios efectos de apoyo y sinergia. Ciertas gemas proporcionan auras, beneficios o ventajas defensivas a los aliados, mientras que otras pueden crear combinaciones ofensivas poderosas cuando se usan juntas. Comprender estas interacciones es crucial para un juego grupal efectivo.",
-    "message": "Skill Gems in PoE2 can significantly impact team play through various support and synergy effects. Certain gems provide auras, buffs, or defensive benefits to allies, while others can create powerful offensive combinations when used together. Understanding these interactions is crucial for effective group gameplay.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        676
-      ]
-    ]
-  },
-  "PoDInI": {
-    "translation": "Las Gemas de Habilidad en POE2 ganan experiencia a medida que las usas en combate. A medida que las gemas suben de nivel, se vuelven más poderosas, infligiendo más daño o proporcionando efectos mejorados. Algunas gemas también pueden ser mejoradas aún más mediante gemas de soporte específicas y nodos del árbol de habilidades pasivas.",
-    "message": "Skill Gems in PoE2 gain experience as you use them in combat. As gems level up, they become more powerful, dealing increased damage or providing enhanced effects. Some gems can also be enhanced further through specific Support Gems and passive skill tree nodes.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        597
-      ]
-    ]
-  },
-  "yPXV5d": {
-    "translation": "Progresión de Habilidades",
-    "message": "Skill Progression",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        791
-      ]
-    ]
-  },
-  "x+1D9r": {
-    "translation": "Sinergias de Habilidades",
-    "message": "Skill Synergies",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        358
-      ]
-    ]
-  },
-  "PYeaTU": {
-    "translation": "Se especializa en combate a distancia y estilos de juego ágiles. Incluye habilidades poderosas como Tiro de Tornado y Tiro de Hielo, con fuertes combinaciones de soporte para golpes críticos y efectos de daño a lo largo del tiempo. Ideal para jugadores que prefieren movilidad y precisión.",
-    "message": "Specializes in ranged combat and agile playstyles. Includes powerful skills like Tornado Shot and Ice Shot, with strong support combinations for critical strikes and damage over time effects. Ideal for players who prefer mobility and precision.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        762
-      ]
-    ]
-  },
-  "pAcweS": {
-    "translation": "VELOCIDAD:",
-    "message": "SPEED:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        97
+        209
       ]
     ]
   },
@@ -3222,292 +1383,6 @@
       [
         "config/site.ts",
         103
-      ]
-    ]
-  },
-  "ZDK00R": {
-    "translation": "Las habilidades de fuerza (gemas rojas) se centran en el daño físico directo y la supervivencia, mientras que las habilidades de destreza enfatizan la velocidad y la precisión, y las habilidades de inteligencia se enfocan en hechizos y daño elemental. Las habilidades basadas en fuerza sobresalen en combate cuerpo a cuerpo y capacidades defensivas, lo que las hace únicas entre los tres tipos de atributos.",
-    "message": "Strength Skills (red gems) focus on direct physical damage and survivability, while Dexterity skills emphasize speed and precision, and Intelligence skills focus on spells and elemental damage. Strength-based abilities excel in close combat and defensive capabilities, making them unique among the three attribute types.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        397
-      ]
-    ]
-  },
-  "8LeiXO": {
-    "translation": "Las habilidades de fuerza (gemas rojas) en POE2 se centran principalmente en el combate cuerpo a cuerpo y el daño físico. Estas habilidades son excelentes para infligir poderosos golpes, golpes de tierra y ataques en área. Sinergizan naturalmente con altas reservas de vida y armadura, lo que las hace ideales para construcciones resistentes. Las características clave incluyen Gritos de Guerra para mejorar, golpes pesados para daño a un solo objetivo, y golpes de tierra para control de multitudes.",
-    "message": "Strength Skills (red gems) in PoE2 primarily focus on melee combat and physical damage. These skills excel at delivering powerful strikes, ground slams, and area-of-effect attacks. They naturally synergize with high life pools and armor, making them ideal for tanky builds. Key features include War Cries for buffing, heavy strikes for single-target damage, and ground slams for crowd control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        377
-      ]
-    ]
-  },
-  "LhGQJv": {
-    "translation": "Las habilidades de fuerza en流放之路2 presentan poderosos mecanismos de impacto que pueden aturdir, empujar hacia atrás o controlar de otra manera a los enemigos. Estas habilidades rojas sobresalen al crear espacio y controlar la posición en el campo de batalla.",
-    "message": "Strength Skills in Path of Exile 2 feature powerful impact mechanics that can stun, knock back, or otherwise control enemies. These red skills excel at creating space and controlling battlefield positioning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        369
-      ]
-    ]
-  },
-  "ifAE8x": {
-    "translation": "Las habilidades de fuerza en POE2 destacan en infligir daño físico poderoso a través de ataques cuerpo a cuerpo y golpes de tierra. Estas habilidades de gema roja forman el núcleo de las construcciones de daño físico, haciéndolas esenciales para personajes centrados en el combate cuerpo a cuerpo.",
-    "message": "Strength Skills in PoE2 excel at delivering powerful physical damage through melee attacks and ground slams. These red gem abilities form the core of physical damage builds, making them essential for close-combat focused characters.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        334
-      ]
-    ]
-  },
-  "Pf823r": {
-    "translation": "Las habilidades de fuerza incluyen opciones valiosas de apoyo al equipo a través de habilidades como Grito de Rally y Grito Duradero. Estas habilidades de gema roja mejoran el juego grupal al proporcionar mejoras y beneficios defensivos a los aliados.",
-    "message": "Strength Skills include valuable team support options through abilities like Rallying Cry and Enduring Cry. These red gem skills enhance group play by providing buffs and defensive benefits to allies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        349
-      ]
-    ]
-  },
-  "prIkB+": {
-    "translation": "Las habilidades de fuerza escalan de manera efectiva a través de varios mecanismos: el daño físico aumenta con la calidad del arma, las gemas rojas ganan poder a través de la subida de nivel y los nodos del árbol pasivo mejoran las habilidades basadas en fuerza. Además, estas habilidades se benefician de la escalabilidad de vida, haciéndolas cada vez más poderosas a medida que los personajes se desarrollan.",
-    "message": "Strength Skills scale effectively through several mechanisms: physical damage increases with weapon quality, red gems gain power through leveling, and passive tree nodes enhance Strength-based abilities. Additionally, these skills benefit from life scaling, making them increasingly powerful as characters develop.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        389
-      ]
-    ]
-  },
-  "PKAYT3": {
-    "translation": "Las habilidades basadas en fuerza se benefician de los mecanismos de escalabilidad de vida naturales, lo que las hace ideales para construcciones de alta salud. El sistema de gemas rojas respalda inherentemente la supervivencia mientras mantiene fuertes capacidades ofensivas.",
-    "message": "Strength-based skills benefit from natural life scaling mechanics, making them ideal for high-health builds. The red gem system inherently supports survivability while maintaining strong offensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        364
-      ]
-    ]
-  },
-  "vmiqyT": {
-    "translation": "Las habilidades basadas en fuerza proporcionan un valioso apoyo al equipo a través de varios mecanismos: los Gritos de Guerra ofrecen mejoras temporales a aliados cercanos, el Grito de Rally incrementa la producción de daño del grupo, y muchas Habilidades de Fuerza crean zonas defensivas que benefician a todo el equipo. Estas habilidades de gema roja también ayudan a controlar la posición en el campo de batalla a través de efectos de empuje y aturdimiento.",
-    "message": "Strength-based skills provide valuable team support through several mechanics: War Cries offer temporary buffs to nearby allies, Rallying Cry increases group damage output, and many Strength Skills create defensive zones that benefit the entire team. These red gem abilities also help control battlefield positioning through knockback and stun effects.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        381
-      ]
-    ]
-  },
-  "DRzks3": {
-    "translation": "Fuerte énfasis en los mecanismos de juego grupal. Las habilidades pueden combinarse entre los jugadores para efectos mejorados, con auras y beneficios que benefician a toda la fiesta. Perfecto para el juego cooperativo y contenido grupal desafiante.",
-    "message": "Strong emphasis on group play mechanics. Skills can be combined between players for enhanced effects, with auras and buffs benefiting entire parties. Perfect for cooperative gameplay and challenging group content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        787
-      ]
-    ]
-  },
-  "v+HYpp": {
-    "translation": "Integración de Gemas de Soporte",
-    "message": "Support Gem Integration",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        624
-      ]
-    ]
-  },
-  "HnnNzx": {
-    "translation": "Gemas de Soporte - Mejora de Habilidades",
-    "message": "Support Gems - Ability Enhancement",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        548
-      ]
-    ]
-  },
-  "/qzRU4": {
-    "translation": "Las Gemas de Soporte pueden modificar el daño de las habilidades en流放之路2 a través de varios multiplicadores y efectos. Pueden aumentar el daño base, agregar daño elemental, mejorar las posibilidades de golpe crítico o proporcionar efectos de daño a lo largo del tiempo. Algunas Gemas de Soporte también ofrecen bonificaciones de daño bajo condiciones específicas o contra ciertos tipos de enemigos.",
-    "message": "Support Gems can modify skill damage in Path of Exile 2 through various multipliers and effects. They might increase base damage, add elemental damage, enhance critical strike chances, or provide damage over time effects. Some Support Gems also offer damage bonuses under specific conditions or against certain types of enemies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        739
-      ]
-    ]
-  },
-  "bDfPmj": {
-    "translation": "Las Gemas de Soporte en流放之路2 son gemas especializadas que modifican y mejoran las gemas de habilidades activas. Permiten a los jugadores personalizar sus habilidades alterando tipos de daño, agregando efectos o cambiando comportamientos de habilidades. Estas Gemas de Soporte se pueden enlazar con habilidades activas para crear combinaciones poderosas, transformando fundamentalmente los mecanismos de juego y las capacidades del personaje.",
-    "message": "Support Gems in Path of Exile 2 are specialized gems that modify and enhance active skill gems. They allow players to customize their abilities by altering damage types, adding effects, or changing skill behaviors. These Support Gems can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics and character capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        719
-      ]
-    ]
-  },
-  "ZTydNa": {
-    "translation": "Las Gemas de Soporte en流放之路2 pueden mejorar las habilidades defensivas, proporcionando diversas formas de protección a través de modificaciones de habilidades. Los jugadores pueden utilizar Gemas de Soporte para mejorar la supervivencia y crear configuraciones defensivas robustas.",
-    "message": "Support Gems in Path of Exile 2 can enhance defensive abilities, providing various forms of protection through skill modifications. Players can utilize Support Gems to improve survivability and create robust defensive setups.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        701
-      ]
-    ]
-  },
-  "GZFU/j": {
-    "translation": "Las Gemas de Soporte en流放之路2 ganan experiencia a medida que las usas en combate, subiendo de nivel y volviéndose más poderosas. Las Gemas de Soporte de mayor nivel normalmente proporcionan efectos más fuertes, pero también requieren valores de atributos más altos. Los jugadores pueden controlar el nivel de las gemas según las necesidades de su construcción y la disponibilidad de atributos.",
-    "message": "Support Gems in Path of Exile 2 gain experience as you use them in combat, eventually leveling up to become more powerful. Higher-level Support Gems typically provide stronger effects but also require higher attribute values. Players can control gem leveling based on their build requirements and attribute availability.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        747
-      ]
-    ]
-  },
-  "LcmDag": {
-    "translation": "Las Gemas de Soporte en流放之路2 modifican y mejoran las Gemas de Habilidad Activas cuando se enlazan. Pueden alterar tipos de daño, agregar efectos, aumentar la velocidad de ataque o proporcionar beneficios de utilidad. La combinación de Gemas de Habilidad con Gemas de Soporte crea poderosas sinergias para las construcciones de personajes.",
-    "message": "Support Gems in Path of Exile 2 modify and enhance Active Skill Gems when linked together. They can alter damage types, add effects, increase attack speed, or provide utility benefits. The combination of Skill Gems with Support Gems creates powerful synergies for character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        581
-      ]
-    ]
-  },
-  "HNSEdY": {
-    "translation": "Las gemas de soporte en流放之路2 modifican y mejoran los efectos de las gemas de habilidad activas. Se pueden enlazar a habilidades activas para agregar efectos como aumento de daño, proyectiles adicionales o modificar su comportamiento. La combinación de habilidades activas y gemas de soporte permite una profunda personalización de las habilidades de tu personaje.",
-    "message": "Support gems in Path of Exile 2 modify and enhance the effects of active skill gems. They can be linked to active skills to add effects like increased damage, additional projectiles, or modified behavior. The combination of active skills and support gems allows for deep customization of your character's abilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        804
-      ]
-    ]
-  },
-  "bOTDnj": {
-    "translation": "Las Gemas de Soporte en流放之路2 modifican y mejoran los efectos de las Gemas de Habilidad Activas. Cuando se enlazan, las Gemas de Soporte pueden alterar varios aspectos de la habilidad principal, como la producción de daño, el área de efecto, la probabilidad de golpe crítico o agregar nuevos efectos. Este sistema permite una profunda personalización de las construcciones de personajes a través de diferentes combinaciones de Gemas de Habilidad.",
-    "message": "Support Gems in Path of Exile 2 modify and enhance the effects of active Skill Gems. When linked together, Support Gems can alter various aspects of the main skill, such as damage output, area of effect, critical strike chance, or adding new effects. This system allows for deep customization of character builds through different Skill Gem combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        652
-      ]
-    ]
-  },
-  "EoVn+L": {
-    "translation": "Las Gemas de Soporte en流放之路2 impactan significativamente las construcciones de personajes al modificar los mecanismos de habilidad, la producción de daño y los efectos de utilidad. Pueden transformar habilidades básicas en combinaciones poderosas, mejorar las capacidades defensivas, aumentar la velocidad de ataque o lanzamiento, y agregar varios efectos como golpes críticos o estados perjudiciales. La elección de las Gemas de Soporte influye directamente en la efectividad de la construcción y las opciones de estilo de juego.",
-    "message": "Support Gems in Path of Exile 2 significantly impact character builds by modifying skill mechanics, damage output, and utility effects. They can transform basic abilities into powerful combinations, enhance defensive capabilities, increase attack or cast speed, and add various effects like critical strikes or status ailments. The choice of Support Gems directly influences build effectiveness and playstyle options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        731
-      ]
-    ]
-  },
-  "xrRhmD": {
-    "translation": "Las Gemas de Soporte en POE2 modifican y mejoran los efectos de las Gemas de Habilidad cuando se enlazan. Pueden alterar tipos de daño, agregar proyectiles, aumentar la velocidad de ataque o proporcionar efectos de utilidad, creando opciones de personalización profundas para construcciones de personajes.",
-    "message": "Support Gems in PoE2 modify and enhance Skill Gems' effects when linked together. They can alter damage types, add projectiles, increase attack speed, or provide utility effects, creating deep customization options for character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        549
-      ]
-    ]
-  },
-  "igPCWg": {
-    "translation": "Las Gemas de Soporte en POE2 se integran sin problemas con las habilidades activas a través del sistema de enlace. Los jugadores pueden combinar múltiples Gemas de Soporte con una sola habilidad activa, creando interacciones de habilidad complejas y poderosas que mejoran la efectividad de su personaje.",
-    "message": "Support Gems in PoE2 seamlessly integrate with active skills through the linking system. Players can combine multiple Support Gems with a single active skill, creating complex and powerful skill interactions that enhance their character's effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        691
-      ]
-    ]
-  },
-  "zJznXk": {
-    "translation": "Sistema de Gemas de Soporte",
-    "message": "Support Gems System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        771
-      ]
-    ]
-  },
-  "Xff8Oa": {
-    "translation": "Habilidades de Soporte",
-    "message": "Support Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        230
-      ]
-    ]
-  },
-  "7ZQrYT": {
-    "translation": "Apoyo al Equipo",
-    "message": "Team Support",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        348
-      ]
-    ]
-  },
-  "k+aCcA": {
-    "translation": "Sinergia de Equipo",
-    "message": "Team Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        786
-      ]
-    ]
-  },
-  "kF8bSs": {
-    "translation": "Planificación de Sinergia de Equipo",
-    "message": "Team Synergy Planning",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        857
       ]
     ]
   },
@@ -3533,28 +1408,6 @@
       ]
     ]
   },
-  "UxGE0W": {
-    "translation": "Las combinaciones de habilidades de destreza más efectivas en Path of Exile 2 incluyen: Disparo Tornado con Múltiples Proyectiles Mayores para daño de área, Punzada con Daño en Vida Completa para daño a un solo objetivo, y Flecha Dividida con Soporte de Cadena para limpiar grupos de enemigos. Estas combinaciones ofrecen opciones versátiles para diferentes escenarios de combate.",
-    "message": "The most effective dexterity skill combinations in Path of Exile 2 include: Tornado Shot with Greater Multiple Projectiles for AoE damage, Puncture with Damage on Full Life Support for single-target damage, and Split Arrow with Chain Support for mob clearing. These combinations provide versatile options for different combat scenarios.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        452
-      ]
-    ]
-  },
-  "HDXzHc": {
-    "translation": "Las habilidades de destreza más efectivas para las peleas contra jefes en POE2 incluyen: Barrage para daño a un solo objetivo, Punzada para daño por sangrado sostenido, y Disparo Tornado para manejar enemigos adicionales. Estas habilidades, combinadas con gemas de apoyo apropiadas, ofrecen opciones sólidas para enfrentamientos desafiantes contra jefes.",
-    "message": "The most effective dexterity skills for PoE2 boss fights include: Barrage for single-target damage, Puncture for sustained bleeding damage, and Tornado Shot for managing additional enemies. These skills, combined with appropriate support gems, provide strong options for challenging boss encounters.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        468
-      ]
-    ]
-  },
   "YHuztc": {
     "translation": "La propiedad de las imágenes generadas a partir del texto en el Sitio Web pertenece a la persona que creó la imagen. #0# no reclama ninguna propiedad sobre las imágenes creadas por los usuarios.",
     "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
@@ -3563,105 +1416,6 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         21
-      ]
-    ]
-  },
-  "XsJQz+": {
-    "translation": "El árbol de habilidades pasivas en Path of Exile 2 mejora las gemas de habilidades a través de varios nodos que aumentan atributos o efectos específicos. Los jugadores pueden asignar puntos pasivos para fortalecer sus habilidades elegidas, ya sea aumentando el daño, mejorando las posibilidades de golpe crítico o mejorando las capacidades defensivas.",
-    "message": "The passive skill tree in Path of Exile 2 enhances skill gems through various nodes that boost specific attributes or effects. Players can allocate passive points to strengthen their chosen skills, whether by increasing damage, improving critical strike chances, or enhancing defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        820
-      ]
-    ]
-  },
-  "No7+CH": {
-    "translation": "El Planificador de Habilidades de POE2 ofrece varias opciones de movimiento: Salto de Llama o Teletransporte para los lanzadores de hechizos, Espadas Giratorias para personajes de cuerpo a cuerpo, y Mina de Humo para movilidad general. Elige en función de los atributos y requisitos de construcción de tu personaje.",
-    "message": "The PoE2 Skills Planner offers various movement options: Flame Dash or Lightning Warp for spellcasters, Whirling Blades for melee characters, and Smoke Mine for general mobility. Choose based on your character's attributes and build requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        905
-      ]
-    ]
-  },
-  "FLydL7": {
-    "translation": "El Planificador de Habilidades de POE2 sugiere combinaciones defensivas como Barrera de Hielo con Mayor Duración, Vitalidad con gemas de apoyo para una mejor regeneración de vida, o Cadenas Temporales con soportes de efecto de área. Estas combinaciones ayudan a mejorar la supervivencia en contenido desafiante.",
-    "message": "The PoE2 Skills Planner suggests defensive combinations like Ice Barrier with Increased Duration, Vitality with support gems for enhanced life regeneration, or Temporal Chains with area effect supports. These combinations help improve survivability in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        897
-      ]
-    ]
-  },
-  "24RJBw": {
-    "translation": "El director de la Universidad de Jujutsu de Kioto, a menudo choca con Gojo pero es respetado por su conocimiento y experiencia en jujutsu.",
-    "message": "The principal of the Kyoto Jujutsu High School, he often clashes with Gojo but is respected for his knowledge and experience in jujutsu.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        323
-      ]
-    ]
-  },
-  "AU0l03": {
-    "translation": "El director de la Universidad de Jujutsu de Tokio, es conocido por su experiencia en la creación de muñecos malditos y tiene una actitud desenfadada.",
-    "message": "The principal of the Tokyo Jujutsu High School, he is known for his expertise in creating cursed puppets and has a laid-back attitude.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        318
-      ]
-    ]
-  },
-  "A77eUm": {
-    "translation": "El sistema de Gemas de Habilidad se integra a la perfección con el árbol de habilidades pasivas de Path of Exile 2, permitiendo a los jugadores crear construcciones especializadas al asignar puntos que mejoran la efectividad de sus gemas de habilidad elegidas.",
-    "message": "The Skill Gems system integrates seamlessly with Path of Exile 2's passive skill tree, enabling players to create specialized builds by allocating points that enhance their chosen Skill Gems' effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        630
-      ]
-    ]
-  },
-  "WU9T4o": {
-    "translation": "El sistema de Habilidades de Fuerza ofrece una notable flexibilidad en combate a través de habilidades como Golpe Pesado para objetivos individuales y Lacerar para daño en área. Estas habilidades basadas en fuerza se adaptan efectivamente a diferentes situaciones de combate.",
-    "message": "The Strength Skills system offers remarkable combat flexibility through skills like Heavy Strike for single targets and Lacerate for area damage. These Strength-based abilities adapt to different combat situations effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        354
-      ]
-    ]
-  },
-  "pDFUtP": {
-    "translation": "El sistema de habilidades basadas en fuerza proporciona opciones defensivas robustas a través de Gritos de Guerra y mecánicas de fortificación. Estas habilidades rojas naturalmente sinergizan con altas armaduras y reservas de vida, creando construcciones duraderas que pueden soportar daños significativos.",
-    "message": "The Strength-based skill system provides robust defensive options through War Cries and fortification mechanics. These red skills naturally synergize with high armor and life pools, creating durable tanky builds that can withstand significant damage.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        339
-      ]
-    ]
-  },
-  "30GqmK": {
-    "translation": "El hechicero más fuerte de la serie, conocido por sus habilidades excepcionales y su naturaleza protectora hacia sus estudiantes.",
-    "message": "The strongest sorcerer in the series, known for his exceptional skills and protective nature towards his students.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        248
       ]
     ]
   },
@@ -3698,17 +1452,6 @@
       ]
     ]
   },
-  "x4f8pZ": {
-    "translation": "Consejos",
-    "message": "Tips",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        16
-      ]
-    ]
-  },
   "lwBH3z": {
     "translation": "Consejos de Dandys World Draw",
     "message": "Tips Of Dandys World Draw",
@@ -3717,6 +1460,17 @@
       [
         "config/site.ts",
         94
+      ]
+    ]
+  },
+  "I1Vwuf": {
+    "translation": "Consejos del Generador de Dibujos de Dandy's World",
+    "message": "Tips Of Dandys World Draw Generator",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        183
       ]
     ]
   },
@@ -3742,39 +1496,6 @@
       ]
     ]
   },
-  "sHKGIZ": {
-    "translation": "Para crear una construcción efectiva utilizando el Planificador de Habilidades de POE2, combina habilidades activas sinérgicas con gemas de apoyo apropiadas, integra habilidades de utilidad para aumentar y defender, y asegúrate de que tus elecciones en el árbol de habilidades pasivas complementen tus habilidades seleccionadas. Considera los atributos principales de tu personaje y el estilo de juego deseado al planificar.",
-    "message": "To create an effective build using the PoE2 Skills Planner, combine synergistic active skills with appropriate support gems, integrate utility skills for buffs and defense, and ensure your passive skill tree choices complement your selected skills. Consider your character's primary attributes and desired playstyle when planning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        885
-      ]
-    ]
-  },
-  "QYfZIH": {
-    "translation": "Para descargar Jujutsu Kaisen Phantom Parade en Android, visita la Google Play Store, busca 'Jujutsu Kaisen Phantom Parade' y pulsa el botón de instalación. Asegúrate de que tu dispositivo tenga Android 8.0 o posterior.",
-    "message": "To download Jujutsu Kaisen Phantom Parade on Android, visit the Google Play Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the install button. Make sure your device runs Android 8.0 or later.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        213
-      ]
-    ]
-  },
-  "2wkkZE": {
-    "translation": "Para descargar Jujutsu Kaisen Phantom Parade en iOS, visita la App Store de Apple, busca 'Jujutsu Kaisen Phantom Parade' y pulsa el botón de descarga. Asegúrate de que tu dispositivo cumpla con los requisitos de compatibilidad (iOS 12.0 o posterior).",
-    "message": "To download Jujutsu Kaisen Phantom Parade on iOS, visit the Apple App Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the download button. Ensure your device meets the compatibility requirements (iOS 12.0 or later).",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        209
-      ]
-    ]
-  },
   "gN00PD": {
     "translation": "Para facilitar nuestro Servicio;",
     "message": "To facilitate our Service;",
@@ -3783,28 +1504,6 @@
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
         27
-      ]
-    ]
-  },
-  "lzF3W8": {
-    "translation": "Para optimizar una construcción de Habilidades de Fuerza: Elige gemas rojas complementarias que compartan mecanismos de escalado, invierte en nodos relevantes del árbol pasivo, utiliza gemas de apoyo apropiadas y asegúrate de que tu equipo mejore el daño físico y la supervivencia. Enfócate en las sinergias entre habilidades basadas en fuerza y tu estrategia defensiva elegida.",
-    "message": "To optimize a Strength Skills build: Choose complementary red gems that share scaling mechanisms, invest in relevant passive tree nodes, use appropriate support gems, and ensure your gear enhances physical damage and survivability. Focus on synergies between Strength-based abilities and your chosen defensive strategy.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        405
-      ]
-    ]
-  },
-  "lNAN+A": {
-    "translation": "Para optimizar habilidades de Inteligencia para contenido de final de juego, los jugadores deben concentrarse en combinar habilidades complementarias con gemas de apoyo apropiadas. Por ejemplo, emparejar Bola de Fuego con Eco de Hechizos para aumentar la producción de daño, utilizando habilidades defensivas como Barrera de Hielo para sobrevivir, e incorporando habilidades de utilidad como Cadenas Temporales para control de masas.",
-    "message": "To optimize Intelligence skills for endgame content, players should focus on combining complementary skills with appropriate support gems. For example, pairing Fireball with Spell Echo for increased damage output, using defensive skills like Ice Barrier for survival, and incorporating utility skills like Temporal Chains for crowd control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        522
       ]
     ]
   },
@@ -3830,14 +1529,14 @@
       ]
     ]
   },
-  "8sKmE2": {
-    "translation": "Las mejores Gemas de Habilidad Azul para lanzadores de hechizos incluyen Bola de Fuego para daño en área, Arco para efectos de rayo en cadena, y Salto de Escarcha para control de masas. Estas gemas basadas en Inteligencia proporcionan habilidades mágicas poderosas indispensables para construcciones de lanzadores de hechizos en POE2.",
-    "message": "Top Blue Skill Gems for spellcasters include Fireball for area damage, Arc for chain lightning effects, and Frostbolt for crowd control. These Intelligence-based gems provide powerful magical abilities essential for spellcasting builds in PoE2.",
+  "ucHvJP": {
+    "translation": "Triángulo",
+    "message": "Triangle",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        593
+        "components/DrawingBoard.tsx",
+        26
       ]
     ]
   },
@@ -3885,28 +1584,6 @@
       ]
     ]
   },
-  "Tctkpv": {
-    "translation": "Utilizando el Planificador de Habilidades de Path of Exile 2, combina habilidades como Arco o Bola de Fuego con gemas de soporte de Golpe Crítico. Para los lanzadores de hechizos, habilidades como Onda de Convicción pueden disminuir las resistencias enemigas, mientras que gemas de apoyo como Golpes Críticos Aumentados mejoran tus posibilidades de golpe crítico.",
-    "message": "Using the Path of Exile 2 Skills Planner, combine skills like Arc or Fireball with Critical Strike support gems. For spellcasters, skills like Wave of Conviction can lower enemy resistances, while support gems like Increased Critical Strikes enhance your critical hit chances.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        901
-      ]
-    ]
-  },
-  "2t3ERA": {
-    "translation": "Usando el Planificador de Habilidades de POE2, puedes optimizar el juego en equipo combinando auras como Gracia o Vitalidad, habilidades de apoyo como Grito de Rally, y habilidades defensivas como Escudo de Escarcha. Estas combinaciones mejoran la supervivencia y producción de daño del grupo.",
-    "message": "Using the PoE2 Skills Planner, you can optimize team play by combining auras like Grace or Vitality, support skills like Rallying Cry, and defensive abilities like Frost Shield. These combinations enhance group survivability and damage output.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        909
-      ]
-    ]
-  },
   "qNd2+R": {
     "translation": "Estilos Artísticos Versátiles",
     "message": "Versatile Art Styles",
@@ -3915,28 +1592,6 @@
       [
         "config/site.ts",
         108
-      ]
-    ]
-  },
-  "YAdzdY": {
-    "translation": "Conjuros Versátiles",
-    "message": "Versatile Spellcasting",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        482
-      ]
-    ]
-  },
-  "fwjhig": {
-    "translation": "Sistema de Gemas de Soporte Versátil",
-    "message": "Versatile Support Gem System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        685
       ]
     ]
   },
@@ -3984,330 +1639,36 @@
       ]
     ]
   },
-  "+g53YR": {
-    "translation": "¿Cuáles son las Habilidades de Inteligencia en Path of Exile 2?",
-    "message": "What are Intelligence Skills in Path of Exile 2?",
+  "vaIm0/": {
+    "translation": "¿Qué herramientas de dibujo están disponibles en el Generador de Dibujos de Dandy's World?",
+    "message": "What drawing tools are available in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        505
+        249
       ]
     ]
   },
-  "SgcLUN": {
-    "translation": "¿Cuáles son las gemas meta en Path of Exile 2?",
-    "message": "What are meta gems in Path of Exile 2?",
+  "LINzV2": {
+    "translation": "¿Qué características ofrece el Generador de Dibujos de Dandy's World?",
+    "message": "What features does Dandys World Draw Generator offer?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        815
+        225
       ]
     ]
   },
-  "iIb9EN": {
-    "translation": "¿Cuáles son las Gemas Meta en Path of Exile 2?",
-    "message": "What are Meta Gems in Path of Exile 2?",
+  "0VKI0R": {
+    "translation": "¿Qué pasa si cometo un error mientras uso el Generador de Dibujos de Dandy's World?",
+    "message": "What if I make a mistake while using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        663
-      ]
-    ]
-  },
-  "yUQN2E": {
-    "translation": "¿Cuáles son las Gemas Meta en POE2?",
-    "message": "What are Meta Gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        604
-      ]
-    ]
-  },
-  "vodn3f": {
-    "translation": "¿Cuáles son las Gemas de Soporte en Path of Exile 2?",
-    "message": "What are Support Gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        718
-      ]
-    ]
-  },
-  "8yXSHr": {
-    "translation": "¿Cuáles son los beneficios de combinar diferentes tipos de Gemas de Habilidad?",
-    "message": "What are the benefits of combining different colored Skill Gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        671
-      ]
-    ]
-  },
-  "JUd0hO": {
-    "translation": "¿Cuáles son las mejores combinaciones de habilidades defensivas en Path of Exile 2?",
-    "message": "What are the best defensive skill combinations in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        896
-      ]
-    ]
-  },
-  "c6yy8+": {
-    "translation": "¿Cuáles son las mejores habilidades defensivas en POE2?",
-    "message": "What are the best defensive skills in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        823
-      ]
-    ]
-  },
-  "paFODa": {
-    "translation": "¿Cuáles son las mejores habilidades de Destreza para principiantes en 패스 오브 엑자イル 2?",
-    "message": "What are the best Dexterity skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        459
-      ]
-    ]
-  },
-  "Ttp4+Y": {
-    "translation": "¿Cuáles son las mejores habilidades de Destreza para peleas contra jefes en Path of Exile 2?",
-    "message": "What are the best Dexterity skills for boss fights in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        467
-      ]
-    ]
-  },
-  "koymT5": {
-    "translation": "¿Cuáles son las mejores habilidades de Inteligencia para principiantes en Path of Exile 2?",
-    "message": "What are the best Intelligence skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        517
-      ]
-    ]
-  },
-  "CvL4R+": {
-    "translation": "¿Cuáles son las mejores habilidades de movimiento para diferentes tipos de personajes?",
-    "message": "What are the best movement skills for different character types?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        904
-      ]
-    ]
-  },
-  "lfZF2Z": {
-    "translation": "¿Cuáles son las mejores Gemas de Habilidad Rojas para principiantes?",
-    "message": "What are the best Red Skill Gems for beginners?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        584
-      ]
-    ]
-  },
-  "ocN0f+": {
-    "translation": "¿Cuáles son las mejores combinaciones de habilidades para principiantes en Path of Exile 2?",
-    "message": "What are the best skill combinations for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        888
-      ]
-    ]
-  },
-  "QkJbEe": {
-    "translation": "¿Cuáles son las mejores combinaciones de habilidades para principiantes en POE2?",
-    "message": "What are the best skill combinations for beginners in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        807
-      ]
-    ]
-  },
-  "Soewil": {
-    "translation": "¿Cuáles son las mejores Gemas de Habilidad para principiantes en Path of Exile 2?",
-    "message": "What are the best Skill Gems for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        655
-      ]
-    ]
-  },
-  "Q6oJnt": {
-    "translation": "¿Cuáles son las mejores Habilidades de Fuerza para principiantes en Path of Exile 2?",
-    "message": "What are the best Strength Skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        384
-      ]
-    ]
-  },
-  "4NP9YF": {
-    "translation": "¿Cuáles son las mejores Habilidades de Fuerza para peleas contra jefes en Path of Exile 2?",
-    "message": "What are the best Strength Skills for boss fights in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        400
-      ]
-    ]
-  },
-  "NFMUoc": {
-    "translation": "¿Cuáles son las mejores combinaciones de Gemas de Soporte para principiantes?",
-    "message": "What are the best Support Gems combinations for beginners?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        726
-      ]
-    ]
-  },
-  "QOft4q": {
-    "translation": "¿Cuáles son las habilidades defensivas clave de Inteligencia en Path of Exile 2?",
-    "message": "What are the key defensive Intelligence skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        525
-      ]
-    ]
-  },
-  "nof9TG": {
-    "translation": "¿Cuáles son las características clave de Jujutsu Kaisen Phantom Parade?",
-    "message": "What are the key features of Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        196
-      ]
-    ]
-  },
-  "XGVhle": {
-    "translation": "¿Cuáles son las gemas de soporte clave para Habilidades de Fuerza en Path of Exile 2?",
-    "message": "What are the key support gems for Strength Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        392
-      ]
-    ]
-  },
-  "ZYPue3": {
-    "translation": "¿Cuáles son las características principales de las Habilidades de Destreza en Path of Exile 2?",
-    "message": "What are the main characteristics of Dexterity Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        447
-      ]
-    ]
-  },
-  "/mEwQk": {
-    "translation": "¿Cuáles son las características principales de las Habilidades de Fuerza en Path of Exile 2?",
-    "message": "What are the main characteristics of Strength Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        376
-      ]
-    ]
-  },
-  "JxO5Zc": {
-    "translation": "¿Cuáles son los principales tipos de habilidades de Inteligencia disponibles en POE2?",
-    "message": "What are the main types of Intelligence skills available in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        509
-      ]
-    ]
-  },
-  "d4owts": {
-    "translation": "¿Cuáles son los principales tipos de gemas de habilidad en Path of Exile 2?",
-    "message": "What are the main types of skill gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        799
-      ],
-      [
-        "config/site.ts",
-        880
-      ]
-    ]
-  },
-  "YE3fcf": {
-    "translation": "¿Cuáles son los principales tipos de Gemas de Habilidad en Path of Exile 2?",
-    "message": "What are the main types of Skill Gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        576
-      ],
-      [
-        "config/site.ts",
-        647
-      ]
-    ]
-  },
-  "1hode8": {
-    "translation": "¿Cuáles son las Gemas de Habilidad Azul más poderosas para lanzadores de hechizos?",
-    "message": "What are the most powerful Blue Skill Gems for spellcasters?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        592
-      ]
-    ]
-  },
-  "AJVe8z": {
-    "translation": "¿Cuáles son los requisitos del sistema para Jujutsu Kaisen Phantom Parade?",
-    "message": "What are the system requirements for Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        192
+        245
       ]
     ]
   },
@@ -4322,80 +1683,14 @@
       ]
     ]
   },
-  "K3QPzq": {
-    "translation": "¿Qué es Jujutsu Kaisen Phantom Parade y dónde puedo descargarlo?",
-    "message": "What is Jujutsu Kaisen Phantom Parade and where can I download it?",
+  "RcV4eE": {
+    "translation": "¿Qué es el Generador de Dibujos de Dandy's World?",
+    "message": "What is Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        184
-      ]
-    ]
-  },
-  "4WuGIw": {
-    "translation": "¿Qué rol juegan las habilidades de Inteligencia en contenido grupal?",
-    "message": "What role do Intelligence skills play in group content?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        533
-      ]
-    ]
-  },
-  "EmMzNd": {
-    "translation": "¿Qué rol juegan las Gemas de Soporte en el juego grupal?",
-    "message": "What role do Support Gems play in group gameplay?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        742
-      ]
-    ]
-  },
-  "OWhEDw": {
-    "translation": "¿Qué debo hacer si me encuentro con una barrera de idioma mientras juego Jujutsu Kaisen Phantom Parade?",
-    "message": "What should I do if I encounter a language barrier while playing Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        216
-      ]
-    ]
-  },
-  "ynLL9q": {
-    "translation": "¿Cuándo se lanzó oficialmente Jujutsu Kaisen Phantom Parade?",
-    "message": "When was Jujutsu Kaisen Phantom Parade officially released?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        188
-      ]
-    ]
-  },
-  "CQWnGL": {
-    "translation": "¿Cuáles son las combinaciones de habilidades de Destreza más populares en POE2?",
-    "message": "Which are the most popular Dexterity skill combinations in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        451
-      ]
-    ]
-  },
-  "IDXfv8": {
-    "translation": "¿Cuáles son las Gemas de Habilidad Verdes más efectivas para combate a distancia?",
-    "message": "Which Green Skill Gems are most effective for ranged combat?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        588
+        221
       ]
     ]
   },
@@ -4421,6 +1716,17 @@
       ]
     ]
   },
+  "2qovGt": {
+    "translation": "Con el Generador de Dibujos de Dandy's World, puedes guardar fácilmente tu obra de arte completada en formato PNG o JPG. Simplemente haz clic en el botón de guardar cuando termines con tu dibujo para exportarlo a tu formato de archivo preferido.",
+    "message": "With Dandys World Draw Generator, you can easily save your completed artwork in either PNG or JPG format. Simply click the save button when you're finished with your drawing to export it to your preferred file format.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        230
+      ]
+    ]
+  },
   "ekD2sN": {
     "translation": "¡Sí! Los tutoriales de Dandy's World están categorizados en niveles Principiante, Intermedio y Avanzado. Cada nivel se basa en habilidades anteriores, ayudándote a progresar desde bocetos básicos de personajes hasta ilustraciones complejas con sombreado, coloreado y poses dinámicas adecuadas.",
     "message": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
@@ -4432,36 +1738,25 @@
       ]
     ]
   },
-  "L63PDE": {
-    "translation": "Sí, Jujutsu Kaisen Phantom Parade cuenta con actuación de voz completa del elenco original del anime, mejorando la experiencia de narración inmersiva.",
-    "message": "Yes, Jujutsu Kaisen Phantom Parade features full voice acting from the original anime cast, enhancing the immersive storytelling experience.",
+  "bKWgv/": {
+    "translation": "Sí, el Generador de Dibujos de Dandy's World incluye formas preestablecidas diseñadas específicamente para crear elementos de la naturaleza como hojas, flores y pétalos. Estas herramientas facilitan agregar hermosos detalles ambientales a tu obra de arte.",
+    "message": "Yes, Dandys World Draw Generator includes preset shapes specifically designed for creating nature elements such as leaves, flowers, and petals. These tools make it easy to add beautiful environmental details to your artwork.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        221
+        242
       ]
     ]
   },
-  "038m1W": {
-    "translation": "Sí, Jujutsu Kaisen Phantom Parade es un juego gratuito. Sin embargo, incluye compras dentro de la aplicación para mejoras de personajes, artículos especiales y otros complementos.",
-    "message": "Yes, Jujutsu Kaisen Phantom Parade is free to play. However, it includes in-app purchases for character upgrades, special items, and other enhancements.",
+  "GkrAHh": {
+    "translation": "¡Sí! El Generador de Dibujos del Mundo Dandy incluye un conjunto integral de partes del cuerpo preestablecidas como manos, pies, ojos y nariz, lo que facilita la creación de personajes únicos. Combinado con varias formas y colores, puedes dar vida a tus diseños de personajes.",
+    "message": "Yes! Dandys World Draw Generator includes a comprehensive set of preset body parts like hands, feet, eyes, and nose, making it easy to create unique characters. Combined with various shapes and colors, you can bring your character designs to life.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        201
-      ]
-    ]
-  },
-  "V4swDT": {
-    "translation": "Sí, el sistema de gemas de Path of Exile 2 permite a los jugadores combinar diferentes tipos de Gemas de Habilidad y Gemas de Soporte para construcciones únicas. Por ejemplo, puedes mezclar gemas Rojas, Verdes y Azules siempre que tu personaje cumpla con los requisitos de atributos para cada gema.",
-    "message": "Yes, Path of Exile 2's gem system allows players to combine different types of Skill Gems and Support Gems for unique builds. For example, you can mix Red, Green, and Blue gems as long as your character meets the attribute requirements for each gem.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        601
+        234
       ]
     ]
   },

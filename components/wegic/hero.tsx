@@ -2,31 +2,14 @@ import React from 'react'
 import { activateLocale, AVAILABLE_LOCALES } from '@/framework/locale/locale'
 import { i18n } from '@lingui/core'
 import { heroConfig } from '@/config/site'
+import Link from "next/link"
+import { FaArrowRightLong } from "react-icons/fa6"
+import { t } from "@lingui/macro"
 
 export default async function Hero({params,}: {
   params?: { lang: AVAILABLE_LOCALES }
 }) {
   await activateLocale(params?.lang || AVAILABLE_LOCALES.en);
- //  console.log('hero locale:', params.lang);
- //  useEffect(() => {
- //    console.log('Client-side locale:', params.lang);
- //    activateLocale(params.lang).then(() => {
- //    });
- //  }, [params.lang]);
- //  const loginRef = useRef<GoogleLoginRef>(null)
- //
- //  const handleGetStarted = () => {
- //    const authenticated = loginRef.current?.checkAuthenticated()
- //    // 未登录不可上传
- //    if (!authenticated) {
- //      loginRef.current?.open()
- //      return false
- //    }else{
- // // 用户已登录，直接跳转到编辑器页面
- //      window.location.href = `/${params.lang}/editor`
- //    }
- //
- //  }
   return (
     <section className="relative px-6 py-24 md:px-8 md:py-10 w-full">
        {/*<GoogleLogin ref={loginRef} />*/}
@@ -49,16 +32,15 @@ export default async function Hero({params,}: {
             className="text-gray-500 border-4 border-transparent dark:text-slate-400">
             {i18n._(heroConfig.description)}
           </h2>
-          {/*<div className="w-full flex justify-center p-4">*/}
-          {/*  <Button*/}
-          {/*    type="button"*/}
-          {/*    color="primary"*/}
-          {/*    className="px-8 py-3 text-lg font-bold rounded-full bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 transform hover:scale-105 transition duration-300 ease-in-out shadow-lg hover:shadow-xl"*/}
-          {/*  >*/}
-          {/*    <Link href={'/download'}><span className="mr-2">{t`Download`}</span></Link>*/}
-          {/*    <FaArrowRightLong className="inline-block" />*/}
-          {/*  </Button>*/}
-          {/*</div>*/}
+          <div className="w-full flex justify-center p-4">
+            <Link 
+              href="/generator"
+              className="inline-flex items-center px-8 py-3 text-lg font-bold text-white rounded-full bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 transform hover:scale-105 transition duration-300 ease-in-out shadow-lg hover:shadow-xl"
+            >
+              <span className="mr-2">{t`Generate Now!`}</span>
+              <FaArrowRightLong className="inline-block" />
+            </Link>
+          </div>
         </div>
       </div>
       <div

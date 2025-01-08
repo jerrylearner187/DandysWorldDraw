@@ -153,168 +153,14 @@
       ]
     ]
   },
-  "h++ayx": {
-    "translation": "자신감 넘치고 능력 있는 마법사로, 강한 성격과 전투 기술로 유명하다.",
-    "message": "A confident and capable sorcerer, she is known for her strong personality and combat skills.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        298
-      ]
-    ]
-  },
-  "IzYS7Z": {
-    "translation": "자신감 넘치고 맹렬한 주술사로, 전투에서 저주 무기를 사용한다.",
-    "message": "A confident and fierce Jujutsu Sorcerer who uses cursed tools in battle.",
+  "EXY/2d": {
+    "translation": "확실히! 댄디의 세계 드로우 생성기는 모든 기술 수준의 아티스트들이 사용하기 쉽도록 설계되었습니다. 미리 설정된 형태, 사용하기 쉬운 도구 및 직관적인 컨트롤 덕분에 초보자도 즉시 예술 작품을 만들기 시작할 수 있습니다.",
+    "message": "Absolutely! Dandys World Draw Generator is designed to be user-friendly for artists of all skill levels. With preset shapes, easy-to-use tools, and intuitive controls, beginners can start creating artwork immediately.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
         238
-      ]
-    ]
-  },
-  "9U3l20": {
-    "translation": "임무에 전념하는 주술사로, 어려운 상황에 자주 처하지만 자신을 증명하기 위해 노력한다.",
-    "message": "A dedicated sorcerer who is earnest in her duties, she often finds herself in challenging situations but strives to prove herself.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        288
-      ]
-    ]
-  },
-  "/mWTuu": {
-    "translation": "도쿄 주술고 후쿠오카 캠퍼스의 1학년생으로, 독특한 전투 스타일로 알려져 있다.",
-    "message": "A first-year student at the Fukuoka campus of Tokyo Jujutsu High, known for her unique combat style.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        253
-      ]
-    ]
-  },
-  "OKBeaG": {
-    "translation": "도쿄 주술고 1학년생으로, 스크나의 손가락 하나를 섭취한 후 그의 그릇이 된다.",
-    "message": "A first-year student at Tokyo Jujutsu High who becomes the vessel for Ryomen Sukuna after ingesting one of his fingers.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        228
-      ]
-    ]
-  },
-  "RdVUza": {
-    "translation": "회사원에서 주술사로 전향한 나나미는 실용적이고 기술이 뛰어나며, \"비율 기술\"을 사용하여 전투에서 상당한 피해를 입힌다.",
-    "message": "A former salaryman turned sorcerer, Nanami is pragmatic and highly skilled, using his \"Ratio Technique\" to deal significant damage in battles.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        293
-      ]
-    ]
-  },
-  "pdCaP+": {
-    "translation": "가모 가문의 구성원으로, 혈액을 조종할 수 있는 독특한 저주 기술을 가지고 있다.",
-    "message": "A member of the Kamo family, he possesses a unique cursed technique that allows him to manipulate blood.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        283
-      ]
-    ]
-  },
-  "bq9uHR": {
-    "translation": "저주 에너지와 기술을 결합한 강력한 기계적 존재로, 전투에서 독특한 전략을 제공한다.",
-    "message": "A powerful mechanical entity that combines technology with cursed energy, offering unique strategies in battle.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        313
-      ]
-    ]
-  },
-  "O+2B9p": {
-    "translation": "천인 가문의 강력한 주술사로, 육체 전투와 저주 기술에 능하다.",
-    "message": "A powerful sorcerer from the Zenin family, she excels in physical combat and cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        243
-      ]
-    ]
-  },
-  "4TFm7i": {
-    "translation": "고조 사토루의 신뢰할 수 있는 보조자로, 주술 커뮤니티에서 전략적 사고와 지원 역할로 알려져 있다.",
-    "message": "A reliable aide to Satoru Gojo, known for his supportive role in the Jujutsu community and his strategic thinking.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        273
-      ]
-    ]
-  },
-  "fV22B7": {
-    "translation": "역저주 기술을 전문으로 하는 능력 있는 의사이자 주술사로, 다른 사람을 치료할 수 있다.",
-    "message": "A skilled doctor and sorcerer who specializes in reverse curse techniques, allowing her to heal others.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        268
-      ]
-    ]
-  },
-  "aalQ7o": {
-    "translation": "독특한 그림자 기술로 알려진 2급 주술사.",
-    "message": "A talented Grade 2 Jujutsu Sorcerer known for his unique shadow techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        233
-      ]
-    ]
-  },
-  "T+EgFA": {
-    "translation": "지능 기술의 독특한 측면은 소환수 소환 및 통제 능력입니다. 스켈레톤 소환과 같은 기술은 방어 전환을 생성하면서 추가 전투 지원을 제공하여, 지능 빌드가 전투 상황 관리를 특히 효과적으로 만들어 줍니다.",
-    "message": "A unique aspect of Intelligence skills is the ability to summon and control minions. Skills like Summon Skeletons provide additional combat support while creating defensive distractions, making Intelligence builds particularly effective at managing battlefield control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        488
-      ]
-    ]
-  },
-  "0R/rnX": {
-    "translation": "저주 기술로 만들어진 독특한 캐릭터인 판다는 장난스러운 성격을 가지고 있지만, 여러 형태로 변화하며 강력한 전투력을 발휘한다.",
-    "message": "A unique character created through cursed techniques, Panda has a playful demeanor but is a formidable fighter with multiple forms.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        303
-      ]
-    ]
-  },
-  "uyJsf6": {
-    "translation": "소개",
-    "message": "About",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        25
       ]
     ]
   },
@@ -329,6 +175,17 @@
       ]
     ]
   },
+  "iNiXuw": {
+    "translation": "댄디의 세계 드로우 생성기에서 원, 사각형, 삼각형 및 타원과 같은 다양한 미리 설정된 형태에 접근하여 캐릭터의 기본 구조를 빠르게 구축할 수 있습니다.",
+    "message": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        194
+      ]
+    ]
+  },
   "UEU44n": {
     "translation": "패스 오브 엑자일 2 드로잉 리소스에 접근하세요. 여기에는 캐릭터 가이드, 색상 팔레트, 비율 차트 등이 포함되어 있습니다. 당신의 예술 작품의 진정성을 유지하는 데 완벽합니다.",
     "message": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
@@ -337,17 +194,6 @@
       [
         "config/site.ts",
         119
-      ]
-    ]
-  },
-  "9hvc9M": {
-    "translation": "패스 오브 엑자일 2의 신규 플레이어를 위한 포괄적인 가이드에 액세스하세요. 우리의 플래너에는 추천 기술 조합, 레벨업 전략 및 빌드 제안이 포함되어 있어 초보자들이 성공하는 데 도움을 줍니다.",
-    "message": "Access comprehensive guides for new players in Path of Exile 2. Our planner includes recommended skill combinations, leveling strategies, and build suggestions to help beginners succeed.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        863
       ]
     ]
   },
@@ -370,39 +216,6 @@
       [
         "config/site.ts",
         73
-      ]
-    ]
-  },
-  "cUSavi": {
-    "translation": "게임에 등장한 원초적 특별급 저주 정령으로, 다른 저주 기술을 무효화할 수 있는 독특한 능력을 가지고 있다.",
-    "message": "An original Special Grade Cursed Spirit introduced in the game, with a unique ability to nullify other cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        263
-      ]
-    ]
-  },
-  "fYJg3B": {
-    "translation": "우리의 POE2 기술 플래너를 사용하여 방어 능력을 분석하세요. 효과적인 건강 풀을 계산하고, 방어 기술 조합을 평가하며, 다양한 기술 보석 세트를 활용하여 캐릭터의 생존 가능성을 계획하세요.",
-    "message": "Analyze defensive capabilities with our PoE2 Skills Planner. Calculate effective health pools, evaluate defensive skill combinations, and plan your character's survivability using various skill gem setups.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        848
-      ]
-    ]
-  },
-  "qHLB5X": {
-    "translation": "후쿠오카 캠퍼스의 또 다른 신입생으로, 장벽 관련 저주 기술을 지니고 있습니다.",
-    "message": "Another first-year from the Fukuoka campus, he possesses barrier-related cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        258
       ]
     ]
   },
@@ -439,61 +252,6 @@
       ]
     ]
   },
-  "O05cq/": {
-    "translation": "영역 통제",
-    "message": "Area Control",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        343
-      ]
-    ]
-  },
-  "sPu965": {
-    "translation": "공격 속도 & 치명타",
-    "message": "Attack Speed & Critical Strikes",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        852
-      ]
-    ]
-  },
-  "w7JxcK": {
-    "translation": "공격 속도 향상",
-    "message": "Attack Speed Enhancement",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        419
-      ]
-    ]
-  },
-  "PNdsa0": {
-    "translation": "속성 요구 사항",
-    "message": "Attribute Requirements",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        705
-      ]
-    ]
-  },
-  "4i/H8S": {
-    "translation": "이용 가능한 기술",
-    "message": "Available Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        154
-      ]
-    ]
-  },
   "0BQ0oZ": {
     "translation": "패스 오브 엑자일 2 캐릭터를 기본 도형으로 나누는 것부터 시작하세요. 대부분의 캐릭터는 단순한 기하학적 형태로 시작합니다 - 로저의 머리를 위한 원, 몸체 구조를 위한 직사각형. 세부 사항을 추가하기 전에 이러한 기본 도형을 연습하세요.",
     "message": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
@@ -502,17 +260,6 @@
       [
         "config/site.ts",
         46
-      ]
-    ]
-  },
-  "vyTf0S": {
-    "translation": "초보자 친화적인 가이드",
-    "message": "Beginner-Friendly Guides",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        862
       ]
     ]
   },
@@ -527,61 +274,6 @@
       ]
     ]
   },
-  "0y1Z1Z": {
-    "translation": "파란 보석 (지능)",
-    "message": "Blue Gems (Intelligence)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        563
-      ]
-    ]
-  },
-  "hBkuTE": {
-    "translation": "파란 스킬 보석 (지능)",
-    "message": "Blue Skill Gems (Intelligence)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        766
-      ]
-    ]
-  },
-  "ScaRFk": {
-    "translation": "파란 스킬 보석은 주문 시전 및 원소 피해에 전문화되어 있습니다. 패스 오브 엑자일 2에서 마법사 빌드에 적합한 강력한 주문인 Fireball, Frostbolt, Arc 등을 제공합니다. 또한 소환수 소환 및 유틸리티 주문도 포함되어 있습니다.",
-    "message": "Blue Skill Gems specialize in spellcasting and elemental damage. Features powerful spells like Fireball, Frostbolt, and Arc, perfect for mage builds in Path of Exile 2. Also includes minion summoning and utility spells.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        564
-      ]
-    ]
-  },
-  "FPAKH+": {
-    "translation": "빌드 최적화",
-    "message": "Build Optimization",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        842
-      ]
-    ]
-  },
-  "p536Zb": {
-    "translation": "빌드 다재다능성",
-    "message": "Build Versatility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        634
-      ]
-    ]
-  },
   "yZ2PlW": {
     "translation": "#0#을 사용함으로써 귀하는 이 서비스 약관에 동의하는 것입니다.",
     "message": "By using #0#, you signify your acceptance of these Terms of Service.",
@@ -593,14 +285,25 @@
       ]
     ]
   },
-  "6j7vqA": {
-    "translation": "패스 오브 엑자일 2에서 다양한 유형의 스킬 보석을 조합할 수 있나요?",
-    "message": "Can different types of Skill Gems be combined in Path of Exile 2?",
+  "L7dq+T": {
+    "translation": "댄디의 세계 드로우 생성기를 사용하여 캐릭터를 만들 수 있나요?",
+    "message": "Can I create characters using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        600
+        233
+      ]
+    ]
+  },
+  "PvR3qf": {
+    "translation": "댄디의 세계 드로우 생성기로 자연 요소를 그릴 수 있나요?",
+    "message": "Can I draw nature elements using Dandys World Draw Generator?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        241
       ]
     ]
   },
@@ -626,14 +329,36 @@
       ]
     ]
   },
-  "i/HCFv": {
-    "translation": "서포트 보석은 모든 스킬 보석과 함께 사용될 수 있나요?",
-    "message": "Can Support Gems be used with any skill gem?",
+  "f6bi7N": {
+    "translation": "캐릭터 부품 모음",
+    "message": "Character Parts Collection",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        734
+        198
+      ]
+    ]
+  },
+  "7xMmki": {
+    "translation": "원",
+    "message": "Circle",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        24
+      ]
+    ]
+  },
+  "z65MvS": {
+    "translation": "빈 캔버스 지우기",
+    "message": "Clear Canvas",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        504
       ]
     ]
   },
@@ -659,43 +384,6 @@
       ]
     ]
   },
-  "CfQHuH": {
-    "translation": "전투 메커니즘",
-    "message": "Combat Mechanics",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        619
-      ],
-      [
-        "config/site.ts",
-        781
-      ]
-    ]
-  },
-  "atHs5t": {
-    "translation": "전투 다재다능성",
-    "message": "Combat Versatility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        353
-      ]
-    ]
-  },
-  "8YivsP": {
-    "translation": "패스 오브 엑자일 2에서 다양한 색상의 스킬 젬을 조합하면 다재다능한 캐릭터 빌드를 만들 수 있습니다. 예를 들어, 초록색과 파란색 스킬 젬을 섞으면 원거리 공격과 마법을 모두 활용하는 하이브리드 빌드를 생성할 수 있으며, 빨간색과 초록색 젬을 조합하면 기동성과 방어 능력이 향상된 강력한 근접 전투 빌드를 만들 수 있습니다.",
-    "message": "Combining different colored Skill Gems in Path of Exile 2 allows for versatile character builds. For example, mixing Green and Blue Skill Gems can create hybrid builds that utilize both ranged attacks and spells, while combining Red and Green gems can result in powerful melee builds with enhanced mobility and defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        672
-      ]
-    ]
-  },
   "b+LYK6": {
     "translation": "최종 터치와 선택적인 배경 요소를 추가하여 패스 오브 엑자일 2 드로잉을 완성하세요. 원래 캐릭터 디자인과 일치하는지 작업을 검토하세요. 패스 오브 엑자일 2 드로잉 커뮤니티에 작품을 공유하여 피드백을 받으세요.",
     "message": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
@@ -718,17 +406,6 @@
       ]
     ]
   },
-  "PuvTyx": {
-    "translation": "종합 기술 시스템",
-    "message": "Comprehensive Skill System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        837
-      ]
-    ]
-  },
   "akF51D": {
     "translation": "쿠키는 소량의 데이터로 이루어진 파일이며, 익명의 고유 식별자로 널리 사용됩니다. 이러한 쿠키는 귀하가 방문하는 웹사이트에서 귀하의 장치 내부 메모리에 저장됩니다. 이 서비스는 이러한 쿠키를 명시적으로 사용하지 않습니다. 그러나 앱에 사용된 제3자 코드 및 라이브러리는 쿠키를 사용하여 정보를 수집하고 서비스를 개선할 수 있습니다. 귀하는 이러한 쿠키를 수락하거나 거부할 수 있으며, 장치에 쿠키가 전송될 때 알 수 있습니다. 쿠키를 거부하는 경우, 서비스의 일부 기능을 사용하지 못할 수 있습니다.",
     "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
@@ -740,36 +417,36 @@
       ]
     ]
   },
-  "/VjFmG": {
-    "translation": "비용 배율:",
-    "message": "COST MULTIPLIER:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        91
-      ]
-    ]
-  },
-  "/36SYM": {
-    "translation": "비용:",
-    "message": "COST:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        87
-      ]
-    ]
-  },
-  "88ZhIO": {
-    "translation": "우리의 패스 오브 엑자일 2 스킬 플래너를 사용하면 빌드를 쉽게 생성하고 수정할 수 있습니다. 다양한 스킬 조합, 지원 젬 및 캐릭터 클래스를 실험하여 완벽한 플레이 스타일을 찾아보세요.",
-    "message": "Create and modify builds easily with our Path of Exile 2 Skills Planner. Experiment with different skill combinations, support gems, and character classes to find your perfect playstyle.",
+  "l7oHNR": {
+    "translation": "댄디의 세계 드로우 생성기의 자연 테마 형태를 사용하여 아름다운 배경을 만들어 캐릭터 그림을 향상시킬 수 있습니다.",
+    "message": "Create beautiful backgrounds using Dandys World Draw Generator's nature-themed shapes like leaves, flowers and petals to enhance your character drawings.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        873
+        204
+      ]
+    ]
+  },
+  "7z8zid": {
+    "translation": "지금 당신의 마음속에 있는 댄디의 세계 캐릭터를 만들어보세요!",
+    "message": "Create your favorite Dandy's World characters now!",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        50
+      ]
+    ]
+  },
+  "iJGXFl": {
+    "translation": "쉽게 따라 할 수 있는 드로잉 생성기로 당신의 마음속에 있는 댄디의 세계 캐릭터를 만들어보세요. 초보자와 고급 아티스트 모두를 위한 단계별 튜토리얼이 완벽합니다.",
+    "message": "Create your favorite Dandy's World characters with our easy-to-follow drawing generator. Perfect for beginners & advanced artists with step-by-step tutorials.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        25
       ]
     ]
   },
@@ -795,43 +472,6 @@
       ]
     ]
   },
-  "7TpNih": {
-    "translation": "치명타 잠재력",
-    "message": "Critical Strike Potential",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        434
-      ],
-      [
-        "config/site.ts",
-        497
-      ]
-    ]
-  },
-  "i3FKK/": {
-    "translation": "현재 Jujutsu Kaisen Phantom Parade는 주로 일본어로 제공되고 있습니다. 일본 밖의 플레이어들은 VPN을 사용해야 게임에 접근할 수 있습니다.",
-    "message": "Currently, Jujutsu Kaisen Phantom Parade is primarily available in Japanese. Players outside Japan may need to use a VPN to access the game.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        205
-      ]
-    ]
-  },
-  "QM/9nh": {
-    "translation": "피해:",
-    "message": "DAMAGE:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        108
-      ]
-    ]
-  },
   "6Mk9Tp": {
     "translation": "패스 오브 엑자일 2의 예술 스타일은 다양한 매체에 맞게 조정 가능합니다. 전통적인 스케치, 디지털 아트, 수채화 중 어떤 것을 선호하든 캐릭터 디자인은 다양한 예술 기법에 아름답게 변환됩니다.",
     "message": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
@@ -851,6 +491,17 @@
       [
         "config/site.ts",
         21
+      ]
+    ]
+  },
+  "q4aWez": {
+    "translation": "댄디의 세계 드로우 생성기 | 캐릭터 드로잉 단계별 학습",
+    "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        22
       ]
     ]
   },
@@ -887,125 +538,58 @@
       ]
     ]
   },
-  "oAnTvN": {
-    "translation": "젬 레벨링과 품질 향상을 통한 심화 기술 개발 시스템. 기술은 진행에 따라 강력해지며, 다양한 지원 조합을 통해 효과를 향상할 수 있는 옵션이 있습니다.",
-    "message": "Deep skill development system through gem leveling and quality improvements. Skills become more powerful as you progress, with options to enhance their effects through various support combinations.",
+  "5gwVfz": {
+    "translation": "댄디의 세계 드로우 생성기",
+    "message": "Dandys World Draw Generator",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        792
+        "app/[lang]/(public)/generator/page.tsx",
+        47
       ]
     ]
   },
-  "KOvQUt": {
-    "translation": "심화 기술 통합",
-    "message": "Deep Skill Integration",
+  "v9VHUR": {
+    "translation": "댄디의 세계 드로우 생성기는 미리 설정된 형태, 사용자 정의 가능한 색상 및 다양한 드로잉 요소를 사용하여 사용자가 캐릭터와 예술 작품을 만들 수 있게 해주는 직관적인 드로잉 도구입니다. 모든 기술 수준의 아티스트들이 캐릭터를 쉽게 만들 수 있도록 설계되었습니다.",
+    "message": "Dandys World Draw Generator is an intuitive drawing tool that allows users to create characters and artwork using preset shapes, customizable colors, and various drawing elements. It's designed to make character creation accessible for artists of all skill levels.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        690
+        222
       ]
     ]
   },
-  "6Iev04": {
-    "translation": "방어 계획",
-    "message": "Defense Planning",
+  "dkj2lZ": {
+    "translation": "댄디의 세계 드로우 생성기는 12가지 생생한 색상과 조정 가능한 브러시 크기를 제공하여 정밀하고 스타일리시한 캐릭터 작품을 만들 수 있는 완벽한 제어를 제공합니다.",
+    "message": "Dandys World Draw Generator offers 12 vibrant colors and adjustable brush sizes, giving you complete control to create stunning character artwork with precision and style.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        847
+        189
       ]
     ]
   },
-  "igGiip": {
-    "translation": "방어 능력",
-    "message": "Defensive Capabilities",
+  "zcPVPZ": {
+    "translation": "댄디의 세계 드로우 생성기는 조정 가능한 브러시 크기, 12가지 색상, 미리 설정된 기하학적 형태, 캐릭터 신체 부품 및 자연 요소를 포함한 다양한 드로잉 도구를 제공합니다. 이러한 도구는 상세한 예술 작품을 만들기 위해 필요한 모든 것을 제공합니다.",
+    "message": "Dandys World Draw Generator offers a variety of drawing tools including adjustable brush sizes, 12 different colors, preset geometric shapes, character body parts, and nature elements. These tools provide everything you need to create detailed artwork.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        338
-      ],
-      [
-        "config/site.ts",
-        424
-      ],
-      [
-        "config/site.ts",
-        492
-      ],
-      [
-        "config/site.ts",
-        700
+        250
       ]
     ]
   },
-  "rml26s": {
-    "translation": "우리의 패스 오브 엑자일 2 스킬 플래너를 사용하여 효과적인 팀 구성을 설계하세요. 지원 스킬, Aura 및 방어 능력을 계획하여 어려운 콘텐츠를 위한 강력한 그룹 시너지를 만드세요.",
-    "message": "Design effective team compositions with our PoE2 Skills Planner. Plan support skills, auras, and defensive abilities to create powerful group synergies for challenging content.",
+  "yzIMnv": {
+    "translation": "댄디의 세계 드로우 생성기는 12가지 색상 옵션, 조정 가능한 브러시 크기, 미리 설정된 형태(원, 사각형, 삼각형, 타원), 캐릭터 신체 부품 및 자연 요소와 같은 여러 기능을 제공합니다. 캔버스를 지우고 작업을 PNG 또는 JPG 형식으로 저장할 수도 있습니다.",
+    "message": "Dandys World Draw Generator provides multiple features including 12 different color options, adjustable brush sizes, preset shapes (circles, squares, triangles, ellipses), character body parts, and nature elements. You can also clear your canvas and save your artwork in PNG or JPG format.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        858
-      ]
-    ]
-  },
-  "7aqnOj": {
-    "translation": "패스 오브 엑자일 2에서 민첩성 스킬은 주로 원거리 전투와 민첩한 게임 플레이에 중점을 둡니다. 이러한 녹색 스킬은 기습 전술에서 뛰어나며, 함정을 구축하고 탄약 유형을 수정하고 정확한 타격을 수행하는 능력을 제공합니다. 이들은 모바일하고 전술적인 접근 방식을 선호하는 플레이어에게 특히 효과적입니다.",
-    "message": "Dexterity skills in Path of Exile 2 are primarily focused on ranged combat and agile gameplay. These green-colored skills excel in hit-and-run tactics, offering abilities for constructing traps, modifying ammunition types, and executing precise strikes. They're particularly effective for players who prefer a mobile, tactical approach to combat.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        448
-      ]
-    ]
-  },
-  "pg57vT": {
-    "translation": "패스 오브 엑자일2의 민첩성 스킬은 뛰어난 공격 속도 메커니즘을 특징으로 합니다. Frenzy 및 Blood Rage와 같은 주요 스킬은 공격 속도를 크게 증가시켜 빠른 전투 시퀀스와 증가된 DPS 잠재력을 가능하게 합니다.",
-    "message": "Dexterity skills in PoE2 feature superior attack speed mechanics. Key skills like Frenzy and Blood Rage significantly boost attack speed, allowing for rapid-fire combat sequences and increased DPS potential.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        420
-      ]
-    ]
-  },
-  "iWojYC": {
-    "translation": "민첩성 스킬은 패스 오브 엑자일 2에서 여러 방어 혜택을 제공합니다: Grace Aura는 팀 회피를 증가시키고, Defiance Banner는 받은 피해를 줄이며, Smoke Mine은 회피 및 이동 속도를 증가시킵니다. 이러한 방어 민첩성 스킬은 어려운 콘텐츠에서 팀 생존에 필수적입니다.",
-    "message": "Dexterity skills provide several defensive benefits in PoE2: Grace aura increases team evasion, Defiance Banner reduces damage taken, and Smoke Mine grants increased evasion and movement speed. These defensive dexterity skills are crucial for team survival in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        456
-      ]
-    ]
-  },
-  "cBmrvx": {
-    "translation": "민첩성 기반 빌드는 Barrage 및 Ice Shot과 같은 스킬을 통해 결정적인 타격을 얻는 데 뛰어납니다. 이러한 스킬은 지원 젬으로 강화하여 파괴적인 치명타 비율을 달성할 수 있습니다.",
-    "message": "Dexterity-based builds excel at landing critical strikes, particularly with skills like Barrage and Ice Shot. These skills can be enhanced with support gems to achieve devastating critical hit rates.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        435
-      ]
-    ]
-  },
-  "WQWUiU": {
-    "translation": "다양한 스킬 젬 유형",
-    "message": "Diverse Skill Gem Types",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        614
+        226
       ]
     ]
   },
@@ -1020,113 +604,91 @@
       ]
     ]
   },
-  "GTZBEP": {
-    "translation": "Jujutsu Kaisen Phantom Parade에는 원래 애니메이션 출연진이 포함되어 있습니까?",
-    "message": "Does Jujutsu Kaisen Phantom Parade include the original anime cast?",
+  "BByzjN": {
+    "translation": "걱정하지 마세요! 댄디의 세계 드로우 생성기에는 필요할 때마다 새로 시작할 수 있는 캔버스 지우기 기능이 있습니다. 이로 인해 당신의 드로잉 기술을 실험하고 연습하기에 완벽합니다.",
+    "message": "Don't worry! Dandys World Draw Generator features a canvas clear function that allows you to start fresh whenever needed. This makes it perfect for experimenting and practicing your drawing skills.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        220
+        246
       ]
     ]
   },
-  "Xm2xny": {
-    "translation": "물리적 및 원소 피해 유형이 있는 역동적인 전투 시스템. 군중 제어, 버프 및 상태 효과가 특징. 스킬은 독립 플레이 및 그룹 플레이 모두에서 강력한 시너지를 위해 결합될 수 있습니다.",
-    "message": "Dynamic combat system with physical and elemental damage types. Features crowd control, buffs, and status effects. Skills can be combined for powerful synergies in both solo and group play.",
+  "mzI/c+": {
+    "translation": "다운로드",
+    "message": "Download",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        511
+      ]
+    ]
+  },
+  "HeM1nB": {
+    "translation": "JPEG로 다운로드",
+    "message": "Download as JPEG",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        533
+      ]
+    ]
+  },
+  "yQ7ak/": {
+    "translation": "PNG로 다운로드",
+    "message": "Download as PNG",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        524
+      ]
+    ]
+  },
+  "GLcnsp": {
+    "translation": "댄디의 세계 드로우 생성기의 미리 설정된 신체 부품 라이브러리를 통해 눈, 코, 손 및 발 요소와 같은 세부적인 캐릭터 특징을 쉽게 추가할 수 있습니다.",
+    "message": "Easily add detailed character features with Dandys World Draw Generator's preset body parts library including hands, feet, eyes and nose elements.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        782
+        199
       ]
     ]
   },
-  "kTY5vL": {
-    "translation": "역동적인 스킬 수정",
-    "message": "Dynamic Skill Modification",
+  "VGGB1R": {
+    "translation": "간편 리셋",
+    "message": "Easy Reset",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        710
+        208
       ]
     ]
   },
-  "CsXK/Q": {
-    "translation": "각 스킬 보석은 독특한 전투 능력을 제공합니다 - 빨간 보석은 근접 전투와 물리 피해에 뛰어나고, 초록 보석은 원거리 공격 및 민첩성에 중점을 두며, 파란 보석은 마법 시전 및 원소 피해에 특화되어 있습니다.",
-    "message": "Each Skill Gem provides distinct combat abilities - Red gems excel in melee combat and physical damage, Green gems focus on ranged attacks and agility, while Blue gems specialize in spellcasting and elemental damage.",
+  "rp5GhR": {
+    "translation": "타원",
+    "message": "Ellipse",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        620
+        "components/DrawingBoard.tsx",
+        27
       ]
     ]
   },
-  "xKpboT": {
-    "translation": "패스 오브 엑자일 2의 각 지원 보석은 특정 속성 요구 사항(힘, 민첩성, 지능)을 가지고 있어, 어떤 캐릭터 빌드가 효과적으로 이를 활용할 수 있는지를 결정합니다. 이 시스템은 캐릭터 발전에 있어 의미 있는 선택을 창출합니다.",
-    "message": "Each Support Gem in PoE2 has specific attribute requirements (Strength, Dexterity, Intelligence), affecting which character builds can effectively utilize them. This system creates meaningful choices in character development.",
+  "wovLGP": {
+    "translation": "눈",
+    "message": "Eye",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        706
-      ]
-    ]
-  },
-  "jFbf9R": {
-    "translation": "원소 피해 숙련",
-    "message": "Elemental Damage Mastery",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        477
-      ]
-    ]
-  },
-  "I0Az3M": {
-    "translation": "강화된 전투 효과",
-    "message": "Enhanced Combat Effects",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        695
-      ]
-    ]
-  },
-  "WVSKOy": {
-    "translation": "힘 스킬에 필수적인 지원 보석에는: 피해 출력을 증가시키기 위한 근접 물리 피해 지원, 방어를 위한 강화 지원, 순수 물리 피해 빌드를 위한 잔혹성 지원, 생명 기반 시전을 위한 블러드 매직 지원이 포함됩니다. 이들은 빨간 보석 능력의 효과를 크게 향상시킵니다.",
-    "message": "Essential support gems for Strength Skills include: Melee Physical Damage Support for increased damage output, Fortify Support for defense, Brutality Support for pure physical damage builds, and Blood Magic Support for life-based casting. These enhance the effectiveness of red gem abilities significantly.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        393
-      ]
-    ]
-  },
-  "MwaR4Z": {
-    "translation": "패시브 스킬을 통한 광범위한 캐릭터 사용자 정의. 공유 패시브 트리는 모든 클래스가 다양한 노드에 접근할 수 있게 하여 다양한 빌드 옵션과 독특한 캐릭터 발전 경로를 가능하게 합니다.",
-    "message": "Extensive character customization through passive skills. The shared passive tree allows all classes to access various nodes, enabling diverse build options and unique character development paths.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        777
-      ]
-    ]
-  },
-  "6jIXss": {
-    "translation": "빌드를 저장하지 못했습니다.",
-    "message": "Failed to save build",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        140
+        "components/DrawingBoard.tsx",
+        33
       ]
     ]
   },
@@ -1141,28 +703,6 @@
       ]
     ]
   },
-  "aJ4pMe": {
-    "translation": "자주 묻는 질문",
-    "message": "FAQs",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        23
-      ]
-    ]
-  },
-  "PpZkda": {
-    "translation": "기능",
-    "message": "Features",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        8
-      ]
-    ]
-  },
   "OjNld0": {
     "translation": "패스 오브 엑자일 2 드로우의 특징",
     "message": "Features Of Dandys World Draw",
@@ -1171,94 +711,6 @@
       [
         "config/site.ts",
         32
-      ]
-    ]
-  },
-  "m65fV0": {
-    "translation": "패스 오브 엑자일 2의 민첩성 스킬 특징",
-    "message": "Features Of POE2 Dexterity Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        410
-      ]
-    ]
-  },
-  "GVIp5w": {
-    "translation": "패스 오브 엑자일 2의 보석 특징",
-    "message": "Features Of POE2 Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        539
-      ]
-    ]
-  },
-  "bLqRlz": {
-    "translation": "패스 오브 엑자일 2의 지능 스킬 특징",
-    "message": "Features Of POE2 Intelligence Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        473
-      ]
-    ]
-  },
-  "GyMkYP": {
-    "translation": "패스 오브 엑자일 2의 스킬 보석 특징",
-    "message": "Features Of POE2 skill Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        610
-      ]
-    ]
-  },
-  "75xj60": {
-    "translation": "패스 오브 엑자일 2의 스킬 특징",
-    "message": "Features Of POE2 Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        752
-      ]
-    ]
-  },
-  "rkn1bM": {
-    "translation": "패스 오브 엑자일 2의 스킬 플래너 특징",
-    "message": "Features Of POE2 Skills Planner",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        833
-      ]
-    ]
-  },
-  "H3SGDp": {
-    "translation": "패스 오브 엑자일 2의 힘 스킬 특징",
-    "message": "Features Of POE2 Strength Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        329
-      ]
-    ]
-  },
-  "N/DeOS": {
-    "translation": "패스 오브 엑자일 2의 지원 보석 특징",
-    "message": "Features Of POE2 Support Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        681
       ]
     ]
   },
@@ -1273,14 +725,14 @@
       ]
     ]
   },
-  "kAFCHd": {
-    "translation": "유연한 빌드 생성",
-    "message": "Flexible Build Creation",
+  "abEdHK": {
+    "translation": "꽃",
+    "message": "Flower",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        872
+        "components/DrawingBoard.tsx",
+        39
       ]
     ]
   },
@@ -1295,14 +747,14 @@
       ]
     ]
   },
-  "qqyb4m": {
-    "translation": "근접 전투와 물리 피해에 중점을 두고 있습니다. 강력한 타격, 클리브 및 그라운드 슬램과 같은 AoE 공격, 전쟁의 외침을 통한 방어 능력을 특징으로 하며, 직접 전투와 높은 생존력을 선호하는 전사에게 적합합니다.",
-    "message": "Focused on melee combat and physical damage. Features powerful strikes, AoE attacks like Cleave and Ground Slam, and defensive abilities through War Cries. Perfect for warriors who prefer direct combat and high survivability.",
+  "xN37me": {
+    "translation": "발",
+    "message": "Foot",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        757
+        "components/DrawingBoard.tsx",
+        32
       ]
     ]
   },
@@ -1317,113 +769,14 @@
       ]
     ]
   },
-  "76LTZg": {
-    "translation": "패스 오브 엑자일 2의 초보자를 위한 추천 스킬 조합은: 원거리 피해를 위한 토네이도 샷 + 더 강력한 다중 발사, 군중 제어를 위한 아이스 샷 + 저체온증, 스펠 피해를 위한 파이어볼 + 스펠 에코, 근접 전투를 위한 그라운드 슬램 + 강화입니다. 이 조합은 좋은 피해 출력을 제공하면서도 비교적 사용하기 쉽습니다.",
-    "message": "For beginners in Path of Exile 2, recommended skill combinations include: Tornado Shot + Greater Multiple Projectiles for ranged damage, Ice Shot + Hypothermia for crowd control, Fireball + Spell Echo for spell damage, and Ground Slam + Fortify for melee combat. These combinations provide good damage output while being relatively straightforward to use.",
+  "A08Kgh": {
+    "translation": "자유형",
+    "message": "Freestyle",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        808
-      ]
-    ]
-  },
-  "BnNtJ0": {
-    "translation": "패스 오브 엑자일 2의 초보자를 위한 추천 지원 보석 조합은: 지역 피해 스킬을 위한 더 강력한 다중 발사 지원, 단일 공격을 위한 피가 가득한 생명 지원, 기본 공격 스킬을 위한 더 빠른 공격 지원, 시전 능력을 위한 스펠 에코 지원입니다. 이 지원 보석은 이해하고 효과적으로 활용하기 쉬운 직관적인 이점을 제공합니다.",
-    "message": "For beginners in Path of Exile 2, recommended Support Gem combinations include: Greater Multiple Projectiles Support with area damage skills, Damage on Full Life Support with single-target attacks, Faster Attacks Support with basic attack skills, and Spell Echo Support with casting abilities. These Support Gems provide straightforward benefits that are easy to understand and utilize effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        727
-      ]
-    ]
-  },
-  "AA2bAI": {
-    "translation": "패스 오브 엑자일 2의 초보자를 위한 추천 민첩성 스킬은: 군중 제어와 피해를 위한 아이스 샷, 쉬운 적 처리를 위한 스플릿 애로우, 시간에 따른 신뢰할 수 있는 피해를 위한 카우스틱 애로우입니다. 이 스킬들은 사용하기 간편하고 최소한의 장비 요구사항으로 좋은 효과를 제공합니다.",
-    "message": "For beginners in PoE2, recommended dexterity skills include: Ice Shot for crowd control and damage, Split Arrow for easy mob clearing, and Caustic Arrow for reliable damage over time. These skills are straightforward to use and provide good effectiveness with minimal gear requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        460
-      ]
-    ]
-  },
-  "UkncHN": {
-    "translation": "패스 오브 엑자일 2의 초보자를 위한 추천 지능 스킬은: 일관된 피해 출력을 위한 파이어볼, 군중 제어를 위한 프로스트볼트, 체인 번개 피해를 위한 아크, 추가 전투 지원을 위한 스켈레톤 소환입니다. 이 스킬들은 사용하기 쉬우며 마법 시전 메커니즘을 이해하는 좋은 기반을 제공합니다.",
-    "message": "For beginners in PoE2, recommended Intelligence skills include Fireball for consistent damage output, Frostbolt for crowd control, Arc for chain lightning damage, and Summon Skeletons for additional combat support. These skills are straightforward to use and provide a good foundation for understanding spellcasting mechanics.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        518
-      ]
-    ]
-  },
-  "kwHGrZ": {
-    "translation": "패스 오브 엑자일 2의 초보자를 위한 추천 빨간 스킬 보석은: 지역 피해를 위한 클리브, 단일 목표 피해를 위한 헤비 스트라이크, 군중 제어를 위한 그라운드 슬램입니다. 이 힘 기반 보석들은 사용하기 간편하며 신규 플레이어에게 효과적인 전투 옵션을 제공합니다.",
-    "message": "For beginners in PoE2, recommended Red Skill Gems include Cleave for area damage, Heavy Strike for single-target damage, and Ground Slam for crowd control. These Strength-based gems are straightforward to use and provide effective combat options for new players.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        585
-      ]
-    ]
-  },
-  "/NxQUS": {
-    "translation": "패스 오브 엑자일 2의 초보자를 위한 추천 스킬 보석은: 원거리 빌드를 위한 토네이도 샷 + 더 강력한 다중 발사, 군중 제어를 위한 아이스 샷 + 저체온증, 마법 사용자들을 위한 파이어볼, 근접 빌드를 위한 헤비 스트라이크입니다. 이 스킬 보석들은 직관적인 메커니즘을 제공하며 초기 게임 콘텐츠에서 효과적입니다.",
-    "message": "For beginners in PoE2, recommended Skill Gems include: Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for crowd control, Fireball for spellcasters, and Heavy Strike for melee builds. These Skill Gems provide straightforward mechanics while remaining effective for early game content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        656
-      ]
-    ]
-  },
-  "g8laWJ": {
-    "translation": "초보자에게 추천하는 힘 스킬은: 단일 목표 피해를 위한 헤비 스트라이크, 지역 제어를 위한 그라운드 슬램, 그룹 정리가 가능한 클리브, 생존을 위한 인듀어링 크라이입니다. 이 빨간 보석 능력들은 사용하기 간편하며 힘 스킬 시스템을 이해하는 좋은 기초를 제공합니다.",
-    "message": "For beginners, recommended Strength Skills include: Heavy Strike for single-target damage, Ground Slam for area control, Cleave for group clearing, and Enduring Cry for survival. These red gem abilities are straightforward to use and provide a good foundation for understanding the Strength skill system.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        385
-      ]
-    ]
-  },
-  "qRH6Ma": {
-    "translation": "초보자를 위한 패스 오브 엑자일 2 스킬 플래너는: 원거리 빌드를 위한 토네이도 샷 + 더 강력한 다중 발사, 제어 지향의 게임 플레이를 위한 아이스 샷 + 저체온증, 또는 마법 사용자 빌드를 위한 파이어볼 + 스펠 에코와 같은 조합을 추천합니다. 이 조합은 좋은 피해를 제공하며 비교적 사용하기 쉽습니다.",
-    "message": "For beginners, the PoE2 Skills Planner recommends combinations like Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for control-oriented gameplay, or Fireball with Spell Echo for spellcasting builds. These combinations provide good damage and are relatively straightforward to use.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        889
-      ]
-    ]
-  },
-  "Q0ENOT": {
-    "translation": "보스 전투를 위한 강력한 힘 스킬은: 높은 단일 목표 피해를 위한 헤비 스트라이크, 일관된 피해 출력을 위한 몰튼 스트라이크, 폭발 피해를 위한 인페르널 블로우, 생존을 위한 인듀어링 크라이입니다. 이 빨간 보석 능력들은 도전적인 보스 전투에 필요한 지속적인 피해와 생존력을 제공합니다.",
-    "message": "For boss encounters, powerful Strength Skills include: Heavy Strike for high single-target damage, Molten Strike for consistent damage output, Infernal Blow for burst damage, and Enduring Cry for survival. These red gem abilities provide the sustained damage and survivability needed for challenging boss fights.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        401
-      ]
-    ]
-  },
-  "0qnBBD": {
-    "translation": "iOS의 경우 Jujutsu Kaisen Phantom Parade에는 iOS 12.0 이상과 약 407.6MB의 저장 공간이 필요합니다. Android의 경우 Android 8.0 이상이 필요합니다.",
-    "message": "For iOS, Jujutsu Kaisen Phantom Parade requires iOS 12.0 or later and approximately 407.6 MB of storage space. For Android, it requires Android 8.0 or later.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        193
+        "components/DrawingBoard.tsx",
+        41
       ]
     ]
   },
@@ -1438,14 +791,25 @@
       ]
     ]
   },
-  "GgVATf": {
-    "translation": "보석 시너지",
-    "message": "Gem Synergies",
+  "EDkBL8": {
+    "translation": "지금 생성하기!",
+    "message": "Generate Now!",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        568
+        "components/wegic/hero.tsx",
+        40
+      ]
+    ]
+  },
+  "8XR/WI": {
+    "translation": "생성기",
+    "message": "Generator",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
       ]
     ]
   },
@@ -1460,58 +824,14 @@
       ]
     ]
   },
-  "OQjgfs": {
-    "translation": "초록 민첩성 스킬은 회피 및 기동성을 통해 강력한 방어 옵션을 제공합니다. 그레이스 및 디파이언스 배너와 같은 스킬은 공격 능력을 유지하면서 팀 생존력을 향상시킵니다.",
-    "message": "Green dexterity skills offer robust defensive options through evasion and mobility. Skills such as Grace and Defiance Banner enhance team survivability while maintaining offensive capabilities.",
+  "vJ0hjc": {
+    "translation": "손",
+    "message": "Hand",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        425
-      ]
-    ]
-  },
-  "gNoxUU": {
-    "translation": "초록 보석 (민첩성)",
-    "message": "Green Gems (Dexterity)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        558
-      ]
-    ]
-  },
-  "QcQF16": {
-    "translation": "초록 스킬 보석 (민첩성)",
-    "message": "Green Skill Gems (Dexterity)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        761
-      ]
-    ]
-  },
-  "At6Qpc": {
-    "translation": "초록 스킬 보석은 원거리 전투 및 민첩성 기반 능력에서 뛰어납니다. 토네이도 샷, 아이스 샷, 펑크처와 같은 주요 스킬은 패스 오브 엑자일 2의 활 사용자 및 암살자 스타일 빌드에 훌륭한 옵션을 제공합니다.",
-    "message": "Green Skill Gems excel in ranged combat and agility-based abilities. Key skills like Tornado Shot, Ice Shot, and Puncture provide excellent options for bow users and assassin-style builds in PoE2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        559
-      ]
-    ]
-  },
-  "hnWur2": {
-    "translation": "고도로 사용자 정의 가능한 스킬 수정 시스템. 지원 보석은 활성 스킬의 효과를 향상시켜 깊은 빌드 사용자 지정을 가능하게 합니다. 지원 보석과 활성 스킬을 연결하여 고유한 조합을 만들어 파워와 유틸리티를 증대시킵니다.",
-    "message": "Highly customizable skill modification system. Support gems enhance active skills' effects, allowing for deep build customization. Create unique combinations by linking support gems with active skills for increased power and utility.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        772
+        "components/DrawingBoard.tsx",
+        31
       ]
     ]
   },
@@ -1530,39 +850,6 @@
       ]
     ]
   },
-  "5FWvsY": {
-    "translation": "Android에서 Jujutsu Kaisen Phantom Parade를 어떻게 다운로드 할 수 있습니까?",
-    "message": "How can I download Jujutsu Kaisen Phantom Parade on Android?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        212
-      ]
-    ]
-  },
-  "1adYoo": {
-    "translation": "iOS에서 Jujutsu Kaisen Phantom Parade를 어떻게 다운로드 할 수 있습니까?",
-    "message": "How can I download Jujutsu Kaisen Phantom Parade on iOS?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        208
-      ]
-    ]
-  },
-  "hBpVMm": {
-    "translation": "패스 오브 엑자일 2에서 힘 스킬 빌드를 최적화하려면 어떻게 해야 할까요?",
-    "message": "How can I optimize my Strength Skills build in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        404
-      ]
-    ]
-  },
   "A3fPkq": {
     "translation": "패스 오브 엑자일 2 캐릭터 드로잉에서 내 진행 상황을 어떻게 추적할 수 있나요?",
     "message": "How can I track my progress in drawing Dandy's World characters?",
@@ -1574,282 +861,14 @@
       ]
     ]
   },
-  "RbYob3": {
-    "translation": "패스 오브 엑자일 2의 엔드 게임 콘텐츠에 지능 스킬을 최적화하려면 어떻게 해야 하나요?",
-    "message": "How can Intelligence skills be optimized for endgame content in Path of Exile 2?",
+  "LMBnSl": {
+    "translation": "댄디의 세계 드로우 생성기에서 제 작품을 어떻게 저장하나요?",
+    "message": "How do I save my artwork in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        521
-      ]
-    ]
-  },
-  "87v437": {
-    "translation": "패스 오브 엑자일 2에서 민첩성 스킬이 다양한 캐릭터 클래스에 미치는 영향은 무엇인가요?",
-    "message": "How do Dexterity skills affect different character classes in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        463
-      ]
-    ]
-  },
-  "W7khBP": {
-    "translation": "패스 오브 엑자일 2에서 민첩성 스킬이 팀 방어를 향상시키는 방법은 무엇인가요?",
-    "message": "How do Dexterity skills enhance team defense in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        455
-      ]
-    ]
-  },
-  "k2a81l": {
-    "translation": "다양한 캐릭터 클래스가 스킬 보석을 다르게 활용하는 방법은 무엇인가요?",
-    "message": "How do different character classes utilize Skill Gems differently?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        667
-      ]
-    ]
-  },
-  "h6PW5i": {
-    "translation": "다양한 캐릭터 클래스가 스킬 보석을 어떻게 활용하나요?",
-    "message": "How do different character classes utilize skill gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        811
-      ]
-    ]
-  },
-  "qjQTW5": {
-    "translation": "패스 오브 엑자일 2에서 효과적인 스킬 빌드를 어떻게 생성하나요?",
-    "message": "How do I create an effective skill build in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        884
-      ]
-    ]
-  },
-  "ppUwan": {
-    "translation": "스킬을 사용하여 캐릭터의 치명타 확률을 어떻게 최적화하나요?",
-    "message": "How do I optimize my character's critical strike chances using skills?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        900
-      ]
-    ]
-  },
-  "HVo8Qx": {
-    "translation": "패스 오브 엑자일 2에서 지능 스킬이 마법사 빌드에 미치는 영향은 무엇인가요?",
-    "message": "How do Intelligence skills affect Mage builds in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        513
-      ]
-    ]
-  },
-  "xXQkPj": {
-    "translation": "패스 오브 엑자일 2에서 지능 스킬이 지원 보석과 어떻게 상호작용하나요?",
-    "message": "How do Intelligence skills interact with support gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        529
-      ]
-    ]
-  },
-  "m2Gksy": {
-    "translation": "패시브 스킬이 스킬 보석과 어떻게 상호작용하나요?",
-    "message": "How do passive skills interact with skill gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        819
-      ]
-    ]
-  },
-  "ryLRic": {
-    "translation": "패스 오브 엑자일 2에서 스킬 보석이 팀 플레이에 미치는 영향은 무엇인가요?",
-    "message": "How do skill gems affect team play in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        908
-      ]
-    ]
-  },
-  "j5jOpJ": {
-    "translation": "패스 오브 엑자일 2에서 스킬 보석이 팀 플레이에 미치는 영향은 무엇인가요?",
-    "message": "How do Skill Gems affect team play in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        675
-      ]
-    ]
-  },
-  "EsTa/o": {
-    "translation": "패스 오브 엑자일 2에서 스킬 보석이 패시브 스킬 트리와 어떻게 통합되나요?",
-    "message": "How do Skill Gems integrate with the passive skill tree in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        659
-      ]
-    ]
-  },
-  "UTMZPT": {
-    "translation": "패스 오브 엑자일 2에서 스킬 보석이 어떻게 레벨업하나요?",
-    "message": "How do skill gems level up in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        827
-      ]
-    ]
-  },
-  "rlZCTA": {
-    "translation": "패스 오브 엑자일 2에서 스킬 보석이 어떻게 레벨업하나요?",
-    "message": "How do Skill Gems level up in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        596
-      ]
-    ]
-  },
-  "qERQah": {
-    "translation": "Strength 기술은 패스 오브 엑자일 2에서 팀 플레이에 어떻게 도움이 됩니까?",
-    "message": "How do Strength Skills benefit team play in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        380
-      ]
-    ]
-  },
-  "v3ijFS": {
-    "translation": "Strength 기술은 패스 오브 엑자일 2의 다른 속성 기술과 어떻게 비교됩니까?",
-    "message": "How do Strength Skills compare to other attribute skills in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        396
-      ]
-    ]
-  },
-  "UWOgcG": {
-    "translation": "Strength 기술은 패스 오브 엑자일 2에서 캐릭터 진행과 어떻게 조화를 이루게 됩니까?",
-    "message": "How do Strength Skills scale with character progression in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        388
-      ]
-    ]
-  },
-  "nNME7C": {
-    "translation": "지원 보석은 캐릭터 빌드에 어떤 영향을 미칩니까?",
-    "message": "How do Support Gems affect character builds?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        730
-      ]
-    ]
-  },
-  "yF0XDP": {
-    "translation": "지원 보석은 패스 오브 엑자일 2에서 기술 피해에 어떻게 영향을 줍니까?",
-    "message": "How do Support Gems affect skill damage in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        738
-      ]
-    ]
-  },
-  "Tn7Zef": {
-    "translation": "지원 보석은 패스 오브 엑자일 2에서 어떻게 작동합니까?",
-    "message": "How do Support Gems work in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        580
-      ]
-    ]
-  },
-  "1KIhkX": {
-    "translation": "지원 보석은 패스 오브 엑자일 2에서 다른 속성 유형과 어떻게 함께 작동합니까?",
-    "message": "How do Support Gems work with different attribute types in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        722
-      ]
-    ]
-  },
-  "N5flWT": {
-    "translation": "지원 보석은 패스 오브 엑자일 2에서 기술 보석과 어떻게 함께 작동합니까?",
-    "message": "How do support gems work with skill gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        803
-      ],
-      [
-        "config/site.ts",
-        892
-      ]
-    ]
-  },
-  "mEVwZQ": {
-    "translation": "지원 보석은 패스 오브 엑자일 2에서 기술 보석과 어떻게 함께 작동합니까?",
-    "message": "How do Support Gems work with Skill Gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        651
-      ]
-    ]
-  },
-  "MhqG83": {
-    "translation": "지원 보석은 어떻게 레벨업합니까?",
-    "message": "How do you level up Support Gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        746
+        229
       ]
     ]
   },
@@ -1941,160 +960,6 @@
       ]
     ]
   },
-  "JsEKN8": {
-    "translation": "영향 메커니즘",
-    "message": "Impact Mechanics",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        368
-      ]
-    ]
-  },
-  "V6juom": {
-    "translation": "그룹 콘텐츠에서는 Intelligence 기술이 요소 피해, 군중 제어 및 유틸리티 효과를 통해 중요한 지원을 제공합니다. Temporal Chains와 같은 기술은 적의 움직임을 제어할 수 있으며, 오라와 방어 능력은 전체 파티를 보호할 수 있습니다. 이것은 Intelligence 기반 캐릭터를 패스 오브 엑자일 2에서 소중한 팀원으로 만들어줍니다.",
-    "message": "In group content, Intelligence skills provide crucial support through elemental damage, crowd control, and utility effects. Skills like Temporal Chains can control enemy movement, while auras and defensive abilities can protect the entire party. This makes Intelligence-based characters valuable team members in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        534
-      ]
-    ]
-  },
-  "cOrZ61": {
-    "translation": "패스 오브 엑자일 2에서 각 캐릭터 클래스는 자신의 주요 속성에 따라 특정 기술 보석에 대한 자연스러운 친화력이 있습니다. 레인저는 원거리 전투를 위한 녹색 기술 보석에서 뛰어나고, 템플러는 주문 시전을 위한 파란색 기술 보석에서 이익을 얻으며, 마라우더는 근접 전투를 위해 적색 기술 보석과 자연스럽게 정렬됩니다. 그러나 모든 클래스는 속성 요구 사항을 충족하면 어떤 기술 보석이라도 사용할 수 있습니다.",
-    "message": "In Path of Exile 2, each character class has natural affinities for certain Skill Gems based on their primary attributes. Rangers excel with Green Skill Gems for ranged combat, Templars benefit from Blue Skill Gems for spellcasting, and Marauders naturally align with Red Skill Gems for melee combat. However, any class can use any Skill Gem if they meet the attribute requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        668
-      ]
-    ]
-  },
-  "Eq/v2W": {
-    "translation": "패스 오브 엑자일 2에서 각 캐릭터 클래스는 특정 기술 보석에 대한 자연스러운 친화력이 있습니다: 레인저는 토네이도 샷과 같은 녹색 기술에서 우수하며, 마라우더는 그라운드 슬램과 같은 적색 기술로 이익을 얻고, 마녀는 파이어볼과 같은 파란색 기술을 전문으로 합니다. 그러나 모든 클래스는 속성 요구 사항을 충족하면 어떤 기술 보석이라도 사용할 수 있습니다.",
-    "message": "In Path of Exile 2, each character class has natural affinities for certain skill gems: Rangers excel with green skills like Tornado Shot, Marauders benefit from red skills like Ground Slam, and Witches specialize in blue skills like Fireball. However, any class can use any skill gem if they meet the attribute requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        812
-      ]
-    ]
-  },
-  "Ft7Ocz": {
-    "translation": "패스 오브 엑자일 2에서 기술 보석은 속성을 기반으로 세 가지 주요 유형이 있습니다: 적색(힘) 보석은 근접 전투와 물리적 피해에 집중하고, 녹색(정밀) 보석은 원거리 공격과 민첩성에 전문화되며, 파란색(지능) 보석은 주문 시전 및 요소 피해에 중점을 둡니다. 각 유형은 독특한 게임 플레이 메커니즘과 빌드 가능성을 제공합니다.",
-    "message": "In Path of Exile 2, there are three primary types of Skill Gems based on attributes: Red (Strength) gems focus on melee combat and physical damage, Green (Dexterity) gems specialize in ranged attacks and agility, and Blue (Intelligence) gems concentrate on spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        648
-      ]
-    ]
-  },
-  "5ZTRiC": {
-    "translation": "패스 오브 엑자일 2의 그룹 게임 플레이에서 지원 보석은 협동적인 팀 구성을 만드는 데 중요합니다. 이들은 파티 내의 모든 버프를 강화하고, 추가 방어층을 제공하며, 군중 제어 능력을 개선하고, 전체 팀의 피해 출력을 증가시킬 수 있습니다. 지원 보석의 전략적 사용은 도전적인 콘텐츠에서 그룹 성능을 최적화하는 데 도움을 줍니다.",
-    "message": "In Path of Exile 2's group gameplay, Support Gems are crucial for creating synergistic team compositions. They can enhance party-wide buffs, provide additional defensive layers, improve crowd control capabilities, and boost overall team damage output. Strategic use of Support Gems helps optimize group performance in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        743
-      ]
-    ]
-  },
-  "SnCrD7": {
-    "translation": "패스 오브 엑자일 2에서 민첩성 기술은 다양한 클래스에 독특한 영향을 미칩니다: 레인저는 토네이도 샷과 같은 활 기술에 뛰어나고, 듀엘리스트는 광란과 절단 기술과 같은 기술에서 이익을 얻으며, 섀도우는 효과적으로 독 기반 민첩성 기술을 사용할 수 있습니다. 각 클래스는 패시브 트리 위치와 자연 속성에 따라 이러한 기술을 다르게 활용할 수 있습니다.",
-    "message": "In PoE2, dexterity skills impact different classes uniquely: Rangers excel with bow skills like Tornado Shot, Duelists benefit from skills like Frenzy and Lacerate, while Shadows can effectively use poison-based dexterity skills. Each class can utilize these skills differently based on their passive tree position and natural attributes.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        464
-      ]
-    ]
-  },
-  "uriovw": {
-    "translation": "패스 오브 엑자일 2 기술 계획기에서 지원 보석은 활성 기술 보석의 효과를 수정 및 향상시킵니다. 이들은 피해를 증가시키고, 추가 투사체를 추가하며, 시전 속도를 개선하거나 유틸리티 효과를 제공합니다. 적절한 지원 보석은 기술의 효과성을 크게 향상시킬 수 있습니다.",
-    "message": "In the Path of Exile 2 Skills Planner, support gems modify and enhance active skill gems' effects. They can increase damage, add additional projectiles, improve casting speed, or provide utility effects. The right support gems can significantly boost your skills' effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        893
-      ]
-    ]
-  },
-  "g1A+ws": {
-    "translation": "패스 오브 엑자일 2의 지능 기술(파란색 기술 보석)은 주문 시전 및 요소 피해에 중점을 둔 전문 능력입니다. 이 기술에는 마법 피해를 주고 전투를 제어하며 아군을 지원할 수 있는 공격 주문, 소환 능력 및 유틸리티 효과가 포함됩니다.",
-    "message": "Intelligence skills (blue skill gems) in Path of Exile 2 are specialized abilities focused on spellcasting and elemental damage. These skills include offensive spells, minion summoning abilities, and utility effects that allow players to deal magical damage, control the battlefield, and support allies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        506
-      ]
-    ]
-  },
-  "CSZLhb": {
-    "translation": "지능 기술은 패스 오브 엑자일 2에서 마법사 빌드의 기초이며, 요소 주문을 통한 필수 피해 출력, 장벽 및 군중 제어를 통한 방어 능력, 그리고 소환을 통한 유틸리티를 제공합니다. 이 기술은 지원 보석과 결합하여 공격 및 방어 능력을 모두 강화할 수 있는 강력한 시너지를 생성합니다.",
-    "message": "Intelligence skills are fundamental to Mage builds in PoE2, providing essential damage output through elemental spells, defensive capabilities through barriers and crowd control, and utility through minion summoning. These skills can be combined with support gems to create powerful synergies that enhance both offensive and defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        514
-      ]
-    ]
-  },
-  "HP+1C4": {
-    "translation": "패스 오브 엑자일 2의 지능 기술은 지원 보석에 의해 향상되어 그 행동 및 효과성을 수정할 수 있습니다. 일반적인 조합은 Spell Echo를 사용하여 반복 시전을 하거나, Elemental Focus로 요소 피해를 증가시키고, 더 빠른 시전을 위한 Faster Casting이 있습니다. 적절한 지원 보석은 기술 성능을 크게 향상시킬 수 있습니다.",
-    "message": "Intelligence skills in Path of Exile 2 can be enhanced by support gems to modify their behavior and effectiveness. Common combinations include using Spell Echo for repeated casting, Elemental Focus for increased elemental damage, and Faster Casting for improved spell speed. The right support gems can significantly boost skill performance.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        530
-      ]
-    ]
-  },
-  "w0vEsM": {
-    "translation": "패스 오브 엑자일 2의 지능 기술은 강력한 주문인 파이어볼, 프로스트 볼트 및 아크와 함께 요소 피해 출력에서 뛰어납니다. 이들은 각각 엄청난 화염, 얼음 및 번개 피해를 줍니다. 이러한 기술은 지원 보석을 통해 요소 효과를 극대화할 수 있습니다.",
-    "message": "Intelligence skills in Path of Exile 2 excel at elemental damage output, featuring powerful spells like Fireball, Frostbolt, and Arc that deal devastating fire, cold, and lightning damage respectively. These skills can be enhanced with support gems to maximize elemental effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        478
-      ]
-    ]
-  },
-  "xdBWA0": {
-    "translation": "패스 오브 엑자일 2의 지능 기술은 특히 아크 및 번개 타격과 같은 주문으로 높은 치명타 가능성을 특징으로 합니다. 적절한 지원 보석과 결합될 때, 이러한 기술은 피해 출력을 크게 상승시키는 엄청난 치명타를 전달할 수 있습니다.",
-    "message": "Intelligence skills in PoE2 feature high critical strike potential, particularly with spells like Arc and Lightning Strike. When combined with appropriate support gems, these skills can deliver devastating critical hits that significantly boost damage output.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        498
-      ]
-    ]
-  },
-  "JXVsIx": {
-    "translation": "지능 기술에는 피해 흡수와 군중 제어 효과를 통해 중요한 생존 능력을 제공하는 얼음 장벽 및 프로스트 쉴드와 같은 강력한 방어 옵션이 포함됩니다. 이러한 방어 메커니즘은 전투에서 존재감을 유지하는 데 필수적입니다.",
-    "message": "Intelligence skills include powerful defensive options such as Ice Barrier and Frost Shield, providing crucial survivability through damage absorption and crowd control effects. These defensive mechanisms are essential for maintaining battlefield presence.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        493
-      ]
-    ]
-  },
   "RLPmGq": {
     "translation": "패스 오브 엑자일 2 드로우 소개",
     "message": "Introduction of Dandys World Draw",
@@ -2106,25 +971,14 @@
       ]
     ]
   },
-  "rr52zJ": {
-    "translation": "Jujutsu Kaisen Phantom Parade가 영어로 제공됩니까?",
-    "message": "Is Jujutsu Kaisen Phantom Parade available in English?",
+  "DVcPYw": {
+    "translation": "댄디의 세계 드로우 생성기가 초보자에게 적합한가요?",
+    "message": "Is Dandys World Draw Generator suitable for beginners?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        204
-      ]
-    ]
-  },
-  "tlfYGz": {
-    "translation": "Jujutsu Kaisen Phantom Parade는 무료로 플레이할 수 있습니까?",
-    "message": "Is Jujutsu Kaisen Phantom Parade free to play?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        200
+        237
       ]
     ]
   },
@@ -2150,69 +1004,14 @@
       ]
     ]
   },
-  "LpV4OJ": {
-    "translation": "Jujutsu Kaisen Phantom Parade는 인기 애니메이션 시리즈 Jujutsu Kaisen을 바탕으로 한 모바일 RPG 게임입니다. 턴제 전투, 풍부한 스토리라인, 캐릭터 수집 메커닉을 특징으로 합니다. iOS 기기는 애플 앱스토어, Android 기기는 구글 플레이 스토어에서 다운로드할 수 있습니다.",
-    "message": "Jujutsu Kaisen Phantom Parade is a mobile RPG game based on the popular anime series Jujutsu Kaisen. It features turn-based combat, a rich storyline, and character collection mechanics. You can download Jujutsu Kaisen Phantom Parade from the Apple App Store for iOS devices and the Google Play Store for Android devices.",
+  "xPwtt9": {
+    "translation": "잎",
+    "message": "Leaf",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        185
-      ]
-    ]
-  },
-  "VuEEPs": {
-    "translation": "Jujutsu Kaisen Phantom Parade는 Jujutsu Kaisen 유니버스의 캐릭터를 활용한 턴제 전투, 풍성한 스토리라인과 풀 더빙, 캐릭터 수집을 위한 가챠 시스템을 제공하여 시리즈 팬들에게 몰입감 있는 경험을 선사합니다.",
-    "message": "Jujutsu Kaisen Phantom Parade offers turn-based combat with characters from the Jujutsu Kaisen universe, a rich storyline with full voice acting, and a gacha system for character collection. The game provides an immersive experience for fans of the series.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        197
-      ]
-    ]
-  },
-  "J73Tj0": {
-    "translation": "Jujutsu Kaisen Phantom Parade는 2024년 12월 7일 정식 출시되었으며 iOS와 Android 플랫폼에서 다운로드할 수 있습니다.",
-    "message": "Jujutsu Kaisen Phantom Parade was officially released on December 7, 2024. It is now available for download on both iOS and Android platforms.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        189
-      ]
-    ]
-  },
-  "nBxiSt": {
-    "translation": "주요 방어 지능 기술에는 피해 흡수를 위한 얼음 장벽, 보호를 위한 프로스트 쉴드, 적 제어를 위한 시간의 사슬, 기동성을 제공하는 단계 달리기가 포함됩니다. 이러한 기술은 마법사가 도전적인 전투를 생존하는 데 다양한 방어 층과 탈출 옵션을 제공합니다.",
-    "message": "Key defensive Intelligence skills include Ice Barrier for damage absorption, Frost Shield for protection, Temporal Chains for enemy control, and Phase Run for mobility. These skills help Mages survive challenging encounters by providing various defensive layers and escape options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        526
-      ]
-    ]
-  },
-  "VFvlAZ": {
-    "translation": "저주의 말로 저주를 조종할 수 있는 토게는 안전하게 의사소통하기 위해 주먹밥을 사용한다.",
-    "message": "Known for his cursed speech abilities, Toge can manipulate curses through specific words. He often uses rice balls as a way to communicate safely.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        278
-      ]
-    ]
-  },
-  "CUo907": {
-    "translation": "강력한 힘과 전투력으로 알려진 토도는 성실한 성격과 친구들에 대한 충성심으로 특징지어진다.",
-    "message": "Known for his immense strength and combat prowess, Todo is also characterized by his straightforward personality and loyalty to friends.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        308
+        "components/DrawingBoard.tsx",
+        38
       ]
     ]
   },
@@ -2260,28 +1059,6 @@
       ]
     ]
   },
-  "VrNagU": {
-    "translation": "레벨:",
-    "message": "Level:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        83
-      ]
-    ]
-  },
-  "OTtIU8": {
-    "translation": "생명력 스케일링",
-    "message": "Life Scaling",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        363
-      ]
-    ]
-  },
   "Z3FXyt": {
     "translation": "로딩 중...",
     "message": "Loading...",
@@ -2290,28 +1067,6 @@
       [
         "app/[lang]/(public)/loading.tsx",
         8
-      ]
-    ]
-  },
-  "EvqQVm": {
-    "translation": "주요 기술",
-    "message": "Main Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        191
-      ]
-    ]
-  },
-  "R/on3o": {
-    "translation": "패스 오브 엑자일 2의 많은 기술 보석은 팀 기반 혜택을 제공하며, 플레이어가 버프, 오라 및 방어 능력을 통해 동맹을 지원할 수 있도록 합니다.",
-    "message": "Many Skill Gems in Path of Exile 2 offer team-based benefits, allowing players to support allies through buffs, auras, and defensive abilities for enhanced group play.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        640
       ]
     ]
   },
@@ -2352,80 +1107,25 @@
       ]
     ]
   },
-  "H3p+ql": {
-    "translation": "원소 마법과 소환의 대가들. 강력한 주문인 파이어볼과 아크는 물론 소환 능력을 갖추고 있습니다. 마법 피해 출력과 전투 제어를 원하는 마법사에게 필수적입니다.",
-    "message": "Masters of elemental magic and summoning. Features powerful spells like Fireball and Arc, alongside minion summoning abilities. Essential for spellcasters seeking high magical damage output and battlefield control.",
+  "IO/SDP": {
+    "translation": "다양한 내보내기 옵션",
+    "message": "Multiple Export Options",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        767
+        213
       ]
     ]
   },
-  "CH2/BC": {
-    "translation": "메타 보석은 패스 오브 엑자일 2에서 특정 조건에서 발동되는 고급 기술 보석입니다. 이러한 보석은 자동으로 다른 연결된 기술을 활성화하거나 고유한 효과를 제공하여 복잡한 기술 조합과 전투에서 자동 기술 시퀀스를 가능하게 합니다.",
-    "message": "Meta Gems are advanced Skill Gems in PoE2 that trigger under specific conditions, adding complexity to character builds. These gems can activate other linked skills automatically or provide unique effects, allowing for sophisticated skill combinations and automated skill sequences in combat.",
+  "RYg1g4": {
+    "translation": "자연 요소",
+    "message": "Nature Elements",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        664
-      ]
-    ]
-  },
-  "6NWiBo": {
-    "translation": "패스 오브 엑자일 2의 메타 보석은 특정 조건에서 발동되는 고급 보석입니다. 이들은 특정 조건을 충족할 때 자동 기술 활성화나 유니크 효과를 제공하여 빌드에 복잡성을 추가합니다.",
-    "message": "Meta Gems in Path of Exile 2 are advanced gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or providing unique effects when certain conditions are met, creating more sophisticated character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        605
-      ]
-    ]
-  },
-  "sZUkBE": {
-    "translation": "패스 오브 엑자일 2의 메타 보석은 특정 조건에서 발동되는 고급 기술 보석입니다. 이러한 보석들은 자동 기술 활성화 또는 여러 기술 간의 유니크 상호작용 패턴을 생성하여 더 정교한 캐릭터 빌드를 가능하게 합니다.",
-    "message": "Meta gems in Path of Exile 2 are advanced skill gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or creating unique interaction patterns between different skills, enabling more sophisticated character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        816
-      ]
-    ]
-  },
-  "IYxXKr": {
-    "translation": "소환물 소환",
-    "message": "Minion Summoning",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        487
-      ]
-    ]
-  },
-  "44khzM": {
-    "translation": "이동 및 민첩성",
-    "message": "Movement and Agility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        439
-      ]
-    ]
-  },
-  "qQKpn1": {
-    "translation": "다중 플레이어 시너지",
-    "message": "Multiplayer Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        639
+        203
       ]
     ]
   },
@@ -2437,17 +1137,6 @@
       [
         "framework/components/ue-upload/useS34R2.ts",
         27
-      ]
-    ]
-  },
-  "isRobC": {
-    "translation": "새로운",
-    "message": "New",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        41
       ]
     ]
   },
@@ -2473,25 +1162,14 @@
       ]
     ]
   },
-  "hXzOVo": {
-    "translation": "다음",
-    "message": "Next",
+  "SfPlW9": {
+    "translation": "코",
+    "message": "Nose",
     "comments": [],
     "origin": [
       [
-        "components/skills/pagination.tsx",
-        36
-      ]
-    ]
-  },
-  "4WSj+R": {
-    "translation": "모든 지원 보석이 패스 오브 엑자일 2의 모든 기술 보석과 함께 사용할 수 있는 것은 아닙니다. 지원 보석은 기술 유형(공격, 주문, 소환 등) 및 속성 요구 사항에 따라 특정 호환성 요구 사항이 있습니다. 플레이어는 기술 조합을 만들 때 적절한 호환성을 보장하기 위해 보석 설명 및 요구 사항을 신중하게 확인해야 합니다.",
-    "message": "Not all Support Gems can be used with every skill gem in Path of Exile 2. Support Gems have specific compatibility requirements based on the skill type (attack, spell, minion, etc.) and attribute requirements. Players must carefully check gem descriptions and requirements to ensure proper compatibility when creating skill combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        735
+        "components/DrawingBoard.tsx",
+        34
       ]
     ]
   },
@@ -2506,17 +1184,6 @@
       ]
     ]
   },
-  "mFvrex": {
-    "translation": "공격 속도와 치명타 조합을 계획하여 캐릭터의 DPS를 최적화하세요. 우리의 계획기가 패스 오브 엑자일 2에서 최대 피해 출력을 달성하기 위해 최상의 기술 보석과 지원 보석을 선택하는 데 도움을 줍니다.",
-    "message": "Optimize your character's DPS by planning attack speed and critical strike combinations. Our planner helps you select the best skill gems and support gems to maximize your damage output in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        853
-      ]
-    ]
-  },
   "d2Hx1C": {
     "translation": "우리 플랫폼에는 당신의 패스 오브 엑자일 2 작품을 저장하고 시간에 따라 개선 사항을 비교하며 성과 배지를 얻을 수 있는 진행 추적 시스템이 포함되어 있습니다. 우리는 또한 개인 아트 포트폴리오를 유지하여 발전 상황을 시각적으로 확인하는 것을 권장합니다.",
     "message": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
@@ -2528,256 +1195,14 @@
       ]
     ]
   },
-  "MyRipQ": {
-    "translation": "패시브 스킬 트리",
-    "message": "Passive Skill Tree",
+  "nk7u3D": {
+    "translation": "꽃잎",
+    "message": "Petal",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        776
-      ]
-    ]
-  },
-  "QAAPjM": {
-    "translation": "패시브 트리 통합",
-    "message": "Passive Tree Integration",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        867
-      ]
-    ]
-  },
-  "cu+r4f": {
-    "translation": "패시브 트리 시너지",
-    "message": "Passive Tree Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        629
-      ]
-    ]
-  },
-  "yujZ2L": {
-    "translation": "패스 오브 엑자일 2는 세 가지 주요 유형의 스킬 보석을 제공합니다: 적색(힘) 보석은 근접 전투와 물리적 피해에 중점을 두고, 녹색(민첩성) 보석은 원거리 공격과 민첩성에 특화되며, 청색(지능) 보석은 마법과 원소 피해에 중점을 둡니다. 각 유형은 독특한 특성을 가지며 서포트 보석으로 강화할 수 있습니다.",
-    "message": "Path of Exile 2 features three main types of skill gems: Red (Strength) gems focusing on melee combat and physical damage, Green (Dexterity) gems specializing in ranged attacks and agility, and Blue (Intelligence) gems centered on spellcasting and elemental damage. Each type has unique characteristics and can be enhanced with support gems.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        800
-      ]
-    ]
-  },
-  "9sef72": {
-    "translation": "패스 오브 엑자일 2에는 세 가지 주요 유형의 스킬 보석이 있습니다: 적색(힘) 보석은 근접 전투에, 녹색(민첩성) 보석은 원거리 공격에, 청색(지능) 보석은 마법 시전용입니다. 각 유형은 독특한 특성을 제공하며 서포트 보석으로 깊은 커스터마이징이 가능합니다.",
-    "message": "Path of Exile 2 features three primary types of Skill Gems: Red (Strength) Gems for melee combat, Green (Dexterity) Gems for ranged attacks, and Blue (Intelligence) Gems for spellcasting. Each type has unique characteristics and can be enhanced with Support Gems for deeper customization.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        577
-      ]
-    ]
-  },
-  "RNVqI9": {
-    "translation": "패스 오브 엑자일 2 스킬 보석은 기본 전투 능력을 제공하며, 적색(힘), 녹색(민첩성) 및 청색(지능) 카테고리로 나뉩니다. 각 스킬 보석은 강력한 근접 공격에서 파괴적인 마법에 이르기까지 독특한 전투 능력을 제공합니다.",
-    "message": "Path of Exile 2 Skill Gems provide primary combat abilities, divided into Red (Strength), Green (Dexterity), and Blue (Intelligence) categories. Each Skill Gem offers unique combat capabilities, from powerful melee attacks to devastating spells.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        544
-      ]
-    ]
-  },
-  "oEMAxY": {
-    "translation": "패스 오브 엑자일 2 스킬 플래너는 보석을 세 가지 주요 유형으로 분류합니다: 적색(힘)은 근접 및 물리적 피해를 위한 것, 녹색(민첩성)은 원거리 및 민첩한 전투를 위한 것, 청색(지능)은 마법 및 원소 피해를 위한 것입니다. 각 유형은 독특한 게임플레이 메커니즘 및 빌드 가능성을 제공합니다.",
-    "message": "Path of Exile 2 Skills Planner categorizes gems into three main types: Red (Strength) for melee and physical damage, Green (Dexterity) for ranged and agile combat, and Blue (Intelligence) for spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        881
-      ]
-    ]
-  },
-  "c/quQp": {
-    "translation": "패스 오브 엑자일 2 스킬 플래너는 적색(힘), 녹색(민첩성) 및 청색(지능) 스킬 보석의 방대한 컬렉션을 제공하여 플레이어들이 전략적인 보석 조합과 서포트 보석 강화로 강력한 캐릭터 빌드를 만들 수 있게 합니다.",
-    "message": "Path of Exile 2 Skills Planner features an extensive collection of Red (Strength), Green (Dexterity), and Blue (Intelligence) skill gems, allowing players to create powerful character builds through strategic gem combinations and support gem enhancements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        838
-      ]
-    ]
-  },
-  "pr9uiD": {
-    "translation": "패스 오브 엑자일 2의 최고의 방어 스킬은 다음과 같습니다: 피해 흡수를 위한 얼음 장벽 및 서리 방패, 적 통제를 위한 시간 사슬, 탈출 메커니즘을 위한 단계 실행, 그리고 생존 능력을 향상시키기 위한 다양한 오라 스킬인 은총과 활력. 이러한 스킬은 방어 능력을 향상시키기 위해 서포트 보석과 조합할 수 있습니다.",
-    "message": "Path of Exile 2's best defensive skills include: Ice Barrier and Frost Shield for damage absorption, Temporal Chains for enemy control, Phase Run for escape mechanics, and various aura skills like Grace and Vitality for enhanced survivability. These skills can be combined with support gems for improved defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        824
-      ]
-    ]
-  },
-  "Rl390J": {
-    "translation": "패스 오브 엑자일 2의 민첩성 스킬은 기동성과 빠른 위치 선정에 중점을 둡니다. 스킬인 연기 광산과 단계 실행은 전투와 탐색 모두에 필수적인 이동 옵션을 제공합니다.",
-    "message": "Path of Exile 2's dexterity skills emphasize mobility and quick positioning. Skills like Smoke Mine and Phase Run provide essential movement options for both combat and exploration.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        440
-      ]
-    ]
-  },
-  "i79PN8": {
-    "translation": "패스 오브 엑자일 2의 민첩성 스킬은 원거리 전투에서 뛰어나며, 정확한 타겟팅과 다재다능한 공격 옵션을 제공합니다. 토네이도 샷과 분할 화살과 같은 스킬은 근거리 안전을 유지하면서도 훌륭한 지역 범위를 제공합니다.",
-    "message": "Path of Exile 2's dexterity skills excel in ranged combat, offering precise targeting and versatile attack options. Skills like Tornado Shot and Split Arrow provide excellent area coverage while maintaining safe distance from enemies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        415
-      ]
-    ]
-  },
-  "gVAQ6M": {
-    "translation": "패스 오브 엑자일 2의 지능 스킬은 세 가지 주요 유형으로 분류할 수 있습니다: 직접 피해 마법(파이어볼과 아크 같은), 소환수 소환 스킬(스켈레톤 소환과 같은), 그리고 유틸리티/지원 스킬(오라와 방어 능력 포함). 각 유형은 전투에서 다른 역할을 하며 서포트 보석으로 강화될 수 있습니다.",
-    "message": "Path of Exile 2's Intelligence skills can be categorized into three main types: Direct damage spells (like Fireball and Arc), Minion summoning skills (such as Summon Skeletons), and Utility/Support skills (including auras and defensive abilities). Each type serves different roles in combat and can be enhanced with support gems.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        510
-      ]
-    ]
-  },
-  "JLMWo5": {
-    "translation": "패스 오브 엑자일 2의 스킬 보석 시스템은 세 가지 주요 유형인 적색(힘), 녹색(민첩성), 청색(지능) 보석을 특징으로 하며, 각각은 독특한 전투 능력과 빌드 가능성을 제공합니다.",
-    "message": "Path of Exile 2's Skill Gems system features three primary types: Red (Strength), Green (Dexterity), and Blue (Intelligence) gems, each offering unique combat capabilities and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        615
-      ]
-    ]
-  },
-  "m7EtTn": {
-    "translation": "패스 오브 엑자일 2의 서포트 보석은 세 가지 주요 속성으로 분류됩니다: 힘(적색), 민첩성(녹색), 및 지능(청색). 각 유형의 서포트 보석은 특정 속성 수준이 필요하며 활성 스킬에 다양한 수정을 제공합니다. 적색 서포트 보석은 종종 물리 피해와 방어 능력을 강화하며, 녹색 서포트 보석은 발사체 및 속도 수정을 중심으로 하고, 청색 서포트 보석은 일반적으로 원소 및 마법 효과를 증대시킵니다.",
-    "message": "Path of Exile 2's Support Gems are categorized by three main attributes: Strength (Red), Dexterity (Green), and Intelligence (Blue). Each type of Support Gem requires specific attribute levels and provides different modifications to active skills. Red Support Gems often enhance physical damage and defensive capabilities, Green Support Gems focus on projectile and speed modifications, while Blue Support Gems typically boost elemental and spell effects.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        723
-      ]
-    ]
-  },
-  "zFELgS": {
-    "translation": "패스 오브 엑자일 2의 서포트 보석은 실시간으로 스킬 메커니즘을 수정하여 플레이어가 다양한 상황에 맞게 능력을 조정할 수 있도록 합니다. 이 유연성은 다양한 플레이 스타일과 전략적 깊이를 가능하게 합니다.",
-    "message": "Path of Exile 2's Support Gems can modify skill mechanics in real-time, allowing players to adapt their abilities to different situations. This flexibility enables diverse playstyles and strategic depth.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        711
-      ]
-    ]
-  },
-  "rcR3jp": {
-    "translation": "패스 오브 엑자일 2의 서포트 보석은 전례 없는 커스터마이징을 제공하여 플레이어가 다양한 방식으로 활성 스킬을 수정하고 강화할 수 있도록 합니다. 각 서포트 보석은 활성 스킬과 연결되어 강력한 조합을 만들어내며, 게임 플레이 메커니즘을 근본적으로 변화시킵니다.",
-    "message": "Path of Exile 2's Support Gems offer unprecedented customization, allowing players to modify and enhance their active skills in various ways. Each Support Gem can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        686
-      ]
-    ]
-  },
-  "9ZrB50": {
-    "translation": "물리적 피해 집중",
-    "message": "Physical Damage Focus",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        333
-      ]
-    ]
-  },
-  "VKMSyV": {
-    "translation": "스킬 시너지, 피해 계산, 방어 능력에 대한 자세한 정보를 통해 패스 오브 엑자일 2 캐릭터 빌드를 계획하고 최적화하세요. 우리의 플래너는 효과적인 스킬 보석 조합을 통해 캐릭터의 잠재력을 극대화하도록 도와줍니다.",
-    "message": "Plan and optimize your PoE2 character builds with detailed information about skill synergies, damage calculations, and defensive capabilities. Our planner helps you maximize your character's potential through effective skill gem combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        843
-      ]
-    ]
-  },
-  "8gPvqK": {
-    "translation": "패시브 트리 결정과 함께 스킬 보석 선택을 계획하세요. 우리의 패스 오브 엑자일 2 스킬 플래너는 스킬 보석이 패시브 트리 선택과 어떻게 상호작용하는지를 보여주어 일관된 빌드를 만드는 데 도움을 줍니다.",
-    "message": "Plan your skill gem choices alongside passive tree decisions. Our PoE2 Skills Planner helps you create cohesive builds by showing how skill gems interact with passive tree choices.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        868
-      ]
-    ]
-  },
-  "+BRJj6": {
-    "translation": "플레이어는 서로 다른 스킬 보석을 조합하여 고유한 빌드를 만들 수 있으며, 패스 오브 엑자일 2의 도전적인 콘텐츠에서 순수한 피해 출력, 방어 능력 또는 하이브리드 접근 방식에 집중할 수 있습니다.",
-    "message": "Players can combine different Skill Gems to create unique builds, whether focusing on pure damage output, defensive capabilities, or hybrid approaches in PoE2's challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        635
-      ]
-    ]
-  },
-  "SaquMu": {
-    "translation": "제목을 입력하세요",
-    "message": "Please enter a title",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        102
-      ]
-    ]
-  },
-  "aobb0H": {
-    "translation": "저자를 입력하세요",
-    "message": "Please enter an author",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        106
-      ]
-    ]
-  },
-  "h1pZGt": {
-    "translation": "최소 하나의 주요 스킬을 선택해주세요",
-    "message": "Please select at least one main skill",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        110
+        "components/DrawingBoard.tsx",
+        40
       ]
     ]
   },
@@ -2792,83 +1217,6 @@
       ]
     ]
   },
-  "6EKMS0": {
-    "translation": "패스 오브 엑자일 2의 민첩성 스킬은 강력한 조합 생성 능력에서 빛을 발합니다. 피해가 완전할 때 서포트 보석과 함께 사용하는 포크와 같은 인기 조합이나, 더 큰 다중 발사체와 함께 사용하는 토네이도 샷은 전투 효율성을 극대화합니다.",
-    "message": "PoE2 dexterity skills shine in their ability to create powerful combinations. Popular pairings like Puncture with Damage on Full Life Support or Tornado Shot with Greater Multiple Projectiles maximize combat effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        430
-      ]
-    ]
-  },
-  "Ef7fXT": {
-    "translation": "패스 오브 엑자일 2의 지능 스킬은 다양한 마법 시전 옵션을 제공하여 마법사가 다양한 마법 조합을 통해 전략을 조정할 수 있도록 합니다. 직접 피해 마법부터 범위 공격 능력까지, 지능 빌드는 단일 대상 및 그룹 전투 모두에서 효과적으로 대응할 수 있습니다.",
-    "message": "PoE2 Intelligence skills offer diverse spellcasting options, allowing mages to adapt their strategy through various spell combinations. From direct damage spells to area-of-effect abilities, Intelligence builds can handle both single-target and group encounters effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        483
-      ]
-    ]
-  },
-  "+PZx0E": {
-    "translation": "패스 오브 엑자일 2 힘 기술은 지원 젬 및 패시브 기술과 우수한 시너지를 보여줍니다. 이러한 빨간 젬 능력은 전략적인 젬 조합과 신중한 빌드 계획을 통해 강화될 수 있습니다.",
-    "message": "PoE2 Strength Skills demonstrate excellent synergy with support gems and passive skills. These red gem abilities can be enhanced through strategic gem combinations and careful build planning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        359
-      ]
-    ]
-  },
-  "o+2pHs": {
-    "translation": "패스 오브 엑자일 2 힘 기술은 효과적인 군중 제어를 위한 강력한 AoE 능력을 가진 지면 강타 및 클리브와 같은 기능을 특징으로 합니다. 이러한 힘 기반 공격은 여러 적을 처리하는 동안 강력한 단일 타겟 피해 잠재력을 유지할 수 있습니다.",
-    "message": "PoE2 Strength Skills feature powerful AoE abilities like Ground Slam and Cleave for effective crowd control. These Strength-based attacks can handle multiple enemies while maintaining strong single-target damage potential.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        344
-      ]
-    ]
-  },
-  "wOwmov": {
-    "translation": "패스 오브 엑자일 2 지원 젬은 피해 유형 수정, 효과 추가 또는 기술 행동 변경을 통해 전투 능력을 극적으로 변화시킵니다. 이러한 지원 젬을 통한 수정은 플레이어가 독특하고 강력한 기술 조합을 생성할 수 있도록 해줍니다.",
-    "message": "PoE2 Support Gems dramatically alter combat capabilities by modifying damage types, adding effects, or changing skill behaviors. These modifications through Support Gems allow players to create unique and powerful skill combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        696
-      ]
-    ]
-  },
-  "i/DAEv": {
-    "translation": "패스 오브 엑자일 2의 젬 시스템은 기술 젬과 지원 젬 간의 강력한 조합을 가능하게 합니다. 플레이어는 보완적인 젬을 연결하여 독특한 빌드를 만들고 전투에서의 효과성을 높이며 다양한 게임 플레이 옵션을 제공합니다.",
-    "message": "PoE2's gem system allows for powerful combinations between Skill Gems and Support Gems. Players can create unique builds by linking complementary gems together, enhancing their effectiveness in combat and providing diverse gameplay options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        569
-      ]
-    ]
-  },
-  "jUaDnb": {
-    "translation": "패스 오브 엑자일 2에서 원거리 전투를 위한 인기 있는 녹색 기술 젬에는 AoE 피해를 주는 토네이도 샷, 군중 제어를 위한 아이스 샷, 단일 타겟 피해를 위한 펑크쳐가 포함됩니다. 이러한 민첩성 기반 젬은 원거리 전투 시나리오에서 뛰어납니다.",
-    "message": "Popular Green Skill Gems for ranged combat in Path of Exile 2 include Tornado Shot for AoE damage, Ice Shot for crowd control, and Puncture for single-target damage. These Dexterity-based gems excel in ranged combat scenarios.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        589
-      ]
-    ]
-  },
   "2ziObN": {
     "translation": "연습 및 개선 팁",
     "message": "Practice and Improvement Tips",
@@ -2880,14 +1228,14 @@
       ]
     ]
   },
-  "DHhJ7s": {
-    "translation": "이전",
-    "message": "Previous",
+  "zen3yb": {
+    "translation": "미리 설정된 형태 라이브러리",
+    "message": "Preset Shapes Library",
     "comments": [],
     "origin": [
       [
-        "components/skills/pagination.tsx",
-        24
+        "config/site.ts",
+        193
       ]
     ]
   },
@@ -2950,50 +1298,6 @@
       ]
     ]
   },
-  "VUcR6L": {
-    "translation": "원거리 전투 집중",
-    "message": "Ranged Combat Focus",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        414
-      ]
-    ]
-  },
-  "zdFqOJ": {
-    "translation": "빨간 젬 (힘)",
-    "message": "Red Gems (Strength)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        553
-      ]
-    ]
-  },
-  "XDr3Q0": {
-    "translation": "빨간 기술 젬 (힘)",
-    "message": "Red Skill Gems (Strength)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        756
-      ]
-    ]
-  },
-  "ZzMbBc": {
-    "translation": "빨간 기술 젬은 근접 전투 및 물리 피해에 초점을 맞추고 있으며, 강력한 타격, 강타 및 방어 능력을 특징으로 합니다. 인기 있는 기술에는 클리브, 헤비 스트라이크, 지면 강타가 포함되며, 패스 오브 엑자일 2의 전사 유형 빌드에 적합합니다.",
-    "message": "Red Skill Gems focus on melee combat and physical damage, featuring powerful strikes, slams, and defensive abilities. Popular skills include Cleave, Heavy Strike, and Ground Slam, ideal for warrior-type builds in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        554
-      ]
-    ]
-  },
   "dS5A3M": {
     "translation": "정기적인 연습은 패스 오브 엑자일 2 캐릭터 드로잉을 마스터하는 데 핵심입니다. 온라인 커뮤니티에 참여하고 드로잉 챌린지에 참여하며 공식 참조 자료를 공부하세요. 패스 오브 엑자일 2 연습을 위해 전용 스케치북을 유지하세요.",
     "message": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
@@ -3005,58 +1309,25 @@
       ]
     ]
   },
-  "FCMZT7": {
-    "translation": "요구 사항:",
-    "message": "REQUIREMENTS:",
+  "zmgp8I": {
+    "translation": "풍부한 색상 옵션",
+    "message": "Rich Color Options",
     "comments": [],
     "origin": [
       [
-        "components/skills/SkillCard.tsx",
-        101
+        "config/site.ts",
+        188
       ]
     ]
   },
-  "yY6AgM": {
-    "translation": "빌드 저장",
-    "message": "Save Build",
+  "Gf+QJT": {
+    "translation": "댄디의 세계 드로우 생성기로 만든 작품을 PNG 또는 JPG 형식으로 저장하고 공유하여 예술 작품을 보존하고 전시하기 쉽게 만듭니다.",
+    "message": "Save and share your Dandys World Draw Generator creations in PNG or JPG format, making it simple to preserve and showcase your artwork.",
     "comments": [],
     "origin": [
       [
-        "components/skills/SkillBuilder.tsx",
-        300
-      ]
-    ]
-  },
-  "U1e3dH": {
-    "translation": "빌드 저장 중...",
-    "message": "Saving build...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        116
-      ]
-    ]
-  },
-  "XvjC4F": {
-    "translation": "저장 중...",
-    "message": "Saving...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        300
-      ]
-    ]
-  },
-  "giZAjB": {
-    "translation": "기술 검색 중...",
-    "message": "Search skills...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillFilter.tsx",
-        57
+        "config/site.ts",
+        214
       ]
     ]
   },
@@ -3071,28 +1342,6 @@
       ]
     ]
   },
-  "5KwHac": {
-    "translation": "Jujutsu Kaisen Phantom Parade가 주로 일본어로 제공되기 때문에 커뮤니티에서 제공하는 번역 도구나 가이드를 활용할 수 있습니다. 또한 일부 플레이어들은 VPN을 사용하여 일본 외 지역에서도 게임에 접근하고 있습니다.",
-    "message": "Since Jujutsu Kaisen Phantom Parade is primarily available in Japanese, you can use translation tools or guides created by the community. Additionally, some players use VPNs to access the game from regions outside Japan.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        217
-      ]
-    ]
-  },
-  "So8vLA": {
-    "translation": "기술 조합",
-    "message": "Skill Combinations",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        429
-      ]
-    ]
-  },
   "b2kWPd": {
     "translation": "기술 개발",
     "message": "Skill Development",
@@ -3104,113 +1353,25 @@
       ]
     ]
   },
-  "fCL3cR": {
-    "translation": "기술 젬 - 핵심 전투 능력",
-    "message": "Skill Gems - Core Combat Abilities",
+  "1DA6ap": {
+    "translation": "사각형",
+    "message": "Square",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        25
+      ]
+    ]
+  },
+  "3W0xiR": {
+    "translation": "댄디의 세계 드로우 생성기의 한 클릭으로 캔버스를 지우는 기능을 통해 언제든지 새롭게 시작할 수 있으며, 다양한 드로잉 스타일을 실험하기에 적합합니다.",
+    "message": "Start fresh anytime with Dandys World Draw Generator's one-click canvas clear feature, perfect for experimenting with different drawing styles.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        543
-      ]
-    ]
-  },
-  "x+zwNc": {
-    "translation": "기술 젬은 지원 젬으로 강화될 수 있으며, 이로 인해 효과를 수정하고 증폭시키는 강력한 조합이 생성되어 패스 오브 엑자일 2의 캐릭터 빌드를 깊이 커스터마이즈할 수 있습니다.",
-    "message": "Skill Gems can be enhanced with Support Gems, creating powerful combinations that modify and amplify their effects, allowing for deep customization of character builds in PoE2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        625
-      ]
-    ]
-  },
-  "D6yiax": {
-    "translation": "패스 오브 엑자일 2의 기술 젬은 사용함에 따라 경험치를 얻고 충분한 경험치를 획득하면 자동으로 레벨이 상승합니다. 높은 레벨의 젬은 효과성이 증가하지만 더 높은 능력치 값을 요구할 수 있습니다. 일부 젬은 품질 향상을 통해도 강화될 수 있습니다.",
-    "message": "Skill gems in Path of Exile 2 gain experience as you use them and level up automatically when enough experience is gained. Higher level gems provide increased effectiveness but may require higher attribute values to use. Some gems can also be enhanced through quality improvements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        828
-      ]
-    ]
-  },
-  "Gy87f7": {
-    "translation": "패스 오브 엑자일 2의 기술 젬은 패시브 스킬 트리와 함께 작동하며, 할당된 포인트는 선택한 젬의 효과성을 향상시킬 수 있습니다. 패시브 트리는 캐릭터의 주요 속성에 따라 다른 섹션에서 시작하여 특정 기술 젬 유형에 전문화하고 다양한 빌드 조합을 생성할 수 있도록 합니다.",
-    "message": "Skill Gems in Path of Exile 2 work in conjunction with the passive skill tree, where allocated points can enhance the effectiveness of your chosen gems. The passive tree starts in different sections based on your character's primary attribute, allowing you to specialize in specific Skill Gem types and create diverse build combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        660
-      ]
-    ]
-  },
-  "ndUYkQ": {
-    "translation": "패스 오브 엑자일 2의 기술 젬은 다양한 지원 및 시너지 효과를 통해 팀플레이에 상당한 영향을 미칠 수 있습니다. 특정 젬은 동료에게 오라, 버프 또는 방어 혜택을 제공하며, 다른 젬과 결합할 때 강력한 공격 조합을 생성할 수 있습니다. 이러한 상호 작용을 이해하는 것은 효과적인 그룹 게임플레이에 중요합니다.",
-    "message": "Skill Gems in PoE2 can significantly impact team play through various support and synergy effects. Certain gems provide auras, buffs, or defensive benefits to allies, while others can create powerful offensive combinations when used together. Understanding these interactions is crucial for effective group gameplay.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        676
-      ]
-    ]
-  },
-  "PoDInI": {
-    "translation": "패스 오브 엑자일 2의 기술 젬은 전투에서 사용함에 따라 경험치를 얻습니다. 젬이 레벨업함에 따라 더 강력해져서 증가된 피해를 주거나 강화된 효과를 제공합니다. 일부 젬은 특정 지원 젬과 패시브 스킬 트리 노드를 통해 추가로 강화될 수도 있습니다.",
-    "message": "Skill Gems in PoE2 gain experience as you use them in combat. As gems level up, they become more powerful, dealing increased damage or providing enhanced effects. Some gems can also be enhanced further through specific Support Gems and passive skill tree nodes.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        597
-      ]
-    ]
-  },
-  "yPXV5d": {
-    "translation": "기술 발전",
-    "message": "Skill Progression",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        791
-      ]
-    ]
-  },
-  "x+1D9r": {
-    "translation": "기술 시너지",
-    "message": "Skill Synergies",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        358
-      ]
-    ]
-  },
-  "PYeaTU": {
-    "translation": "원거리 전투 및 민첩한 플레이 스타일에 전문화되어 있습니다. 토네이도 샷 및 아이스 샷과 같은 강력한 기술을 포함하며, 치명타 및 시간 경과에 따른 피해를 위한 강력한 지원 조합을 가지고 있습니다. 이동성과 정확성을 선호하는 플레이어에게 이상적입니다.",
-    "message": "Specializes in ranged combat and agile playstyles. Includes powerful skills like Tornado Shot and Ice Shot, with strong support combinations for critical strikes and damage over time effects. Ideal for players who prefer mobility and precision.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        762
-      ]
-    ]
-  },
-  "pAcweS": {
-    "translation": "속도:",
-    "message": "SPEED:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        97
+        209
       ]
     ]
   },
@@ -3222,292 +1383,6 @@
       [
         "config/site.ts",
         103
-      ]
-    ]
-  },
-  "ZDK00R": {
-    "translation": "힘 기술(빨간 젬)은 직접적인 물리 피해와 생존력에 초점을 맞추고 있으며, 민첩성 기술은 속도와 정밀성에 강조를 두고 있고, 지능 기술은 주문 및 원소 피해에 초점을 맞추고 있습니다. 힘 기반 능력은 근접 전투 및 방어 능력에서 우수하여 세 가지 속성 유형 중 독특합니다.",
-    "message": "Strength Skills (red gems) focus on direct physical damage and survivability, while Dexterity skills emphasize speed and precision, and Intelligence skills focus on spells and elemental damage. Strength-based abilities excel in close combat and defensive capabilities, making them unique among the three attribute types.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        397
-      ]
-    ]
-  },
-  "8LeiXO": {
-    "translation": "패스 오브 엑자일 2의 힘 기술(빨간 젬)은 주로 근접 전투 및 물리 피해에 초점을 맞춰 있습니다. 이 기술들은 강력한 타격, 지면 강타 및 면역 공격을 전달하는 데 뛰어납니다. 이들은 자연스럽게 높은 생명 풀과 방어구와 시너지를 이루므로 탱키 빌드에 적합합니다. 주요 특징으로는 버프를 위한 전투 외침, 단일 타겟 피해를 위한 헤비 스트라이크, 군중 제어를 위한 지면 강타가 포함됩니다.",
-    "message": "Strength Skills (red gems) in PoE2 primarily focus on melee combat and physical damage. These skills excel at delivering powerful strikes, ground slams, and area-of-effect attacks. They naturally synergize with high life pools and armor, making them ideal for tanky builds. Key features include War Cries for buffing, heavy strikes for single-target damage, and ground slams for crowd control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        377
-      ]
-    ]
-  },
-  "LhGQJv": {
-    "translation": "패스 오브 엑자일 2의 힘 기술은 적을 속박시키거나 넉백시키거나 전투에서 제어하는 강력한 충격 메커니즘을 특징으로 합니다. 이러한 빨간 기술은 공간을 만들고 전투 위치를 제어하는 데 뛰어납니다.",
-    "message": "Strength Skills in Path of Exile 2 feature powerful impact mechanics that can stun, knock back, or otherwise control enemies. These red skills excel at creating space and controlling battlefield positioning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        369
-      ]
-    ]
-  },
-  "ifAE8x": {
-    "translation": "패스 오브 엑자일 2의 힘 기술은 근접 공격 및 지면 강타를 통해 강력한 물리 피해를 전달하는 데 뛰어납니다. 이러한 빨간 젬 능력은 물리 피해 빌드의 핵심 요소로, 근접 전투 중심의 캐릭터에 필수적입니다.",
-    "message": "Strength Skills in PoE2 excel at delivering powerful physical damage through melee attacks and ground slams. These red gem abilities form the core of physical damage builds, making them essential for close-combat focused characters.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        334
-      ]
-    ]
-  },
-  "Pf823r": {
-    "translation": "힘 기술은 집결의 외침 및 지속 외침과 같은 능력을 통해 귀중한 팀 지원 옵션을 포함합니다. 이러한 빨간 젬 기술은 동료에게 버프와 방어 혜택을 제공하여 그룹 플레이를 향상시킵니다.",
-    "message": "Strength Skills include valuable team support options through abilities like Rallying Cry and Enduring Cry. These red gem skills enhance group play by providing buffs and defensive benefits to allies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        349
-      ]
-    ]
-  },
-  "prIkB+": {
-    "translation": "힘 기술은 여러 메커니즘을 통해 효과적으로 스케일링됩니다: 물리 피해는 무기 품질에 따라 증가하고, 빨간 젬은 레벨업 과정을 통해 힘 기반 능력을 향상시키며, 패시브 트리 노드는 체력 스케일링을 통해 스케일링됩니다. 이 기술들은 캐릭터가 발전함에 따라 점점 더 강력해집니다.",
-    "message": "Strength Skills scale effectively through several mechanisms: physical damage increases with weapon quality, red gems gain power through leveling, and passive tree nodes enhance Strength-based abilities. Additionally, these skills benefit from life scaling, making them increasingly powerful as characters develop.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        389
-      ]
-    ]
-  },
-  "PKAYT3": {
-    "translation": "힘 기반 기술은 자연적인 생명 스케일링 메커니즘 덕분에 높은 생명 빌드에 적합합니다. 빨간 젬 시스템은 생존력을 지원하면서 강력한 공격 능력을 유지하도록 설계되었습니다.",
-    "message": "Strength-based skills benefit from natural life scaling mechanics, making them ideal for high-health builds. The red gem system inherently supports survivability while maintaining strong offensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        364
-      ]
-    ]
-  },
-  "vmiqyT": {
-    "translation": "힘 기반 기술은 몇 가지 메커니즘을 통해 귀중한 팀 지원을 제공합니다: 전투 외침은 인근 동료에게 일시적인 버프를 제공하며, 집결의 외침은 그룹 공격력을 증가시키고, 많은 힘 기술은 전체 팀에 도움이 되는 방어 영역을 생성합니다. 이 빨간 젬 능력은 넉백 및 스턴 효과를 통해 전투 위치를 제어하는 데도 도움을 줍니다.",
-    "message": "Strength-based skills provide valuable team support through several mechanics: War Cries offer temporary buffs to nearby allies, Rallying Cry increases group damage output, and many Strength Skills create defensive zones that benefit the entire team. These red gem abilities also help control battlefield positioning through knockback and stun effects.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        381
-      ]
-    ]
-  },
-  "DRzks3": {
-    "translation": "그룹 플레이 메커니즘에 대한 강한 강조가 있습니다. 기술은 향상된 효과를 위해 플레이어 간에 결합될 수 있으며, 오라 및 버프가 전체 파티에 혜택을 줍니다. 협동 게임플레이 및 도전적인 그룹 콘텐츠에 적합합니다.",
-    "message": "Strong emphasis on group play mechanics. Skills can be combined between players for enhanced effects, with auras and buffs benefiting entire parties. Perfect for cooperative gameplay and challenging group content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        787
-      ]
-    ]
-  },
-  "v+HYpp": {
-    "translation": "지원 젬 통합",
-    "message": "Support Gem Integration",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        624
-      ]
-    ]
-  },
-  "HnnNzx": {
-    "translation": "지원 젬 - 능력 향상",
-    "message": "Support Gems - Ability Enhancement",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        548
-      ]
-    ]
-  },
-  "/qzRU4": {
-    "translation": "지원 젬은 패스 오브 엑자일 2에서 다양한 승수 및 효과를 통해 기술 피해를 수정할 수 있습니다. 기본 피해를 증가시키거나 원소 피해를 추가하거나 치명타 확률을 높이거나 시간 경과에 따른 피해 효과를 제공할 수 있습니다. 일부 지원 젬은 특정 조건이나 특정 유형의 적에 대해 피해 보너스도 제공할 수 있습니다.",
-    "message": "Support Gems can modify skill damage in Path of Exile 2 through various multipliers and effects. They might increase base damage, add elemental damage, enhance critical strike chances, or provide damage over time effects. Some Support Gems also offer damage bonuses under specific conditions or against certain types of enemies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        739
-      ]
-    ]
-  },
-  "bDfPmj": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 활성 기술 젬을 수정하고 향상시키는 전문 젬입니다. 이를 통해 플레이어는 피해 유형을 변경하거나 효과를 추가하거나 기술 행동을 변경하여 능력을 사용자 정의할 수 있습니다. 이러한 지원 젬은 활성 기술과 연결되어 강력한 조합을 생성하며, 게임 플레이 메커니즘과 캐릭터 능력을 근본적으로 변화시킵니다.",
-    "message": "Support Gems in Path of Exile 2 are specialized gems that modify and enhance active skill gems. They allow players to customize their abilities by altering damage types, adding effects, or changing skill behaviors. These Support Gems can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics and character capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        719
-      ]
-    ]
-  },
-  "ZTydNa": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 방어 능력을 향상시켜 기술 수정을 통해 다양한 형태의 보호를 제공합니다. 플레이어는 지원 젬을 활용하여 생존성을 개선하고 강력한 방어 구성을 만들 수 있습니다.",
-    "message": "Support Gems in Path of Exile 2 can enhance defensive abilities, providing various forms of protection through skill modifications. Players can utilize Support Gems to improve survivability and create robust defensive setups.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        701
-      ]
-    ]
-  },
-  "GZFU/j": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 전투에서 사용하면서 경험치를 얻고 레벨업하여 더 강력해집니다. 높은 레벨의 지원 젬은 일반적으로 더 강력한 효과를 제공하지만 더 높은 속성 값을 요구합니다. 플레이어는 자신의 빌드 요구 사항과 속성 가용성에 따라 젬 레벨링을 제어할 수 있습니다.",
-    "message": "Support Gems in Path of Exile 2 gain experience as you use them in combat, eventually leveling up to become more powerful. Higher-level Support Gems typically provide stronger effects but also require higher attribute values. Players can control gem leveling based on their build requirements and attribute availability.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        747
-      ]
-    ]
-  },
-  "LcmDag": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 연결된 상태에서 능동 기술 젬을 수정하고 향상시킵니다. 이들은 피해 유형을 변경하거나 효과를 추가하거나 공격 속도를 증가시키거나 유틸리티 혜택을 제공합니다. 기술 젬과 지원 젬의 조합은 캐릭터 빌드에 강력한 시너지를 만들어냅니다.",
-    "message": "Support Gems in Path of Exile 2 modify and enhance Active Skill Gems when linked together. They can alter damage types, add effects, increase attack speed, or provide utility benefits. The combination of Skill Gems with Support Gems creates powerful synergies for character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        581
-      ]
-    ]
-  },
-  "HNSEdY": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 능동 기술 젬의 효과를 수정하고 향상시킵니다. 능동 기술에 연결하여 피해 증가, 추가 투사체 또는 수정된 행동과 같은 효과를 추가할 수 있습니다. 능동 기술과 지원 젬의 조합은 캐릭터 능력의 깊은 커스터마이징을 가능하게 합니다.",
-    "message": "Support gems in Path of Exile 2 modify and enhance the effects of active skill gems. They can be linked to active skills to add effects like increased damage, additional projectiles, or modified behavior. The combination of active skills and support gems allows for deep customization of your character's abilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        804
-      ]
-    ]
-  },
-  "bOTDnj": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 능동 기술 젬의 효과를 수정하고 향상시킵니다. 연결된 상태일 때 지원 젬은 주 기술의 다양한 측면을 변경할 수 있으며, 여기에는 피해 출력, 효과 범위, 치명타 확률 또는 새로운 효과 추가가 포함됩니다. 이 시스템은 다양한 기술 젬 조합을 통해 캐릭터 빌드를 깊이 있게 커스터마이징할 수 있게 합니다.",
-    "message": "Support Gems in Path of Exile 2 modify and enhance the effects of active Skill Gems. When linked together, Support Gems can alter various aspects of the main skill, such as damage output, area of effect, critical strike chance, or adding new effects. This system allows for deep customization of character builds through different Skill Gem combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        652
-      ]
-    ]
-  },
-  "EoVn+L": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 기술 메커니즘, 피해 출력 및 유틸리티 효과를 수정하여 캐릭터 빌드에 중요한 영향을 미칩니다. 이들은 기본 능력을 강력한 조합으로 변화시키고, 방어 능력을 향상시키며, 공격 또는 시전 속도를 증가시키고, 치명타 또는 상태 이상과 같은 다양한 효과를 추가합니다. 지원 젬의 선택은 빌드의 효과성과 플레이 스타일 옵션에 직접적인 영향을 미칩니다.",
-    "message": "Support Gems in Path of Exile 2 significantly impact character builds by modifying skill mechanics, damage output, and utility effects. They can transform basic abilities into powerful combinations, enhance defensive capabilities, increase attack or cast speed, and add various effects like critical strikes or status ailments. The choice of Support Gems directly influences build effectiveness and playstyle options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        731
-      ]
-    ]
-  },
-  "xrRhmD": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 연결된 상태에서 기술 젬의 효과를 수정하고 향상시킵니다. 이들은 피해 유형을 변경하거나, 투사체를 추가하거나, 공격 속도를 증가시키거나, 유틸리티 효과를 제공하여 캐릭터 빌드의 깊은 커스터마이징 옵션을 생성합니다.",
-    "message": "Support Gems in PoE2 modify and enhance Skill Gems' effects when linked together. They can alter damage types, add projectiles, increase attack speed, or provide utility effects, creating deep customization options for character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        549
-      ]
-    ]
-  },
-  "igPCWg": {
-    "translation": "패스 오브 엑자일 2의 지원 젬은 링크 시스템을 통해 능동 기술과 매끄럽게 통합됩니다. 플레이어는 단일 능동 기술과 여러 지원 젬을 조합하여 캐릭터의 효과성을 향상시키는 복잡하고 강력한 기술 상호 작용을 만들어낼 수 있습니다.",
-    "message": "Support Gems in PoE2 seamlessly integrate with active skills through the linking system. Players can combine multiple Support Gems with a single active skill, creating complex and powerful skill interactions that enhance their character's effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        691
-      ]
-    ]
-  },
-  "zJznXk": {
-    "translation": "지원 젬 시스템",
-    "message": "Support Gems System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        771
-      ]
-    ]
-  },
-  "Xff8Oa": {
-    "translation": "지원 기술",
-    "message": "Support Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        230
-      ]
-    ]
-  },
-  "7ZQrYT": {
-    "translation": "팀 지원",
-    "message": "Team Support",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        348
-      ]
-    ]
-  },
-  "k+aCcA": {
-    "translation": "팀 시너지",
-    "message": "Team Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        786
-      ]
-    ]
-  },
-  "kF8bSs": {
-    "translation": "팀 시너지 계획",
-    "message": "Team Synergy Planning",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        857
       ]
     ]
   },
@@ -3533,28 +1408,6 @@
       ]
     ]
   },
-  "UxGE0W": {
-    "translation": "패스 오브 엑자일 2에서 가장 효과적인 민첩성 기술 조합은 다음과 같습니다: AoE 피해를 위한 토네이도 샷과 더 큰 다중 투사체, 단일 목표 피해를 위한 찌르기와 생명 전체의 피해 지원, 군중 처리를 위한 분할 화살과 연쇄 지원. 이러한 조합은 다양한 전투 시나리오를 위한 다재다능한 옵션을 제공합니다.",
-    "message": "The most effective dexterity skill combinations in Path of Exile 2 include: Tornado Shot with Greater Multiple Projectiles for AoE damage, Puncture with Damage on Full Life Support for single-target damage, and Split Arrow with Chain Support for mob clearing. These combinations provide versatile options for different combat scenarios.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        452
-      ]
-    ]
-  },
-  "HDXzHc": {
-    "translation": "패스 오브 엑자일 2의 보스 전투에서 가장 효과적인 민첩성 기술은 다음과 같습니다: 단일 목표 피해를 위한 바리지, 지속적인 출혈 피해를 위한 찌르기, 추가 적들을 다루기 위한 토네이도 샷. 이 기술들은 적절한 지원 젬과 결합되어 도전적인 보스 전투에서 강력한 옵션을 제공합니다.",
-    "message": "The most effective dexterity skills for PoE2 boss fights include: Barrage for single-target damage, Puncture for sustained bleeding damage, and Tornado Shot for managing additional enemies. These skills, combined with appropriate support gems, provide strong options for challenging boss encounters.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        468
-      ]
-    ]
-  },
   "YHuztc": {
     "translation": "웹사이트에서 문자로부터 생성된 이미지의 소유권은 해당 이미지를 생성한 사람에게 있습니다. #0#은 사용자가 생성한 이미지에 대한 소유권을 주장하지 않습니다.",
     "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
@@ -3563,105 +1416,6 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         21
-      ]
-    ]
-  },
-  "XsJQz+": {
-    "translation": "패스 오브 엑자일 2의 패시브 기술 트리는 특정 속성이나 효과를 강화하는 다양한 노드를 통해 기술 젬을 향상시킵니다. 플레이어는 선택한 기술을 강화하기 위해 패시브 포인트를 할당할 수 있으며, 피해를 증가시키거나 치명타 확률을 개선하거나 방어 능력을 향상시킬 수 있습니다.",
-    "message": "The passive skill tree in Path of Exile 2 enhances skill gems through various nodes that boost specific attributes or effects. Players can allocate passive points to strengthen their chosen skills, whether by increasing damage, improving critical strike chances, or enhancing defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        820
-      ]
-    ]
-  },
-  "No7+CH": {
-    "translation": "패스 오브 엑자일 2 기술 계획자는 다양한 이동 옵션을 제공합니다: 주문 시전자를 위한 화염 대시 또는 번개 변환, 근접 캐릭터를 위한 회전 검, 일반 이동성을 위한 연기 광산. 캐릭터의 속성과 빌드 요구 사항에 따라 선택하세요.",
-    "message": "The PoE2 Skills Planner offers various movement options: Flame Dash or Lightning Warp for spellcasters, Whirling Blades for melee characters, and Smoke Mine for general mobility. Choose based on your character's attributes and build requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        905
-      ]
-    ]
-  },
-  "FLydL7": {
-    "translation": "패스 오브 엑자일 2 기술 계획자는 증가된 지속 시간의 얼음 장벽, 생명 재생을 위한 지원 젬을 포함한 활력, 또는 면적 효과 지원의 일시적 사슬과 같은 방어 조합을 제안합니다. 이러한 조합은 도전적인 콘텐츠에서 생존성을 향상시킵니다.",
-    "message": "The PoE2 Skills Planner suggests defensive combinations like Ice Barrier with Increased Duration, Vitality with support gems for enhanced life regeneration, or Temporal Chains with area effect supports. These combinations help improve survivability in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        897
-      ]
-    ]
-  },
-  "24RJBw": {
-    "translation": "교토 주술고의 교장으로, 고조와 자주 충돌하지만 주술에 대한 지식과 경험으로 존경받는다.",
-    "message": "The principal of the Kyoto Jujutsu High School, he often clashes with Gojo but is respected for his knowledge and experience in jujutsu.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        323
-      ]
-    ]
-  },
-  "AU0l03": {
-    "translation": "도쿄 주술고의 교장으로, 저주 인형 제작의 전문가이며 여유로운 태도를 지니고 있다.",
-    "message": "The principal of the Tokyo Jujutsu High School, he is known for his expertise in creating cursed puppets and has a laid-back attitude.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        318
-      ]
-    ]
-  },
-  "A77eUm": {
-    "translation": "기술 젬 시스템은 패스 오브 엑자일 2의 패시브 기술 트리와 매끄럽게 통합되어 플레이어가 선택한 기술 젬의 효과성을 향상시키는 포인트 할당을 통해 전문화된 빌드를 만들 수 있도록 합니다.",
-    "message": "The Skill Gems system integrates seamlessly with Path of Exile 2's passive skill tree, enabling players to create specialized builds by allocating points that enhance their chosen Skill Gems' effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        630
-      ]
-    ]
-  },
-  "WU9T4o": {
-    "translation": "강인함 기술 시스템은 단일 목표를 위한 헤비 스트라이크와 지역 피해를 위한 절단과 같은 기술을 통해 뛰어난 전투 유연성을 제공합니다. 이러한 강인함 기반의 능력은 다양한 전투 상황에 효과적으로 적응합니다.",
-    "message": "The Strength Skills system offers remarkable combat flexibility through skills like Heavy Strike for single targets and Lacerate for area damage. These Strength-based abilities adapt to different combat situations effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        354
-      ]
-    ]
-  },
-  "pDFUtP": {
-    "translation": "강인함 기반 기술 시스템은 전쟁의 외침과 요새화 메커니즘을 통해 강력한 방어 옵션을 제공합니다. 이러한 빨간 기술은 자연스럽게 높은 방어구와 생명 풀과 시너지 효과를 발휘하여 상당한 피해를 견딜 수 있는 내구성 있는 탱키 빌드를 만듭니다.",
-    "message": "The Strength-based skill system provides robust defensive options through War Cries and fortification mechanics. These red skills naturally synergize with high armor and life pools, creating durable tanky builds that can withstand significant damage.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        339
-      ]
-    ]
-  },
-  "30GqmK": {
-    "translation": "시리즈 최강의 주술사로, 뛰어난 기술과 학생들에 대한 보호 본능으로 알려져 있다.",
-    "message": "The strongest sorcerer in the series, known for his exceptional skills and protective nature towards his students.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        248
       ]
     ]
   },
@@ -3698,17 +1452,6 @@
       ]
     ]
   },
-  "x4f8pZ": {
-    "translation": "팁",
-    "message": "Tips",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        16
-      ]
-    ]
-  },
   "lwBH3z": {
     "translation": "패스 오브 엑자일 2 드로우의 팁",
     "message": "Tips Of Dandys World Draw",
@@ -3717,6 +1460,17 @@
       [
         "config/site.ts",
         94
+      ]
+    ]
+  },
+  "I1Vwuf": {
+    "translation": "댄디의 세계 드로우 생성기 팁",
+    "message": "Tips Of Dandys World Draw Generator",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        183
       ]
     ]
   },
@@ -3742,39 +1496,6 @@
       ]
     ]
   },
-  "sHKGIZ": {
-    "translation": "패스 오브 엑자일 2 기술 계획자를 사용하여 효과적인 빌드를 만들려면, 적절한 지원 젬과 시너지를 이루는 능동 기술을 결합하고, 버프 및 방어를 위한 유틸리티 기술을 통합하며, 패시브 기술 나무 선택이 선택한 기술을 보완하도록 하십시오. 캐릭터의 주요 속성과 원하는 플레이 스타일을 고려하세요.",
-    "message": "To create an effective build using the PoE2 Skills Planner, combine synergistic active skills with appropriate support gems, integrate utility skills for buffs and defense, and ensure your passive skill tree choices complement your selected skills. Consider your character's primary attributes and desired playstyle when planning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        885
-      ]
-    ]
-  },
-  "QYfZIH": {
-    "translation": "Android에서 Jujutsu Kaisen Phantom Parade를 다운로드하려면 구글 플레이 스토어에 접속하여 '주술회전 팬텀 퍼레이드'를 검색한 후 설치 버튼을 누르면 됩니다. 기기가 Android 8.0 이상을 지원해야 합니다.",
-    "message": "To download Jujutsu Kaisen Phantom Parade on Android, visit the Google Play Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the install button. Make sure your device runs Android 8.0 or later.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        213
-      ]
-    ]
-  },
-  "2wkkZE": {
-    "translation": "iOS에서 Jujutsu Kaisen Phantom Parade를 다운로드하려면 애플 앱스토어에 접속하여 '주술회전 팬텀 퍼레이드'를 검색한 후 다운로드 버튼을 누르면 됩니다. 기기가 iOS 12.0 이상을 지원해야 합니다.",
-    "message": "To download Jujutsu Kaisen Phantom Parade on iOS, visit the Apple App Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the download button. Ensure your device meets the compatibility requirements (iOS 12.0 or later).",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        209
-      ]
-    ]
-  },
   "gN00PD": {
     "translation": "서비스를 제공하기 위해;",
     "message": "To facilitate our Service;",
@@ -3783,28 +1504,6 @@
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
         27
-      ]
-    ]
-  },
-  "lzF3W8": {
-    "translation": "강인한 기술 빌드를 최적화하려면: 스케일링 메커니즘을 공유하는 보조적인 빨간 젬을 선택하고, 관련된 패시브 트리 노드에 투자하고, 적절한 지원 젬을 사용하며, 장비가 물리적 피해와 생존력을 향상시키도록 해야 합니다. 강인함 기반 능력과 선택한 방어 전략 간의 시너지를 집중하세요.",
-    "message": "To optimize a Strength Skills build: Choose complementary red gems that share scaling mechanisms, invest in relevant passive tree nodes, use appropriate support gems, and ensure your gear enhances physical damage and survivability. Focus on synergies between Strength-based abilities and your chosen defensive strategy.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        405
-      ]
-    ]
-  },
-  "lNAN+A": {
-    "translation": "엔드게임 콘텐츠를 위한 지능 기술을 최적화하려면, 플레이어는 보조적인 기술과 적절한 지원 젬의 조합에 집중해야 합니다. 예를 들어, 피해 출력을 증가시키기 위해 파이어볼과 주문 에코를 짝지으며, 생존을 위한 방어 기술로 얼음 장벽을 사용하고, 군중 제어를 위한 유틸리티 기술로 일시적 사슬을 통합하세요.",
-    "message": "To optimize Intelligence skills for endgame content, players should focus on combining complementary skills with appropriate support gems. For example, pairing Fireball with Spell Echo for increased damage output, using defensive skills like Ice Barrier for survival, and incorporating utility skills like Temporal Chains for crowd control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        522
       ]
     ]
   },
@@ -3830,14 +1529,14 @@
       ]
     ]
   },
-  "8sKmE2": {
-    "translation": "법사에게 적합한 최고의 파란색 기술 젬은 AoE 피해를 위한 파이어볼, 연쇄 번개 효과를 위한 아크, 군중 제어를 위한 프로스트볼트입니다. 이러한 지능 기반 젬은 패스 오브 엑자일 2의 주문 시전 빌드에 필수적인 강력한 마법 능력을 제공합니다.",
-    "message": "Top Blue Skill Gems for spellcasters include Fireball for area damage, Arc for chain lightning effects, and Frostbolt for crowd control. These Intelligence-based gems provide powerful magical abilities essential for spellcasting builds in PoE2.",
+  "ucHvJP": {
+    "translation": "삼각형",
+    "message": "Triangle",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        593
+        "components/DrawingBoard.tsx",
+        26
       ]
     ]
   },
@@ -3885,28 +1584,6 @@
       ]
     ]
   },
-  "Tctkpv": {
-    "translation": "패스 오브 엑자일 2 기술 계획자를 사용하여 아크 또는 파이어볼을 치명타 지원 젬과 결합하세요. 법사에겐 적의 저항을 낮추는 파동 능력 같은 기술과 치명타 확률을 높이는 증대된 치명타와 같은 지원 젬을 사용하세요.",
-    "message": "Using the Path of Exile 2 Skills Planner, combine skills like Arc or Fireball with Critical Strike support gems. For spellcasters, skills like Wave of Conviction can lower enemy resistances, while support gems like Increased Critical Strikes enhance your critical hit chances.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        901
-      ]
-    ]
-  },
-  "2t3ERA": {
-    "translation": "패스 오브 엑자일 2 기술 계획자를 사용하여 그레이스 또는 활력과 같은 오라, 지원 기술인 랠리 크라이, 그리고 방어 능력인 얼음 방패를 결합하여 팀 플레이를 최적화할 수 있습니다. 이러한 조합은 그룹의 생존성과 피해 출력을 향상시킵니다.",
-    "message": "Using the PoE2 Skills Planner, you can optimize team play by combining auras like Grace or Vitality, support skills like Rallying Cry, and defensive abilities like Frost Shield. These combinations enhance group survivability and damage output.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        909
-      ]
-    ]
-  },
   "qNd2+R": {
     "translation": "다양한 예술 스타일",
     "message": "Versatile Art Styles",
@@ -3915,28 +1592,6 @@
       [
         "config/site.ts",
         108
-      ]
-    ]
-  },
-  "YAdzdY": {
-    "translation": "다재다능한 주문 시전",
-    "message": "Versatile Spellcasting",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        482
-      ]
-    ]
-  },
-  "fwjhig": {
-    "translation": "다재다능한 지원 젬 시스템",
-    "message": "Versatile Support Gem System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        685
       ]
     ]
   },
@@ -3984,330 +1639,36 @@
       ]
     ]
   },
-  "+g53YR": {
-    "translation": "패스 오브 엑자일 2에서 지능 기술이란 무엇입니까?",
-    "message": "What are Intelligence Skills in Path of Exile 2?",
+  "vaIm0/": {
+    "translation": "댄디의 세계 드로우 생성기에서 사용할 수 있는 드로잉 도구는 무엇인가요?",
+    "message": "What drawing tools are available in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        505
+        249
       ]
     ]
   },
-  "SgcLUN": {
-    "translation": "패스 오브 엑자일 2에서 메타 젬이란 무엇입니까?",
-    "message": "What are meta gems in Path of Exile 2?",
+  "LINzV2": {
+    "translation": "댄디의 세계 드로우 생성기가 제공하는 기능은 무엇인가요?",
+    "message": "What features does Dandys World Draw Generator offer?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        815
+        225
       ]
     ]
   },
-  "iIb9EN": {
-    "translation": "패스 오브 엑자일 2에서 메타 젬이란 무엇입니까?",
-    "message": "What are Meta Gems in Path of Exile 2?",
+  "0VKI0R": {
+    "translation": "댄디의 세계 드로우 생성기를 사용 중에 실수를 하면 어떻게 하나요?",
+    "message": "What if I make a mistake while using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        663
-      ]
-    ]
-  },
-  "yUQN2E": {
-    "translation": "패스 오브 엑자일 2에서 메타 젬이란 무엇입니까?",
-    "message": "What are Meta Gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        604
-      ]
-    ]
-  },
-  "vodn3f": {
-    "translation": "패스 오브 엑자일 2에서 지원 젬이란 무엇입니까?",
-    "message": "What are Support Gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        718
-      ]
-    ]
-  },
-  "8yXSHr": {
-    "translation": "서로 다른 색상의 기술 젬을 조합할 때의 이점은 무엇입니까?",
-    "message": "What are the benefits of combining different colored Skill Gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        671
-      ]
-    ]
-  },
-  "JUd0hO": {
-    "translation": "패스 오브 엑자일 2에서 최고의 방어 기술 조합은 무엇입니까?",
-    "message": "What are the best defensive skill combinations in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        896
-      ]
-    ]
-  },
-  "c6yy8+": {
-    "translation": "패스 오브 엑자일 2에서 최고의 방어 기술은 무엇입니까?",
-    "message": "What are the best defensive skills in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        823
-      ]
-    ]
-  },
-  "paFODa": {
-    "translation": "패스 오브 엑자일 2에서 초보자를 위한 최고의 민첩성 기술은 무엇입니까?",
-    "message": "What are the best Dexterity skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        459
-      ]
-    ]
-  },
-  "Ttp4+Y": {
-    "translation": "패스 오브 엑자일 2에서 보스 전투를 위한 최고의 민첩성 기술은 무엇입니까?",
-    "message": "What are the best Dexterity skills for boss fights in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        467
-      ]
-    ]
-  },
-  "koymT5": {
-    "translation": "패스 오브 엑자일 2에서 초보자를 위한 최고의 지능 기술은 무엇입니까?",
-    "message": "What are the best Intelligence skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        517
-      ]
-    ]
-  },
-  "CvL4R+": {
-    "translation": "다양한 캐릭터 유형을 위한 최고의 이동 기술은 무엇입니까?",
-    "message": "What are the best movement skills for different character types?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        904
-      ]
-    ]
-  },
-  "lfZF2Z": {
-    "translation": "초보자를 위한 최고의 빨간색 기술 젬은 무엇입니까?",
-    "message": "What are the best Red Skill Gems for beginners?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        584
-      ]
-    ]
-  },
-  "ocN0f+": {
-    "translation": "패스 오브 엑자일 2에서 초보자를 위한 최고의 기술 조합은 무엇입니까?",
-    "message": "What are the best skill combinations for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        888
-      ]
-    ]
-  },
-  "QkJbEe": {
-    "translation": "패스 오브 엑자일 2에서 초보자를 위한 최고의 기술 조합은 무엇입니까?",
-    "message": "What are the best skill combinations for beginners in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        807
-      ]
-    ]
-  },
-  "Soewil": {
-    "translation": "패스 오브 엑자일 2에서 초보자를 위한 최고의 기술 젬은 무엇입니까?",
-    "message": "What are the best Skill Gems for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        655
-      ]
-    ]
-  },
-  "Q6oJnt": {
-    "translation": "패스 오브 엑자일 2에서 초보자를 위한 최고의 강인함 기술은 무엇입니까?",
-    "message": "What are the best Strength Skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        384
-      ]
-    ]
-  },
-  "4NP9YF": {
-    "translation": "패스 오브 엑자일 2에서 보스 전투를 위한 최고의 강인함 기술은 무엇입니까?",
-    "message": "What are the best Strength Skills for boss fights in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        400
-      ]
-    ]
-  },
-  "NFMUoc": {
-    "translation": "초보자를 위한 최고의 지원 젬 조합은 무엇입니까?",
-    "message": "What are the best Support Gems combinations for beginners?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        726
-      ]
-    ]
-  },
-  "QOft4q": {
-    "translation": "패스 오브 엑자일 2에서 주요 방어 지능 기술은 무엇입니까?",
-    "message": "What are the key defensive Intelligence skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        525
-      ]
-    ]
-  },
-  "nof9TG": {
-    "translation": "Jujutsu Kaisen Phantom Parade의 주요 특징은 무엇입니까?",
-    "message": "What are the key features of Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        196
-      ]
-    ]
-  },
-  "XGVhle": {
-    "translation": "패스 오브 엑자일 2에서 강인함 기술을 위한 주요 지원 젬은 무엇입니까?",
-    "message": "What are the key support gems for Strength Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        392
-      ]
-    ]
-  },
-  "ZYPue3": {
-    "translation": "패스 오브 엑자일 2에서 민첩성 기술의 주요 특징은 무엇입니까?",
-    "message": "What are the main characteristics of Dexterity Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        447
-      ]
-    ]
-  },
-  "/mEwQk": {
-    "translation": "패스 오브 엑자일 2에서 힘 기술의 주요 특성은 무엇입니까?",
-    "message": "What are the main characteristics of Strength Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        376
-      ]
-    ]
-  },
-  "JxO5Zc": {
-    "translation": "POE2에서 사용할 수 있는 주요 지능 기술의 유형은 무엇입니까?",
-    "message": "What are the main types of Intelligence skills available in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        509
-      ]
-    ]
-  },
-  "d4owts": {
-    "translation": "패스 오브 엑자일 2에서 주요 기술 보석의 유형은 무엇입니까?",
-    "message": "What are the main types of skill gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        799
-      ],
-      [
-        "config/site.ts",
-        880
-      ]
-    ]
-  },
-  "YE3fcf": {
-    "translation": "패스 오브 엑자일 2에서 주요 기술 보석의 유형은 무엇입니까?",
-    "message": "What are the main types of Skill Gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        576
-      ],
-      [
-        "config/site.ts",
-        647
-      ]
-    ]
-  },
-  "1hode8": {
-    "translation": "마법사에게 가장 강력한 파란색 기술 보석은 무엇입니까?",
-    "message": "What are the most powerful Blue Skill Gems for spellcasters?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        592
-      ]
-    ]
-  },
-  "AJVe8z": {
-    "translation": "Jujutsu Kaisen Phantom Parade의 시스템 요구사항은 무엇입니까?",
-    "message": "What are the system requirements for Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        192
+        245
       ]
     ]
   },
@@ -4322,80 +1683,14 @@
       ]
     ]
   },
-  "K3QPzq": {
-    "translation": "Jujutsu Kaisen Phantom Parade는 무엇이며 어디에서 다운로드할 수 있습니까?",
-    "message": "What is Jujutsu Kaisen Phantom Parade and where can I download it?",
+  "RcV4eE": {
+    "translation": "댄디의 세계 드로우 생성기란 무엇인가요?",
+    "message": "What is Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        184
-      ]
-    ]
-  },
-  "4WuGIw": {
-    "translation": "지능 기술은 그룹 콘텐츠에서 어떤 역할을 합니까?",
-    "message": "What role do Intelligence skills play in group content?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        533
-      ]
-    ]
-  },
-  "EmMzNd": {
-    "translation": "지원 보석은 그룹 게임플레이에서 어떤 역할을 합니까?",
-    "message": "What role do Support Gems play in group gameplay?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        742
-      ]
-    ]
-  },
-  "OWhEDw": {
-    "translation": "Jujutsu Kaisen Phantom Parade 플레이 중 언어 장벽을 겪을 경우 어떻게 해야 합니까?",
-    "message": "What should I do if I encounter a language barrier while playing Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        216
-      ]
-    ]
-  },
-  "ynLL9q": {
-    "translation": "Jujutsu Kaisen Phantom Parade는 언제 공식 출시되었습니까?",
-    "message": "When was Jujutsu Kaisen Phantom Parade officially released?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        188
-      ]
-    ]
-  },
-  "CQWnGL": {
-    "translation": "POE2에서 가장 인기 있는 민첩성 기술 조합은 무엇입니까?",
-    "message": "Which are the most popular Dexterity skill combinations in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        451
-      ]
-    ]
-  },
-  "IDXfv8": {
-    "translation": "원거리 전투에 가장 효과적인 녹색 기술 보석은 무엇입니까?",
-    "message": "Which Green Skill Gems are most effective for ranged combat?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        588
+        221
       ]
     ]
   },
@@ -4421,6 +1716,17 @@
       ]
     ]
   },
+  "2qovGt": {
+    "translation": "댄디의 세계 드로우 생성기를 사용하면, 완료된 작품을 PNG 또는 JPG 형식으로 쉽게 저장할 수 있습니다. 드로잉이 완료되면 저장 버튼을 클릭하여 원하는 파일 형식으로 내보내기만 하면 됩니다.",
+    "message": "With Dandys World Draw Generator, you can easily save your completed artwork in either PNG or JPG format. Simply click the save button when you're finished with your drawing to export it to your preferred file format.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        230
+      ]
+    ]
+  },
   "ekD2sN": {
     "translation": "네, 댄디의 세계 튜토리얼은 초급, 중급 및 고급 수준으로 분류되어 있습니다. 각 수준은 이전 기술을 기반으로 구축되어 기본 캐릭터 스케치에서 복잡한 일러스트레이션으로, 적절한 음영, 색칠 및 역동적인 포즈를 통해 발전할 수 있도록 돕습니다.",
     "message": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
@@ -4432,36 +1738,25 @@
       ]
     ]
   },
-  "L63PDE": {
-    "translation": "예, Jujutsu Kaisen Phantom Parade에는 원작 애니메이션의 출연진이 전부 목소리 출연하여 몰입감 있는 스토리텔링 경험을 제공합니다.",
-    "message": "Yes, Jujutsu Kaisen Phantom Parade features full voice acting from the original anime cast, enhancing the immersive storytelling experience.",
+  "bKWgv/": {
+    "translation": "예, 댄디의 세계 드로우 생성기에는 잎, 꽃 및 꽃잎과 같은 자연 요소를 생성하기 위해 특별히 설계된 미리 설정된 형태가 포함되어 있습니다. 이 도구는 당신의 작품에 아름다운 환경 세부 사항을 추가하는 데 매우 편리합니다.",
+    "message": "Yes, Dandys World Draw Generator includes preset shapes specifically designed for creating nature elements such as leaves, flowers, and petals. These tools make it easy to add beautiful environmental details to your artwork.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        221
+        242
       ]
     ]
   },
-  "038m1W": {
-    "translation": "예, Jujutsu Kaisen Phantom Parade는 무료로 플레이할 수 있습니다. 다만 캐릭터 강화, 특별 아이템 구매 등을 위한 인앱 결제 기능이 있습니다.",
-    "message": "Yes, Jujutsu Kaisen Phantom Parade is free to play. However, it includes in-app purchases for character upgrades, special items, and other enhancements.",
+  "GkrAHh": {
+    "translation": "네! Dandys World Draw Generator는 손, 발, 눈, 코와 같은 다양한 기본 신체 부위를 포함하여 독특한 캐릭터를 쉽게 만들 수 있는 포괄적인 세트를 제공합니다. 다양한 형태와 색상과 결합하여 캐릭터 디자인을 생동감 있게 표현할 수 있습니다.",
+    "message": "Yes! Dandys World Draw Generator includes a comprehensive set of preset body parts like hands, feet, eyes, and nose, making it easy to create unique characters. Combined with various shapes and colors, you can bring your character designs to life.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        201
-      ]
-    ]
-  },
-  "V4swDT": {
-    "translation": "네, 패스 오브 엑자일 2의 보석 시스템은 플레이어가 고유한 빌드를 위해 다양한 유형의 기술 보석과 지원 보석을 결합할 수 있도록 합니다. 예를 들어, 캐릭터가 각 보석의 속성 요구 사항을 충족하는 한 빨간색, 녹색 및 파란색 보석을 혼합할 수 있습니다.",
-    "message": "Yes, Path of Exile 2's gem system allows players to combine different types of Skill Gems and Support Gems for unique builds. For example, you can mix Red, Green, and Blue gems as long as your character meets the attribute requirements for each gem.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        601
+        234
       ]
     ]
   },

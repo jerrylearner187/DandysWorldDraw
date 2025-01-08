@@ -46,10 +46,5 @@ export default async function Page({
 }) {
   console.log('home page', params);
   await activateLocale(params?.lang || AVAILABLE_LOCALES.en)
-  // 编译期间获取blog数据，避免运行时去调用getBlogPosts方法，导致无法读取blogs目录下的文件
-  // let blogs = getBlogPosts().filter((post) => post.lang===params?.lang)
-  // 最新的5篇博客
-  // blogs.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
-  // const newBlogs = blogs.slice(0, 5)
   return <Home params={params} />
 }

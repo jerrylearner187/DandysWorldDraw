@@ -1,42 +1,34 @@
 [
   {
-    "question": msg`What is Dandy's World Draw and who is it for?`,
-    "answer": msg`Dandy's World Draw is a comprehensive drawing platform designed for both beginners and experienced artists who want to learn how to draw Dandy's World characters. It offers step-by-step tutorials, resources, and community support for anyone interested in mastering character illustration.`
+    "question": msg`What is Dandys World Draw Generator?`,
+    "answer": msg`Dandys World Draw Generator is an intuitive drawing tool that allows users to create characters and artwork using preset shapes, customizable colors, and various drawing elements. It's designed to make character creation accessible for artists of all skill levels.`
   },
   {
-    "question": msg`Do I need special equipment to start drawing Dandy's World characters?`,
-    "answer": msg`To begin drawing Dandy's World characters, you only need basic art supplies like pencils, paper, and erasers. For digital art, a drawing tablet and software like Procreate or Photoshop are recommended but not required. We provide tutorials for both traditional and digital mediums.`
+    "question": msg`What features does Dandys World Draw Generator offer?`,
+    "answer": msg`Dandys World Draw Generator provides multiple features including 12 different color options, adjustable brush sizes, preset shapes (circles, squares, triangles, ellipses), character body parts, and nature elements. You can also clear your canvas and save your artwork in PNG or JPG format.`
   },
   {
-    "question": msg`How long does it take to learn drawing Dandy's World characters?`,
-    "answer": msg`Learning to draw Dandy's World characters varies by individual. Most beginners can create recognizable characters within 2-4 weeks of regular practice. Our structured tutorials break down complex characters into simple steps, making the learning process more manageable.`
+    "question": msg`How do I save my artwork in Dandys World Draw Generator?`,
+    "answer": msg`With Dandys World Draw Generator, you can easily save your completed artwork in either PNG or JPG format. Simply click the save button when you're finished with your drawing to export it to your preferred file format.`
   },
   {
-    "question": msg`Can I share my Dandy's World artwork online?`,
-    "answer": msg`Yes! We encourage sharing your Dandy's World artwork within our community. You can post your drawings on our platform, receive feedback from other artists, and participate in weekly challenges. Just remember to follow our community guidelines and credit Dandy's World appropriately.`
+    "question": msg`Can I create characters using Dandys World Draw Generator?`,
+    "answer": msg`Yes! Dandys World Draw Generator includes a comprehensive set of preset body parts like hands, feet, eyes, and nose, making it easy to create unique characters. Combined with various shapes and colors, you can bring your character designs to life.`
   },
   {
-    "question": msg`Are there different difficulty levels in Dandy's World tutorials?`,
-    "answer": msg`Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.`
+    "question": msg`Is Dandys World Draw Generator suitable for beginners?`,
+    "answer": msg`Absolutely! Dandys World Draw Generator is designed to be user-friendly for artists of all skill levels. With preset shapes, easy-to-use tools, and intuitive controls, beginners can start creating artwork immediately.`
   },
   {
-    "question": msg`How often are new Dandy's World drawing tutorials added?`,
-    "answer": msg`New Dandy's World tutorials are added weekly, including character guides, technique demonstrations, and special themed lessons. We regularly update our content based on community feedback and introduce tutorials for new characters as they appear.`
+    "question": msg`Can I draw nature elements using Dandys World Draw Generator?`,
+    "answer": msg`Yes, Dandys World Draw Generator includes preset shapes specifically designed for creating nature elements such as leaves, flowers, and petals. These tools make it easy to add beautiful environmental details to your artwork.`
   },
   {
-    "question": msg`Is there support available if I get stuck while drawing?`,
-    "answer": msg`Absolutely! The Dandy's World community offers multiple support options: detailed step-by-step guides, video tutorials, community forums, and feedback from experienced artists. You can also join our weekly live drawing sessions for real-time guidance.`
+    "question": msg`What if I make a mistake while using Dandys World Draw Generator?`,
+    "answer": msg`Don't worry! Dandys World Draw Generator features a canvas clear function that allows you to start fresh whenever needed. This makes it perfect for experimenting and practicing your drawing skills.`
   },
   {
-    "question": msg`Can I use Dandy's World drawings for commercial purposes?`,
-    "answer": msg`While Dandy's World characters are protected by copyright, we offer guidelines for fan art creation. Personal and educational use is encouraged, but commercial use requires proper licensing. Contact our licensing team for commercial inquiries.`
-  },
-  {
-    "question": msg`Are there any drawing challenges or events in Dandy's World?`,
-    "answer": msg`Yes! We host regular Dandy's World drawing challenges, monthly contests, and special events. These include character-of-the-month challenges, seasonal themed contests, and community art jams. Winners often receive recognition and special features on our platform.`
-  },
-  {
-    "question": msg`How can I track my progress in drawing Dandy's World characters?`,
-    "answer": msg`Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.`
+    "question": msg`What drawing tools are available in Dandys World Draw Generator?`,
+    "answer": msg`Dandys World Draw Generator offers a variety of drawing tools including adjustable brush sizes, 12 different colors, preset geometric shapes, character body parts, and nature elements. These tools provide everything you need to create detailed artwork.`
   }
 ]

@@ -209,9 +209,9 @@ export default function Nav({ items, locale }: NavbarProps) {
                       ))}
                     </DropdownMenu>
                   </Dropdown>
-              ) :  (<NavbarItem key={it.title.id} isActive={activeSection == it.tag}>
+              ) :  (<NavbarItem key={it.title.id} isActive={isActive(it.href)}>
                 <NextLink
-                className={clsx('transition-colors', { 'hover:text-primary': activeSection == it.tag })}
+                className={clsx('transition-colors', { 'hover:text-primary': isActive(it.href) })}
                 title={i18n._(it.title)}
                 href={locale ? `/${locale}${it.href}` : it.href}>{i18n._(it.title)}</NextLink></NavbarItem>)
           ))
@@ -264,7 +264,7 @@ export default function Nav({ items, locale }: NavbarProps) {
               ) : (
               <NavbarMenuItem key={`${it.title.id}-${index}`}>
                 <NextLink
-                  className={clsx('text-gray-700 transition-colors', { 'hover:text-primary': activeSection == it.tag })}
+                  className={clsx('text-gray-700 transition-colors', { 'hover:text-primary': isActive(it.href) })}
                   title={i18n._(it.title)}
                   href={locale ? `/${locale}${it.href}` : it.href}>
                   {i18n._(it.title)}

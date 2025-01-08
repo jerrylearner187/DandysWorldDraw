@@ -153,168 +153,14 @@
       ]
     ]
   },
-  "h++ayx": {
-    "translation": "Уверенная и способная колдунья, известная своей сильной личностью и боевыми навыками.",
-    "message": "A confident and capable sorcerer, she is known for her strong personality and combat skills.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        298
-      ]
-    ]
-  },
-  "IzYS7Z": {
-    "translation": "Уверенный и свирепый кодзютцу-колдун, использующий проклятые орудия в бою.",
-    "message": "A confident and fierce Jujutsu Sorcerer who uses cursed tools in battle.",
+  "EXY/2d": {
+    "translation": "Абсолютно! Генератор рисования Dandys World разработан, чтобы быть удобным для пользователей с любым уровнем навыков. С предустановленными формами, простыми в использовании инструментами и интуитивно понятными элементами управления, новички могут сразу начать создавать произведения искусства.",
+    "message": "Absolutely! Dandys World Draw Generator is designed to be user-friendly for artists of all skill levels. With preset shapes, easy-to-use tools, and intuitive controls, beginners can start creating artwork immediately.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
         238
-      ]
-    ]
-  },
-  "9U3l20": {
-    "translation": "Преданная колдунья, ответственная в своих обязанностях, часто оказывающаяся в сложных ситуациях, но стремящаяся доказать себя.",
-    "message": "A dedicated sorcerer who is earnest in her duties, she often finds herself in challenging situations but strives to prove herself.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        288
-      ]
-    ]
-  },
-  "/mWTuu": {
-    "translation": "Студентка первого курса токийской высшей школы кодзютцу в Фукуоке, известная своим уникальным боевым стилем.",
-    "message": "A first-year student at the Fukuoka campus of Tokyo Jujutsu High, known for her unique combat style.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        253
-      ]
-    ]
-  },
-  "OKBeaG": {
-    "translation": "Студентка первого курса токийской высшей школы кодзютцу, ставшая вместилищем Рёмэн Сукуны после поглощения одного из его пальцев.",
-    "message": "A first-year student at Tokyo Jujutsu High who becomes the vessel for Ryomen Sukuna after ingesting one of his fingers.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        228
-      ]
-    ]
-  },
-  "RdVUza": {
-    "translation": "Бывший сотрудник офиса, ставший колдуном, Нанами прагматичен и высококвалифицирован, используя свою «Техника Отношения» для нанесения значительного ущерба в битвах.",
-    "message": "A former salaryman turned sorcerer, Nanami is pragmatic and highly skilled, using his \"Ratio Technique\" to deal significant damage in battles.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        293
-      ]
-    ]
-  },
-  "pdCaP+": {
-    "translation": "Член семьи Камо, обладающий уникальной проклятой техникой, позволяющей ему манипулировать кровью.",
-    "message": "A member of the Kamo family, he possesses a unique cursed technique that allows him to manipulate blood.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        283
-      ]
-    ]
-  },
-  "bq9uHR": {
-    "translation": "Мощная механическая сущность, сочетающая технологии с проклятой энергией, предлагающая уникальные стратегии в битве.",
-    "message": "A powerful mechanical entity that combines technology with cursed energy, offering unique strategies in battle.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        313
-      ]
-    ]
-  },
-  "O+2B9p": {
-    "translation": "Могущественная колдунья из семьи Зенин, превосходящая в физическом бою и проклятых техниках.",
-    "message": "A powerful sorcerer from the Zenin family, she excels in physical combat and cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        243
-      ]
-    ]
-  },
-  "4TFm7i": {
-    "translation": "Надежный помощник Сатору Годзё, известный своей поддерживающей ролью в сообществе кодзютцу и стратегическим мышлением.",
-    "message": "A reliable aide to Satoru Gojo, known for his supportive role in the Jujutsu community and his strategic thinking.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        273
-      ]
-    ]
-  },
-  "fV22B7": {
-    "translation": "Опытный врач и колдунья, специализирующаяся на техниках обратного проклятия, позволяющих ей исцелять других.",
-    "message": "A skilled doctor and sorcerer who specializes in reverse curse techniques, allowing her to heal others.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        268
-      ]
-    ]
-  },
-  "aalQ7o": {
-    "translation": "Талантливый колдун второго ранга кодзютцу, известный своими уникальными теневыми техниками.",
-    "message": "A talented Grade 2 Jujutsu Sorcerer known for his unique shadow techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        233
-      ]
-    ]
-  },
-  "T+EgFA": {
-    "translation": "Уникальной особенностью навыков Интеллекта является способность призывать и контролировать миньонов. Навыки, такие как Призыв Скелетов, предоставляют дополнительную боевую поддержку, создавая защитные отвлекающие маневры, что делает сборки Интеллекта особенно эффективными в управлении контролем на поле боя.",
-    "message": "A unique aspect of Intelligence skills is the ability to summon and control minions. Skills like Summon Skeletons provide additional combat support while creating defensive distractions, making Intelligence builds particularly effective at managing battlefield control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        488
-      ]
-    ]
-  },
-  "0R/rnX": {
-    "translation": "Уникальный персонаж, созданный с помощью проклятых техник, Панда имеет игривый нрав, но является грозным бойцом с множественными формами.",
-    "message": "A unique character created through cursed techniques, Panda has a playful demeanor but is a formidable fighter with multiple forms.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        303
-      ]
-    ]
-  },
-  "uyJsf6": {
-    "translation": "О проекте",
-    "message": "About",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        25
       ]
     ]
   },
@@ -329,6 +175,17 @@
       ]
     ]
   },
+  "iNiXuw": {
+    "translation": "Получите доступ к разнообразным предустановленным формам в Генераторе рисования Dandys World, включая круги, квадраты, треугольники и эллипсы, чтобы быстро создать основную структуру вашего персонажа.",
+    "message": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        194
+      ]
+    ]
+  },
   "UEU44n": {
     "translation": "Получите доступ к широкому спектру ресурсов для рисования Dandy's World, включая руководства по персонажам, цветовые палитры и таблицы пропорций. Идеально для сохранения аутентичности в вашем искусстве.",
     "message": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
@@ -337,17 +194,6 @@
       [
         "config/site.ts",
         119
-      ]
-    ]
-  },
-  "9hvc9M": {
-    "translation": "Получите доступ к полным руководствам для новых игроков в 패스 오브 엑자일 2. Наш планировщик включает в себя рекомендуемые комбинации навыков, стратегии повышения уровней и предложения по сборкам, чтобы помочь новичкам добиться успеха.",
-    "message": "Access comprehensive guides for new players in Path of Exile 2. Our planner includes recommended skill combinations, leveling strategies, and build suggestions to help beginners succeed.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        863
       ]
     ]
   },
@@ -370,39 +216,6 @@
       [
         "config/site.ts",
         73
-      ]
-    ]
-  },
-  "cUSavi": {
-    "translation": "Оригинальный Особый класс проклятого духа, представленный в игре, с уникальной способностью нейтрализовывать другие проклятые техники.",
-    "message": "An original Special Grade Cursed Spirit introduced in the game, with a unique ability to nullify other cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        263
-      ]
-    ]
-  },
-  "fYJg3B": {
-    "translation": "Анализируйте защитные возможности с помощью нашего Планировщика Навыков PoE2. Рассчитайте эффективные запасы здоровья, оцените комбинации защитных навыков и спланируйте выживаемость вашего персонажа, используя различные установки гемов.",
-    "message": "Analyze defensive capabilities with our PoE2 Skills Planner. Calculate effective health pools, evaluate defensive skill combinations, and plan your character's survivability using various skill gem setups.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        848
-      ]
-    ]
-  },
-  "qHLB5X": {
-    "translation": "Другой студент первого курса кампуса в Фукуоке, обладающий связанными с барьерами проклятыми техниками.",
-    "message": "Another first-year from the Fukuoka campus, he possesses barrier-related cursed techniques.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        258
       ]
     ]
   },
@@ -439,61 +252,6 @@
       ]
     ]
   },
-  "O05cq/": {
-    "translation": "Контроль территории",
-    "message": "Area Control",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        343
-      ]
-    ]
-  },
-  "sPu965": {
-    "translation": "Скорость атаки и критические удары",
-    "message": "Attack Speed & Critical Strikes",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        852
-      ]
-    ]
-  },
-  "w7JxcK": {
-    "translation": "Увеличение скорости атаки",
-    "message": "Attack Speed Enhancement",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        419
-      ]
-    ]
-  },
-  "PNdsa0": {
-    "translation": "Требования к атрибутам",
-    "message": "Attribute Requirements",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        705
-      ]
-    ]
-  },
-  "4i/H8S": {
-    "translation": "Доступные навыки",
-    "message": "Available Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        154
-      ]
-    ]
-  },
   "0BQ0oZ": {
     "translation": "Начните с разбивки персонажей Dandy's World на основные формы. Большинство персонажей начинаются с простых геометрических фигур - круги для головы Роджера, прямоугольники для структуры тела. Практикуйте эти базовые формы, прежде чем добавлять детали.",
     "message": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
@@ -502,17 +260,6 @@
       [
         "config/site.ts",
         46
-      ]
-    ]
-  },
-  "vyTf0S": {
-    "translation": "Руководства для новичков",
-    "message": "Beginner-Friendly Guides",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        862
       ]
     ]
   },
@@ -527,61 +274,6 @@
       ]
     ]
   },
-  "0y1Z1Z": {
-    "translation": "Синие камни (Интеллект)",
-    "message": "Blue Gems (Intelligence)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        563
-      ]
-    ]
-  },
-  "hBkuTE": {
-    "translation": "Синие камни умений (Интеллект)",
-    "message": "Blue Skill Gems (Intelligence)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        766
-      ]
-    ]
-  },
-  "ScaRFk": {
-    "translation": "Синие камни умений специализируются на заклинаниях и элементальном уроне. Включает мощные заклинания, такие как Огненный шар, Ледяной болт и Дуга, идеально подходящие для сборок магов в 패스 오브 엑자일 2. Также включает призыв миньонов и полезные заклинания.",
-    "message": "Blue Skill Gems specialize in spellcasting and elemental damage. Features powerful spells like Fireball, Frostbolt, and Arc, perfect for mage builds in Path of Exile 2. Also includes minion summoning and utility spells.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        564
-      ]
-    ]
-  },
-  "FPAKH+": {
-    "translation": "Оптимизация сборки",
-    "message": "Build Optimization",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        842
-      ]
-    ]
-  },
-  "p536Zb": {
-    "translation": "Универсальность сборок",
-    "message": "Build Versatility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        634
-      ]
-    ]
-  },
   "yZ2PlW": {
     "translation": "Используя #0#, вы выражаете свое согласие с настоящими Условиями предоставления услуг.",
     "message": "By using #0#, you signify your acceptance of these Terms of Service.",
@@ -593,14 +285,25 @@
       ]
     ]
   },
-  "6j7vqA": {
-    "translation": "Могут ли разные типы камней умений сочетаться в 패스 오브 엑자일 2?",
-    "message": "Can different types of Skill Gems be combined in Path of Exile 2?",
+  "L7dq+T": {
+    "translation": "Могу ли я создать персонажей с помощью Генератора рисования Dandys World?",
+    "message": "Can I create characters using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        600
+        233
+      ]
+    ]
+  },
+  "PvR3qf": {
+    "translation": "Могу ли я рисовать природные элементы с помощью Генератора рисования Dandys World?",
+    "message": "Can I draw nature elements using Dandys World Draw Generator?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        241
       ]
     ]
   },
@@ -626,14 +329,36 @@
       ]
     ]
   },
-  "i/HCFv": {
-    "translation": "Можно ли использоватьSupport Gems с любым камнем умений?",
-    "message": "Can Support Gems be used with any skill gem?",
+  "f6bi7N": {
+    "translation": "Коллекция частей персонажа",
+    "message": "Character Parts Collection",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        734
+        198
+      ]
+    ]
+  },
+  "7xMmki": {
+    "translation": "Круг",
+    "message": "Circle",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        24
+      ]
+    ]
+  },
+  "z65MvS": {
+    "translation": "Очистить холст",
+    "message": "Clear Canvas",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        504
       ]
     ]
   },
@@ -659,43 +384,6 @@
       ]
     ]
   },
-  "CfQHuH": {
-    "translation": "Механика боя",
-    "message": "Combat Mechanics",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        619
-      ],
-      [
-        "config/site.ts",
-        781
-      ]
-    ]
-  },
-  "atHs5t": {
-    "translation": "Универсальность боя",
-    "message": "Combat Versatility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        353
-      ]
-    ]
-  },
-  "8YivsP": {
-    "translation": "Сочетание различных цветных камней навыков в 패스 오브 엑자일 2 позволяет создавать универсальные сборки персонажей. Например, смешивание зеленых и синих камней навыков может создать гибридные сборки, которые используют как дистанционные атаки, так и заклинания, в то время как комбинация красных и зеленых камней может привести к мощным melee-сборкам с улучшенной мобильностью и защитными возможностями.",
-    "message": "Combining different colored Skill Gems in Path of Exile 2 allows for versatile character builds. For example, mixing Green and Blue Skill Gems can create hybrid builds that utilize both ranged attacks and spells, while combining Red and Green gems can result in powerful melee builds with enhanced mobility and defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        672
-      ]
-    ]
-  },
   "b+LYK6": {
     "translation": "Завершите ваш рисунок Dandy's World, добавив финальные штрихи и дополнительные элементы фона. Проверьте вашу работу на соответствие оригинальному дизайну персонажа. Поделитесь своим искусством с сообществом рисования Dandy's World для получения обратной связи.",
     "message": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
@@ -718,17 +406,6 @@
       ]
     ]
   },
-  "PuvTyx": {
-    "translation": "Всеобъемлющая система навыков",
-    "message": "Comprehensive Skill System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        837
-      ]
-    ]
-  },
   "akF51D": {
     "translation": "Файлы cookie - это файлы с небольшим количеством данных, которые часто используются в качестве анонимных уникальных идентификаторов. Они отправляются в ваш браузер с посещаемых вами веб-сайтов и хранятся во внутренней памяти вашего устройства. Этот Сервис явно не использует эти файлы cookie. Однако приложение может использовать сторонний код и библиотеки, которые используют файлы cookie для сбора информации и улучшения своих услуг. У вас есть возможность либо принять, либо отказаться от этих файлов cookie, а также узнать, когда файл cookie отправляется на ваше устройство. Если вы решите отказаться от наших файлов cookie, вы можете не иметь возможности использовать некоторые части этого Сервиса.",
     "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
@@ -740,36 +417,36 @@
       ]
     ]
   },
-  "/VjFmG": {
-    "translation": "МНОЖИТЕЛЬ СТОИМОСТИ:",
-    "message": "COST MULTIPLIER:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        91
-      ]
-    ]
-  },
-  "/36SYM": {
-    "translation": "СТОИМОСТЬ:",
-    "message": "COST:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        87
-      ]
-    ]
-  },
-  "88ZhIO": {
-    "translation": "Создайте и изменяйте сборки легко с помощью нашего планировщика навыков для流放之路2. Экспериментируйте с разными комбинациями навыков, поддерживающих камней и классов персонажей, чтобы найти свой идеальный стиль игры.",
-    "message": "Create and modify builds easily with our Path of Exile 2 Skills Planner. Experiment with different skill combinations, support gems, and character classes to find your perfect playstyle.",
+  "l7oHNR": {
+    "translation": "Создайте красивые фоны с помощью форм, вдохновленных природой, таких как листья, цветы и лепестки, чтобы улучшить ваши рисунки персонажей с помощью Генератора рисования Dandys World.",
+    "message": "Create beautiful backgrounds using Dandys World Draw Generator's nature-themed shapes like leaves, flowers and petals to enhance your character drawings.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        873
+        204
+      ]
+    ]
+  },
+  "7z8zid": {
+    "translation": "Создайте сейчас своих любимых персонажей из Dandy's World!",
+    "message": "Create your favorite Dandy's World characters now!",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        50
+      ]
+    ]
+  },
+  "iJGXFl": {
+    "translation": "Создавайте своих любимых персонажей из Dandy's World с нашим простым в использовании генератором рисования. Идеально подходит для новичков и опытных художников с пошаговыми руководствами.",
+    "message": "Create your favorite Dandy's World characters with our easy-to-follow drawing generator. Perfect for beginners & advanced artists with step-by-step tutorials.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        25
       ]
     ]
   },
@@ -795,43 +472,6 @@
       ]
     ]
   },
-  "7TpNih": {
-    "translation": "Потенциал критического удара",
-    "message": "Critical Strike Potential",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        434
-      ],
-      [
-        "config/site.ts",
-        497
-      ]
-    ]
-  },
-  "i3FKK/": {
-    "translation": "В настоящее время Jujutsu Kaisen Phantom Parade в основном доступен на японском языке. Игрокам за пределами Японии может потребоваться использование VPN для доступа к игре.",
-    "message": "Currently, Jujutsu Kaisen Phantom Parade is primarily available in Japanese. Players outside Japan may need to use a VPN to access the game.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        205
-      ]
-    ]
-  },
-  "QM/9nh": {
-    "translation": "УЩЕРБ:",
-    "message": "DAMAGE:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        108
-      ]
-    ]
-  },
   "6Mk9Tp": {
     "translation": "Стиль искусства Dandy's World адаптируется к различным медиа. Независимо от того, предпочитаете ли вы традиционное рисование, цифровое искусство или акварели, дизайны персонажей великолепно воспринимаются в разных художественных техниках.",
     "message": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
@@ -851,6 +491,17 @@
       [
         "config/site.ts",
         21
+      ]
+    ]
+  },
+  "q4aWez": {
+    "translation": "Генератор рисования Dandy's World | Учитесь рисовать персонажей шаг за шагом",
+    "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/generator/page.tsx",
+        22
       ]
     ]
   },
@@ -887,125 +538,58 @@
       ]
     ]
   },
-  "oAnTvN": {
-    "translation": "Глубокая система развития навыков через прокачку камней и улучшения качества. Навыки становятся более мощными по мере вашего прогресса, с возможностями улучшения их эффекта через различные комбинации поддержки.",
-    "message": "Deep skill development system through gem leveling and quality improvements. Skills become more powerful as you progress, with options to enhance their effects through various support combinations.",
+  "5gwVfz": {
+    "translation": "Генератор рисования Dandys World",
+    "message": "Dandys World Draw Generator",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        792
+        "app/[lang]/(public)/generator/page.tsx",
+        47
       ]
     ]
   },
-  "KOvQUt": {
-    "translation": "Глубокая интеграция навыков",
-    "message": "Deep Skill Integration",
+  "v9VHUR": {
+    "translation": "Генератор рисования Dandys World — это интуитивно понятный инструмент для рисования, который позволяет пользователям создавать персонажей и произведения искусства, используя предустановленные формы, настраиваемые цвета и различные элементы рисования. Он разработан, чтобы сделать создание персонажей доступным для художников любого уровня.",
+    "message": "Dandys World Draw Generator is an intuitive drawing tool that allows users to create characters and artwork using preset shapes, customizable colors, and various drawing elements. It's designed to make character creation accessible for artists of all skill levels.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        690
+        222
       ]
     ]
   },
-  "6Iev04": {
-    "translation": "Планирование защиты",
-    "message": "Defense Planning",
+  "dkj2lZ": {
+    "translation": "Генератор рисования Dandys World предлагает 12 ярких цветов и регулируемые размеры кистей, давая вам полный контроль для создания потрясающих рисунков персонажей с точностью и стилем.",
+    "message": "Dandys World Draw Generator offers 12 vibrant colors and adjustable brush sizes, giving you complete control to create stunning character artwork with precision and style.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        847
+        189
       ]
     ]
   },
-  "igGiip": {
-    "translation": "Защитные возможности",
-    "message": "Defensive Capabilities",
+  "zcPVPZ": {
+    "translation": "Генератор рисования Dandys World предлагает разнообразные инструменты рисования, включая регулируемые размеры кистей, 12 различных цветов, предустановленные геометрические формы, части тела персонажа и природные элементы. Эти инструменты предоставляют все необходимое для создания детализированных произведений искусства.",
+    "message": "Dandys World Draw Generator offers a variety of drawing tools including adjustable brush sizes, 12 different colors, preset geometric shapes, character body parts, and nature elements. These tools provide everything you need to create detailed artwork.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        338
-      ],
-      [
-        "config/site.ts",
-        424
-      ],
-      [
-        "config/site.ts",
-        492
-      ],
-      [
-        "config/site.ts",
-        700
+        250
       ]
     ]
   },
-  "rml26s": {
-    "translation": "Разработайте эффективные составы команд с помощью нашего планировщика навыков POE2. Планируйте вспомогательные навыки, ауры и оборонительные способности для создания мощных синергий групп для сложного контента.",
-    "message": "Design effective team compositions with our PoE2 Skills Planner. Plan support skills, auras, and defensive abilities to create powerful group synergies for challenging content.",
+  "yzIMnv": {
+    "translation": "Генератор рисования Dandys World предоставляет множество функций, включая 12 различных цветовых вариантов, регулируемые размеры кистей, предустановленные формы (круги, квадраты, треугольники, эллипсы), части тела персонажа и натуральные элементы. Вы также можете очистить свой холст и сохранить свое произведение в формате PNG или JPG.",
+    "message": "Dandys World Draw Generator provides multiple features including 12 different color options, adjustable brush sizes, preset shapes (circles, squares, triangles, ellipses), character body parts, and nature elements. You can also clear your canvas and save your artwork in PNG or JPG format.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        858
-      ]
-    ]
-  },
-  "7aqnOj": {
-    "translation": "Умения ловкости в 패스 오브 엑자일 2 в основном сосредоточены на дальнем бою и маневренном игровом процессе. Эти навыки зеленого цвета отлично подходят для тактики ударов и бегства, предлагая способности для создания ловушек, изменения типов боеприпасов и выполнения точных ударов. Они особенно эффективны для игроков, которые предпочитают мобильный, тактический подход к бою.",
-    "message": "Dexterity skills in Path of Exile 2 are primarily focused on ranged combat and agile gameplay. These green-colored skills excel in hit-and-run tactics, offering abilities for constructing traps, modifying ammunition types, and executing precise strikes. They're particularly effective for players who prefer a mobile, tactical approach to combat.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        448
-      ]
-    ]
-  },
-  "pg57vT": {
-    "translation": "Навыки ловкости в POE2 отличаются высокой механикой скорости атаки. Ключевые навыки, такие как Лихорадка и Кровавая ярость, значительно увеличивают скорость атаки, позволяя проводить серии стремительных атак и повышая потенциал DPS.",
-    "message": "Dexterity skills in PoE2 feature superior attack speed mechanics. Key skills like Frenzy and Blood Rage significantly boost attack speed, allowing for rapid-fire combat sequences and increased DPS potential.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        420
-      ]
-    ]
-  },
-  "iWojYC": {
-    "translation": "Навыки ловкости предлагают несколько оборонительных преимуществ в POE2: аура Благодати увеличивает уклонение команды, флаг Непокорности снижает получаемый урон, а Дымная мина предоставляет увеличение уклонения и скорости передвижения. Эти оборонительные навыки ловкости имеют ключевое значение для выживания команды в сложном контенте.",
-    "message": "Dexterity skills provide several defensive benefits in PoE2: Grace aura increases team evasion, Defiance Banner reduces damage taken, and Smoke Mine grants increased evasion and movement speed. These defensive dexterity skills are crucial for team survival in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        456
-      ]
-    ]
-  },
-  "cBmrvx": {
-    "translation": "Построения на основе ловкости отлично справляются с критическими ударами, особенно с такими навыками, как Залп и Ледяной выстрел. Эти навыки можно улучшить с помощью вспомогательных гемов для достижения разрушительных ставок критических ударов.",
-    "message": "Dexterity-based builds excel at landing critical strikes, particularly with skills like Barrage and Ice Shot. These skills can be enhanced with support gems to achieve devastating critical hit rates.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        435
-      ]
-    ]
-  },
-  "WQWUiU": {
-    "translation": "Разнообразные типы самоцветов навыков",
-    "message": "Diverse Skill Gem Types",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        614
+        226
       ]
     ]
   },
@@ -1020,113 +604,91 @@
       ]
     ]
   },
-  "GTZBEP": {
-    "translation": "Включает ли Jujutsu Kaisen Phantom Parade оригинальный актерский состав аниме?",
-    "message": "Does Jujutsu Kaisen Phantom Parade include the original anime cast?",
+  "BByzjN": {
+    "translation": "Не переживайте! Генератор рисования Dandys World имеет функцию очистки холста, позволяющую вам начинать заново, когда это необходимо. Это идеально подходит для экспериментов и практики ваших навыков рисования.",
+    "message": "Don't worry! Dandys World Draw Generator features a canvas clear function that allows you to start fresh whenever needed. This makes it perfect for experimenting and practicing your drawing skills.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        220
+        246
       ]
     ]
   },
-  "Xm2xny": {
-    "translation": "Динамичная боевая система с физическими и элементальными типами урона. Включает контроль толпы, бафы и эффекты состояния. Навыки могут быть комбинированы для создания мощных синергий как в одиночной, так и в групповой игре.",
-    "message": "Dynamic combat system with physical and elemental damage types. Features crowd control, buffs, and status effects. Skills can be combined for powerful synergies in both solo and group play.",
+  "mzI/c+": {
+    "translation": "Скачать",
+    "message": "Download",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        511
+      ]
+    ]
+  },
+  "HeM1nB": {
+    "translation": "Скачать в формате JPEG",
+    "message": "Download as JPEG",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        533
+      ]
+    ]
+  },
+  "yQ7ak/": {
+    "translation": "Скачать в формате PNG",
+    "message": "Download as PNG",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        524
+      ]
+    ]
+  },
+  "GLcnsp": {
+    "translation": "Легко добавляйте детали персонажа с помощью библиотеки предустановленных частей тела Генератора рисования Dandys World, включая элементы рук, ног, глаз и носа.",
+    "message": "Easily add detailed character features with Dandys World Draw Generator's preset body parts library including hands, feet, eyes and nose elements.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        782
+        199
       ]
     ]
   },
-  "kTY5vL": {
-    "translation": "Динамическое изменение навыков",
-    "message": "Dynamic Skill Modification",
+  "VGGB1R": {
+    "translation": "Легкий сброс",
+    "message": "Easy Reset",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        710
+        208
       ]
     ]
   },
-  "CsXK/Q": {
-    "translation": "Каждая Жемчужина Умения предоставляет уникальные боевые способности - Красные жемчужины excel в ближнем бою и физическом уроне, Зеленые жемчужины сосредоточены на дальних атаках и ловкости, в то время как Синие жемчужины специализируются на заклинаниях и элементальном уроне.",
-    "message": "Each Skill Gem provides distinct combat abilities - Red gems excel in melee combat and physical damage, Green gems focus on ranged attacks and agility, while Blue gems specialize in spellcasting and elemental damage.",
+  "rp5GhR": {
+    "translation": "Эллипс",
+    "message": "Ellipse",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        620
+        "components/DrawingBoard.tsx",
+        27
       ]
     ]
   },
-  "xKpboT": {
-    "translation": "Каждая Жемчужина Поддержки в 패스 오브 엑자일 2 имеет конкретные требования к атрибутам (Сила, Ловкость, Интеллект), что влияет на то, какие сборки персонажей могут эффективно их использовать. Эта система создает значимые выборы в развитии персонажей.",
-    "message": "Each Support Gem in PoE2 has specific attribute requirements (Strength, Dexterity, Intelligence), affecting which character builds can effectively utilize them. This system creates meaningful choices in character development.",
+  "wovLGP": {
+    "translation": "Глаз",
+    "message": "Eye",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        706
-      ]
-    ]
-  },
-  "jFbf9R": {
-    "translation": "Мастерство Элементального Урона",
-    "message": "Elemental Damage Mastery",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        477
-      ]
-    ]
-  },
-  "I0Az3M": {
-    "translation": "Усиленные Боевое Эффекты",
-    "message": "Enhanced Combat Effects",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        695
-      ]
-    ]
-  },
-  "WVSKOy": {
-    "translation": "Необходимые жемчужины поддержки для Силовых Умений включают: Поддержка Механических Физических Уронов для увеличения урона, Поддержка Укрепления для защиты, Поддержка Жестокости для чистых физических билдов и Поддержка Кровавой Магии для заклинаний на основе жизни. Эти усиливают эффективность красных жемчужин значительно.",
-    "message": "Essential support gems for Strength Skills include: Melee Physical Damage Support for increased damage output, Fortify Support for defense, Brutality Support for pure physical damage builds, and Blood Magic Support for life-based casting. These enhance the effectiveness of red gem abilities significantly.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        393
-      ]
-    ]
-  },
-  "MwaR4Z": {
-    "translation": "Широкая настройка персонажа через пассивные умения. Общее пассивное дерево позволяет всем классам получить доступ к различным узлам, позволяя создавать разнообразные варианты сборок и уникальные пути развития персонажа.",
-    "message": "Extensive character customization through passive skills. The shared passive tree allows all classes to access various nodes, enabling diverse build options and unique character development paths.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        777
-      ]
-    ]
-  },
-  "6jIXss": {
-    "translation": "Не удалось сохранить сборку",
-    "message": "Failed to save build",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        140
+        "components/DrawingBoard.tsx",
+        33
       ]
     ]
   },
@@ -1141,28 +703,6 @@
       ]
     ]
   },
-  "aJ4pMe": {
-    "translation": "Часто задаваемые вопросы",
-    "message": "FAQs",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        23
-      ]
-    ]
-  },
-  "PpZkda": {
-    "translation": "Функции",
-    "message": "Features",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        8
-      ]
-    ]
-  },
   "OjNld0": {
     "translation": "Особенности Dandy's World Draw",
     "message": "Features Of Dandys World Draw",
@@ -1171,94 +711,6 @@
       [
         "config/site.ts",
         32
-      ]
-    ]
-  },
-  "m65fV0": {
-    "translation": "Особенности Ловкости Умений в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 Dexterity Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        410
-      ]
-    ]
-  },
-  "GVIp5w": {
-    "translation": "Особенности Жемчужин в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        539
-      ]
-    ]
-  },
-  "bLqRlz": {
-    "translation": "Особенности Интеллектуальных Умений в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 Intelligence Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        473
-      ]
-    ]
-  },
-  "GyMkYP": {
-    "translation": "Особенности Жемчужин Умений в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 skill Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        610
-      ]
-    ]
-  },
-  "75xj60": {
-    "translation": "Особенности Умений в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        752
-      ]
-    ]
-  },
-  "rkn1bM": {
-    "translation": "Особенности Планировщика Умений в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 Skills Planner",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        833
-      ]
-    ]
-  },
-  "H3SGDp": {
-    "translation": "Особенности Силовых Умений в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 Strength Skills",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        329
-      ]
-    ]
-  },
-  "N/DeOS": {
-    "translation": "Особенности Жемчужин Поддержки в 패스 오브 엑자일 2",
-    "message": "Features Of POE2 Support Gems",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        681
       ]
     ]
   },
@@ -1273,14 +725,14 @@
       ]
     ]
   },
-  "kAFCHd": {
-    "translation": "Гибкое Создание Сборки",
-    "message": "Flexible Build Creation",
+  "abEdHK": {
+    "translation": "Цветок",
+    "message": "Flower",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        872
+        "components/DrawingBoard.tsx",
+        39
       ]
     ]
   },
@@ -1295,14 +747,14 @@
       ]
     ]
   },
-  "qqyb4m": {
-    "translation": "Сосредоточены на ближнем бою и физическом уроне. Имеет мощные удары, AoE атаки такие как Сеч и Удар с Земли, и защитные способности через Военные Крики. Идеально подходит для воинов, которые предпочитают прямой бой и высокую выживаемость.",
-    "message": "Focused on melee combat and physical damage. Features powerful strikes, AoE attacks like Cleave and Ground Slam, and defensive abilities through War Cries. Perfect for warriors who prefer direct combat and high survivability.",
+  "xN37me": {
+    "translation": "Нога",
+    "message": "Foot",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        757
+        "components/DrawingBoard.tsx",
+        32
       ]
     ]
   },
@@ -1317,113 +769,14 @@
       ]
     ]
   },
-  "76LTZg": {
-    "translation": "Для новичков в 패스 오브 엑자일 2, рекомендуемые комбинации умений включают: Торнадо Удар + Большие Множественные Проекции для дальнего урона, Ледяной Удар + Гипотермия для контроля толпы, Огненный Шар + Эхо Заклинания для урона заклинаниям, и Удар с Земли + Укрепление для ближнего боя. Эти комбинации обеспечивают хороший урон при относительно простом использовании.",
-    "message": "For beginners in Path of Exile 2, recommended skill combinations include: Tornado Shot + Greater Multiple Projectiles for ranged damage, Ice Shot + Hypothermia for crowd control, Fireball + Spell Echo for spell damage, and Ground Slam + Fortify for melee combat. These combinations provide good damage output while being relatively straightforward to use.",
+  "A08Kgh": {
+    "translation": "Свободный стиль",
+    "message": "Freestyle",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        808
-      ]
-    ]
-  },
-  "BnNtJ0": {
-    "translation": "Для новичков в 패스 오브 엑자일 2, рекомендуемые комбинации Жемчужин Поддержки включают: Большие Множественные Проекции Поддержки с навыками с областью урона, Урон при Полной Жизни Поддержка с атаками по одной цели, Быстрее Атак Поддержка с базовыми атаками, и Эхо Заклинания Поддержка со способностями заклинания. Эти Жемчужины Поддержки предоставляют простые преимущества, которые легко понимать и эффективно использовать.",
-    "message": "For beginners in Path of Exile 2, recommended Support Gem combinations include: Greater Multiple Projectiles Support with area damage skills, Damage on Full Life Support with single-target attacks, Faster Attacks Support with basic attack skills, and Spell Echo Support with casting abilities. These Support Gems provide straightforward benefits that are easy to understand and utilize effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        727
-      ]
-    ]
-  },
-  "AA2bAI": {
-    "translation": "Для новичков в 패스 오브 엑자일 2, рекомендуемые умения ловкости включают: Ледяной Удар для контроля толпы и урона, Разделяющая Стрела для легкого расчистки мобов, и Ядовитая Стрела для надежного урона с течением времени. Эти навыки легко использовать и эффективно работают с минимальными требованиями к снаряжению.",
-    "message": "For beginners in PoE2, recommended dexterity skills include: Ice Shot for crowd control and damage, Split Arrow for easy mob clearing, and Caustic Arrow for reliable damage over time. These skills are straightforward to use and provide good effectiveness with minimal gear requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        460
-      ]
-    ]
-  },
-  "UkncHN": {
-    "translation": "Для новичков в 패스 오브 엑자иль 2, рекомендуемые интеллектуальные умения включают Огненный Шар для постоянного урона, Ледяной Снаряд для контроля толпы, Арка для цепной молнии, и Призыв Скелетов для дополнительной поддержки в бою. Эти умения легко использовать и обеспечивают хорошую основу для понимания механики заклинаний.",
-    "message": "For beginners in PoE2, recommended Intelligence skills include Fireball for consistent damage output, Frostbolt for crowd control, Arc for chain lightning damage, and Summon Skeletons for additional combat support. These skills are straightforward to use and provide a good foundation for understanding spellcasting mechanics.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        518
-      ]
-    ]
-  },
-  "kwHGrZ": {
-    "translation": "Для новичков в 패스 오브 엑자иль 2, рекомендуемые Красные Жемчужины Умений включают Сеч для урона по области, Тяжелый Удар для урона по одной цели и Удар с Земли для контроля толпы. Эти основанные на Силе жемчужины легко использовать и обеспечивают эффективные боевые опции для новых игроков.",
-    "message": "For beginners in PoE2, recommended Red Skill Gems include Cleave for area damage, Heavy Strike for single-target damage, and Ground Slam for crowd control. These Strength-based gems are straightforward to use and provide effective combat options for new players.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        585
-      ]
-    ]
-  },
-  "/NxQUS": {
-    "translation": "Для новичков в 패스 오브 엑자иль 2, рекомендуемые Жемчужины Умений включают: Торнадо Удар с Большими Множественными Проекциями для дальних сборок, Ледяной Удар с Гипотермией для контроля толпы, Огненный Шар для заклинателей, и Тяжелый Удар для ближних сборок. Эти Жемчужины Умений предоставляют простые механики, оставаясь эффективными для контента начального уровня.",
-    "message": "For beginners in PoE2, recommended Skill Gems include: Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for crowd control, Fireball for spellcasters, and Heavy Strike for melee builds. These Skill Gems provide straightforward mechanics while remaining effective for early game content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        656
-      ]
-    ]
-  },
-  "g8laWJ": {
-    "translation": "Для новичков, рекомендуемые Силовые Умения включают: Тяжелый Удар для урона по одной цели, Удар с Земли для контроля области, Сеч для очистки групп, и Устойчивый Крик для выживания. Эти способности красных жемчужин легко использовать и обеспечивают хорошую основу для понимания системы силовых умений.",
-    "message": "For beginners, recommended Strength Skills include: Heavy Strike for single-target damage, Ground Slam for area control, Cleave for group clearing, and Enduring Cry for survival. These red gem abilities are straightforward to use and provide a good foundation for understanding the Strength skill system.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        385
-      ]
-    ]
-  },
-  "qRH6Ma": {
-    "translation": "Для новичков, Планировщик Умений в 패스 오브 엑자иль 2 рекомендует комбинации такие как Торнадо Удар с Большими Множественными Проекциями для дальних сборок, Ледяной Удар с Гипотермией для ориентированного на контроль игрового процесса, или Огненный Шар с Эхо Заклинания для сборок заклинаний. Эти комбинации обеспечивают хороший урон и относительно просто использовать.",
-    "message": "For beginners, the PoE2 Skills Planner recommends combinations like Tornado Shot with Greater Multiple Projectiles for ranged builds, Ice Shot with Hypothermia for control-oriented gameplay, or Fireball with Spell Echo for spellcasting builds. These combinations provide good damage and are relatively straightforward to use.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        889
-      ]
-    ]
-  },
-  "Q0ENOT": {
-    "translation": "Для боевых встреч, мощные Силовые Умения включают: Тяжелый Удар для высокого урона по одной цели, Плавящий Удар для постоянного урона, Адский Удар для взрывного урона и Устойчивый Крик для выживания. Эти способности красных жемчужин обеспечивают постоянный урон и выживаемость, необходимые для сложных боев с боссами.",
-    "message": "For boss encounters, powerful Strength Skills include: Heavy Strike for high single-target damage, Molten Strike for consistent damage output, Infernal Blow for burst damage, and Enduring Cry for survival. These red gem abilities provide the sustained damage and survivability needed for challenging boss fights.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        401
-      ]
-    ]
-  },
-  "0qnBBD": {
-    "translation": "Для iOS Jujutsu Kaisen Phantom Parade требует iOS 12.0 или более поздней версии и около 407,6 МБ свободного пространства. Для Android требуется Android 8.0 или более поздняя версия.",
-    "message": "For iOS, Jujutsu Kaisen Phantom Parade requires iOS 12.0 or later and approximately 407.6 MB of storage space. For Android, it requires Android 8.0 or later.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        193
+        "components/DrawingBoard.tsx",
+        41
       ]
     ]
   },
@@ -1438,14 +791,25 @@
       ]
     ]
   },
-  "GgVATf": {
-    "translation": "Синергия Жемчужин",
-    "message": "Gem Synergies",
+  "EDkBL8": {
+    "translation": "Генерировать сейчас!",
+    "message": "Generate Now!",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        568
+        "components/wegic/hero.tsx",
+        40
+      ]
+    ]
+  },
+  "8XR/WI": {
+    "translation": "Генератор",
+    "message": "Generator",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        8
       ]
     ]
   },
@@ -1460,58 +824,14 @@
       ]
     ]
   },
-  "OQjgfs": {
-    "translation": "Зеленые ловкости обеспечивают надежные защитные опции через избегание и подвижность. Умения, такие как Грация и Флаг Непокоримости, усиливают выживаемость команды при сохранении атакующих возможностей.",
-    "message": "Green dexterity skills offer robust defensive options through evasion and mobility. Skills such as Grace and Defiance Banner enhance team survivability while maintaining offensive capabilities.",
+  "vJ0hjc": {
+    "translation": "Рука",
+    "message": "Hand",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        425
-      ]
-    ]
-  },
-  "gNoxUU": {
-    "translation": "Зеленые Жемчужины (Ловкость)",
-    "message": "Green Gems (Dexterity)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        558
-      ]
-    ]
-  },
-  "QcQF16": {
-    "translation": "Зеленые Жемчужины Умений (Ловкость)",
-    "message": "Green Skill Gems (Dexterity)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        761
-      ]
-    ]
-  },
-  "At6Qpc": {
-    "translation": "Зеленые Жемчужины Умений excel в дальнем бою и способностях, основанных на ловкости. Ключевые умения, такие как Торнадо Удар, Ледяной Удар и Прокол, предоставляют отличные варианты для пользователей лука и сборок в стиле убийц в 패스 오브 엑자иль 2.",
-    "message": "Green Skill Gems excel in ranged combat and agility-based abilities. Key skills like Tornado Shot, Ice Shot, and Puncture provide excellent options for bow users and assassin-style builds in PoE2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        559
-      ]
-    ]
-  },
-  "hnWur2": {
-    "translation": "Высоко настроенная система модификации навыков. Жемчужины поддержки усиливают эффекты активных навыков, позволяя глубокую настройку сборок. Создавайте уникальные комбинации, связывая жемчужины поддержки с активными навыками для увеличения силы и полезности.",
-    "message": "Highly customizable skill modification system. Support gems enhance active skills' effects, allowing for deep build customization. Create unique combinations by linking support gems with active skills for increased power and utility.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        772
+        "components/DrawingBoard.tsx",
+        31
       ]
     ]
   },
@@ -1530,39 +850,6 @@
       ]
     ]
   },
-  "5FWvsY": {
-    "translation": "Как я могу скачать Jujutsu Kaisen Phantom Parade на Android?",
-    "message": "How can I download Jujutsu Kaisen Phantom Parade on Android?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        212
-      ]
-    ]
-  },
-  "1adYoo": {
-    "translation": "Как я могу скачать Jujutsu Kaisen Phantom Parade на iOS?",
-    "message": "How can I download Jujutsu Kaisen Phantom Parade on iOS?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        208
-      ]
-    ]
-  },
-  "hBpVMm": {
-    "translation": "Как я могу оптимизировать свою сборку Силовых Умений в 패스 오브 엑자иль 2?",
-    "message": "How can I optimize my Strength Skills build in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        404
-      ]
-    ]
-  },
   "A3fPkq": {
     "translation": "Как я могу отслеживать свой прогресс в рисовании персонажей Dandy's World?",
     "message": "How can I track my progress in drawing Dandy's World characters?",
@@ -1574,282 +861,14 @@
       ]
     ]
   },
-  "RbYob3": {
-    "translation": "Как оптимизировать интеллектуальные навыки для контента на конечном этапе в 패스 오브 엑자иль 2?",
-    "message": "How can Intelligence skills be optimized for endgame content in Path of Exile 2?",
+  "LMBnSl": {
+    "translation": "Как мне сохранить свое произведение искусства в Генераторе рисования Dandys World?",
+    "message": "How do I save my artwork in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        521
-      ]
-    ]
-  },
-  "87v437": {
-    "translation": "Как ловкость skills влияют на разные классы персонажей в 패스 오브 엑자иль 2?",
-    "message": "How do Dexterity skills affect different character classes in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        463
-      ]
-    ]
-  },
-  "W7khBP": {
-    "translation": "Как ловкость skills усиливают защиту команды в 패스 오브 엑자иль 2?",
-    "message": "How do Dexterity skills enhance team defense in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        455
-      ]
-    ]
-  },
-  "k2a81l": {
-    "translation": "Как различные классы персонажей используют Жемчужины Умений по-разному?",
-    "message": "How do different character classes utilize Skill Gems differently?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        667
-      ]
-    ]
-  },
-  "h6PW5i": {
-    "translation": "Как различные классы персонажей используют жемчужины умений?",
-    "message": "How do different character classes utilize skill gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        811
-      ]
-    ]
-  },
-  "qjQTW5": {
-    "translation": "Как я могу создать эффективную сборку умений в 패스 오브 엑자иль 2?",
-    "message": "How do I create an effective skill build in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        884
-      ]
-    ]
-  },
-  "ppUwan": {
-    "translation": "Как я могу оптимизировать шансы критического удара моего персонажа с помощью навыков?",
-    "message": "How do I optimize my character's critical strike chances using skills?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        900
-      ]
-    ]
-  },
-  "HVo8Qx": {
-    "translation": "Как интеллект навыков влияет на сборки Магов в 패스 오브 엑자иль 2?",
-    "message": "How do Intelligence skills affect Mage builds in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        513
-      ]
-    ]
-  },
-  "xXQkPj": {
-    "translation": "Как интеллект навыков взаимодействует с жемчужинами поддержки в 패스 오브 엑자иль 2?",
-    "message": "How do Intelligence skills interact with support gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        529
-      ]
-    ]
-  },
-  "m2Gksy": {
-    "translation": "Как пассивные навыки взаимодействуют с жемчужинами умений?",
-    "message": "How do passive skills interact with skill gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        819
-      ]
-    ]
-  },
-  "ryLRic": {
-    "translation": "Как жемчужины умений влияют на командную игру в 패스 오브 엑자иль 2?",
-    "message": "How do skill gems affect team play in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        908
-      ]
-    ]
-  },
-  "j5jOpJ": {
-    "translation": "Как Жемчужины Умений влияют на командную игру в 패스 오브 엑자иль 2?",
-    "message": "How do Skill Gems affect team play in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        675
-      ]
-    ]
-  },
-  "EsTa/o": {
-    "translation": "Как Жемчужины Умений интегрируются с пассивным деревом навыков в 패스 오브 엑자иль 2?",
-    "message": "How do Skill Gems integrate with the passive skill tree in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        659
-      ]
-    ]
-  },
-  "UTMZPT": {
-    "translation": "Как жемчужины умений повышают уровень в 패스 오브 엑자иль 2?",
-    "message": "How do skill gems level up in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        827
-      ]
-    ]
-  },
-  "rlZCTA": {
-    "translation": "Как Жемчужины Умений повышают уровень в 패스 오브 엑자иль 2?",
-    "message": "How do Skill Gems level up in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        596
-      ]
-    ]
-  },
-  "qERQah": {
-    "translation": "Как преимущества навыков силы способствуют командной игре в 패스 오브 엑자일 2?",
-    "message": "How do Strength Skills benefit team play in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        380
-      ]
-    ]
-  },
-  "v3ijFS": {
-    "translation": "Как навыки силы сравниваются с другими атрибутами в 패스 오브 엑자일 2?",
-    "message": "How do Strength Skills compare to other attribute skills in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        396
-      ]
-    ]
-  },
-  "UWOgcG": {
-    "translation": "Как навыки силы масштабируются с прогрессом персонажа в 패스 오브 엑자일 2?",
-    "message": "How do Strength Skills scale with character progression in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        388
-      ]
-    ]
-  },
-  "nNME7C": {
-    "translation": "Как поддерживающие драгоценные камни влияют на сборки персонажа?",
-    "message": "How do Support Gems affect character builds?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        730
-      ]
-    ]
-  },
-  "yF0XDP": {
-    "translation": "Как поддерживающие драгоценные камни влияют на урон навыков в 패스 오브 엑자일 2?",
-    "message": "How do Support Gems affect skill damage in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        738
-      ]
-    ]
-  },
-  "Tn7Zef": {
-    "translation": "Как работают поддерживающие драгоценные камни в 패스 오브 엑자일 2?",
-    "message": "How do Support Gems work in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        580
-      ]
-    ]
-  },
-  "1KIhkX": {
-    "translation": "Как поддерживающие драгоценные камни работают с различными типами атрибутов в 패스 오브 엑자일 2?",
-    "message": "How do Support Gems work with different attribute types in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        722
-      ]
-    ]
-  },
-  "N5flWT": {
-    "translation": "Как поддерживающие драгоценные камни работают с навыками в 패스 오브 엑자일 2?",
-    "message": "How do support gems work with skill gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        803
-      ],
-      [
-        "config/site.ts",
-        892
-      ]
-    ]
-  },
-  "mEVwZQ": {
-    "translation": "Как поддерживающие драгоценные камни работают с навыками в 패스 오브 엑자일 2?",
-    "message": "How do Support Gems work with Skill Gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        651
-      ]
-    ]
-  },
-  "MhqG83": {
-    "translation": "Как прокачать поддерживающие драгоценные камни?",
-    "message": "How do you level up Support Gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        746
+        229
       ]
     ]
   },
@@ -1941,160 +960,6 @@
       ]
     ]
   },
-  "JsEKN8": {
-    "translation": "Механика воздействия",
-    "message": "Impact Mechanics",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        368
-      ]
-    ]
-  },
-  "V6juom": {
-    "translation": "В групповом контенте, навыки интеллекта предоставляют важную поддержку через элементальный урон, контроль толпы и полезные эффекты. Навыки, такие как Временные Цепи, могут контролировать движение врагов, в то время как ауры и оборонительные способности могут защитить всю команду. Это делает персонажей на основе интеллекта ценными членами команды в пакс о브 экзайл 2.",
-    "message": "In group content, Intelligence skills provide crucial support through elemental damage, crowd control, and utility effects. Skills like Temporal Chains can control enemy movement, while auras and defensive abilities can protect the entire party. This makes Intelligence-based characters valuable team members in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        534
-      ]
-    ]
-  },
-  "cOrZ61": {
-    "translation": "В 패스 오브 엑자일 2, каждый класс персонажей имеет естественную предрасположенность к определенным драгоценным камням на основе их основных атрибутов. Стрелки преуспевают с зелеными драгоценными камнями для дальнобойного боя, Темплары выигрывают от синих драгоценных камней для заклинания, а Мародеры естественным образом сочетаются с красными драгоценными камнями для ближнего боя. Однако любой класс может использовать любой драгоценный камень, если он соответствует требованиям к атрибутам.",
-    "message": "In Path of Exile 2, each character class has natural affinities for certain Skill Gems based on their primary attributes. Rangers excel with Green Skill Gems for ranged combat, Templars benefit from Blue Skill Gems for spellcasting, and Marauders naturally align with Red Skill Gems for melee combat. However, any class can use any Skill Gem if they meet the attribute requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        668
-      ]
-    ]
-  },
-  "Eq/v2W": {
-    "translation": "В 패스 오브 엑자일 2, каждый класс персонажей имеет естественные предрасположенности к определенным драгоценным камням: Стрелки преуспели с зелеными навыками, такими как Ураганный Выстрел, Мародеры выигрывают от красных навыков, таких как Удар по Земле, а Ведьмы специализируются на синих навыках, таких как Огненный Шар. Тем не менее, любой класс может использовать любой драгоценный камень, если он соответствует требованиям атрибутов.",
-    "message": "In Path of Exile 2, each character class has natural affinities for certain skill gems: Rangers excel with green skills like Tornado Shot, Marauders benefit from red skills like Ground Slam, and Witches specialize in blue skills like Fireball. However, any class can use any skill gem if they meet the attribute requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        812
-      ]
-    ]
-  },
-  "Ft7Ocz": {
-    "translation": "В 패스 오브 엑자일 2 есть три основных типа драгоценных камней навыков на основе атрибутов: красные (сила) драгоценные камни сосредотачиваются на ближнем бою и физическом уроне, зеленые (ловкость) драгоценные камни специализируются на дальних атаках и ловкости, а синие (интеллект) драгоценные камни концентрируются на заклинаниях и элементальном уроне. Каждый тип предлагает уникальные механики игрового процесса и возможности сборки.",
-    "message": "In Path of Exile 2, there are three primary types of Skill Gems based on attributes: Red (Strength) gems focus on melee combat and physical damage, Green (Dexterity) gems specialize in ranged attacks and agility, and Blue (Intelligence) gems concentrate on spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        648
-      ]
-    ]
-  },
-  "5ZTRiC": {
-    "translation": "В групповой игре 패스 오브 엑자일 2, поддерживающие драгоценные камни играют важную роль в создании синергетических командных составов. Они могут улучшать командные баффы, предоставлять дополнительные слои защиты, улучшать возможности контроля толпы и увеличивать общий урон команды. Стратегическое использование поддерживающих драгоценных камней помогает оптимизировать производительность группы в сложном контенте.",
-    "message": "In Path of Exile 2's group gameplay, Support Gems are crucial for creating synergistic team compositions. They can enhance party-wide buffs, provide additional defensive layers, improve crowd control capabilities, and boost overall team damage output. Strategic use of Support Gems helps optimize group performance in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        743
-      ]
-    ]
-  },
-  "SnCrD7": {
-    "translation": "В 패스 오브 엑자일 2, навыки ловкости воздействуют на различные классы уникальным образом: Стрелки преуспевают с навыками лука, такими как Ураганный Выстрел, Дуэлянты выигрывают от таких навыков, как Безумие и Рваная Рана, в то время как Тени могут эффективно использовать основанные на яде навыки ловкости. Каждый класс может использовать эти навыки по-разному в зависимости от их позиции в пассивном дереве и естественных атрибутов.",
-    "message": "In PoE2, dexterity skills impact different classes uniquely: Rangers excel with bow skills like Tornado Shot, Duelists benefit from skills like Frenzy and Lacerate, while Shadows can effectively use poison-based dexterity skills. Each class can utilize these skills differently based on their passive tree position and natural attributes.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        464
-      ]
-    ]
-  },
-  "uriovw": {
-    "translation": "В планировщике навыков 패스 오브 엑자일 2, поддерживающие драгоценные камни модифицируют и усиливают эффекты активных навыков. Они могут увеличивать урон, добавлять дополнительные снаряды, улучшать скорость кастования или предоставлять полезные эффекты. Правильные поддерживающие драгоценные камни могут значительно повысить эффективность ваших навыков.",
-    "message": "In the Path of Exile 2 Skills Planner, support gems modify and enhance active skill gems' effects. They can increase damage, add additional projectiles, improve casting speed, or provide utility effects. The right support gems can significantly boost your skills' effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        893
-      ]
-    ]
-  },
-  "g1A+ws": {
-    "translation": "Навыки интеллекта (синие драгоценные камни) в 패스 오브 엑자일 2 являются специализированными способностями, сосредоточенными на заклинании и элементальном уроне. Эти навыки включают наступательные заклинания, способности призыва миньонов и полезные эффекты, которые позволяют игрокам наносить магический урон, контролировать поле боя и поддерживать союзников.",
-    "message": "Intelligence skills (blue skill gems) in Path of Exile 2 are specialized abilities focused on spellcasting and elemental damage. These skills include offensive spells, minion summoning abilities, and utility effects that allow players to deal magical damage, control the battlefield, and support allies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        506
-      ]
-    ]
-  },
-  "CSZLhb": {
-    "translation": "Навыки интеллекта являются основополагающими для сборок магов в 패스 오브 엑자иль 2, предоставляя необходимый урон через элементальные заклинания, оборонительные возможности через барьеры и контроль толпы, а также полезность через призыв миньонов. Эти навыки можно комбинировать с поддерживающими драгоценными камнями для создания мощных синергий, которые увеличивают как наступательные, так и оборонительные возможности.",
-    "message": "Intelligence skills are fundamental to Mage builds in PoE2, providing essential damage output through elemental spells, defensive capabilities through barriers and crowd control, and utility through minion summoning. These skills can be combined with support gems to create powerful synergies that enhance both offensive and defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        514
-      ]
-    ]
-  },
-  "HP+1C4": {
-    "translation": "Навыки интеллекта в 패스 오브 엑자иль 2 могут быть усилены поддерживающими драгоценными камнями для изменения их поведения и эффективности. Общие комбинации включают использование Эха Заклинания для повторного кастования, Элементального Фокуса для увеличенного элементального урона и Более Быстрого Кастования для улучшенной скорости заклинаний. Правильные поддерживающие драгоценные камни могут значительно улучшить производительность навыков.",
-    "message": "Intelligence skills in Path of Exile 2 can be enhanced by support gems to modify their behavior and effectiveness. Common combinations include using Spell Echo for repeated casting, Elemental Focus for increased elemental damage, and Faster Casting for improved spell speed. The right support gems can significantly boost skill performance.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        530
-      ]
-    ]
-  },
-  "w0vEsM": {
-    "translation": "Навыки интеллекта в 패스 오브 엑자иль 2 отлично справляются с элементальным ущербом, имея мощные заклинания, такие как Огненный Шар, Ледяной Снаряд и Арка, которые наносят разрушительный огненный, холодный и молний урон соответственно. Эти навыки могут быть улучшены с помощью поддерживающих драгоценных камней для максимизации элементальной эффективности.",
-    "message": "Intelligence skills in Path of Exile 2 excel at elemental damage output, featuring powerful spells like Fireball, Frostbolt, and Arc that deal devastating fire, cold, and lightning damage respectively. These skills can be enhanced with support gems to maximize elemental effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        478
-      ]
-    ]
-  },
-  "xdBWA0": {
-    "translation": "Навыки интеллекта в 패스 오브 엑자иль 2 обладают высоким потенциалом критического удара, особенно с заклинаниями, такими как Арка и Удар Молнии. В сочетании с соответствующими поддерживающими драгоценными камнями, эти навыки могут наносить разрушительные критические удары, которые значительно повышают выход урона.",
-    "message": "Intelligence skills in PoE2 feature high critical strike potential, particularly with spells like Arc and Lightning Strike. When combined with appropriate support gems, these skills can deliver devastating critical hits that significantly boost damage output.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        498
-      ]
-    ]
-  },
-  "JXVsIx": {
-    "translation": "Навыки интеллекта включают мощные оборонительные опции, такие как Ледяной Барьер и Ледяной Щит, обеспечивая ключевую выживаемость за счет поглощения урона и эффектов контроля толпы. Эти оборонительные механизмы жизненно важны для поддержания присутствия на поле боя.",
-    "message": "Intelligence skills include powerful defensive options such as Ice Barrier and Frost Shield, providing crucial survivability through damage absorption and crowd control effects. These defensive mechanisms are essential for maintaining battlefield presence.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        493
-      ]
-    ]
-  },
   "RLPmGq": {
     "translation": "Введение в Dandy's World Draw",
     "message": "Introduction of Dandys World Draw",
@@ -2106,25 +971,14 @@
       ]
     ]
   },
-  "rr52zJ": {
-    "translation": "Доступен ли Jujutsu Kaisen Phantom Parade на английском языке?",
-    "message": "Is Jujutsu Kaisen Phantom Parade available in English?",
+  "DVcPYw": {
+    "translation": "Подходит ли Генератор рисования Dandys World для новичков?",
+    "message": "Is Dandys World Draw Generator suitable for beginners?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        204
-      ]
-    ]
-  },
-  "tlfYGz": {
-    "translation": "Является ли Jujutsu Kaisen Phantom Parade free-to-play?",
-    "message": "Is Jujutsu Kaisen Phantom Parade free to play?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        200
+        237
       ]
     ]
   },
@@ -2150,69 +1004,14 @@
       ]
     ]
   },
-  "LpV4OJ": {
-    "translation": "Jujutsu Kaisen Phantom Parade - это мобильная RPG-игра, основанная на популярном аниме-сериале Jujutsu Kaisen. Она включает в себя пошаговые сражения, богатый сюжет и механику коллекционирования персонажей. Вы можете скачать Jujutsu Kaisen Phantom Parade из Apple App Store для устройств iOS и Google Play Store для устройств Android.",
-    "message": "Jujutsu Kaisen Phantom Parade is a mobile RPG game based on the popular anime series Jujutsu Kaisen. It features turn-based combat, a rich storyline, and character collection mechanics. You can download Jujutsu Kaisen Phantom Parade from the Apple App Store for iOS devices and the Google Play Store for Android devices.",
+  "xPwtt9": {
+    "translation": "Лист",
+    "message": "Leaf",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        185
-      ]
-    ]
-  },
-  "VuEEPs": {
-    "translation": "Jujutsu Kaisen Phantom Parade предлагает пошаговые сражения с персонажами из вселенной Jujutsu Kaisen, насыщенный сюжет с полной голосовой озвучкой и систему гачи для коллекционирования персонажей. Игра обеспечивает увлекательный опыт для поклонников серии.",
-    "message": "Jujutsu Kaisen Phantom Parade offers turn-based combat with characters from the Jujutsu Kaisen universe, a rich storyline with full voice acting, and a gacha system for character collection. The game provides an immersive experience for fans of the series.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        197
-      ]
-    ]
-  },
-  "J73Tj0": {
-    "translation": "Jujutsu Kaisen Phantom Parade был официально выпущен 7 декабря 2024 года. Он теперь доступен для загрузки как на iOS, так и на Android.",
-    "message": "Jujutsu Kaisen Phantom Parade was officially released on December 7, 2024. It is now available for download on both iOS and Android platforms.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        189
-      ]
-    ]
-  },
-  "nBxiSt": {
-    "translation": "Ключевые оборонительные навыки интеллекта включают Ледяной Барьер для поглощения урона, Ледяной Щит для защиты, Временные Цепи для контроля врагов и Фазовый Забег для мобильности. Эти навыки помогают магам выжить в сложных встречах, предоставляя различные оборонительные слои и варианты побега.",
-    "message": "Key defensive Intelligence skills include Ice Barrier for damage absorption, Frost Shield for protection, Temporal Chains for enemy control, and Phase Run for mobility. These skills help Mages survive challenging encounters by providing various defensive layers and escape options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        526
-      ]
-    ]
-  },
-  "VFvlAZ": {
-    "translation": "Известный своими проклятыми речевыми способностями, Тогэ может манипулировать проклятиями с помощью определенных слов. Он часто использует рисовые шарики в качестве безопасного способа общения.",
-    "message": "Known for his cursed speech abilities, Toge can manipulate curses through specific words. He often uses rice balls as a way to communicate safely.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        278
-      ]
-    ]
-  },
-  "CUo907": {
-    "translation": "Известный своей огромной силой и боевым мастерством, Тодо также характеризуется прямолинейным характером и верностью друзьям.",
-    "message": "Known for his immense strength and combat prowess, Todo is also characterized by his straightforward personality and loyalty to friends.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        308
+        "components/DrawingBoard.tsx",
+        38
       ]
     ]
   },
@@ -2260,28 +1059,6 @@
       ]
     ]
   },
-  "VrNagU": {
-    "translation": "Уровень:",
-    "message": "Level:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        83
-      ]
-    ]
-  },
-  "OTtIU8": {
-    "translation": "Увеличение здоровья",
-    "message": "Life Scaling",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        363
-      ]
-    ]
-  },
   "Z3FXyt": {
     "translation": "Загрузка...",
     "message": "Loading...",
@@ -2290,28 +1067,6 @@
       [
         "app/[lang]/(public)/loading.tsx",
         8
-      ]
-    ]
-  },
-  "EvqQVm": {
-    "translation": "Основные навыки",
-    "message": "Main Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        191
-      ]
-    ]
-  },
-  "R/on3o": {
-    "translation": "Многие драгоценные камни навыков в 패스 오브 엑자일 2 предлагают командные преимущества, позволяя игрокам поддерживать союзников через баффы, ауры и оборонительные способности для улучшенной командной игры.",
-    "message": "Many Skill Gems in Path of Exile 2 offer team-based benefits, allowing players to support allies through buffs, auras, and defensive abilities for enhanced group play.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        640
       ]
     ]
   },
@@ -2352,80 +1107,25 @@
       ]
     ]
   },
-  "H3p+ql": {
-    "translation": "Мастера элементальной магии и призыва. Включает мощные заклинания, такие как Огненный Шар и Арка, наряду со способностями призыва миньонов. Обязательно для заклинаторов, стремящихся к высокому выходу магического урона и контролю над полем боя.",
-    "message": "Masters of elemental magic and summoning. Features powerful spells like Fireball and Arc, alongside minion summoning abilities. Essential for spellcasters seeking high magical damage output and battlefield control.",
+  "IO/SDP": {
+    "translation": "Несколько вариантов экспорта",
+    "message": "Multiple Export Options",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        767
+        213
       ]
     ]
   },
-  "CH2/BC": {
-    "translation": "Мета-драгоценные камни - это продвинутые драгоценные камни навыков в POE2, которые срабатывают при определенных условиях, добавляя сложность к сборкам персонажей. Эти драгоценные камни могут автоматически активировать другие связанные навыки или предоставлять уникальные эффекты, позволяя создавать сложные комбинации навыков и автоматизированные последовательности навыков в бою.",
-    "message": "Meta Gems are advanced Skill Gems in PoE2 that trigger under specific conditions, adding complexity to character builds. These gems can activate other linked skills automatically or provide unique effects, allowing for sophisticated skill combinations and automated skill sequences in combat.",
+  "RYg1g4": {
+    "translation": "Природные элементы",
+    "message": "Nature Elements",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        664
-      ]
-    ]
-  },
-  "6NWiBo": {
-    "translation": "Мета-драгоценные камни в 패스 오브 엑자иль 2 - это продвинутые драгоценные камни, которые срабатывают при определенных условиях. Они добавляют сложность сборкам, позволяя автоматическую активацию навыков или предоставляя уникальные эффекты, когда выполняются определенные условия, создавая более сложные сборки персонажей.",
-    "message": "Meta Gems in Path of Exile 2 are advanced gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or providing unique effects when certain conditions are met, creating more sophisticated character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        605
-      ]
-    ]
-  },
-  "sZUkBE": {
-    "translation": "Мета-драгоценные камни в 패스 오브 엑자иль 2 - это продвинутые драгоценные камни навыков, которые срабатывают при определенных условиях. Они добавляют сложность сборкам, позволяя автоматическую активацию навыков или создавая уникальные шаблоны взаимодействия между различными навыками, позволяя создавать более сложные сборки персонажей.",
-    "message": "Meta gems in Path of Exile 2 are advanced skill gems that trigger under specific conditions. They add complexity to builds by allowing for automatic skill activation or creating unique interaction patterns between different skills, enabling more sophisticated character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        816
-      ]
-    ]
-  },
-  "IYxXKr": {
-    "translation": "Призыв миньонов",
-    "message": "Minion Summoning",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        487
-      ]
-    ]
-  },
-  "44khzM": {
-    "translation": "Движение и ловкость",
-    "message": "Movement and Agility",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        439
-      ]
-    ]
-  },
-  "qQKpn1": {
-    "translation": "Синергия в многопользовательском режиме",
-    "message": "Multiplayer Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        639
+        203
       ]
     ]
   },
@@ -2437,17 +1137,6 @@
       [
         "framework/components/ue-upload/useS34R2.ts",
         27
-      ]
-    ]
-  },
-  "isRobC": {
-    "translation": "Новый",
-    "message": "New",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        41
       ]
     ]
   },
@@ -2473,25 +1162,14 @@
       ]
     ]
   },
-  "hXzOVo": {
-    "translation": "Далее",
-    "message": "Next",
+  "SfPlW9": {
+    "translation": "Нос",
+    "message": "Nose",
     "comments": [],
     "origin": [
       [
-        "components/skills/pagination.tsx",
-        36
-      ]
-    ]
-  },
-  "4WSj+R": {
-    "translation": "Не все поддерживающие драгоценные камни могут использоваться с каждым драгоценным камнем навыков в 패스 오브 엑자иль 2. Поддерживающие драгоценные камни имеют определенные требования совместимости на основе типа навыка (атака, заклинание, миньон и т. д.) и требований атрибутов. Игроки должны внимательно проверять описания драгоценных камней и требования, чтобы обеспечить правильную совместимость при создании комбинаций навыков.",
-    "message": "Not all Support Gems can be used with every skill gem in Path of Exile 2. Support Gems have specific compatibility requirements based on the skill type (attack, spell, minion, etc.) and attribute requirements. Players must carefully check gem descriptions and requirements to ensure proper compatibility when creating skill combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        735
+        "components/DrawingBoard.tsx",
+        34
       ]
     ]
   },
@@ -2506,17 +1184,6 @@
       ]
     ]
   },
-  "mFvrex": {
-    "translation": "Оптимизируйте DPS вашего персонажа, планируя скорость атаки и критические комбинации ударов. Наш планировщик помогает вам выбрать лучшие драгоценные камни навыков и поддерживающие драгоценные камни для максимизации вашего урона в 패스 오브 엑자иль 2.",
-    "message": "Optimize your character's DPS by planning attack speed and critical strike combinations. Our planner helps you select the best skill gems and support gems to maximize your damage output in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        853
-      ]
-    ]
-  },
   "d2Hx1C": {
     "translation": "Наша платформа включает систему отслеживания прогресса, где вы можете сохранять свои работы Dandy's World, сравнивать улучшения со временем и зарабатывать достижения. Мы также поощряем ведение личного портфолио, чтобы визуализировать ваше развитие.",
     "message": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
@@ -2528,256 +1195,14 @@
       ]
     ]
   },
-  "MyRipQ": {
-    "translation": "Дерево пассивных навыков",
-    "message": "Passive Skill Tree",
+  "nk7u3D": {
+    "translation": "Лепесток",
+    "message": "Petal",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        776
-      ]
-    ]
-  },
-  "QAAPjM": {
-    "translation": "Интеграция пассивного дерева",
-    "message": "Passive Tree Integration",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        867
-      ]
-    ]
-  },
-  "cu+r4f": {
-    "translation": "Синергия пассивного дерева",
-    "message": "Passive Tree Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        629
-      ]
-    ]
-  },
-  "yujZ2L": {
-    "translation": "Path of Exile 2 включает три основных типа самоцветов навыков: Красные (Сила) самоцветы, сосредоточенные на ближнем бою и физическом уроне, Зеленые (Ловкость) самоцветы, специализированные на дальних атаках и ловкости, и Синие (Интеллект) самоцветы, ориентированные на заклинания и элементальный урон. Каждый тип имеет уникальные характеристики и может быть усилен с помощью поддерживающих самоцветов.",
-    "message": "Path of Exile 2 features three main types of skill gems: Red (Strength) gems focusing on melee combat and physical damage, Green (Dexterity) gems specializing in ranged attacks and agility, and Blue (Intelligence) gems centered on spellcasting and elemental damage. Each type has unique characteristics and can be enhanced with support gems.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        800
-      ]
-    ]
-  },
-  "9sef72": {
-    "translation": "Path of Exile 2 предлагает три основных типа самоцветов навыков: Красные (Сила) самоцветы для ближнего боя, Зеленые (Ловкость) самоцветы для дальних атак и Синие (Интеллект) самоцветы для заклинаний. Каждый тип обладает уникальными характеристиками и может быть улучшен с помощью поддерживающих самоцветов для большей кастомизации.",
-    "message": "Path of Exile 2 features three primary types of Skill Gems: Red (Strength) Gems for melee combat, Green (Dexterity) Gems for ranged attacks, and Blue (Intelligence) Gems for spellcasting. Each type has unique characteristics and can be enhanced with Support Gems for deeper customization.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        577
-      ]
-    ]
-  },
-  "RNVqI9": {
-    "translation": "Самоцветы навыков Path of Exile 2 предоставляют основные боевые способности, разделенные на категории Красных (Сила), Зеленых (Ловкость) и Синих (Интеллект). Каждый самоцвет навыков предлагает уникальные боевые возможности, от мощных ближних атак до разрушительных заклинаний.",
-    "message": "Path of Exile 2 Skill Gems provide primary combat abilities, divided into Red (Strength), Green (Dexterity), and Blue (Intelligence) categories. Each Skill Gem offers unique combat capabilities, from powerful melee attacks to devastating spells.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        544
-      ]
-    ]
-  },
-  "oEMAxY": {
-    "translation": "Планировщик навыков Path of Exile 2 классифицирует самоцветы на три основных типа: Красные (Сила) для ближнего и физического урона, Зеленые (Ловкость) для дальнего и ловкого боя, и Синие (Интеллект) для заклинаний и элементального урона. Каждый тип предлагает уникальные игровые механики и возможности сборки.",
-    "message": "Path of Exile 2 Skills Planner categorizes gems into three main types: Red (Strength) for melee and physical damage, Green (Dexterity) for ranged and agile combat, and Blue (Intelligence) for spellcasting and elemental damage. Each type offers unique gameplay mechanics and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        881
-      ]
-    ]
-  },
-  "c/quQp": {
-    "translation": "Планировщик навыков Path of Exile 2 предлагает обширную коллекцию Красных (Сила), Зеленых (Ловкость) и Синих (Интеллект) самоцветов навыков, позволяя игрокам создавать мощные сборки персонажей через стратегические комбинации самоцветов и улучшения поддерживающих самоцветов.",
-    "message": "Path of Exile 2 Skills Planner features an extensive collection of Red (Strength), Green (Dexterity), and Blue (Intelligence) skill gems, allowing players to create powerful character builds through strategic gem combinations and support gem enhancements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        838
-      ]
-    ]
-  },
-  "pr9uiD": {
-    "translation": "Лучшие защитные навыки в Path of Exile 2 включают: Ледяной барьер и Ледяной щит для поглощения урона, Временные цепи для контроля противника, Фазовый бег для механики побега и различные ауры, такие как Благодать и Оживление, для повышения выживаемости. Эти навыки можно комбинировать с поддерживающими самоцветами для улучшения защитных возможностей.",
-    "message": "Path of Exile 2's best defensive skills include: Ice Barrier and Frost Shield for damage absorption, Temporal Chains for enemy control, Phase Run for escape mechanics, and various aura skills like Grace and Vitality for enhanced survivability. These skills can be combined with support gems for improved defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        824
-      ]
-    ]
-  },
-  "Rl390J": {
-    "translation": "Навыки ловкости в Path of Exile 2 акцентируют внимание на подвижности и быстром позиционировании. Такие навыки, как Дымовая мина и Фазовый бег, предоставляют жизненно важные варианты движения как для боя, так и для исследования.",
-    "message": "Path of Exile 2's dexterity skills emphasize mobility and quick positioning. Skills like Smoke Mine and Phase Run provide essential movement options for both combat and exploration.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        440
-      ]
-    ]
-  },
-  "i79PN8": {
-    "translation": "Навыки ловкости в Path of Exile 2 excel в дальнем бою, предлагая точное прицеливание и разнообразные варианты атаки. Навыки, такие как Торнадо-шот и Разделенная стрела, обеспечивают отличное покрытие площади, оставаясь на безопасном расстоянии от противников.",
-    "message": "Path of Exile 2's dexterity skills excel in ranged combat, offering precise targeting and versatile attack options. Skills like Tornado Shot and Split Arrow provide excellent area coverage while maintaining safe distance from enemies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        415
-      ]
-    ]
-  },
-  "gVAQ6M": {
-    "translation": "Навыки Интеллекта в Path of Exile 2 можно классифицировать на три основных типа: заклинания прямого урона (такие как Огненный шар и Арка), навыки призыва миньонов (такие как Призыв скелетов) и вспомогательные/поддерживающие навыки (включая ауры и защитные способности). Каждый тип выполняет различные роли в бою и может быть усилен с помощью поддерживающих самоцветов.",
-    "message": "Path of Exile 2's Intelligence skills can be categorized into three main types: Direct damage spells (like Fireball and Arc), Minion summoning skills (such as Summon Skeletons), and Utility/Support skills (including auras and defensive abilities). Each type serves different roles in combat and can be enhanced with support gems.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        510
-      ]
-    ]
-  },
-  "JLMWo5": {
-    "translation": "Система самоцветов навыков в Path of Exile 2 включает три основных типа: Красные (Сила), Зеленые (Ловкость) и Синие (Интеллект) самоцветы, каждый из которых предлагает уникальные боевые возможности и возможности сборки.",
-    "message": "Path of Exile 2's Skill Gems system features three primary types: Red (Strength), Green (Dexterity), and Blue (Intelligence) gems, each offering unique combat capabilities and build possibilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        615
-      ]
-    ]
-  },
-  "m7EtTn": {
-    "translation": "Поддерживающие самоцветы в Path of Exile 2 классифицируются по трем основным атрибутам: Сила (Красный), Ловкость (Зеленый) и Интеллект (Синий). Каждый тип поддерживающего самоцвета требует определенного уровня атрибутов и предоставляет различные модификации активным навыкам. Красные поддерживающие самоцветы часто усиливают физический урон и защитные возможности, Зеленые поддерживающие самоцветы сосредотачиваются на модификациях снарядов и скорости, в то время как Синие поддерживающие самоцветы обычно увеличивают элементальные и заклинательные эффекты.",
-    "message": "Path of Exile 2's Support Gems are categorized by three main attributes: Strength (Red), Dexterity (Green), and Intelligence (Blue). Each type of Support Gem requires specific attribute levels and provides different modifications to active skills. Red Support Gems often enhance physical damage and defensive capabilities, Green Support Gems focus on projectile and speed modifications, while Blue Support Gems typically boost elemental and spell effects.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        723
-      ]
-    ]
-  },
-  "zFELgS": {
-    "translation": "Поддерживающие самоцветы в Path of Exile 2 могут изменять механики навыков в реальном времени, позволяя игрокам адаптировать свои способности к различным ситуациям. Эта гибкость позволяет разнообразные стили игры и стратегическую глубину.",
-    "message": "Path of Exile 2's Support Gems can modify skill mechanics in real-time, allowing players to adapt their abilities to different situations. This flexibility enables diverse playstyles and strategic depth.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        711
-      ]
-    ]
-  },
-  "rcR3jp": {
-    "translation": "Поддерживающие самоцветы в Path of Exile 2 предлагают беспрецедентную настройку, позволяя игрокам модифицировать и улучшать свои активные навыки различными способами. Каждый поддерживающий самоцвет может быть привязан к активным навыкам для создания мощных комбинаций, радикально изменяющих механики игрового процесса.",
-    "message": "Path of Exile 2's Support Gems offer unprecedented customization, allowing players to modify and enhance their active skills in various ways. Each Support Gem can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        686
-      ]
-    ]
-  },
-  "9ZrB50": {
-    "translation": "Фокус на физический урон",
-    "message": "Physical Damage Focus",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        333
-      ]
-    ]
-  },
-  "VKMSyV": {
-    "translation": "Планируйте и оптимизируйте сборки своего персонажа в PoE2 с помощью подробной информации о синергии навыков, расчетах урона и защитных возможностях. Наш планировщик помогает вам максимизировать потенциал вашего персонажа через эффективные комбинации самоцветов навыков.",
-    "message": "Plan and optimize your PoE2 character builds with detailed information about skill synergies, damage calculations, and defensive capabilities. Our planner helps you maximize your character's potential through effective skill gem combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        843
-      ]
-    ]
-  },
-  "8gPvqK": {
-    "translation": "Планируйте выбор своих самоцветов навыков параллельно с решениями по пассивному дереву. Наш планировщик навыков PoE2 помогает вам создать согласованные сборки, показывая, как самоцветы навыков взаимодействуют с выборами пассивного дерева.",
-    "message": "Plan your skill gem choices alongside passive tree decisions. Our PoE2 Skills Planner helps you create cohesive builds by showing how skill gems interact with passive tree choices.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        868
-      ]
-    ]
-  },
-  "+BRJj6": {
-    "translation": "Игроки могут комбинировать различные самоцветы навыков для создания уникальных сборок, сосредотачиваясь на чистом уроне, защитных возможностях или гибридных подходах в сложном контенте PoE2.",
-    "message": "Players can combine different Skill Gems to create unique builds, whether focusing on pure damage output, defensive capabilities, or hybrid approaches in PoE2's challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        635
-      ]
-    ]
-  },
-  "SaquMu": {
-    "translation": "Пожалуйста, введите заголовок",
-    "message": "Please enter a title",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        102
-      ]
-    ]
-  },
-  "aobb0H": {
-    "translation": "Пожалуйста, введите автора",
-    "message": "Please enter an author",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        106
-      ]
-    ]
-  },
-  "h1pZGt": {
-    "translation": "Пожалуйста, выберите хотя бы один основной навык",
-    "message": "Please select at least one main skill",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        110
+        "components/DrawingBoard.tsx",
+        40
       ]
     ]
   },
@@ -2792,83 +1217,6 @@
       ]
     ]
   },
-  "6EKMS0": {
-    "translation": "Навыки ловкости PoE2 преуспевают в создании мощных комбинаций. Популярные пары, такие как Прокалывание с поддержкой Урона на полном здоровье или Торнадо-шот с Более множественными снарядами, максимизируют боевую эффективность.",
-    "message": "PoE2 dexterity skills shine in their ability to create powerful combinations. Popular pairings like Puncture with Damage on Full Life Support or Tornado Shot with Greater Multiple Projectiles maximize combat effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        430
-      ]
-    ]
-  },
-  "Ef7fXT": {
-    "translation": "Навыки Интеллекта PoE2 предлагают разнообразные варианты заклинаний, позволяя магам адаптировать свою стратегию с помощью различных комбинаций заклинаний. От заклинаний прямого урона до способностей площадного действия, сборки интеллекта могут эффективно справляться как с одиночными целями, так и с групповыми столкновениями.",
-    "message": "PoE2 Intelligence skills offer diverse spellcasting options, allowing mages to adapt their strategy through various spell combinations. From direct damage spells to area-of-effect abilities, Intelligence builds can handle both single-target and group encounters effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        483
-      ]
-    ]
-  },
-  "+PZx0E": {
-    "translation": "Сильные навыки PoE2 демонстрируют отличную синергию с поддерживающими гемами и пассивными навыками. Эти способности красных гемов могут быть усилены с помощью стратегических комбинаций гемов и тщательного планирования сборки.",
-    "message": "PoE2 Strength Skills demonstrate excellent synergy with support gems and passive skills. These red gem abilities can be enhanced through strategic gem combinations and careful build planning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        359
-      ]
-    ]
-  },
-  "o+2pHs": {
-    "translation": "Сильные навыки PoE2 имеют мощные способности AoE, такие как Удар по земле и Удар, обеспечивающие эффективное управление толпой. Эти атаки на основе силы могут справляться с несколькими врагами, сохраняя высокий потенциал урона по одной цели.",
-    "message": "PoE2 Strength Skills feature powerful AoE abilities like Ground Slam and Cleave for effective crowd control. These Strength-based attacks can handle multiple enemies while maintaining strong single-target damage potential.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        344
-      ]
-    ]
-  },
-  "wOwmov": {
-    "translation": "Поддерживающие гемы PoE2 значительно изменяют боевые возможности, изменяя типы урона, добавляя эффекты или изменяя поведение навыков. Эти модификации через Поддерживающие гемы позволяют игрокам создавать уникальные и мощные комбинации навыков.",
-    "message": "PoE2 Support Gems dramatically alter combat capabilities by modifying damage types, adding effects, or changing skill behaviors. These modifications through Support Gems allow players to create unique and powerful skill combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        696
-      ]
-    ]
-  },
-  "i/DAEv": {
-    "translation": "Система гемов PoE2 позволяет создавать мощные комбинации между гемами навыков и поддерживающими гемами. Игроки могут создавать уникальные сборки, связывая взаимодополняющие гемы, улучшая их эффективность в бою и обеспечивая разнообразие игровых опций.",
-    "message": "PoE2's gem system allows for powerful combinations between Skill Gems and Support Gems. Players can create unique builds by linking complementary gems together, enhancing their effectiveness in combat and providing diverse gameplay options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        569
-      ]
-    ]
-  },
-  "jUaDnb": {
-    "translation": "Популярные зеленые гемы навыков для дальнего боя в流放之路2 включают Вихревой выстрел для AoE урона, Ледяной выстрел для контроля толпы и Прокол для урона по одной цели. Эти гемы на основе ловкости отлично проявляют себя в сценариях дальнего боя.",
-    "message": "Popular Green Skill Gems for ranged combat in Path of Exile 2 include Tornado Shot for AoE damage, Ice Shot for crowd control, and Puncture for single-target damage. These Dexterity-based gems excel in ranged combat scenarios.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        589
-      ]
-    ]
-  },
   "2ziObN": {
     "translation": "Советы по практике и улучшению",
     "message": "Practice and Improvement Tips",
@@ -2880,14 +1228,14 @@
       ]
     ]
   },
-  "DHhJ7s": {
-    "translation": "Предыдущий",
-    "message": "Previous",
+  "zen3yb": {
+    "translation": "Библиотека предустановленных форм",
+    "message": "Preset Shapes Library",
     "comments": [],
     "origin": [
       [
-        "components/skills/pagination.tsx",
-        24
+        "config/site.ts",
+        193
       ]
     ]
   },
@@ -2950,50 +1298,6 @@
       ]
     ]
   },
-  "VUcR6L": {
-    "translation": "Фокус на дальнем бое",
-    "message": "Ranged Combat Focus",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        414
-      ]
-    ]
-  },
-  "zdFqOJ": {
-    "translation": "Красные гемы (сила)",
-    "message": "Red Gems (Strength)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        553
-      ]
-    ]
-  },
-  "XDr3Q0": {
-    "translation": "Красные гемы навыков (сила)",
-    "message": "Red Skill Gems (Strength)",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        756
-      ]
-    ]
-  },
-  "ZzMbBc": {
-    "translation": "Красные гемы навыков сосредоточены на ближнем бою и физическом уроне, обладая мощными ударами, ударами и защитными способностями. Популярные навыки включают Удар, Мощный удар и Удар по земле, идеально подходящие для сборок типа воин в流放之路2.",
-    "message": "Red Skill Gems focus on melee combat and physical damage, featuring powerful strikes, slams, and defensive abilities. Popular skills include Cleave, Heavy Strike, and Ground Slam, ideal for warrior-type builds in Path of Exile 2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        554
-      ]
-    ]
-  },
   "dS5A3M": {
     "translation": "Регулярная практика - ключ к овладению рисованием персонажей Dandy's World. Присоединяйтесь к онлайн-сообществам, участвуйте в конкурсах по рисованию и изучайте официальные справочные материалы. Поддерживайте скетчбук, посвященный практике Dandy's World.",
     "message": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
@@ -3005,58 +1309,25 @@
       ]
     ]
   },
-  "FCMZT7": {
-    "translation": "ТРЕБОВАНИЯ:",
-    "message": "REQUIREMENTS:",
+  "zmgp8I": {
+    "translation": "Богатый выбор цветов",
+    "message": "Rich Color Options",
     "comments": [],
     "origin": [
       [
-        "components/skills/SkillCard.tsx",
-        101
+        "config/site.ts",
+        188
       ]
     ]
   },
-  "yY6AgM": {
-    "translation": "Сохранить сборку",
-    "message": "Save Build",
+  "Gf+QJT": {
+    "translation": "Сохраняйте и делитесь вашими творениями, созданными в Генераторе рисования Dandys World, в форматах PNG или JPG, что делает их легкими для сохранения и демонстрации ваших произведений.",
+    "message": "Save and share your Dandys World Draw Generator creations in PNG or JPG format, making it simple to preserve and showcase your artwork.",
     "comments": [],
     "origin": [
       [
-        "components/skills/SkillBuilder.tsx",
-        300
-      ]
-    ]
-  },
-  "U1e3dH": {
-    "translation": "Сохранение сборки...",
-    "message": "Saving build...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        116
-      ]
-    ]
-  },
-  "XvjC4F": {
-    "translation": "Сохранение...",
-    "message": "Saving...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        300
-      ]
-    ]
-  },
-  "giZAjB": {
-    "translation": "Поиск навыков...",
-    "message": "Search skills...",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillFilter.tsx",
-        57
+        "config/site.ts",
+        214
       ]
     ]
   },
@@ -3071,28 +1342,6 @@
       ]
     ]
   },
-  "5KwHac": {
-    "translation": "Поскольку Jujutsu Kaisen Phantom Parade в основном доступен на японском языке, вы можете использовать инструменты перевода или руководства, созданные сообществом. Кроме того, некоторые игроки используют VPN для доступа к игре из регионов за пределами Японии.",
-    "message": "Since Jujutsu Kaisen Phantom Parade is primarily available in Japanese, you can use translation tools or guides created by the community. Additionally, some players use VPNs to access the game from regions outside Japan.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        217
-      ]
-    ]
-  },
-  "So8vLA": {
-    "translation": "Комбинации навыков",
-    "message": "Skill Combinations",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        429
-      ]
-    ]
-  },
   "b2kWPd": {
     "translation": "Развитие навыков",
     "message": "Skill Development",
@@ -3104,113 +1353,25 @@
       ]
     ]
   },
-  "fCL3cR": {
-    "translation": "Гемы навыков - Основные боевые способности",
-    "message": "Skill Gems - Core Combat Abilities",
+  "1DA6ap": {
+    "translation": "Квадрат",
+    "message": "Square",
+    "comments": [],
+    "origin": [
+      [
+        "components/DrawingBoard.tsx",
+        25
+      ]
+    ]
+  },
+  "3W0xiR": {
+    "translation": "Начните с чистого листа в любое время с помощью функции очистки холста одним нажатием в Генераторе рисования Dandys World, идеально подходящей для экспериментов с разными стилями рисования.",
+    "message": "Start fresh anytime with Dandys World Draw Generator's one-click canvas clear feature, perfect for experimenting with different drawing styles.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        543
-      ]
-    ]
-  },
-  "x+zwNc": {
-    "translation": "Гемы навыков могут быть усилены поддерживающими гемами, создавая мощные комбинации, которые изменяют и усиливают их эффекты, позволяя глубокую настройку сборок персонажа в PoE2.",
-    "message": "Skill Gems can be enhanced with Support Gems, creating powerful combinations that modify and amplify their effects, allowing for deep customization of character builds in PoE2.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        625
-      ]
-    ]
-  },
-  "D6yiax": {
-    "translation": "Гемы навыков в流放之路2 получают опыт по мере их использования и автоматически улучшаются, когда накапливается достаточно опыта. Гемы более высокого уровня обеспечивают повышенную эффективность, но могут требовать более высоких значений атрибутов для использования. Некоторые гемы также можно улучшить за счет улучшения качества.",
-    "message": "Skill gems in Path of Exile 2 gain experience as you use them and level up automatically when enough experience is gained. Higher level gems provide increased effectiveness but may require higher attribute values to use. Some gems can also be enhanced through quality improvements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        828
-      ]
-    ]
-  },
-  "Gy87f7": {
-    "translation": "Гемы навыков в流放之路2 работают в связке с деревом пассивных навыков, где выделенные очки могут улучшать эффективность выбранных вами гемов. Пассивное дерево начинается в разных разделах в зависимости от основного атрибута вашего персонажа, позволяя вам специализироваться на конкретных типах гемов навыков и создавать разнообразные комбинации сборок.",
-    "message": "Skill Gems in Path of Exile 2 work in conjunction with the passive skill tree, where allocated points can enhance the effectiveness of your chosen gems. The passive tree starts in different sections based on your character's primary attribute, allowing you to specialize in specific Skill Gem types and create diverse build combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        660
-      ]
-    ]
-  },
-  "ndUYkQ": {
-    "translation": "Гемы навыков в PoE2 могут существенно влиять на командную игру за счет различных эффектов поддержки и синергии. Некоторые гемы обеспечивают ауры, бафы или защитные преимущества альянсам, в то время как другие могут создавать мощные атакующие комбинации при совместном использовании. Понимание этих взаимодействий имеет важное значение для эффективной командной игры.",
-    "message": "Skill Gems in PoE2 can significantly impact team play through various support and synergy effects. Certain gems provide auras, buffs, or defensive benefits to allies, while others can create powerful offensive combinations when used together. Understanding these interactions is crucial for effective group gameplay.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        676
-      ]
-    ]
-  },
-  "PoDInI": {
-    "translation": "Гемы навыков в PoE2 получают опыт по мере их использования в бою. По мере повышения уровня гемы становятся мощнее, нанося увеличенный урон или обеспечивая улучшенные эффекты. Некоторые гемы также могут быть дополнительно усилены с помощью определенных поддерживающих гемов и узлов дерева пассивных навыков.",
-    "message": "Skill Gems in PoE2 gain experience as you use them in combat. As gems level up, they become more powerful, dealing increased damage or providing enhanced effects. Some gems can also be enhanced further through specific Support Gems and passive skill tree nodes.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        597
-      ]
-    ]
-  },
-  "yPXV5d": {
-    "translation": "Прогресс навыков",
-    "message": "Skill Progression",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        791
-      ]
-    ]
-  },
-  "x+1D9r": {
-    "translation": "Синергии навыков",
-    "message": "Skill Synergies",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        358
-      ]
-    ]
-  },
-  "PYeaTU": {
-    "translation": "Специализируется на дальнем бою и ловких стилях игры. Включает мощные навыки, такие как Вихревой выстрел и Ледяной выстрел, с сильными комбинациями поддержки для критических ударов и эффектов урона с течением времени. Идеально подходит для игроков, предпочитающих подвижность и точность.",
-    "message": "Specializes in ranged combat and agile playstyles. Includes powerful skills like Tornado Shot and Ice Shot, with strong support combinations for critical strikes and damage over time effects. Ideal for players who prefer mobility and precision.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        762
-      ]
-    ]
-  },
-  "pAcweS": {
-    "translation": "СКОРОСТЬ:",
-    "message": "SPEED:",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillCard.tsx",
-        97
+        209
       ]
     ]
   },
@@ -3222,292 +1383,6 @@
       [
         "config/site.ts",
         103
-      ]
-    ]
-  },
-  "ZDK00R": {
-    "translation": "Навыки Силы (красные гемы) сосредоточены на прямом физическом уроне и выживаемости, в то время как навыки ловкости подчеркивают скорость и точность, а навыки интеллекта сосредоточены на заклинаниях и элементарном уроне. Умения на основе силы отлично проявляют себя в ближнем бою и защитных возможностях, что делает их уникальными среди трех типов атрибутов.",
-    "message": "Strength Skills (red gems) focus on direct physical damage and survivability, while Dexterity skills emphasize speed and precision, and Intelligence skills focus on spells and elemental damage. Strength-based abilities excel in close combat and defensive capabilities, making them unique among the three attribute types.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        397
-      ]
-    ]
-  },
-  "8LeiXO": {
-    "translation": "Навыки Силы (красные гемы) в PoE2 в основном сосредоточены на ближнем бою и физическом уроне. Эти навыки преуспевают в нанесении мощных ударов, ударах по земле и атаках по площади. Они естественным образом синергизируются с высокими запасами жизни и броней, что делает их идеальными для чрезмерных сборок. Ключевыми особенностями являются Военные крики для баффинга, мощные удары для урона по одной цели и удары по земле для контроля толпы.",
-    "message": "Strength Skills (red gems) in PoE2 primarily focus on melee combat and physical damage. These skills excel at delivering powerful strikes, ground slams, and area-of-effect attacks. They naturally synergize with high life pools and armor, making them ideal for tanky builds. Key features include War Cries for buffing, heavy strikes for single-target damage, and ground slams for crowd control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        377
-      ]
-    ]
-  },
-  "LhGQJv": {
-    "translation": "Навыки Силы в流放之路2 обладают мощными механиками воздействия, которые могут оглушать, отталкивать или контролировать врагов. Эти красные навыки отлично справляются с созданием пространства и управлением позицией на поле боя.",
-    "message": "Strength Skills in Path of Exile 2 feature powerful impact mechanics that can stun, knock back, or otherwise control enemies. These red skills excel at creating space and controlling battlefield positioning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        369
-      ]
-    ]
-  },
-  "ifAE8x": {
-    "translation": "Навыки Силы в PoE2 excel наносят мощный физический урон через ближние атаки и удары по земле. Эти способности красных гемов образуют основу сборок физического урона, что делает их незаменимыми для персонажей, сосредоточенных на ближнем бою.",
-    "message": "Strength Skills in PoE2 excel at delivering powerful physical damage through melee attacks and ground slams. These red gem abilities form the core of physical damage builds, making them essential for close-combat focused characters.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        334
-      ]
-    ]
-  },
-  "Pf823r": {
-    "translation": "Навыки Силы включают ценные варианты поддержки команды через способности, такие как Военный крик и Длительный крик. Эти навыки красных гемов усиливают групповую игру, обеспечивая баффы и защитные преимущества союзникам.",
-    "message": "Strength Skills include valuable team support options through abilities like Rallying Cry and Enduring Cry. These red gem skills enhance group play by providing buffs and defensive benefits to allies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        349
-      ]
-    ]
-  },
-  "prIkB+": {
-    "translation": "Навыки силы эффективно масштабируются через несколько механизмов: физический урон увеличивается с качеством оружия, красные гемы получают силу через повышение уровня, а узлы пассивного дерева усиливают способности основанные на силе. Кроме того, эти навыки выигрывают от масштабирования жизни, что делает их все более мощными по мере развития персонажей.",
-    "message": "Strength Skills scale effectively through several mechanisms: physical damage increases with weapon quality, red gems gain power through leveling, and passive tree nodes enhance Strength-based abilities. Additionally, these skills benefit from life scaling, making them increasingly powerful as characters develop.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        389
-      ]
-    ]
-  },
-  "PKAYT3": {
-    "translation": "Навыки на основе силы выигрывают от естественных механизмов масштабирования жизни, что делает их идеальными для сборок с высоким уровнем здоровья. Система красных гемов по своей сути поддерживает выживаемость, сохраняя при этом сильные атакующие способности.",
-    "message": "Strength-based skills benefit from natural life scaling mechanics, making them ideal for high-health builds. The red gem system inherently supports survivability while maintaining strong offensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        364
-      ]
-    ]
-  },
-  "vmiqyT": {
-    "translation": "Навыки на основе силы предоставляют ценную поддержку команде через несколько механизмов: Военные крики предлагают временные баффы ближайшим союзникам, Военный крик увеличивает групповой урон, и многие навыки силы создают защитные зоны, которые приносят пользу всей команде. Эти способности красных гемов также помогают контролировать позицию на поле боя через эффекты отталкивания и оглушения.",
-    "message": "Strength-based skills provide valuable team support through several mechanics: War Cries offer temporary buffs to nearby allies, Rallying Cry increases group damage output, and many Strength Skills create defensive zones that benefit the entire team. These red gem abilities also help control battlefield positioning through knockback and stun effects.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        381
-      ]
-    ]
-  },
-  "DRzks3": {
-    "translation": "Сильный акцент на механиках групповой игры. Навыки могут комбинироваться между игроками для усиления эффектов, а ауры и баффы приносят пользу всей партии. Идеально подходит для кооперативной игры и сложного группового контента.",
-    "message": "Strong emphasis on group play mechanics. Skills can be combined between players for enhanced effects, with auras and buffs benefiting entire parties. Perfect for cooperative gameplay and challenging group content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        787
-      ]
-    ]
-  },
-  "v+HYpp": {
-    "translation": "Интеграция поддерживающих гемов",
-    "message": "Support Gem Integration",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        624
-      ]
-    ]
-  },
-  "HnnNzx": {
-    "translation": "Поддерживающие гемы - Усиление способностей",
-    "message": "Support Gems - Ability Enhancement",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        548
-      ]
-    ]
-  },
-  "/qzRU4": {
-    "translation": "Поддерживающие гемы могут изменять урон навыков в流放之路2 через различные множители и эффекты. Они могут увеличивать базовый урон, добавлять элементарный урон, повышать шансы критического удара или обеспечивать эффекты урона с течением времени. Некоторые поддерживающие гемы также предлагают бонусы к урону при выполнении определенных условий или против определенных типов врагов.",
-    "message": "Support Gems can modify skill damage in Path of Exile 2 through various multipliers and effects. They might increase base damage, add elemental damage, enhance critical strike chances, or provide damage over time effects. Some Support Gems also offer damage bonuses under specific conditions or against certain types of enemies.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        739
-      ]
-    ]
-  },
-  "bDfPmj": {
-    "translation": "Поддерживающие гемы в流放之路2 являются специализированными гемами, которые изменяют и усиливают активные гемы навыков. Они позволяют игрокам настраивать свои способности, изменяя типы урона, добавляя эффекты или изменяя поведение навыков. Эти поддерживающие гемы могут быть связаны с активными навыками для создания мощных комбинаций, что кардинально изменяет игровые механики и способности персонажа.",
-    "message": "Support Gems in Path of Exile 2 are specialized gems that modify and enhance active skill gems. They allow players to customize their abilities by altering damage types, adding effects, or changing skill behaviors. These Support Gems can be linked with active skills to create powerful combinations, fundamentally transforming gameplay mechanics and character capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        719
-      ]
-    ]
-  },
-  "ZTydNa": {
-    "translation": "Поддерживающие гемы в流放之路2 могут усилить защитные способности, предоставляя различные формы защиты через модификации навыков. Игроки могут использовать поддерживающие гемы для улучшения выживаемости и создания надежных защитных установок.",
-    "message": "Support Gems in Path of Exile 2 can enhance defensive abilities, providing various forms of protection through skill modifications. Players can utilize Support Gems to improve survivability and create robust defensive setups.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        701
-      ]
-    ]
-  },
-  "GZFU/j": {
-    "translation": "Поддерживающие камни в пакте流放之路2 получают опыт, когда вы используете их в бою, в конечном итоге повышая уровень и становясь более мощными. Поддерживающие камни более высокого уровня, как правило, обеспечивают более сильные эффекты, но также требуют более высоких значений атрибутов. Игроки могут контролировать уровень камней в зависимости от требований своего билда и доступных атрибутов.",
-    "message": "Support Gems in Path of Exile 2 gain experience as you use them in combat, eventually leveling up to become more powerful. Higher-level Support Gems typically provide stronger effects but also require higher attribute values. Players can control gem leveling based on their build requirements and attribute availability.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        747
-      ]
-    ]
-  },
-  "LcmDag": {
-    "translation": "Поддерживающие камни в пакте流放之路2 изменяют и усиливают активные камни навыков, когда они связаны вместе. Они могут изменять типы урона, добавлять эффекты, увеличивать скорость атаки или предоставлять утилитарные преимущества. Сочетание камней навыков с поддерживающими камнями создает мощные синергии для билдов персонажей.",
-    "message": "Support Gems in Path of Exile 2 modify and enhance Active Skill Gems when linked together. They can alter damage types, add effects, increase attack speed, or provide utility benefits. The combination of Skill Gems with Support Gems creates powerful synergies for character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        581
-      ]
-    ]
-  },
-  "HNSEdY": {
-    "translation": "Поддерживающие камни в пакте流放之路2 изменяют и усиливают эффекты активных камней навыков. Их можно соединять с активными навыками, чтобы добавлять эффекты, такие как увеличенный урон, дополнительные снаряды или измененное поведение. Сочетание активных навыков и поддерживающих камней позволяет глубоко кастомизировать способности вашего персонажа.",
-    "message": "Support gems in Path of Exile 2 modify and enhance the effects of active skill gems. They can be linked to active skills to add effects like increased damage, additional projectiles, or modified behavior. The combination of active skills and support gems allows for deep customization of your character's abilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        804
-      ]
-    ]
-  },
-  "bOTDnj": {
-    "translation": "Поддерживающие камни в пакте流放之路2 изменяют и усиливают эффекты активных камней навыков. Когда они связаны вместе, поддерживающие камни могут изменять различные аспекты основного навыка, такие как урон, площадь действия, шанс критического удара или добавление новых эффектов. Эта система позволяет глубоко кастомизировать билды персонажей через комбинации различных камней навыков.",
-    "message": "Support Gems in Path of Exile 2 modify and enhance the effects of active Skill Gems. When linked together, Support Gems can alter various aspects of the main skill, such as damage output, area of effect, critical strike chance, or adding new effects. This system allows for deep customization of character builds through different Skill Gem combinations.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        652
-      ]
-    ]
-  },
-  "EoVn+L": {
-    "translation": "Поддерживающие камни в пакте流放之路2 значительно влияют на билды персонажей, изменяя механику навыков, урон и утилитарные эффекты. Они могут превращать базовые способности в мощные комбинации, усиливать защитные возможности, увеличивать скорость атаки или кастования и добавлять различные эффекты, такие как критические удары или статусные заболевания. Выбор поддерживающих камней напрямую влияет на эффективность билда и варианты игрового стиля.",
-    "message": "Support Gems in Path of Exile 2 significantly impact character builds by modifying skill mechanics, damage output, and utility effects. They can transform basic abilities into powerful combinations, enhance defensive capabilities, increase attack or cast speed, and add various effects like critical strikes or status ailments. The choice of Support Gems directly influences build effectiveness and playstyle options.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        731
-      ]
-    ]
-  },
-  "xrRhmD": {
-    "translation": "Поддерживающие камни в POE2 изменяют и усиливают эффекты камней навыков, когда они связаны вместе. Они могут изменять типы урона, добавлять снаряды, увеличивать скорость атаки или предоставлять утилитарные эффекты, создавая глубокие возможности настройки для билдов персонажей.",
-    "message": "Support Gems in PoE2 modify and enhance Skill Gems' effects when linked together. They can alter damage types, add projectiles, increase attack speed, or provide utility effects, creating deep customization options for character builds.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        549
-      ]
-    ]
-  },
-  "igPCWg": {
-    "translation": "Поддерживающие камни в POE2 бесшовно интегрируются с активными навыками через систему связывания. Игроки могут комбинировать несколько поддерживающих камней с одним активным навыком, создавая сложные и мощные взаимодействия навыков, которые усиливают эффективность их персонажа.",
-    "message": "Support Gems in PoE2 seamlessly integrate with active skills through the linking system. Players can combine multiple Support Gems with a single active skill, creating complex and powerful skill interactions that enhance their character's effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        691
-      ]
-    ]
-  },
-  "zJznXk": {
-    "translation": "Система поддержки камней",
-    "message": "Support Gems System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        771
-      ]
-    ]
-  },
-  "Xff8Oa": {
-    "translation": "Поддерживающие навыки",
-    "message": "Support Skills",
-    "comments": [],
-    "origin": [
-      [
-        "components/skills/SkillBuilder.tsx",
-        230
-      ]
-    ]
-  },
-  "7ZQrYT": {
-    "translation": "Поддержка команды",
-    "message": "Team Support",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        348
-      ]
-    ]
-  },
-  "k+aCcA": {
-    "translation": "Синергия команды",
-    "message": "Team Synergy",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        786
-      ]
-    ]
-  },
-  "kF8bSs": {
-    "translation": "Планирование синергии команды",
-    "message": "Team Synergy Planning",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        857
       ]
     ]
   },
@@ -3533,28 +1408,6 @@
       ]
     ]
   },
-  "UxGE0W": {
-    "translation": "Наиболее эффективные комбинации навыков ловкости в пакте流放之路2 включают: Ураганный Выстрел с Большими Множественными Снарядами для AoE урона, Проколю с Уроном на Полной Жизни для однозадачного урона и Разделенный Стрелом с Поддержкой Цепной Реакции для очистки противников. Эти комбинации обеспечивают универсальные варианты для различных боевых сценариев.",
-    "message": "The most effective dexterity skill combinations in Path of Exile 2 include: Tornado Shot with Greater Multiple Projectiles for AoE damage, Puncture with Damage on Full Life Support for single-target damage, and Split Arrow with Chain Support for mob clearing. These combinations provide versatile options for different combat scenarios.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        452
-      ]
-    ]
-  },
-  "HDXzHc": {
-    "translation": "Наиболее эффективные навыки ловкости для боев с боссами в POE2 включают: Громовой Выстрел для однозадачного урона, Проколю для стабильного урона от кровотечения и Ураганный Выстрел для управления дополнительными врагами. Эти навыки, в сочетании с соответствующими поддерживающими камнями, обеспечивают сильные варианты для сложных боевых встреч с боссами.",
-    "message": "The most effective dexterity skills for PoE2 boss fights include: Barrage for single-target damage, Puncture for sustained bleeding damage, and Tornado Shot for managing additional enemies. These skills, combined with appropriate support gems, provide strong options for challenging boss encounters.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        468
-      ]
-    ]
-  },
   "YHuztc": {
     "translation": "Право собственности на изображения, созданные на основе текста на Веб-сайте, принадлежит лицу, создавшему изображение. #0# не претендует на право собственности на изображения, созданные пользователями.",
     "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
@@ -3563,105 +1416,6 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         21
-      ]
-    ]
-  },
-  "XsJQz+": {
-    "translation": "Пассивное дерево навыков в пакте流放之路2 усиливает камни навыков через различные узлы, которые увеличивают определенные атрибуты или эффекты. Игроки могут выделять пассивные очки для усиления своих выбранных навыков, будь то увеличение урона, улучшение шансов критического удара или улучшение защитных возможностей.",
-    "message": "The passive skill tree in Path of Exile 2 enhances skill gems through various nodes that boost specific attributes or effects. Players can allocate passive points to strengthen their chosen skills, whether by increasing damage, improving critical strike chances, or enhancing defensive capabilities.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        820
-      ]
-    ]
-  },
-  "No7+CH": {
-    "translation": "Планировщик навыков POE2 предлагает различные варианты передвижения: Пламенный Прыжок или Молниеносный Перемещение для заклинателей, Вихревые Лезвия для персонажей ближнего боя и Дымовая Мина для общей мобильности. Выберите в зависимости от атрибутов и требований вашего билда персонажа.",
-    "message": "The PoE2 Skills Planner offers various movement options: Flame Dash or Lightning Warp for spellcasters, Whirling Blades for melee characters, and Smoke Mine for general mobility. Choose based on your character's attributes and build requirements.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        905
-      ]
-    ]
-  },
-  "FLydL7": {
-    "translation": "Планировщик навыков POE2 предлагает защитные комбинации, такие как Ледяная Баррикада с Увеличенной Продолжительностью, Жизненная Энергия с поддерживающими камнями для улучшенной регенерации здоровья или Временные Цепи с поддержками по области. Эти комбинации помогают улучшить выживаемость в сложном контенте.",
-    "message": "The PoE2 Skills Planner suggests defensive combinations like Ice Barrier with Increased Duration, Vitality with support gems for enhanced life regeneration, or Temporal Chains with area effect supports. These combinations help improve survivability in challenging content.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        897
-      ]
-    ]
-  },
-  "24RJBw": {
-    "translation": "Директор Киотской высшей школы кодзютцу, часто конфликтующий с Годзё, но уважаемый за свои знания и опыт в кодзютцу.",
-    "message": "The principal of the Kyoto Jujutsu High School, he often clashes with Gojo but is respected for his knowledge and experience in jujutsu.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        323
-      ]
-    ]
-  },
-  "AU0l03": {
-    "translation": "Директор Токийской высшей школы кодзютцу, известный своим мастерством в создании проклятых кукол и обладающий расслабленным отношением.",
-    "message": "The principal of the Tokyo Jujutsu High School, he is known for his expertise in creating cursed puppets and has a laid-back attitude.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        318
-      ]
-    ]
-  },
-  "A77eUm": {
-    "translation": "Система камней навыков бесшовно интегрируется с пассивным деревом навыков в пакте流放之路2, позволяя игрокам создавать специализированные билды, выделяя очки, которые увеличивают эффективность их выбранных камней навыков.",
-    "message": "The Skill Gems system integrates seamlessly with Path of Exile 2's passive skill tree, enabling players to create specialized builds by allocating points that enhance their chosen Skill Gems' effectiveness.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        630
-      ]
-    ]
-  },
-  "WU9T4o": {
-    "translation": "Система навыков силы предлагает замечательную боевую гибкость через навыки, такие как Сильный Удар для одиночных целей и Разрывание для урона по площади. Эти навыки на основе силы эффективно адаптируются к различным боевым ситуациям.",
-    "message": "The Strength Skills system offers remarkable combat flexibility through skills like Heavy Strike for single targets and Lacerate for area damage. These Strength-based abilities adapt to different combat situations effectively.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        354
-      ]
-    ]
-  },
-  "pDFUtP": {
-    "translation": "Система навыков на основе силы предоставляет надежные защитные опции через Военные Крики и механизмы укрепления. Эти красные навыки естественным образом синергизируются с высоким уровнем брони и здоровья, создавая прочные танковые билды, которые могут выдерживать значительный урон.",
-    "message": "The Strength-based skill system provides robust defensive options through War Cries and fortification mechanics. These red skills naturally synergize with high armor and life pools, creating durable tanky builds that can withstand significant damage.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        339
-      ]
-    ]
-  },
-  "30GqmK": {
-    "translation": "Сильнейший колдун в серии, известный своими исключительными навыками и защитным характером по отношению к своим студентам.",
-    "message": "The strongest sorcerer in the series, known for his exceptional skills and protective nature towards his students.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        248
       ]
     ]
   },
@@ -3698,17 +1452,6 @@
       ]
     ]
   },
-  "x4f8pZ": {
-    "translation": "Советы",
-    "message": "Tips",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/header.tsx",
-        16
-      ]
-    ]
-  },
   "lwBH3z": {
     "translation": "Советы по Dandy's World Draw",
     "message": "Tips Of Dandys World Draw",
@@ -3717,6 +1460,17 @@
       [
         "config/site.ts",
         94
+      ]
+    ]
+  },
+  "I1Vwuf": {
+    "translation": "Советы по Генератору рисования Dandys World",
+    "message": "Tips Of Dandys World Draw Generator",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        183
       ]
     ]
   },
@@ -3742,39 +1496,6 @@
       ]
     ]
   },
-  "sHKGIZ": {
-    "translation": "Чтобы создать эффективный билд с помощью Планировщика Навыков POE2, комбинируйте синергические активные навыки с соответствующими поддерживающими камнями, интегрируйте утилитарные навыки для бустов и защиты, и убедитесь, что ваши выборы в пассивном дереве навыков дополняют выбранные вами навыки. Учитывайте основные атрибуты вашего персонажа и желаемый игровой стиль при планировании.",
-    "message": "To create an effective build using the PoE2 Skills Planner, combine synergistic active skills with appropriate support gems, integrate utility skills for buffs and defense, and ensure your passive skill tree choices complement your selected skills. Consider your character's primary attributes and desired playstyle when planning.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        885
-      ]
-    ]
-  },
-  "QYfZIH": {
-    "translation": "Чтобы скачать Jujutsu Kaisen Phantom Parade на Android, посетите Google Play Store, найдите 'Jujutsu Kaisen Phantom Parade' и нажмите кнопку установки. Убедитесь, что ваше устройство работает под управлением Android 8.0 или более поздней версии.",
-    "message": "To download Jujutsu Kaisen Phantom Parade on Android, visit the Google Play Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the install button. Make sure your device runs Android 8.0 or later.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        213
-      ]
-    ]
-  },
-  "2wkkZE": {
-    "translation": "Чтобы скачать Jujutsu Kaisen Phantom Parade на iOS, посетите Apple App Store, найдите 'Jujutsu Kaisen Phantom Parade' и нажмите кнопку загрузки. Убедитесь, что ваше устройство соответствует требованиям к совместимости (iOS 12.0 или более поздняя версия).",
-    "message": "To download Jujutsu Kaisen Phantom Parade on iOS, visit the Apple App Store, search for 'Jujutsu Kaisen Phantom Parade,' and tap the download button. Ensure your device meets the compatibility requirements (iOS 12.0 or later).",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        209
-      ]
-    ]
-  },
   "gN00PD": {
     "translation": "Для облегчения нашей Службы;",
     "message": "To facilitate our Service;",
@@ -3783,28 +1504,6 @@
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
         27
-      ]
-    ]
-  },
-  "lzF3W8": {
-    "translation": "Чтобы оптимизировать билд на навыках силы: выберите дополнительные красные камни, которые разделяют механизмы масштабирования, инвестируйте в соответствующие узлы пассивного дерева, используйте соответствующие поддерживающие камни и убедитесь, что ваше снаряжение улучшает физический урон и выживаемость. Сфокусируйтесь на синергиях между способностями на основе силы и вашей выбранной защитной стратегией.",
-    "message": "To optimize a Strength Skills build: Choose complementary red gems that share scaling mechanisms, invest in relevant passive tree nodes, use appropriate support gems, and ensure your gear enhances physical damage and survivability. Focus on synergies between Strength-based abilities and your chosen defensive strategy.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        405
-      ]
-    ]
-  },
-  "lNAN+A": {
-    "translation": "Чтобы оптимизировать навыки интеллекта для контента конца игры, игроки должны сосредоточиться на комбинировании дополнительных навыков с соответствующими поддерживающими камнями. Например, объединение Огненного Шара с Эхом Заклинаний для увеличения объема урона, использование защитных навыков, таких как Ледяная Баррикада для выживаемости и добавление утилитарных навыков, таких как Временные Цепи для контроля толпы.",
-    "message": "To optimize Intelligence skills for endgame content, players should focus on combining complementary skills with appropriate support gems. For example, pairing Fireball with Spell Echo for increased damage output, using defensive skills like Ice Barrier for survival, and incorporating utility skills like Temporal Chains for crowd control.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        522
       ]
     ]
   },
@@ -3830,14 +1529,14 @@
       ]
     ]
   },
-  "8sKmE2": {
-    "translation": "Топ синих камней навыков для заклинателей включают Огненный Шар для урона по площади, Арку для цепных молниеносных эффектов и Ледяной Снаряд для контроля толпы. Эти камни на основе интеллекта предоставляют мощные магические способности, необходимые для билдов заклинателей в POE2.",
-    "message": "Top Blue Skill Gems for spellcasters include Fireball for area damage, Arc for chain lightning effects, and Frostbolt for crowd control. These Intelligence-based gems provide powerful magical abilities essential for spellcasting builds in PoE2.",
+  "ucHvJP": {
+    "translation": "Треугольник",
+    "message": "Triangle",
     "comments": [],
     "origin": [
       [
-        "config/site.ts",
-        593
+        "components/DrawingBoard.tsx",
+        26
       ]
     ]
   },
@@ -3885,28 +1584,6 @@
       ]
     ]
   },
-  "Tctkpv": {
-    "translation": "Используя Планировщик Навыков流放之路2, комбинируйте навыки, такие как Арка или Огненный Шар с поддерживающими камнями критических ударов. Для заклинателей навыки, такие как Волна Убеждения, могут понизить сопротивление врагов, в то время как поддерживающие камни, такие как Увеличенные Критические Удары, усиливают ваши шансы на критический удар.",
-    "message": "Using the Path of Exile 2 Skills Planner, combine skills like Arc or Fireball with Critical Strike support gems. For spellcasters, skills like Wave of Conviction can lower enemy resistances, while support gems like Increased Critical Strikes enhance your critical hit chances.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        901
-      ]
-    ]
-  },
-  "2t3ERA": {
-    "translation": "Используя Планировщик Навыков POE2, вы можете оптимизировать командную игру, комбинируя ауры, такие как Благодать или Жизненная Энергия, поддерживающие навыки, такие как Военный Крик, и защитные способности, такие как Ледяной Щит. Эти комбинации усиливают выживаемость группы и объем урона.",
-    "message": "Using the PoE2 Skills Planner, you can optimize team play by combining auras like Grace or Vitality, support skills like Rallying Cry, and defensive abilities like Frost Shield. These combinations enhance group survivability and damage output.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        909
-      ]
-    ]
-  },
   "qNd2+R": {
     "translation": "Разнообразные художественные стили",
     "message": "Versatile Art Styles",
@@ -3915,28 +1592,6 @@
       [
         "config/site.ts",
         108
-      ]
-    ]
-  },
-  "YAdzdY": {
-    "translation": "Универсальное Заклинание",
-    "message": "Versatile Spellcasting",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        482
-      ]
-    ]
-  },
-  "fwjhig": {
-    "translation": "Универсальная Система Поддерживающих Камней",
-    "message": "Versatile Support Gem System",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        685
       ]
     ]
   },
@@ -3984,330 +1639,36 @@
       ]
     ]
   },
-  "+g53YR": {
-    "translation": "Что такое навыки интеллекта в пакте流放之路2?",
-    "message": "What are Intelligence Skills in Path of Exile 2?",
+  "vaIm0/": {
+    "translation": "Какие инструменты рисования доступны в Генераторе рисования Dandys World?",
+    "message": "What drawing tools are available in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        505
+        249
       ]
     ]
   },
-  "SgcLUN": {
-    "translation": "Что такое мета-камни в пакте流放之路2?",
-    "message": "What are meta gems in Path of Exile 2?",
+  "LINzV2": {
+    "translation": "Какие функции предлагает Генератор рисования Dandys World?",
+    "message": "What features does Dandys World Draw Generator offer?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        815
+        225
       ]
     ]
   },
-  "iIb9EN": {
-    "translation": "Что такое Мета-камни в пакте流放之路2?",
-    "message": "What are Meta Gems in Path of Exile 2?",
+  "0VKI0R": {
+    "translation": "Что произойдет, если я совершу ошибку при использовании Генератора рисования Dandys World?",
+    "message": "What if I make a mistake while using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        663
-      ]
-    ]
-  },
-  "yUQN2E": {
-    "translation": "Что такое Мета-камни в POE2?",
-    "message": "What are Meta Gems in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        604
-      ]
-    ]
-  },
-  "vodn3f": {
-    "translation": "Что такое Поддерживающие камни в пакте流放之路2?",
-    "message": "What are Support Gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        718
-      ]
-    ]
-  },
-  "8yXSHr": {
-    "translation": "Каковы преимущества комбинирования различных цветных камней навыков?",
-    "message": "What are the benefits of combining different colored Skill Gems?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        671
-      ]
-    ]
-  },
-  "JUd0hO": {
-    "translation": "Какие лучшие защитные комбинации навыков в пакте流放之路2?",
-    "message": "What are the best defensive skill combinations in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        896
-      ]
-    ]
-  },
-  "c6yy8+": {
-    "translation": "Какие лучшие защитные навыки в POE2?",
-    "message": "What are the best defensive skills in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        823
-      ]
-    ]
-  },
-  "paFODa": {
-    "translation": "Какие лучшие навыки ловкости для начинающих в пакте流放之路2?",
-    "message": "What are the best Dexterity skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        459
-      ]
-    ]
-  },
-  "Ttp4+Y": {
-    "translation": "Какие лучшие навыки ловкости для боев с боссами в пакте流放之路2?",
-    "message": "What are the best Dexterity skills for boss fights in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        467
-      ]
-    ]
-  },
-  "koymT5": {
-    "translation": "Какие лучшие навыки интеллекта для начинающих в пакте流放之路2?",
-    "message": "What are the best Intelligence skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        517
-      ]
-    ]
-  },
-  "CvL4R+": {
-    "translation": "Какие лучшие навыки передвижения для различных типов персонажей?",
-    "message": "What are the best movement skills for different character types?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        904
-      ]
-    ]
-  },
-  "lfZF2Z": {
-    "translation": "Какие лучшие красные камни навыков для начинающих?",
-    "message": "What are the best Red Skill Gems for beginners?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        584
-      ]
-    ]
-  },
-  "ocN0f+": {
-    "translation": "Какие лучшие комбинации навыков для начинающих в пакте流放之路2?",
-    "message": "What are the best skill combinations for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        888
-      ]
-    ]
-  },
-  "QkJbEe": {
-    "translation": "Какие лучшие комбинации навыков для начинающих в POE2?",
-    "message": "What are the best skill combinations for beginners in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        807
-      ]
-    ]
-  },
-  "Soewil": {
-    "translation": "Какие лучшие камни навыков для начинающих в пакте流放之路2?",
-    "message": "What are the best Skill Gems for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        655
-      ]
-    ]
-  },
-  "Q6oJnt": {
-    "translation": "Какие лучшие навыки силы для начинающих в пакте流放之路2?",
-    "message": "What are the best Strength Skills for beginners in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        384
-      ]
-    ]
-  },
-  "4NP9YF": {
-    "translation": "Какие лучшие навыки силы для боев с боссами в пакте流放之路2?",
-    "message": "What are the best Strength Skills for boss fights in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        400
-      ]
-    ]
-  },
-  "NFMUoc": {
-    "translation": "Какие лучшие комбинации поддерживающих камней для начинающих?",
-    "message": "What are the best Support Gems combinations for beginners?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        726
-      ]
-    ]
-  },
-  "QOft4q": {
-    "translation": "Какие ключевые защитные навыки интеллекта в пакте流放之路2?",
-    "message": "What are the key defensive Intelligence skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        525
-      ]
-    ]
-  },
-  "nof9TG": {
-    "translation": "Какие ключевые особенности Jujutsu Kaisen Phantom Parade?",
-    "message": "What are the key features of Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        196
-      ]
-    ]
-  },
-  "XGVhle": {
-    "translation": "Какие ключевые поддерживающие камни для навыков силы в пакте流放之路2?",
-    "message": "What are the key support gems for Strength Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        392
-      ]
-    ]
-  },
-  "ZYPue3": {
-    "translation": "Каковы основные характеристики навыков ловкости в пакте流放之路2?",
-    "message": "What are the main characteristics of Dexterity Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        447
-      ]
-    ]
-  },
-  "/mEwQk": {
-    "translation": "Каковы основные характеристики навыков силы в流放之路2?",
-    "message": "What are the main characteristics of Strength Skills in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        376
-      ]
-    ]
-  },
-  "JxO5Zc": {
-    "translation": "Каковы основные типы навыков интеллекта, доступные в POE2?",
-    "message": "What are the main types of Intelligence skills available in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        509
-      ]
-    ]
-  },
-  "d4owts": {
-    "translation": "Каковы основные типы камней навыков в流放之路2?",
-    "message": "What are the main types of skill gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        799
-      ],
-      [
-        "config/site.ts",
-        880
-      ]
-    ]
-  },
-  "YE3fcf": {
-    "translation": "Каковы основные типы камней навыков в流放之路2?",
-    "message": "What are the main types of Skill Gems in Path of Exile 2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        576
-      ],
-      [
-        "config/site.ts",
-        647
-      ]
-    ]
-  },
-  "1hode8": {
-    "translation": "Какие самые мощные синие камни навыков для заклинателей?",
-    "message": "What are the most powerful Blue Skill Gems for spellcasters?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        592
-      ]
-    ]
-  },
-  "AJVe8z": {
-    "translation": "Какие системные требования для Jujutsu Kaisen Phantom Parade?",
-    "message": "What are the system requirements for Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        192
+        245
       ]
     ]
   },
@@ -4322,80 +1683,14 @@
       ]
     ]
   },
-  "K3QPzq": {
-    "translation": "Что такое Jujutsu Kaisen Phantom Parade и где я могу его скачать?",
-    "message": "What is Jujutsu Kaisen Phantom Parade and where can I download it?",
+  "RcV4eE": {
+    "translation": "Что такое Генератор рисования Dandys World?",
+    "message": "What is Dandys World Draw Generator?",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        184
-      ]
-    ]
-  },
-  "4WuGIw": {
-    "translation": "Какую роль играют навыки интеллекта в групповом контенте?",
-    "message": "What role do Intelligence skills play in group content?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        533
-      ]
-    ]
-  },
-  "EmMzNd": {
-    "translation": "Какую роль играют поддерживающие камни в групповом игровом процессе?",
-    "message": "What role do Support Gems play in group gameplay?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        742
-      ]
-    ]
-  },
-  "OWhEDw": {
-    "translation": "Что мне делать, если я столкнусь с языковым барьером при игре в Jujutsu Kaisen Phantom Parade?",
-    "message": "What should I do if I encounter a language barrier while playing Jujutsu Kaisen Phantom Parade?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        216
-      ]
-    ]
-  },
-  "ynLL9q": {
-    "translation": "Когда был официально выпущен Jujutsu Kaisen Phantom Parade?",
-    "message": "When was Jujutsu Kaisen Phantom Parade officially released?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        188
-      ]
-    ]
-  },
-  "CQWnGL": {
-    "translation": "Какие комбинации навыков ловкости наиболее популярны в POE2?",
-    "message": "Which are the most popular Dexterity skill combinations in PoE2?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        451
-      ]
-    ]
-  },
-  "IDXfv8": {
-    "translation": "Какие зеленые камни навыков наиболее эффективны для дальнего боя?",
-    "message": "Which Green Skill Gems are most effective for ranged combat?",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        588
+        221
       ]
     ]
   },
@@ -4421,6 +1716,17 @@
       ]
     ]
   },
+  "2qovGt": {
+    "translation": "С помощью Генератора рисования Dandys World вы можете легко сохранить ваше завершенное произведение в формате PNG или JPG. Просто нажмите кнопку сохранения, когда вы закончите свой рисунок, чтобы экспортировать его в предпочитаемый вами формат файла.",
+    "message": "With Dandys World Draw Generator, you can easily save your completed artwork in either PNG or JPG format. Simply click the save button when you're finished with your drawing to export it to your preferred file format.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        230
+      ]
+    ]
+  },
   "ekD2sN": {
     "translation": "Да, учебные пособия мира Данди разделены на уровни: начинающий, средний и продвинутый. Каждый уровень строится на предыдущих навыках, помогая вам перейти от простых эскизов персонажей к сложным иллюстрациям с правильной тенью, раскраской и динамичными позами.",
     "message": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
@@ -4432,36 +1738,25 @@
       ]
     ]
   },
-  "L63PDE": {
-    "translation": "Да, Jujutsu Kaisen Phantom Parade включает в себя полную голосовую озвучку от оригинального актерского состава аниме, что повышает погружение в повествование.",
-    "message": "Yes, Jujutsu Kaisen Phantom Parade features full voice acting from the original anime cast, enhancing the immersive storytelling experience.",
+  "bKWgv/": {
+    "translation": "Да, Генератор рисования Dandys World включает предустановленные формы, специально разработанные для создания природных элементов, таких как листья, цветы и лепестки. Эти инструменты облегчают добавление красивых природных деталей в ваше произведение.",
+    "message": "Yes, Dandys World Draw Generator includes preset shapes specifically designed for creating nature elements such as leaves, flowers, and petals. These tools make it easy to add beautiful environmental details to your artwork.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        221
+        242
       ]
     ]
   },
-  "038m1W": {
-    "translation": "Да, Jujutsu Kaisen Phantom Parade является free-to-play. Однако в игре есть внутриигровые покупки для улучшения персонажей, специальных предметов и других дополнений.",
-    "message": "Yes, Jujutsu Kaisen Phantom Parade is free to play. However, it includes in-app purchases for character upgrades, special items, and other enhancements.",
+  "GkrAHh": {
+    "translation": "Да! Генератор рисунков мира Дэнди включает в себя обширный набор предустановленных частей тела, таких как руки, ноги, глаза и нос, что упрощает создание уникальных персонажей. В сочетании с различными формами и цветами вы можете оживить свои дизайны персонажей.",
+    "message": "Yes! Dandys World Draw Generator includes a comprehensive set of preset body parts like hands, feet, eyes, and nose, making it easy to create unique characters. Combined with various shapes and colors, you can bring your character designs to life.",
     "comments": [],
     "origin": [
       [
         "config/site.ts",
-        201
-      ]
-    ]
-  },
-  "V4swDT": {
-    "translation": "Да, система камней в流放之路2 позволяет игрокам комбинировать различные типы камней навыков и поддерживающих камней для уникальных сборок. Например, вы можете смешивать красные, зеленые и синие камни, если ваш персонаж удовлетворяет атрибутным требованиям для каждого камня.",
-    "message": "Yes, Path of Exile 2's gem system allows players to combine different types of Skill Gems and Support Gems for unique builds. For example, you can mix Red, Green, and Blue gems as long as your character meets the attribute requirements for each gem.",
-    "comments": [],
-    "origin": [
-      [
-        "config/site.ts",
-        601
+        234
       ]
     ]
   },
