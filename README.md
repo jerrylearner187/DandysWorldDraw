@@ -31,10 +31,10 @@ Dandy's World Draw is an open-source web-based drawing tool that makes digital a
 
 ```bash
 # Clone the repository
-git clone https://gitlab.com/lingbohust/dandysworlddraw.git
+git clone https://github.com/jerrylearner187/DandysWorldDraw.git
 
 # Navigate to the project directory
-cd dandysworlddraw
+cd DandysWorldDraw
 
 # Install dependencies
 npm install
