@@ -175,6 +175,17 @@
       ]
     ]
   },
+  "cBPa5o": {
+    "translation": "물론입니다! Dandy's World Draw Randomizer는 모든 기술 수준의 아티스트를 위해 설계되었습니다. 초보자가 그림 그리는 법을 배우고 있든, 영감을 찾고 있는 경험 많은 아티스트이든, 랜덤 생성기는 Dandy's World 캐릭터를 그리는 재미있고 매력적인 방법을 제공합니다.",
+    "message": "Absolutely! The Dandy's World Draw Randomizer is designed for artists of all skill levels. Whether you're a beginner learning to draw or an experienced artist looking for inspiration, the randomizer provides a fun and engaging way to practice drawing Dandy's World characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        364
+      ]
+    ]
+  },
   "iNiXuw": {
     "translation": "댄디의 세계 드로우 생성기에서 원, 사각형, 삼각형 및 타원과 같은 다양한 미리 설정된 형태에 접근하여 캐릭터의 기본 구조를 빠르게 구축할 수 있습니다.",
     "message": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure.",
@@ -307,6 +318,17 @@
       ]
     ]
   },
+  "2fk963": {
+    "translation": "Dandy's World Draw Randomizer 휠을 사용자 정의할 수 있나요?",
+    "message": "Can I customize the Dandy's World Draw Randomizer wheel?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        359
+      ]
+    ]
+  },
   "N94L+m": {
     "translation": "Dandys World Draw Slot Maker에서 스토리 요소를 사용자 정의할 수 있나요?",
     "message": "Can I customize the story elements in Dandys World Draw Slot Maker?",
@@ -351,6 +373,17 @@
       ]
     ]
   },
+  "9qceBF": {
+    "translation": "Dandy's World Randomizer에서 제 그림을 공유할 수 있나요?",
+    "message": "Can I share my drawings from the Dandy's World Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        367
+      ]
+    ]
+  },
   "i4CL2W": {
     "translation": "패스 오브 엑자일 2 드로잉을 상업적인 목적으로 사용해도 되나요?",
     "message": "Can I use Dandy's World drawings for commercial purposes?",
@@ -359,6 +392,17 @@
       [
         "config/site.ts",
         169
+      ]
+    ]
+  },
+  "3ECj3s": {
+    "translation": "Dandy's World Draw Randomizer를 그룹 활동에 사용할 수 있나요?",
+    "message": "Can I use the Dandy's World Draw Randomizer for group activities?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        375
       ]
     ]
   },
@@ -516,6 +560,17 @@
       ]
     ]
   },
+  "Bmz9Tu": {
+    "translation": "창의적인 캐릭터 소품 생성기!",
+    "message": "Creative Character Props Generator!",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        50
+      ]
+    ]
+  },
   "dPg4Dg": {
     "translation": "창의적인 자유",
     "message": "Creative Freedom",
@@ -524,6 +579,17 @@
       [
         "config/site.ts",
         123
+      ]
+    ]
+  },
+  "Y00csS": {
+    "translation": "사용자 정의 옵션",
+    "message": "Customization Options",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        328
       ]
     ]
   },
@@ -568,6 +634,39 @@
       [
         "config/site.ts",
         142
+      ]
+    ]
+  },
+  "k500kh": {
+    "translation": "Dandy's World Draw Randomizer",
+    "message": "Dandy's World Draw Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        47
+      ]
+    ]
+  },
+  "WZMl9X": {
+    "translation": "Dandy's World Draw Randomizer | 창의적인 캐릭터 아이템 생성기",
+    "message": "Dandy's World Draw Randomizer | Creative Character Item Generator",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        22
+      ]
+    ]
+  },
+  "SKPzak": {
+    "translation": "Dandy's World Draw Randomizer는 사용자가 Dandy's World 우주에서 랜덤으로 캐릭터를 선택하여 그리기 영감을 얻을 수 있도록 돕는 인터랙티브한 휠 기반 도구입니다. Dandy, Pebble, Vee, Astro 및 Shelly와 같은 사랑받는 캐릭터들이 포함되어 있어 아티스트와 창의적인 이야기꾼에게 완벽합니다.",
+    "message": "Dandy's World Draw Randomizer is an interactive wheel-based tool that helps users randomly select characters from the Dandy's World universe for drawing inspiration. It features beloved characters like Dandy, Pebble, Vee, Astro, and Shelly, making it perfect for artists and creative storytellers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        352
       ]
     ]
   },
@@ -692,6 +791,17 @@
       ]
     ]
   },
+  "QOEKV7": {
+    "translation": "Dandy, Pebble, Flutter 및 기타 캐릭터가 포함된 재미있는 인터랙티브 랜덤 생성기를 발견하십시오. 창의적인 그리기 세션과 이야기 영감을 주기에 완벽합니다.",
+    "message": "Discover a fun interactive randomizer featuring Dandy, Pebble, Flutter & more characters. Perfect for creative drawing sessions and storytelling inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        25
+      ]
+    ]
+  },
   "24Iy/D": {
     "translation": "Dandys World Draw Slot Maker를 통해 매력적인 Dandys World 캐릭터의 세계에 빠져들어 좋아하는 영웅들이 무작위로 생성된 이야기의 일부가 됩니다.",
     "message": "Dive into the charming world of Dandys World characters through the Dandys World Draw Slot Maker, where your favorite heroes become part of randomly generated tales.",
@@ -711,6 +821,17 @@
       [
         "config/site.ts",
         145
+      ]
+    ]
+  },
+  "tkbLGt": {
+    "translation": "Dandy's World Draw Randomizer가 모바일 장치에서 작동하나요?",
+    "message": "Does the Dandy's World Draw Randomizer work on mobile devices?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        379
       ]
     ]
   },
@@ -799,6 +920,17 @@
       [
         "config/site.ts",
         281
+      ]
+    ]
+  },
+  "2bk169": {
+    "translation": "Dandy's World Draw Randomizer로 흥미로운 그림 경험을 즐기세요. 게임 나이트, 아트 챌린지 및 창의적인 이야기 세션에 완벽합니다.",
+    "message": "Enjoy an engaging drawing experience with the Dandy's World Draw Randomizer. Perfect for game nights, art challenges, and creative storytelling sessions.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        339
       ]
     ]
   },
@@ -923,6 +1055,17 @@
       ]
     ]
   },
+  "gx1faY": {
+    "translation": "Dandy's World 캐릭터로 창의적인 이야기 아이디어를 생성하십시오. 랜덤 생성기를 사용하여 독특한 내러티브를 만들고 캐릭터 중심의 이야기를 개발하세요.",
+    "message": "Generate creative storytelling ideas with Dandy's World characters. Use the randomizer to craft unique narratives and develop character-driven stories.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        344
+      ]
+    ]
+  },
   "EDkBL8": {
     "translation": "지금 생성하기!",
     "message": "Generate Now!",
@@ -1004,6 +1147,17 @@
       ]
     ]
   },
+  "3fd0PB": {
+    "translation": "Dandy's World 캐릭터 랜덤 생성기를 어떻게 사용하나요?",
+    "message": "How do I use the Dandy's World character randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        355
+      ]
+    ]
+  },
   "F3cURS": {
     "translation": "Dandys World Draw Slot Maker는 어떻게 작동하나요?",
     "message": "How does the Dandys World Draw Slot Maker work?",
@@ -1023,6 +1177,17 @@
       [
         "config/site.ts",
         149
+      ]
+    ]
+  },
+  "jEoFAh": {
+    "translation": "Dandy's World Randomizer에 새로운 캐릭터는 얼마나 자주 추가되나요?",
+    "message": "How often are new characters added to the Dandy's World Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        371
       ]
     ]
   },
@@ -1125,6 +1290,17 @@
       ]
     ]
   },
+  "1wRrgZ": {
+    "translation": "인터랙티브 경험",
+    "message": "Interactive Experience",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        338
+      ]
+    ]
+  },
   "SRFxHS": {
     "translation": "인터랙티브한 재미",
     "message": "Interactive Fun",
@@ -1166,6 +1342,17 @@
       [
         "config/site.ts",
         300
+      ]
+    ]
+  },
+  "ng5cu8": {
+    "translation": "Dandy's World Draw Randomizer가 초보자에게 적합한가요?",
+    "message": "Is the Dandy's World Draw Randomizer suitable for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        363
       ]
     ]
   },
@@ -1382,6 +1569,17 @@
       ]
     ]
   },
+  "Rh2/5q": {
+    "translation": "사용자 정의 휠 색상과 테마로 Dandy's World Draw Randomizer를 개인화하세요. 조정 가능한 시각 요소로 완벽한 그림 동반자를 만드세요.",
+    "message": "Personalize your Dandy's World Draw Randomizer with customizable wheel colors and themes. Create your perfect drawing companion with adjustable visual elements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        329
+      ]
+    ]
+  },
   "nk7u3D": {
     "translation": "꽃잎",
     "message": "Petal",
@@ -1485,6 +1683,17 @@
       ]
     ]
   },
+  "PfR12O": {
+    "translation": "랜덤 캐릭터 선택",
+    "message": "Random Character Selection",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        323
+      ]
+    ]
+  },
   "JQ4XcE": {
     "translation": "무작위 이야기 생성",
     "message": "Random Story Generation",
@@ -1493,6 +1702,28 @@
       [
         "config/site.ts",
         260
+      ]
+    ]
+  },
+  "I2K8PB": {
+    "translation": "랜덤화",
+    "message": "Randomize",
+    "comments": [],
+    "origin": [
+      [
+        "components/RandomizerMachine.tsx",
+        41
+      ]
+    ]
+  },
+  "O/5/2t": {
+    "translation": "랜덤 생성기",
+    "message": "Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        10
       ]
     ]
   },
@@ -1526,6 +1757,17 @@
       [
         "config/site.ts",
         214
+      ]
+    ]
+  },
+  "RXCPqT": {
+    "translation": "소셜 미디어 플랫폼에서 Dandy's World 그림을 공유하세요. 랜덤 생성기로 그린 캐릭터 해석을 보여주는 활기찬 아티스트 커뮤니티에 참여하세요.",
+    "message": "Share your Dandy's World drawings on social media platforms. Join a vibrant community of artists showcasing their character interpretations from the randomizer.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        334
       ]
     ]
   },
@@ -1573,6 +1815,17 @@
       ]
     ]
   },
+  "sMe9b4": {
+    "translation": "소셜 통합",
+    "message": "Social Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        333
+      ]
+    ]
+  },
   "u/kFCL": {
     "translation": "Dandys World Draw Slot Maker를 돌려 Dandy 캐릭터가 등장하는 독특한 이야기 조합을 생성하세요. 만화 영웅들과 함께하는 즐거운 슬롯 머신 경험입니다.",
     "message": "Spin the Dandys World Draw Slot Maker to generate unique story combinations featuring Dandy characters. A fun slot machine experience with cartoon heroes.",
@@ -1581,6 +1834,17 @@
       [
         "app/[lang]/(public)/slot-maker/page.tsx",
         25
+      ]
+    ]
+  },
+  "kHKg51": {
+    "translation": "인터랙티브 휠을 돌려 Dandy, Pebble, Vee, Astro 및 Shelly를 포함한 Dandy's World 캐릭터를 랜덤으로 선택하세요. 그리기 세션에서 창의적인 영감을 주기에 완벽합니다.",
+    "message": "Spin the interactive wheel to randomly select from Dandy's World characters including Dandy, Pebble, Vee, Astro, and Shelly. Perfect for sparking creative inspiration in your drawing sessions.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        324
       ]
     ]
   },
@@ -1628,6 +1892,17 @@
       ]
     ]
   },
+  "bUzxvY": {
+    "translation": "이야기 영감",
+    "message": "Story Inspiration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        343
+      ]
+    ]
+  },
   "UCLeG0": {
     "translation": "서비스 약관",
     "message": "Terms of service",
@@ -1647,6 +1922,17 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         16
+      ]
+    ]
+  },
+  "DFLfXa": {
+    "translation": "Dandy's World Draw Randomizer는 Dandy's World 우주에 새로운 캐릭터를 지속적으로 포함하도록 정기적으로 업데이트됩니다. 신선한 그리기 영감을 위해 캐릭터 휠에 대한 새로운 추가사항을 확인하십시오.",
+    "message": "The Dandy's World Draw Randomizer is regularly updated to include new characters from the Dandy's World universe. Keep checking back to discover new additions to the character wheel for fresh drawing inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        372
       ]
     ]
   },
@@ -1746,6 +2032,17 @@
       [
         "config/site.ts",
         183
+      ]
+    ]
+  },
+  "5xItRt": {
+    "translation": "Dandy's World Draw Randomizer 사용 팁",
+    "message": "Tips Of Dandys World Draw Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        318
       ]
     ]
   },
@@ -1881,6 +2178,17 @@
       ]
     ]
   },
+  "+ois9a": {
+    "translation": "Dandy's World Draw Randomizer 사용은 간단합니다: 스핀 버튼을 클릭하여 휠을 회전시키기만 하면 랜덤으로 그릴 캐릭터가 선택됩니다. 인터랙티브 휠은 캐릭터에 멈추어 Dandy's World 우주의 다음 그릴 주제를 제공합니다.",
+    "message": "Using the Dandy's World Draw Randomizer is simple: just click the spin button to rotate the wheel, and it will randomly select a character for you to draw. The interactive wheel will stop on a character, providing you with your next drawing subject from the Dandy's World universe.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        356
+      ]
+    ]
+  },
   "qNd2+R": {
     "translation": "다양한 예술 스타일",
     "message": "Versatile Art Styles",
@@ -1980,6 +2288,17 @@
       ]
     ]
   },
+  "GBJKtv": {
+    "translation": "Dandy's World Draw Randomizer란 무엇인가요?",
+    "message": "What is Dandy's World Draw Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        351
+      ]
+    ]
+  },
   "RcV4eE": {
     "translation": "댄디의 세계 드로우 생성기란 무엇인가요?",
     "message": "What is Dandys World Draw Generator?",
@@ -2068,6 +2387,39 @@
       ]
     ]
   },
+  "l7FxnA": {
+    "translation": "네, Dandy's World Draw Randomizer는 완전히 반응형이며 모바일 장치, 태블릿 및 데스크톱 컴퓨터에서 원활하게 작동하여 언제 어디서나 그리기를 위한 랜덤 캐릭터 선택을 생성할 수 있습니다.",
+    "message": "Yes, the Dandy's World Draw Randomizer is fully responsive and works seamlessly on mobile devices, tablets, and desktop computers, allowing you to generate random character selections for drawing anywhere, anytime.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        380
+      ]
+    ]
+  },
+  "sbds9o": {
+    "translation": "네, Dandy's World Draw Randomizer는 그룹 활동에 완벽합니다! 아트 챌린지, 드로잉 클래스 및 창의적인 게임 나이트에서 참가자들이 차례로 휠을 돌리고 선택된 Dandy's World 캐릭터를 그릴 수 있도록 일반적으로 사용됩니다.",
+    "message": "Yes, the Dandy's World Draw Randomizer is perfect for group activities! It's commonly used in art challenges, drawing classes, and creative game nights where participants can take turns spinning the wheel and drawing the selected Dandy's World character.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        376
+      ]
+    ]
+  },
+  "VJLIYr": {
+    "translation": "네, Dandy's World Draw Randomizer는 사용자 정의 옵션을 제공합니다. 색상 및 테마를 포함하여 휠의 모양을 조정하여 선호에 맞출 수 있습니다. 이 기능은 좋아하는 Dandy's World 캐릭터로 보다 개인화된 그리기 경험을 만드는 데 도움이 됩니다.",
+    "message": "Yes, the Dandy's World Draw Randomizer offers customization options. You can adjust the wheel's appearance, including colors and themes, to match your preferences. This feature helps create a more personalized drawing experience with your favorite Dandy's World characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        360
+      ]
+    ]
+  },
   "Gnhykt": {
     "translation": "예, Dandys World Draw Slot Maker는 좋아하는 이야기 조합을 저장할 수 있습니다. 마음에 드는 이야기 조합을 찾으면 나중에 다시 방문하거나 다른 Dandys World 팬과 공유할 수 있도록 저장할 수 있습니다.",
     "message": "Yes, the Dandys World Draw Slot Maker allows you to save your favorite story combinations. Once you find a story combination you like, you can save it to revisit later or share it with other Dandys World fans.",
@@ -2087,6 +2439,17 @@
       [
         "config/site.ts",
         301
+      ]
+    ]
+  },
+  "pgYmaF": {
+    "translation": "네, 다양한 소셜 미디어 플랫폼에서 Dandy's World 캐릭터 그림을 공유할 수 있습니다. 많은 사용자들이 TikTok 및 Instagram과 같은 플랫폼에서 자신의 창작물을 공유하며, 영감에 따라 Draw Randomizer를 사용하는 아티스트 커뮤니티에 가입합니다.",
+    "message": "Yes, you can share your Dandy's World character drawings on various social media platforms. Many users share their creations on platforms like TikTok and Instagram, joining a community of artists who use the Draw Randomizer for inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        368
       ]
     ]
   },

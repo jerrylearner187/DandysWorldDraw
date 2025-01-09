@@ -60,6 +60,59 @@ export default function DrawingBoard() {
     return () => window.removeEventListener('resize', resizeCanvas)
   }, [])
 
+// Add touch event handlers
+const handleTouchStart = (e: React.TouchEvent<HTMLCanvasElement>) => {
+  e.preventDefault(); // Prevent scrolling while drawing
+  setIsDrawing(true);
+  const touch = e.touches[0];
+  const rect = e.currentTarget.getBoundingClientRect();
+  const x = touch.clientX - rect.left;
+  const y = touch.clientY - rect.top;
+  lastPosRef.current = { x, y };
+  startPosRef.current = { x, y };
+};
+
+const handleTouchMove = (e: React.TouchEvent<HTMLCanvasElement>) => {
+  e.preventDefault();
+  if (!isDrawing || !canvasRef.current) return;
+  
+  const touch = e.touches[0];
+  const rect = e.currentTarget.getBoundingClientRect();
+  const x = touch.clientX - rect.left;
+  const y = touch.clientY - rect.top;
+  
+  const canvas = canvasRef.current;
+  const ctx = canvas.getContext('2d');
+  if (!ctx) return;
+
+  const brushSize = Number((document.getElementById('brushSize') as HTMLInputElement)?.value || 5);
+
+  if (currentShape === 'freestyle') {
+    ctx.strokeStyle = currentColor;
+    ctx.lineWidth = brushSize;
+    ctx.lineCap = 'round';
+
+    if (lastPosRef.current.x === x && lastPosRef.current.y === y) {
+      ctx.beginPath();
+      ctx.arc(x, y, brushSize/2, 0, Math.PI * 2);
+      ctx.fill();
+    } else {
+      ctx.beginPath();
+      ctx.moveTo(lastPosRef.current.x, lastPosRef.current.y);
+      ctx.lineTo(x, y);
+      ctx.stroke();
+    }
+    
+    lastPosRef.current = { x, y };
+  } else {
+    drawShape(x, y, brushSize);
+  }
+};
+
+const handleTouchEnd = () => {
+  setIsDrawing(false);
+};
+
   const draw = (e: React.MouseEvent<HTMLCanvasElement>) => {
     if (!isDrawing || !canvasRef.current) return
     const canvas = canvasRef.current
@@ -414,11 +467,11 @@ function drawEar(ctx: CanvasRenderingContext2D, x: number, y: number, size: numb
   };
 
   return (
-    <section className="relative px-6 py-24 md:px-8 md:py-10 w-full">
+    <section className="relative px-1 md:px-8 py-10 w-full">
       <div className="bg-gray/70 text-gray-500 w-full max-w-7xl mx-auto h-full flex flex-col items-center">
         {/* Toolbar */}
-        <div className="w-full bg-gray-100 grid grid-cols-4 gap-1 mb-1">
-          <div className='col-span-1'>
+        <div className="w-full bg-gray-100 grid grid-cols-1 md:grid-cols-4 md:gap-1 mb-1">
+          <div className='col-span-1 mb-1'>
           <section>
             <h3 className="mb-2 font-semibold">Tools</h3>
             <div>
@@ -449,7 +502,7 @@ function drawEar(ctx: CanvasRenderingContext2D, x: number, y: number, size: numb
           </section>
           </div>
 
-          <div className='col-span-2'>
+          <div className='col-span-2 mb-1'>
           <section>
             <h3 className="mb-2 font-semibold">Shapes</h3>
             <div className="grid grid-cols-4 gap-1">
@@ -496,16 +549,16 @@ function drawEar(ctx: CanvasRenderingContext2D, x: number, y: number, size: numb
           </section>
           </div>
 
-          <div className='col-span-1 flex flex-col items-center justify-center gap-2'>
+          <div className='col-span-1 flex flex-row md:flex-col items-center justify-center gap-2'>
             <button
                 onClick={clearCanvas}
-                className="rounded bg-red-500 px-4 py-2 text-white hover:bg-red-600 w-[180px]"
+                className="rounded bg-red-500 px-4 py-2 text-white hover:bg-red-600 md:w-[180px]"
             >
                 {t`Clear Canvas`}
             </button>
             <div className="relative">
                 <button
-                    className="rounded bg-blue-500 px-4 py-2 text-white hover:bg-blue-600 w-[180px]"
+                    className="rounded bg-blue-500 px-4 py-2 text-white hover:bg-blue-600 md:w-[180px]"
                     onClick={() => setIsDownloadMenuOpen(!isDownloadMenuOpen)}
                 >
                     {t`Download`}
@@ -540,10 +593,15 @@ function drawEar(ctx: CanvasRenderingContext2D, x: number, y: number, size: numb
         </div>
 
         {/* Canvas */}
-        <div className="w-full h-[600px]">
+        <div className="w-full h-[600px] touch-none">
           <canvas
             ref={canvasRef}
             className="h-full w-full cursor-crosshair bg-white"
+            style={{
+              touchAction: 'none', // Add this style
+              WebkitTouchCallout: 'none', // Add this style
+              WebkitUserSelect: 'none', // Add this style
+            }}
             onMouseDown={(e) => {
               setIsDrawing(true)
               lastPosRef.current = { x: e.nativeEvent.offsetX, y: e.nativeEvent.offsetY }
@@ -552,6 +610,9 @@ function drawEar(ctx: CanvasRenderingContext2D, x: number, y: number, size: numb
             onMouseMove={draw}
             onMouseUp={() => setIsDrawing(false)}
             onMouseOut={() => setIsDrawing(false)}
+            onTouchStart={handleTouchStart}
+            onTouchMove={handleTouchMove}
+            onTouchEnd={handleTouchEnd}
           />
           <canvas
             ref={tempCanvasRef}

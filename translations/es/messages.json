@@ -175,6 +175,17 @@
       ]
     ]
   },
+  "cBPa5o": {
+    "translation": "¡Absolutamente! El Randomizador de Dibujo del Mundo de Dandy está diseñado para artistas de todos los niveles de habilidad. Ya seas un principiante aprendiendo a dibujar o un artista experimentado en busca de inspiración, el randomizador ofrece una forma divertida y atractiva de practicar el dibujo de los personajes del Mundo de Dandy.",
+    "message": "Absolutely! The Dandy's World Draw Randomizer is designed for artists of all skill levels. Whether you're a beginner learning to draw or an experienced artist looking for inspiration, the randomizer provides a fun and engaging way to practice drawing Dandy's World characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        364
+      ]
+    ]
+  },
   "iNiXuw": {
     "translation": "Accede a una variedad de formas preestablecidas en el Generador de Dibujos de Dandy's World, incluyendo círculos, cuadrados, triángulos y elipses para construir rápidamente la estructura básica de tu personaje.",
     "message": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure.",
@@ -307,6 +318,17 @@
       ]
     ]
   },
+  "2fk963": {
+    "translation": "¿Puedo personalizar la rueda del Randomizador de Dibujo del Mundo de Dandy?",
+    "message": "Can I customize the Dandy's World Draw Randomizer wheel?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        359
+      ]
+    ]
+  },
   "N94L+m": {
     "translation": "¿Puedo personalizar los elementos de la historia en el creador de tramas Dandys World Draw Slot Maker?",
     "message": "Can I customize the story elements in Dandys World Draw Slot Maker?",
@@ -351,6 +373,17 @@
       ]
     ]
   },
+  "9qceBF": {
+    "translation": "¿Puedo compartir mis dibujos del Randomizador del Mundo de Dandy?",
+    "message": "Can I share my drawings from the Dandy's World Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        367
+      ]
+    ]
+  },
   "i4CL2W": {
     "translation": "¿Puedo usar dibujos de Dandy's World con fines comerciales?",
     "message": "Can I use Dandy's World drawings for commercial purposes?",
@@ -359,6 +392,17 @@
       [
         "config/site.ts",
         169
+      ]
+    ]
+  },
+  "3ECj3s": {
+    "translation": "¿Puedo usar el Randomizador de Dibujo del Mundo de Dandy para actividades en grupo?",
+    "message": "Can I use the Dandy's World Draw Randomizer for group activities?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        375
       ]
     ]
   },
@@ -516,6 +560,17 @@
       ]
     ]
   },
+  "Bmz9Tu": {
+    "translation": "¡Generador de Props Creativos para Personajes!",
+    "message": "Creative Character Props Generator!",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        50
+      ]
+    ]
+  },
   "dPg4Dg": {
     "translation": "Libertad Creativa",
     "message": "Creative Freedom",
@@ -524,6 +579,17 @@
       [
         "config/site.ts",
         123
+      ]
+    ]
+  },
+  "Y00csS": {
+    "translation": "Opciones de Personalización",
+    "message": "Customization Options",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        328
       ]
     ]
   },
@@ -568,6 +634,39 @@
       [
         "config/site.ts",
         142
+      ]
+    ]
+  },
+  "k500kh": {
+    "translation": "Randomizador de Dibujo del Mundo de Dandy",
+    "message": "Dandy's World Draw Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        47
+      ]
+    ]
+  },
+  "WZMl9X": {
+    "translation": "Randomizador de Dibujo del Mundo de Dandy | Generador de Artículos Creativos para Personajes",
+    "message": "Dandy's World Draw Randomizer | Creative Character Item Generator",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        22
+      ]
+    ]
+  },
+  "SKPzak": {
+    "translation": "El Randomizador de Dibujo del Mundo de Dandy es una herramienta interactiva basada en una rueda que ayuda a los usuarios a seleccionar aleatoriamente personajes del universo del Mundo de Dandy para inspiración de dibujo. Presenta personajes queridos como Dandy, Pebble, Vee, Astro y Shelly, lo que lo hace perfecto para artistas y narradores creativos.",
+    "message": "Dandy's World Draw Randomizer is an interactive wheel-based tool that helps users randomly select characters from the Dandy's World universe for drawing inspiration. It features beloved characters like Dandy, Pebble, Vee, Astro, and Shelly, making it perfect for artists and creative storytellers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        352
       ]
     ]
   },
@@ -692,6 +791,17 @@
       ]
     ]
   },
+  "QOEKV7": {
+    "translation": "Descubre un divertido randomizador interactivo con Dandy, Pebble, Flutter y más personajes. Perfecto para sesiones creativas de dibujo e inspiración para contar historias.",
+    "message": "Discover a fun interactive randomizer featuring Dandy, Pebble, Flutter & more characters. Perfect for creative drawing sessions and storytelling inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        25
+      ]
+    ]
+  },
   "24Iy/D": {
     "translation": "Sumérgete en el encantador mundo de los personajes de Dandys World a través del creador de tramas Dandys World Draw Slot Maker, donde tus héroes favoritos se convierten en parte de relatos generados al azar.",
     "message": "Dive into the charming world of Dandys World characters through the Dandys World Draw Slot Maker, where your favorite heroes become part of randomly generated tales.",
@@ -711,6 +821,17 @@
       [
         "config/site.ts",
         145
+      ]
+    ]
+  },
+  "tkbLGt": {
+    "translation": "¿Funciona el Randomizador de Dibujo del Mundo de Dandy en dispositivos móviles?",
+    "message": "Does the Dandy's World Draw Randomizer work on mobile devices?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        379
       ]
     ]
   },
@@ -799,6 +920,17 @@
       [
         "config/site.ts",
         281
+      ]
+    ]
+  },
+  "2bk169": {
+    "translation": "Disfruta de una experiencia de dibujo atractiva con el Randomizador de Dibujo del Mundo de Dandy. Perfecto para noches de juegos, desafíos artísticos y sesiones de narración creativa.",
+    "message": "Enjoy an engaging drawing experience with the Dandy's World Draw Randomizer. Perfect for game nights, art challenges, and creative storytelling sessions.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        339
       ]
     ]
   },
@@ -923,6 +1055,17 @@
       ]
     ]
   },
+  "gx1faY": {
+    "translation": "Genera ideas creativas para contar historias con los personajes del Mundo de Dandy. Usa el randomizador para crear narrativas únicas y desarrollar historias centradas en los personajes.",
+    "message": "Generate creative storytelling ideas with Dandy's World characters. Use the randomizer to craft unique narratives and develop character-driven stories.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        344
+      ]
+    ]
+  },
   "EDkBL8": {
     "translation": "¡Generar Ahora!",
     "message": "Generate Now!",
@@ -1004,6 +1147,17 @@
       ]
     ]
   },
+  "3fd0PB": {
+    "translation": "¿Cómo utilizo el randomizador de personajes del Mundo de Dandy?",
+    "message": "How do I use the Dandy's World character randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        355
+      ]
+    ]
+  },
   "F3cURS": {
     "translation": "¿Cómo funciona el creador de tramas Dandys World Draw Slot Maker?",
     "message": "How does the Dandys World Draw Slot Maker work?",
@@ -1023,6 +1177,17 @@
       [
         "config/site.ts",
         149
+      ]
+    ]
+  },
+  "jEoFAh": {
+    "translation": "¿Con qué frecuencia se añaden nuevos personajes al Randomizador del Mundo de Dandy?",
+    "message": "How often are new characters added to the Dandy's World Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        371
       ]
     ]
   },
@@ -1125,6 +1290,17 @@
       ]
     ]
   },
+  "1wRrgZ": {
+    "translation": "Experiencia Interactiva",
+    "message": "Interactive Experience",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        338
+      ]
+    ]
+  },
   "SRFxHS": {
     "translation": "Diversión interactiva",
     "message": "Interactive Fun",
@@ -1166,6 +1342,17 @@
       [
         "config/site.ts",
         300
+      ]
+    ]
+  },
+  "ng5cu8": {
+    "translation": "¿Es adecuado el Randomizador de Dibujo del Mundo de Dandy para principiantes?",
+    "message": "Is the Dandy's World Draw Randomizer suitable for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        363
       ]
     ]
   },
@@ -1382,6 +1569,17 @@
       ]
     ]
   },
+  "Rh2/5q": {
+    "translation": "Personaliza tu Randomizador de Dibujo del Mundo de Dandy con colores y temas de rueda personalizables. Crea tu compañero de dibujo perfecto con elementos visuales ajustables.",
+    "message": "Personalize your Dandy's World Draw Randomizer with customizable wheel colors and themes. Create your perfect drawing companion with adjustable visual elements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        329
+      ]
+    ]
+  },
   "nk7u3D": {
     "translation": "Pétalo",
     "message": "Petal",
@@ -1485,6 +1683,17 @@
       ]
     ]
   },
+  "PfR12O": {
+    "translation": "Selección Aleatoria de Personajes",
+    "message": "Random Character Selection",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        323
+      ]
+    ]
+  },
   "JQ4XcE": {
     "translation": "Generación aleatoria de historias",
     "message": "Random Story Generation",
@@ -1493,6 +1702,28 @@
       [
         "config/site.ts",
         260
+      ]
+    ]
+  },
+  "I2K8PB": {
+    "translation": "Aleatorizar",
+    "message": "Randomize",
+    "comments": [],
+    "origin": [
+      [
+        "components/RandomizerMachine.tsx",
+        41
+      ]
+    ]
+  },
+  "O/5/2t": {
+    "translation": "Randomizador",
+    "message": "Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        10
       ]
     ]
   },
@@ -1526,6 +1757,17 @@
       [
         "config/site.ts",
         214
+      ]
+    ]
+  },
+  "RXCPqT": {
+    "translation": "Comparte tus dibujos del Mundo de Dandy en plataformas de redes sociales. Únete a una vibrante comunidad de artistas que muestran sus interpretaciones de personajes del randomizador.",
+    "message": "Share your Dandy's World drawings on social media platforms. Join a vibrant community of artists showcasing their character interpretations from the randomizer.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        334
       ]
     ]
   },
@@ -1573,6 +1815,17 @@
       ]
     ]
   },
+  "sMe9b4": {
+    "translation": "Integración Social",
+    "message": "Social Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        333
+      ]
+    ]
+  },
   "u/kFCL": {
     "translation": "¡Gira el creador de tramas Dandys World Draw Slot Maker para generar combinaciones únicas de historias con personajes Dandy! Una divertida experiencia de máquina tragamonedas con héroes de dibujos animados.",
     "message": "Spin the Dandys World Draw Slot Maker to generate unique story combinations featuring Dandy characters. A fun slot machine experience with cartoon heroes.",
@@ -1581,6 +1834,17 @@
       [
         "app/[lang]/(public)/slot-maker/page.tsx",
         25
+      ]
+    ]
+  },
+  "kHKg51": {
+    "translation": "Gira la rueda interactiva para seleccionar aleatoriamente entre los personajes del Mundo de Dandy, incluyendo a Dandy, Pebble, Vee, Astro y Shelly. Perfecto para inspirar la creatividad en tus sesiones de dibujo.",
+    "message": "Spin the interactive wheel to randomly select from Dandy's World characters including Dandy, Pebble, Vee, Astro, and Shelly. Perfect for sparking creative inspiration in your drawing sessions.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        324
       ]
     ]
   },
@@ -1628,6 +1892,17 @@
       ]
     ]
   },
+  "bUzxvY": {
+    "translation": "Inspiración para la Historia",
+    "message": "Story Inspiration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        343
+      ]
+    ]
+  },
   "UCLeG0": {
     "translation": "Términos de servicio",
     "message": "Terms of service",
@@ -1647,6 +1922,17 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         16
+      ]
+    ]
+  },
+  "DFLfXa": {
+    "translation": "El Randomizador de Dibujo del Mundo de Dandy se actualiza regularmente para incluir nuevos personajes del universo del Mundo de Dandy. Sigue revisando para descubrir nuevas adiciones a la rueda de personajes para obtener inspiración fresca para dibujar.",
+    "message": "The Dandy's World Draw Randomizer is regularly updated to include new characters from the Dandy's World universe. Keep checking back to discover new additions to the character wheel for fresh drawing inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        372
       ]
     ]
   },
@@ -1746,6 +2032,17 @@
       [
         "config/site.ts",
         183
+      ]
+    ]
+  },
+  "5xItRt": {
+    "translation": "Consejos del Randomizador de Dibujo del Mundo de Dandy",
+    "message": "Tips Of Dandys World Draw Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        318
       ]
     ]
   },
@@ -1881,6 +2178,17 @@
       ]
     ]
   },
+  "+ois9a": {
+    "translation": "Usar el Randomizador de Dibujo del Mundo de Dandy es simple: solo haz clic en el botón de girar para rotar la rueda, y seleccionará aleatoriamente un personaje para que lo dibujes. La rueda interactiva se detendrá en un personaje, proporcionándote tu próximo tema de dibujo del universo del Mundo de Dandy.",
+    "message": "Using the Dandy's World Draw Randomizer is simple: just click the spin button to rotate the wheel, and it will randomly select a character for you to draw. The interactive wheel will stop on a character, providing you with your next drawing subject from the Dandy's World universe.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        356
+      ]
+    ]
+  },
   "qNd2+R": {
     "translation": "Estilos Artísticos Versátiles",
     "message": "Versatile Art Styles",
@@ -1980,6 +2288,17 @@
       ]
     ]
   },
+  "GBJKtv": {
+    "translation": "¿Qué es el Randomizador de Dibujo del Mundo de Dandy?",
+    "message": "What is Dandy's World Draw Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        351
+      ]
+    ]
+  },
   "RcV4eE": {
     "translation": "¿Qué es el Generador de Dibujos de Dandy's World?",
     "message": "What is Dandys World Draw Generator?",
@@ -2068,6 +2387,39 @@
       ]
     ]
   },
+  "l7FxnA": {
+    "translation": "Sí, el Randomizador de Dibujo del Mundo de Dandy es completamente responsivo y funciona sin problemas en dispositivos móviles, tabletas y computadoras de escritorio, permitiéndote generar selecciones aleatorias de personajes para dibujar en cualquier lugar y en cualquier momento.",
+    "message": "Yes, the Dandy's World Draw Randomizer is fully responsive and works seamlessly on mobile devices, tablets, and desktop computers, allowing you to generate random character selections for drawing anywhere, anytime.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        380
+      ]
+    ]
+  },
+  "sbds9o": {
+    "translation": "Sí, el Randomizador de Dibujo del Mundo de Dandy es perfecto para actividades en grupo. Se utiliza comúnmente en desafíos de arte, clases de dibujo y noches de juegos creativos donde los participantes pueden turnarse para girar la rueda y dibujar el personaje seleccionado del Mundo de Dandy.",
+    "message": "Yes, the Dandy's World Draw Randomizer is perfect for group activities! It's commonly used in art challenges, drawing classes, and creative game nights where participants can take turns spinning the wheel and drawing the selected Dandy's World character.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        376
+      ]
+    ]
+  },
+  "VJLIYr": {
+    "translation": "Sí, el Randomizador de Dibujo del Mundo de Dandy ofrece opciones de personalización. Puedes ajustar la apariencia de la rueda, incluyendo colores y temas, para que coincida con tus preferencias. Esta característica ayuda a crear una experiencia de dibujo más personalizada con tus personajes favoritos del Mundo de Dandy.",
+    "message": "Yes, the Dandy's World Draw Randomizer offers customization options. You can adjust the wheel's appearance, including colors and themes, to match your preferences. This feature helps create a more personalized drawing experience with your favorite Dandy's World characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        360
+      ]
+    ]
+  },
   "Gnhykt": {
     "translation": "Sí, el creador de tramas Dandys World Draw Slot Maker te permite guardar tus combinaciones de historias favoritas. Una vez que encuentres una combinación de historia que te guste, puedes guardarla para revisitarla más tarde o compartirla con otros fanáticos de Dandys World.",
     "message": "Yes, the Dandys World Draw Slot Maker allows you to save your favorite story combinations. Once you find a story combination you like, you can save it to revisit later or share it with other Dandys World fans.",
@@ -2087,6 +2439,17 @@
       [
         "config/site.ts",
         301
+      ]
+    ]
+  },
+  "pgYmaF": {
+    "translation": "Sí, puedes compartir tus dibujos de personajes del Mundo de Dandy en varias plataformas de redes sociales. Muchos usuarios comparten sus creaciones en plataformas como TikTok e Instagram, uniéndose a una comunidad de artistas que utilizan el Randomizador de Dibujo para inspiración.",
+    "message": "Yes, you can share your Dandy's World character drawings on various social media platforms. Many users share their creations on platforms like TikTok and Instagram, joining a community of artists who use the Draw Randomizer for inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        368
       ]
     ]
   },

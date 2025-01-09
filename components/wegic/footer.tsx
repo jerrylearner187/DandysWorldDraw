@@ -111,16 +111,6 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
                   AIStage
                 </a>
               </li>
-              <li>
-                <a
-                  href="https://aiwith.me"
-                  target="_blank"
-                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
-                  title="AI WITH.ME"
-                >
-                  AI WITH.ME
-                </a>
-              </li>
             </ul>
             <p className="mt-6 sm:mt-0">
               © {new Date().getFullYear()} {i18n._(siteConfig.name)} All rights reserved.

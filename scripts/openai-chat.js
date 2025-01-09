@@ -60,7 +60,7 @@ function openAIChat(prompt, model = current_model) {
   // const url = 'https://api.inferkit.ai/v1/chat/completions'
   // const key = 'Bearer sk-3GjN0Wf39FUqLoQ08e59C791F9Fc4aC299D3386a3a319cF9'
   const url = 'https://openrouter.ai/api/v1/chat/completions'
-  console.log('openAIChat key:', key)
+  const key = 'Bearer ' + process.env.NEXT_PUBLIC_API_KEY
   return fetch(url, {
     method: 'POST', // Assuming it's a POST request
     headers: {

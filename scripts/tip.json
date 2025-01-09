@@ -1,27 +1,27 @@
 [
   {
-    "img": "Sparkles",
-    "tip": msg`Random Story Generation`,
-    "description": msg`Dandys World Draw Slot Maker creates unique story combinations with every spin, featuring beloved Dandys World characters in unexpected scenarios.`
+    "img": "Shuffle",
+    "tip": msg`Random Character Selection`,
+    "description": msg`Spin the interactive wheel to randomly select from Dandy's World characters including Dandy, Pebble, Vee, Astro, and Shelly. Perfect for sparking creative inspiration in your drawing sessions.`
   },
   {
-    "img": "Shuffle",
-    "tip": msg`Slot Machine Experience`,
-    "description": msg`Experience the thrill of a slot machine with the Dandys World Draw Slot Maker, where each spin reveals new character combinations and story elements.`
+    "img": "Palette",
+    "tip": msg`Customization Options`,
+    "description": msg`Personalize your Dandy's World Draw Randomizer with customizable wheel colors and themes. Create your perfect drawing companion with adjustable visual elements.`
   },
   {
     "img": "Users",
-    "tip": msg`Cartoon Characters`,
-    "description": msg`Dive into the charming world of Dandys World characters through the Dandys World Draw Slot Maker, where your favorite heroes become part of randomly generated tales.`
+    "tip": msg`Social Integration`,
+    "description": msg`Share your Dandy's World drawings on social media platforms. Join a vibrant community of artists showcasing their character interpretations from the randomizer.`
   },
   {
-    "img": "Zap",
-    "tip": msg`Instant Results`,
-    "description": msg`The Dandys World Draw Slot Maker instantly generates fresh story combinations with each spin, making every interaction unique and entertaining.`
+    "img": "Gamepad2",
+    "tip": msg`Interactive Experience`,
+    "description": msg`Enjoy an engaging drawing experience with the Dandy's World Draw Randomizer. Perfect for game nights, art challenges, and creative storytelling sessions.`
   },
   {
-    "img": "HeartHandshake",
-    "tip": msg`Interactive Fun`,
-    "description": msg`Engage with the Dandys World Draw Slot Maker for an entertaining experience that brings Dandys World characters to life in surprising ways.`
+    "img": "BookOpen",
+    "tip": msg`Story Inspiration`,
+    "description": msg`Generate creative storytelling ideas with Dandy's World characters. Use the randomizer to craft unique narratives and develop character-driven stories.`
   }
 ]

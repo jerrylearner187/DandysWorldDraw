@@ -9,6 +9,24 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
+    },
+    {
+      url: 'generator', // home
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    {
+      url: 'slot-maker', // home
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    {
+      url: 'randomizer', // home
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.9,
     }
     // {
     //   url: 'submit',

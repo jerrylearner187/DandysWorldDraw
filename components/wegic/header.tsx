@@ -7,6 +7,7 @@ export default function Header({ lang }: { lang?: string }) {
     { title: msg`Home`, href: '/', current: true, tag: 'home' },
     { title: msg`Generator`, href: '/generator', current: false, tag: 'generator' },
     { title: msg`Slot Maker`, href: '/slot-maker', current: false, tag: 'slot-maker' },
+    { title: msg`Randomizer`, href: '/randomizer', current: false, tag: 'randomizer' },
     // { title: msg`Features`, href: '/#features', current: false, tag: 'features'
     //   // submenu: [
     //   //   { title: msg`All Skills`, href: '/skills' },

@@ -130,7 +130,13 @@ export default function Nav({ items, locale }: NavbarProps) {
         style={{ width: "auto", minWidth: "200px" }} // 使用 NextUI 的 CSS-in-JS 来控制宽度
       >
         {locales.map((item) => (
-          <DropdownItem key={item.key} className="col-span-1 text-white-300 !hover:bg-white hover:text-primary transition-colors">
+          <DropdownItem key={item.key} className="col-span-1 text-white-300 !hover:bg-white hover:text-primary transition-colors"
+          onPress={() => {
+            console.log('onPress')
+            setIsMenuOpen(false); // 关闭菜单
+            router.push(`/${item.key}${pathWithoutLocale}`);
+          }}
+          >
             <NextLink
               className={currentLocale === item.key ? 'text-primary w-full' : 'flex items-center gap-2 text-gray-700 hover:text-primary w-full transition-colors'}
               replace={true}
@@ -266,7 +272,9 @@ export default function Nav({ items, locale }: NavbarProps) {
                 <NextLink
                   className={clsx('text-gray-700 transition-colors', { 'hover:text-primary': isActive(it.href) })}
                   title={i18n._(it.title)}
-                  href={locale ? `/${locale}${it.href}` : it.href}>
+                  href={locale ? `/${locale}${it.href}` : it.href}
+                  onClick={() => setIsMenuOpen(false)} // 添加这一行来关闭菜单
+                  >
                   {i18n._(it.title)}
                 </NextLink>
               </NavbarMenuItem>

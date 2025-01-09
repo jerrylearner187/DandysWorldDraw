@@ -8,10 +8,53 @@ const path = require('path')
  * 4. 基于给定的关键词，生成网站logo
  */
 // 网站关键词
-const keyword = 'Dandys World Draw Slot Maker'
+const keyword = 'Dandys World Draw Randomizer'
 // 网站该要描述
 const description = `
-
+Overview of Dandy's World Draw Randomizer
+Spin the Wheel: The Dandy's World Draw Randomizer is represented as a colorful spin wheel that features various characters from the Dandy's World universe. Each slice of the wheel includes unique characters such as Dandy, Pebble, Flutter, and others. This tool is designed to spark creativity and can be used for storytelling or themed activities during game nights 1.
+Character Selection: The wheel includes a variety of characters, making it ideal for choosing which character to draw or incorporate into a story. Characters featured include:
+Dandy
+Pebble
+Vee
+Astro
+Shelly
+And many more...
+Usage and Features
+Interactive Tool: Users can spin the wheel to randomly select a character, which adds an element of surprise and fun to drawing sessions or creative activities 13.
+Customization Options: Some platforms allow users to customize the look and feel of the wheel, including colors and sounds, enhancing user engagement 3.
+Related Platforms
+Animated Drawings: This platform allows users to animate their drawings easily, which can complement the character designs chosen from the randomizer 2.
+Social Media Engagement: The randomizer concept has gained popularity on platforms like TikTok, where users share videos of their drawings based on random selections from Dandy's World 7.
+Conclusion
+The Dandy's World Draw Randomizer serves as an entertaining and creative tool for artists and fans alike, providing an engaging way to explore character designs and enhance storytelling through art. It encourages spontaneous creativity and can be utilized in various artistic contexts.
+The Dandy's World Draw Randomizer offers several key features that enhance the drawing and creative experience for users:
+Character Selection: The randomizer includes a variety of characters from Dandy's World, allowing users to spin a wheel to randomly select which character to draw. This adds an element of surprise and fun to the drawing process.
+Interactive Gameplay: Users can engage with the randomizer in a playful manner, making it suitable for group activities, such as game nights or art challenges, where participants can take turns spinning the wheel.
+Customization Options: Some versions of the randomizer may allow users to customize the appearance of the wheel, including colors and themes, making it more visually appealing and tailored to individual preferences.
+Social Media Integration: The randomizer is popular on platforms like TikTok, where users share their drawings based on the characters selected. This fosters community engagement and encourages sharing of artistic interpretations.
+Inspiration for Storytelling: Beyond drawing, the randomizer can serve as a tool for generating ideas for stories or creative projects involving Dandy's World characters, enhancing narrative development.
+These features make the Dandy's World Draw Randomizer a versatile tool for artists and fans looking to explore their creativity in engaging ways.
+The search results do not provide specific information about whether the Dandy's World Draw Randomizer supports customization. However, based on general knowledge of similar tools, here are some insights:
+Customization Features
+Character Selection: Many randomizer tools allow users to customize the characters included in the selection. Users might be able to add or remove characters based on their preferences.
+Visual Appearance: Some randomizers offer options to change the visual design of the wheel or interface, allowing for personalization in terms of colors and themes.
+Sound Effects: Certain platforms may allow users to customize sound effects that play when the wheel is spun or when a character is selected.
+User Input: Advanced randomizers might enable users to input their own characters or modify existing ones, creating a more tailored experience.
+Conclusion
+To determine the specific customization options available for the Dandy's World Draw Randomizer, it would be best to check the tool directly or refer to its official documentation or community discussions. If you have access to the tool, exploring its settings may reveal customization capabilities.
+The Dandy's World Draw Randomizer is generally considered user-friendly and accessible, making it suitable for a wide range of users, including beginners and experienced artists. Here are some factors that contribute to its ease of use:
+1. Intuitive Interface
+Simple Design: The randomizer typically features a straightforward interface that allows users to easily understand how to spin the wheel and select characters without needing extensive instructions.
+2. Quick Setup
+Minimal Configuration: Users can often start using the randomizer with little to no setup required. This makes it easy to jump right into the creative process.
+3. Engaging Experience
+Fun Interaction: The interactive nature of spinning a wheel adds a playful element, making the experience enjoyable and encouraging users to participate without feeling overwhelmed.
+4. No Prior Skills Required
+Artistic Freedom: Users do not need advanced drawing skills to use the randomizer effectively. It serves as a fun tool for inspiration, regardless of skill level.
+5. Community Support
+Shared Experiences: Many users share their experiences and tips on social media or art platforms, providing additional guidance and inspiration for new users.
+Overall, the Dandy's World Draw Randomizer is designed to be accessible and enjoyable, allowing users to focus on creativity rather than technical complexities.
 `
 // 参考的网站地址
 const website_likes = [
@@ -197,31 +240,31 @@ async function generateTip() {
 function parseTip(){
   const json = `
     [
-{
-"img": "Sparkles",
-"tip": "Random Story Generation",
-"description": "Dandys World Draw Slot Maker creates unique story combinations with every spin, featuring beloved Dandys World characters in unexpected scenarios."
-},
-{
-"img": "Shuffle",
-"tip": "Slot Machine Experience",
-"description": "Experience the thrill of a slot machine with the Dandys World Draw Slot Maker, where each spin reveals new character combinations and story elements."
-},
-{
-"img": "Users",
-"tip": "Cartoon Characters",
-"description": "Dive into the charming world of Dandys World characters through the Dandys World Draw Slot Maker, where your favorite heroes become part of randomly generated tales."
-},
-{
-"img": "Zap",
-"tip": "Instant Results",
-"description": "The Dandys World Draw Slot Maker instantly generates fresh story combinations with each spin, making every interaction unique and entertaining."
-},
-{
-"img": "HeartHandshake",
-"tip": "Interactive Fun",
-"description": "Engage with the Dandys World Draw Slot Maker for an entertaining experience that brings Dandys World characters to life in surprising ways."
-}
+    {
+        "img": "Shuffle",
+        "tip": "Random Character Selection",
+        "description": "Spin the interactive wheel to randomly select from Dandy's World characters including Dandy, Pebble, Vee, Astro, and Shelly. Perfect for sparking creative inspiration in your drawing sessions."
+    },
+    {
+        "img": "Palette",
+        "tip": "Customization Options",
+        "description": "Personalize your Dandy's World Draw Randomizer with customizable wheel colors and themes. Create your perfect drawing companion with adjustable visual elements."
+    },
+    {
+        "img": "Users",
+        "tip": "Social Integration",
+        "description": "Share your Dandy's World drawings on social media platforms. Join a vibrant community of artists showcasing their character interpretations from the randomizer."
+    },
+    {
+        "img": "Gamepad2",
+        "tip": "Interactive Experience",
+        "description": "Enjoy an engaging drawing experience with the Dandy's World Draw Randomizer. Perfect for game nights, art challenges, and creative storytelling sessions."
+    },
+    {
+        "img": "BookOpen",
+        "tip": "Story Inspiration",
+        "description": "Generate creative storytelling ideas with Dandy's World characters. Use the randomizer to craft unique narratives and develop character-driven stories."
+    }
 ]
   `;
   let obj = JSON.parse(json)
@@ -281,34 +324,38 @@ function generateAbout() {
 function parseFAQ(){
   const json = `
   [
-{
-"question": "What is Dandys World Draw Slot Maker?",
-"answer": "Dandys World Draw Slot Maker is an interactive story generation tool that combines slot machine mechanics with storytelling. It randomly generates unique stories featuring Dandys World characters through a spin-and-match system."
-},
-{
-"question": "How does the Dandys World Draw Slot Maker work?",
-"answer": "The Dandys World Draw Slot Maker works by spinning virtual reels containing different story elements and Dandys World characters. When you press the spin button, it randomly combines these elements to create unique story scenarios. Each spin generates a new combination of characters, settings, and plot elements."
-},
-{
-"question": "Can I save the stories generated by Dandys World Draw Slot Maker?",
-"answer": "Yes, the Dandys World Draw Slot Maker allows you to save your favorite story combinations. Once you find a story combination you like, you can save it to revisit later or share it with other Dandys World fans."
-},
-{
-"question": "Is Dandys World Draw Slot Maker suitable for all ages?",
-"answer": "Yes, the Dandys World Draw Slot Maker is designed to be family-friendly and suitable for all ages. All generated story combinations are appropriate for children while remaining entertaining for adults who enjoy the Dandys World universe."
-},
-{
-"question": "How often are new characters added to the Dandys World Draw Slot Maker?",
-"answer": "The Dandys World Draw Slot Maker is regularly updated with new characters, story elements, and features. Updates typically occur monthly, bringing fresh content and expanding the possibilities for story generation within the Dandys World universe."
-},
-{
-"question": "Can I customize the story elements in Dandys World Draw Slot Maker?",
-"answer": "While the Dandys World Draw Slot Maker primarily operates on random generation, you can influence certain aspects of the story creation process by selecting specific character categories or story themes before spinning. This allows for some customization while maintaining the exciting element of randomness."
-},
-{
-"question": "Are there any tips for using Dandys World Draw Slot Maker effectively?",
-"answer": "To get the most out of your Dandys World Draw Slot Maker experience, try these tips: 1) Spin multiple times to explore different combinations, 2) Use the theme filters to focus on specific types of stories, 3) Save your favorite combinations for inspiration, and 4) Experiment with different character combinations to discover unique storylines."
-}
+    {
+        "question": "What is Dandy's World Draw Randomizer?",
+        "answer": "Dandy's World Draw Randomizer is an interactive wheel-based tool that helps users randomly select characters from the Dandy's World universe for drawing inspiration. It features beloved characters like Dandy, Pebble, Vee, Astro, and Shelly, making it perfect for artists and creative storytellers."
+    },
+    {
+        "question": "How do I use the Dandy's World character randomizer?",
+        "answer": "Using the Dandy's World Draw Randomizer is simple: just click the spin button to rotate the wheel, and it will randomly select a character for you to draw. The interactive wheel will stop on a character, providing you with your next drawing subject from the Dandy's World universe."
+    },
+    {
+        "question": "Can I customize the Dandy's World Draw Randomizer wheel?",
+        "answer": "Yes, the Dandy's World Draw Randomizer offers customization options. You can adjust the wheel's appearance, including colors and themes, to match your preferences. This feature helps create a more personalized drawing experience with your favorite Dandy's World characters."
+    },
+    {
+        "question": "Is the Dandy's World Draw Randomizer suitable for beginners?",
+        "answer": "Absolutely! The Dandy's World Draw Randomizer is designed for artists of all skill levels. Whether you're a beginner learning to draw or an experienced artist looking for inspiration, the randomizer provides a fun and engaging way to practice drawing Dandy's World characters."
+    },
+    {
+        "question": "Can I share my drawings from the Dandy's World Randomizer?",
+        "answer": "Yes, you can share your Dandy's World character drawings on various social media platforms. Many users share their creations on platforms like TikTok and Instagram, joining a community of artists who use the Draw Randomizer for inspiration."
+    },
+    {
+        "question": "How often are new characters added to the Dandy's World Randomizer?",
+        "answer": "The Dandy's World Draw Randomizer is regularly updated to include new characters from the Dandy's World universe. Keep checking back to discover new additions to the character wheel for fresh drawing inspiration."
+    },
+    {
+        "question": "Can I use the Dandy's World Draw Randomizer for group activities?",
+        "answer": "Yes, the Dandy's World Draw Randomizer is perfect for group activities! It's commonly used in art challenges, drawing classes, and creative game nights where participants can take turns spinning the wheel and drawing the selected Dandy's World character."
+    },
+    {
+        "question": "Does the Dandy's World Draw Randomizer work on mobile devices?",
+        "answer": "Yes, the Dandy's World Draw Randomizer is fully responsive and works seamlessly on mobile devices, tablets, and desktop computers, allowing you to generate random character selections for drawing anywhere, anytime."
+    }
 ]
   `;
   let obj = JSON.parse(json)

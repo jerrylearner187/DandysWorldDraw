@@ -314,9 +314,82 @@ export const slotMakerFaqConfig = [
   }
 ]
 
+export const randomizerTipConfig = {
+  "title": msg`Tips Of Dandys World Draw Randomizer`,
+  "tips": 
+  [
+    {
+      "img": "FaShuffle",
+      "tip": msg`Random Character Selection`,
+      "description": msg`Spin the interactive wheel to randomly select from Dandy's World characters including Dandy, Pebble, Vee, Astro, and Shelly. Perfect for sparking creative inspiration in your drawing sessions.`
+    },
+    {
+      "img": "FaPalette",
+      "tip": msg`Customization Options`,
+      "description": msg`Personalize your Dandy's World Draw Randomizer with customizable wheel colors and themes. Create your perfect drawing companion with adjustable visual elements.`
+    },
+    {
+      "img": "FaUsers",
+      "tip": msg`Social Integration`,
+      "description": msg`Share your Dandy's World drawings on social media platforms. Join a vibrant community of artists showcasing their character interpretations from the randomizer.`
+    },
+    {
+      "img": "FaGamepad",
+      "tip": msg`Interactive Experience`,
+      "description": msg`Enjoy an engaging drawing experience with the Dandy's World Draw Randomizer. Perfect for game nights, art challenges, and creative storytelling sessions.`
+    },
+    {
+      "img": "FaBookOpen",
+      "tip": msg`Story Inspiration`,
+      "description": msg`Generate creative storytelling ideas with Dandy's World characters. Use the randomizer to craft unique narratives and develop character-driven stories.`
+    }
+  ]
+}
+
+export const randomizerFaqConfig = [
+  {
+    "question": msg`What is Dandy's World Draw Randomizer?`,
+    "answer": msg`Dandy's World Draw Randomizer is an interactive wheel-based tool that helps users randomly select characters from the Dandy's World universe for drawing inspiration. It features beloved characters like Dandy, Pebble, Vee, Astro, and Shelly, making it perfect for artists and creative storytellers.`
+  },
+  {
+    "question": msg`How do I use the Dandy's World character randomizer?`,
+    "answer": msg`Using the Dandy's World Draw Randomizer is simple: just click the spin button to rotate the wheel, and it will randomly select a character for you to draw. The interactive wheel will stop on a character, providing you with your next drawing subject from the Dandy's World universe.`
+  },
+  {
+    "question": msg`Can I customize the Dandy's World Draw Randomizer wheel?`,
+    "answer": msg`Yes, the Dandy's World Draw Randomizer offers customization options. You can adjust the wheel's appearance, including colors and themes, to match your preferences. This feature helps create a more personalized drawing experience with your favorite Dandy's World characters.`
+  },
+  {
+    "question": msg`Is the Dandy's World Draw Randomizer suitable for beginners?`,
+    "answer": msg`Absolutely! The Dandy's World Draw Randomizer is designed for artists of all skill levels. Whether you're a beginner learning to draw or an experienced artist looking for inspiration, the randomizer provides a fun and engaging way to practice drawing Dandy's World characters.`
+  },
+  {
+    "question": msg`Can I share my drawings from the Dandy's World Randomizer?`,
+    "answer": msg`Yes, you can share your Dandy's World character drawings on various social media platforms. Many users share their creations on platforms like TikTok and Instagram, joining a community of artists who use the Draw Randomizer for inspiration.`
+  },
+  {
+    "question": msg`How often are new characters added to the Dandy's World Randomizer?`,
+    "answer": msg`The Dandy's World Draw Randomizer is regularly updated to include new characters from the Dandy's World universe. Keep checking back to discover new additions to the character wheel for fresh drawing inspiration.`
+  },
+  {
+    "question": msg`Can I use the Dandy's World Draw Randomizer for group activities?`,
+    "answer": msg`Yes, the Dandy's World Draw Randomizer is perfect for group activities! It's commonly used in art challenges, drawing classes, and creative game nights where participants can take turns spinning the wheel and drawing the selected Dandy's World character.`
+  },
+  {
+    "question": msg`Does the Dandy's World Draw Randomizer work on mobile devices?`,
+    "answer": msg`Yes, the Dandy's World Draw Randomizer is fully responsive and works seamlessly on mobile devices, tablets, and desktop computers, allowing you to generate random character selections for drawing anywhere, anytime.`
+  }
+]
+
 export const slotMakerConfig = [
   ["Shrimpo","Vee","Brightney","Scraps","Boxten","Razzle Dazzle","Teagan","Gigi","Tisha","Flutter","Pebble","Sprout","Toodles","Twisted Astro","Cosmo","Glisten","Goob","Rodger","Finn","Poppy","Dandy","Shelly","Shrimpo"],
   ["doing machine","kissing","throwing a bomb at","dancing with","hiding behind","yelling at","secretly crushing on","high-fiving","finding fossil with","screaming at","stealing shelly fossil with","singing to","search for","being nice to","arguing with","walking with","crying at","hiding behind","buying from dandys shop with","eating with"
-    ,"using air horn at","sleeping with","laughing with","baking","bullying","watching","begging","speaking to","helping","turning into twisted with","got annoyed at","healing","babysitting","taking medkits from","jumping on","hugging","running from","going to cinema with","reading a book with","","","","","","","","","","","",""],
+    ,"using air horn at","sleeping with","laughing with","baking","bullying","watching","begging","speaking to","helping","turning into twisted with","got annoyed at","healing","babysitting","taking medkits from","jumping on","hugging","running from","going to cinema with","reading a book with"],
   ["Shrimpo","Vee","Brightney","Scraps","Boxten","Razzle Dazzle","Teagan","Gigi","Tisha","Flutter","Pebble","Sprout","Toodles","Twisted Astro","Cosmo","Glisten","Goob","Rodger","Finn","Poppy","Dandy","Shelly","Shrimpo"]
+]
+
+export const randomizerConfig = [
+  ["Shrimpo","Vee","Brightney","Scraps","Boxten","Razzle Dazzle","Teagan","Gigi","Tisha","Flutter","Pebble","Sprout","Toodles","Twisted Astro","Cosmo","Glisten","Goob","Rodger","Finn","Poppy","Dandy","Shelly","Shrimpo"],
+  ["Alarm","Blue Bandana","Blushy Bat","Bone","Brick","Cardboard Armor","Clown Hown","Coin Purse","Crayon Set","Dandy Plush","Diary","Dog Plush","Fancy Purse","Feather Duster","Fishing Rod","Friendship Bracelet","Ghost Snakes in a Can","Machine Manual","Magnifying Glass","Megaphone","Night Cap","Participation Award","Pink Bow","Pop Pack","Pull Toy","Ribbon Spool","Savory Charm","Thermos","Thinking Cap","Vanity Mirror","Vee's Remote","Watercooler","Wrench"],
+  ["Alarm","Blue Bandana","Blushy Bat","Bone","Brick","Cardboard Armor","Clown Hown","Coin Purse","Crayon Set","Dandy Plush","Diary","Dog Plush","Fancy Purse","Feather Duster","Fishing Rod","Friendship Bracelet","Ghost Snakes in a Can","Machine Manual","Magnifying Glass","Megaphone","Night Cap","Participation Award","Pink Bow","Pop Pack","Pull Toy","Ribbon Spool","Savory Charm","Thermos","Thinking Cap","Vanity Mirror","Vee's Remote","Watercooler","Wrench"]
 ]

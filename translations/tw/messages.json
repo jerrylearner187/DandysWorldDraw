@@ -175,6 +175,17 @@
       ]
     ]
   },
+  "cBPa5o": {
+    "translation": "絕對可以！流放之路2的隨機繪圖生成器專為各種技能水平的藝術家設計。無論你是初學者學習繪畫，還是有經驗的藝術家尋找靈感，這個隨機生成器都提供了一種有趣且引人入勝的方式來練習繪畫流放之路2的角色。",
+    "message": "Absolutely! The Dandy's World Draw Randomizer is designed for artists of all skill levels. Whether you're a beginner learning to draw or an experienced artist looking for inspiration, the randomizer provides a fun and engaging way to practice drawing Dandy's World characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        364
+      ]
+    ]
+  },
   "iNiXuw": {
     "translation": "在 Dandys World Draw Generator 中，您可以訪問各種預設形狀，包括圓形、方形、三角形和橢圓形，以快速構建角色的基本結構。",
     "message": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure.",
@@ -307,6 +318,17 @@
       ]
     ]
   },
+  "2fk963": {
+    "translation": "我可以自定義流放之路2的隨機繪圖生成器輪盤嗎？",
+    "message": "Can I customize the Dandy's World Draw Randomizer wheel?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        359
+      ]
+    ]
+  },
   "N94L+m": {
     "translation": "我可以自定義Dandys World抽獎機中的故事元素嗎？",
     "message": "Can I customize the story elements in Dandys World Draw Slot Maker?",
@@ -351,6 +373,17 @@
       ]
     ]
   },
+  "9qceBF": {
+    "translation": "我可以分享我從流放之路2隨機生成器中繪製的作品嗎？",
+    "message": "Can I share my drawings from the Dandy's World Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        367
+      ]
+    ]
+  },
   "i4CL2W": {
     "translation": "我可以將流浪騎士的繪畫用於商業用途嗎？",
     "message": "Can I use Dandy's World drawings for commercial purposes?",
@@ -359,6 +392,17 @@
       [
         "config/site.ts",
         169
+      ]
+    ]
+  },
+  "3ECj3s": {
+    "translation": "我可以將流放之路2的隨機繪圖生成器用於團體活動嗎？",
+    "message": "Can I use the Dandy's World Draw Randomizer for group activities?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        375
       ]
     ]
   },
@@ -516,6 +560,17 @@
       ]
     ]
   },
+  "Bmz9Tu": {
+    "translation": "創意角色道具生成器！",
+    "message": "Creative Character Props Generator!",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        50
+      ]
+    ]
+  },
   "dPg4Dg": {
     "translation": "創作自由",
     "message": "Creative Freedom",
@@ -524,6 +579,17 @@
       [
         "config/site.ts",
         123
+      ]
+    ]
+  },
+  "Y00csS": {
+    "translation": "自定義選項",
+    "message": "Customization Options",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        328
       ]
     ]
   },
@@ -568,6 +634,39 @@
       [
         "config/site.ts",
         142
+      ]
+    ]
+  },
+  "k500kh": {
+    "translation": "流放之路2隨機繪圖生成器",
+    "message": "Dandy's World Draw Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        47
+      ]
+    ]
+  },
+  "WZMl9X": {
+    "translation": "流放之路2隨機繪圖生成器 | 創意角色物品生成器",
+    "message": "Dandy's World Draw Randomizer | Creative Character Item Generator",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        22
+      ]
+    ]
+  },
+  "SKPzak": {
+    "translation": "流放之路2隨機繪圖生成器是一個互動的輪盤工具，幫助用戶隨機選擇流放之路2宇宙中的角色以獲取繪畫靈感。它包含了如達迪、圓石、維、阿斯特羅和謝莉等受人喜愛的角色，讓藝術家和創意故事講述者都能受益。",
+    "message": "Dandy's World Draw Randomizer is an interactive wheel-based tool that helps users randomly select characters from the Dandy's World universe for drawing inspiration. It features beloved characters like Dandy, Pebble, Vee, Astro, and Shelly, making it perfect for artists and creative storytellers.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        352
       ]
     ]
   },
@@ -692,6 +791,17 @@
       ]
     ]
   },
+  "QOEKV7": {
+    "translation": "發現有趣的互動隨機生成器，包含達迪、圓石、Flutter等角色。非常適合創意繪畫會議和故事靈感。",
+    "message": "Discover a fun interactive randomizer featuring Dandy, Pebble, Flutter & more characters. Perfect for creative drawing sessions and storytelling inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/randomizer/page.tsx",
+        25
+      ]
+    ]
+  },
   "24Iy/D": {
     "translation": "通過Dandys World抽獎機，沉浸在Dandys World角色的迷人世界中，您最喜愛的英雄成為隨機生成故事的一部分。",
     "message": "Dive into the charming world of Dandys World characters through the Dandys World Draw Slot Maker, where your favorite heroes become part of randomly generated tales.",
@@ -711,6 +821,17 @@
       [
         "config/site.ts",
         145
+      ]
+    ]
+  },
+  "tkbLGt": {
+    "translation": "流放之路2隨機繪圖生成器在移動設備上能正常運行嗎？",
+    "message": "Does the Dandy's World Draw Randomizer work on mobile devices?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        379
       ]
     ]
   },
@@ -799,6 +920,17 @@
       [
         "config/site.ts",
         281
+      ]
+    ]
+  },
+  "2bk169": {
+    "translation": "享受流放之路2隨機繪圖生成器帶來的有趣繪畫體驗。非常適合遊戲之夜、藝術挑戰和創意故事講述會議。",
+    "message": "Enjoy an engaging drawing experience with the Dandy's World Draw Randomizer. Perfect for game nights, art challenges, and creative storytelling sessions.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        339
       ]
     ]
   },
@@ -923,6 +1055,17 @@
       ]
     ]
   },
+  "gx1faY": {
+    "translation": "使用流放之路2角色生成器生成創意故事想法。使用隨機生成器編寫獨特的敘述，發展角色驅動的故事。",
+    "message": "Generate creative storytelling ideas with Dandy's World characters. Use the randomizer to craft unique narratives and develop character-driven stories.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        344
+      ]
+    ]
+  },
   "EDkBL8": {
     "translation": "立即生成！",
     "message": "Generate Now!",
@@ -1004,6 +1147,17 @@
       ]
     ]
   },
+  "3fd0PB": {
+    "translation": "我該如何使用流放之路2角色隨機生成器？",
+    "message": "How do I use the Dandy's World character randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        355
+      ]
+    ]
+  },
   "F3cURS": {
     "translation": "Dandys World抽獎機是如何運作的？",
     "message": "How does the Dandys World Draw Slot Maker work?",
@@ -1023,6 +1177,17 @@
       [
         "config/site.ts",
         149
+      ]
+    ]
+  },
+  "jEoFAh": {
+    "translation": "流放之路2隨機生成器多久會新增角色？",
+    "message": "How often are new characters added to the Dandy's World Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        371
       ]
     ]
   },
@@ -1125,6 +1290,17 @@
       ]
     ]
   },
+  "1wRrgZ": {
+    "translation": "互動體驗",
+    "message": "Interactive Experience",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        338
+      ]
+    ]
+  },
   "SRFxHS": {
     "translation": "互動樂趣",
     "message": "Interactive Fun",
@@ -1166,6 +1342,17 @@
       [
         "config/site.ts",
         300
+      ]
+    ]
+  },
+  "ng5cu8": {
+    "translation": "流放之路2的隨機繪圖生成器適合初學者使用嗎？",
+    "message": "Is the Dandy's World Draw Randomizer suitable for beginners?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        363
       ]
     ]
   },
@@ -1382,6 +1569,17 @@
       ]
     ]
   },
+  "Rh2/5q": {
+    "translation": "個性化你的流放之路2隨機繪圖生成器，提供可自定義的輪盤顏色和主題。創建你的完美繪畫夥伴，調整視覺元素。",
+    "message": "Personalize your Dandy's World Draw Randomizer with customizable wheel colors and themes. Create your perfect drawing companion with adjustable visual elements.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        329
+      ]
+    ]
+  },
   "nk7u3D": {
     "translation": "花瓣",
     "message": "Petal",
@@ -1485,6 +1683,17 @@
       ]
     ]
   },
+  "PfR12O": {
+    "translation": "隨機角色選擇",
+    "message": "Random Character Selection",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        323
+      ]
+    ]
+  },
   "JQ4XcE": {
     "translation": "隨機故事生成",
     "message": "Random Story Generation",
@@ -1493,6 +1702,28 @@
       [
         "config/site.ts",
         260
+      ]
+    ]
+  },
+  "I2K8PB": {
+    "translation": "隨機化",
+    "message": "Randomize",
+    "comments": [],
+    "origin": [
+      [
+        "components/RandomizerMachine.tsx",
+        41
+      ]
+    ]
+  },
+  "O/5/2t": {
+    "translation": "隨機生成器",
+    "message": "Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "components/wegic/header.tsx",
+        10
       ]
     ]
   },
@@ -1526,6 +1757,17 @@
       [
         "config/site.ts",
         214
+      ]
+    ]
+  },
+  "RXCPqT": {
+    "translation": "在社交媒體平台上分享你在流放之路2中的繪畫作品。加入一個充滿活力的藝術家社群，展現你對隨機生成器角色的詮釋。",
+    "message": "Share your Dandy's World drawings on social media platforms. Join a vibrant community of artists showcasing their character interpretations from the randomizer.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        334
       ]
     ]
   },
@@ -1573,6 +1815,17 @@
       ]
     ]
   },
+  "sMe9b4": {
+    "translation": "社交整合",
+    "message": "Social Integration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        333
+      ]
+    ]
+  },
   "u/kFCL": {
     "translation": "旋轉Dandys World抽獎機以生成獨特的故事組合，特色是Dandy角色。這是一個有趣的角子機體驗，與卡通英雄互動。",
     "message": "Spin the Dandys World Draw Slot Maker to generate unique story combinations featuring Dandy characters. A fun slot machine experience with cartoon heroes.",
@@ -1581,6 +1834,17 @@
       [
         "app/[lang]/(public)/slot-maker/page.tsx",
         25
+      ]
+    ]
+  },
+  "kHKg51": {
+    "translation": "旋轉互動輪盤，從流放之路2角色中隨機選擇，包括達迪、圓石、維、阿斯特羅和謝莉。在你的繪畫會議中激發創意靈感。",
+    "message": "Spin the interactive wheel to randomly select from Dandy's World characters including Dandy, Pebble, Vee, Astro, and Shelly. Perfect for sparking creative inspiration in your drawing sessions.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        324
       ]
     ]
   },
@@ -1628,6 +1892,17 @@
       ]
     ]
   },
+  "bUzxvY": {
+    "translation": "故事靈感",
+    "message": "Story Inspiration",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        343
+      ]
+    ]
+  },
   "UCLeG0": {
     "translation": "服務條款",
     "message": "Terms of service",
@@ -1647,6 +1922,17 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         16
+      ]
+    ]
+  },
+  "DFLfXa": {
+    "translation": "流放之路2隨機繪圖生成器會定期更新以包含新的角色。請隨時回訪，以發現角色輪盤中的新成員，獲取新的繪畫靈感。",
+    "message": "The Dandy's World Draw Randomizer is regularly updated to include new characters from the Dandy's World universe. Keep checking back to discover new additions to the character wheel for fresh drawing inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        372
       ]
     ]
   },
@@ -1746,6 +2032,17 @@
       [
         "config/site.ts",
         183
+      ]
+    ]
+  },
+  "5xItRt": {
+    "translation": "流放之路2隨機繪圖生成器的使用貼士",
+    "message": "Tips Of Dandys World Draw Randomizer",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        318
       ]
     ]
   },
@@ -1881,6 +2178,17 @@
       ]
     ]
   },
+  "+ois9a": {
+    "translation": "使用流放之路2隨機繪圖生成器非常簡單：只需點擊旋轉按鈕來旋轉輪盤，它將隨機選擇一個角色供你繪畫。互動輪盤將在某個角色上停止，為你提供流放之路2宇宙的下一個繪畫主題。",
+    "message": "Using the Dandy's World Draw Randomizer is simple: just click the spin button to rotate the wheel, and it will randomly select a character for you to draw. The interactive wheel will stop on a character, providing you with your next drawing subject from the Dandy's World universe.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        356
+      ]
+    ]
+  },
   "qNd2+R": {
     "translation": "多樣化的藝術風格",
     "message": "Versatile Art Styles",
@@ -1980,6 +2288,17 @@
       ]
     ]
   },
+  "GBJKtv": {
+    "translation": "什麼是流放之路2隨機繪圖生成器？",
+    "message": "What is Dandy's World Draw Randomizer?",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        351
+      ]
+    ]
+  },
   "RcV4eE": {
     "translation": "什麼是 Dandys World Draw Generator？",
     "message": "What is Dandys World Draw Generator?",
@@ -2068,6 +2387,39 @@
       ]
     ]
   },
+  "l7FxnA": {
+    "translation": "是的，流放之路2隨機繪圖生成器完全響應，能夠在移動設備、平板電腦和桌面計算機上無縫運行，讓你隨時隨地生成隨機角色選擇進行繪畫。",
+    "message": "Yes, the Dandy's World Draw Randomizer is fully responsive and works seamlessly on mobile devices, tablets, and desktop computers, allowing you to generate random character selections for drawing anywhere, anytime.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        380
+      ]
+    ]
+  },
+  "sbds9o": {
+    "translation": "是的，流放之路2隨機繪圖生成器非常適合團體活動！它通常用於藝術挑戰、繪畫課程和創意遊戲之夜，參與者可以輪流旋轉輪盤並繪製選中的流放之路2角色。",
+    "message": "Yes, the Dandy's World Draw Randomizer is perfect for group activities! It's commonly used in art challenges, drawing classes, and creative game nights where participants can take turns spinning the wheel and drawing the selected Dandy's World character.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        376
+      ]
+    ]
+  },
+  "VJLIYr": {
+    "translation": "是的，流放之路2隨機繪圖生成器提供自定義選項。你可以調整輪盤的外觀，包括顏色和主題，以符合你的喜好。這個功能有助於創造一個更加個性化的繪畫體驗，與你喜愛的流放之路2角色一起。",
+    "message": "Yes, the Dandy's World Draw Randomizer offers customization options. You can adjust the wheel's appearance, including colors and themes, to match your preferences. This feature helps create a more personalized drawing experience with your favorite Dandy's World characters.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        360
+      ]
+    ]
+  },
   "Gnhykt": {
     "translation": "是的，Dandys World抽獎機允許您保存最喜愛的故事組合。一旦找到您喜歡的故事組合，您可以將其保存以便稍後查看或與其他Dandys World粉絲分享。",
     "message": "Yes, the Dandys World Draw Slot Maker allows you to save your favorite story combinations. Once you find a story combination you like, you can save it to revisit later or share it with other Dandys World fans.",
@@ -2087,6 +2439,17 @@
       [
         "config/site.ts",
         301
+      ]
+    ]
+  },
+  "pgYmaF": {
+    "translation": "是的，你可以在各種社交媒體平台上分享你的流放之路2角色繪畫作品。許多用戶會在TikTok和Instagram等平台上分享自己的創作，加入一個使用隨機繪圖生成器來獲取靈感的藝術家社群。",
+    "message": "Yes, you can share your Dandy's World character drawings on various social media platforms. Many users share their creations on platforms like TikTok and Instagram, joining a community of artists who use the Draw Randomizer for inspiration.",
+    "comments": [],
+    "origin": [
+      [
+        "config/site.ts",
+        368
       ]
     ]
   },
