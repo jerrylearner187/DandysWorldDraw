@@ -12,7 +12,7 @@ export default async function TermsPage({
 }) {
   await activateLocale(params.lang)
   return (
-    <div className='prose mx-auto p-6 text-white'>
+    <div className='prose mx-auto p-6 text-gray-500'>
       <h1 className='text-primary'>{t`Terms of Service for #0#`.replace('#0#', i18n._(siteConfig.name))}</h1>
       <p>{t`Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.`.replace('#0#', i18n._(siteConfig.name)).replace('#1#', siteConfig.url)}</p>
       <h2 className='text-secondary'>{t`1. Use License`}</h2>
@@ -20,7 +20,7 @@ export default async function TermsPage({
       <h2 className='text-secondary'>{t`2. Ownership`}</h2>
       <p>{t`The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.`.replace('#0#', i18n._(siteConfig.name))}</p>
       <h2 className='text-secondary'>{t`3. User Data Collection`}</h2>
-      <p>{t`We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#`} <a href={`/#0#/about/privacy-policy`.replace('#0#', params.lang)}>{t`Privacy policy`}</a></p>
+      <p>{t`We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at `} <a href={`/#0#/about/privacy-policy`.replace('#0#', params.lang)}>{t`Privacy policy`}</a></p>
       <h2 className='text-secondary'>{t`4. Governing Law`}</h2>
       <p>{t`These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.`}</p>
       <h2 className='text-secondary'>{t`5. Changes to Terms`}</h2>
