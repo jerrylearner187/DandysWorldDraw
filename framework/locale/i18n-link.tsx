@@ -3,6 +3,7 @@ import localeNames from './localeConfig'
 import {Link} from "@nextui-org/react";
 import {AVAILABLE_LOCALES} from "@/framework/locale/locale";
 import {usePathname} from "next/navigation";
+import useNavigation from '@/framework/hooks/useNavigation'
 
 export default function I18nLink({params}: { params?: { lang: AVAILABLE_LOCALES } }) {
     // 获取localeNames的keys
@@ -10,7 +11,7 @@ export default function I18nLink({params}: { params?: { lang: AVAILABLE_LOCALES 
     // 获取请求路径
     const pathname = usePathname()
     // 删除locale后保留所有路径
-    const pathWithoutLocale = pathname.split('/')[2]
+    const [pathWithoutLocale] = useNavigation(pathname)
 
     return (
         <div className="grid grid-cols-3 md:grid-cols-8 gap-2">
