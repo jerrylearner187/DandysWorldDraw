@@ -10,6 +10,7 @@ import jaMessages from '@/translations/ja/messages.json'
 import koMessages from '@/translations/ko/messages.json'
 import ruMessages from '@/translations/ru/messages.json'
 import twMessages from '@/translations/tw/messages.json'
+import ptMessages from '@/translations/pt/messages.json'
 
 // 定义一个类型来匹配实际的消息格式
 type RawMessages = Record<string, {
@@ -106,7 +107,9 @@ async function getLocalMessage(locale: string): Promise<Messages> {
     return convertToMessages(ruMessages as RawMessages);
   }  else if (locale === 'tw') {
     return convertToMessages(twMessages as RawMessages);
-  } else {
+  } else if (locale === 'pt') {
+    return convertToMessages(ptMessages as RawMessages);
+  }else {
     return {};
   }
 
