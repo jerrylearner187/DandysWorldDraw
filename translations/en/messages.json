@@ -446,7 +446,7 @@
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        504
+        557
       ]
     ]
   },
@@ -853,7 +853,7 @@
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        511
+        564
       ]
     ]
   },
@@ -864,7 +864,7 @@
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        533
+        586
       ]
     ]
   },
@@ -875,7 +875,7 @@
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        524
+        577
       ]
     ]
   },
@@ -2200,9 +2200,9 @@
       ]
     ]
   },
-  "yhZMgW": {
-    "translation": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#",
-    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#",
+  "DFOg6P": {
+    "translation": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
     "comments": [],
     "origin": [
       [

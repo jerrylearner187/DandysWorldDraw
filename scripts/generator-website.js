@@ -1,6 +1,7 @@
 const { openAIChat4 } = require('./openai-chat')
 const fs = require('fs')
 const path = require('path')
+const customLocales = require('./custom-locales')
 /**
  * 1. 基于给定的关键词，生成TDK，并给出一些合适的网站名称
  * 2. 基于给定的关键词，生成4篇文章标题、描述和详情内容
@@ -464,6 +465,24 @@ async function generateLogo(keyword, primaryColor) {
   console.log('prompt:', prompt)
 }
 
+function translateCustomLocales() {
+  const prompt = `把"${JSON.stringify(customLocales)}"中的对应单词翻译成当地语言所在地区的习惯性用法，以json格式输出`
+  console.log('prompt:', prompt)
+}
+
+function getTransCustomLocales() {
+  let prompts = [];
+  Object.keys(customLocales).forEach(key => {
+    const locale = customLocales[key];
+    Object.keys(locale).forEach(i => {
+      if (!prompts.includes(locale[i])) {
+        prompts.push(locale[i]);
+      }
+    });
+  });
+  console.log('prompt:\n', prompts.join('\n'))
+}
+
 async function generate() {
   // await generateTDK()
   // await generateHero()
@@ -472,9 +491,11 @@ async function generate() {
   // await generateTip()
   // parseTip();
   // await generateFAQ()
-  parseFAQ();
+  // parseFAQ();
   // generateAbout();
   // await generateLogo('Dandys World Draw', '#2E8F15')
+  // translateCustomLocales()
+  getTransCustomLocales();
   // generateModule();
   // await generateBlogs()
   // await generateBlogContent()

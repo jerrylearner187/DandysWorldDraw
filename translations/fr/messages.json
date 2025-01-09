@@ -1,6 +1,6 @@
 {
   "32fNxX": {
-    "translation": "#0# se réserve le droit, à sa seule discrétion, de modifier ou de remplacer ces conditions à tout moment. Nous informerons les utilisateurs de tout changement par e-mail. Votre utilisation continue du site Web après tout changement de ces conditions constituera votre acceptation de ces changements.",
+    "translation": "#0# se réserve le droit, à sa seule discrétion, de modifier ou de remplacer ces Conditions à tout moment. Nous informerons les utilisateurs de tout changement par e-mail. Votre utilisation continue du site après tout changement de ces Conditions constituera votre acceptation de ces changements.",
     "message": "#0# reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
     "comments": [],
     "origin": [
@@ -33,7 +33,7 @@
     ]
   },
   "RUEwir": {
-    "translation": "2. Données de journalisation",
+    "translation": "2. Données de journal",
     "message": "2. Log Data",
     "comments": [],
     "origin": [
@@ -66,7 +66,7 @@
     ]
   },
   "69EiaO": {
-    "translation": "3. Collecte des données des utilisateurs",
+    "translation": "3. Collecte de données utilisateur",
     "message": "3. User Data Collection",
     "comments": [],
     "origin": [
@@ -77,7 +77,7 @@
     ]
   },
   "pik+Gj": {
-    "translation": "4. Loi applicable",
+    "translation": "4. Droit applicable",
     "message": "4. Governing Law",
     "comments": [],
     "origin": [
@@ -121,7 +121,7 @@
     ]
   },
   "UA5K4X": {
-    "translation": "6. Coordonnées",
+    "translation": "6. Informations de contact",
     "message": "6. Contact Information",
     "comments": [],
     "origin": [
@@ -154,7 +154,7 @@
     ]
   },
   "EXY/2d": {
-    "translation": "Absolument ! Dandys World Draw Generator est conçu pour être convivial pour les artistes de tous niveaux. Avec des formes prédéfinies, des outils faciles à utiliser et des contrôles intuitifs, les débutants peuvent commencer à créer des œuvres d'art immédiatement.",
+    "translation": "Absolument ! Le générateur de dessins de Le Monde de Dandy est conçu pour être convivial pour les artistes de tous niveaux de compétence. Avec des formes prédéfinies, des outils faciles à utiliser et des contrôles intuitifs, les débutants peuvent commencer à créer des œuvres d'art immédiatement.",
     "message": "Absolutely! Dandys World Draw Generator is designed to be user-friendly for artists of all skill levels. With preset shapes, easy-to-use tools, and intuitive controls, beginners can start creating artwork immediately.",
     "comments": [],
     "origin": [
@@ -165,7 +165,7 @@
     ]
   },
   "isTHa0": {
-    "translation": "Absolument ! La communauté de Dandy's World offre de multiples options de soutien : des guides détaillés étape par étape, des tutoriels vidéo, des forums communautaires et des retours d'expérience d'artistes chevronnés. Vous pouvez également rejoindre nos séances de dessin en direct hebdomadaires pour des conseils en temps réel.",
+    "translation": "Absolument ! La communauté de Le Monde de Dandy offre plusieurs options de soutien : des guides détaillés étape par étape, des tutoriels vidéo, des forums communautaires et des retours d'expérience d'artistes expérimentés. Vous pouvez également participer à nos sessions de dessin en direct hebdomadaires pour des conseils en temps réel.",
     "message": "Absolutely! The Dandy's World community offers multiple support options: detailed step-by-step guides, video tutorials, community forums, and feedback from experienced artists. You can also join our weekly live drawing sessions for real-time guidance.",
     "comments": [],
     "origin": [
@@ -176,7 +176,7 @@
     ]
   },
   "cBPa5o": {
-    "translation": "Absolument ! Le générateur de tirage aléatoire de Dandy's World est conçu pour les artistes de tous niveaux. Que vous soyez un débutant en apprentissage du dessin ou un artiste expérimenté à la recherche d'inspiration, le générateur aléatoire offre un moyen amusant et engageant de pratiquer le dessin des personnages de Dandy's World.",
+    "translation": "Absolument ! Le randomiseur de dessins de Le Monde de Dandy est conçu pour les artistes de tous niveaux de compétence. Que vous soyez un débutant apprenant à dessiner ou un artiste expérimenté en quête d'inspiration, le randomiseur offre un moyen amusant et engageant de pratiquer le dessin des personnages de Le Monde de Dandy.",
     "message": "Absolutely! The Dandy's World Draw Randomizer is designed for artists of all skill levels. Whether you're a beginner learning to draw or an experienced artist looking for inspiration, the randomizer provides a fun and engaging way to practice drawing Dandy's World characters.",
     "comments": [],
     "origin": [
@@ -187,7 +187,7 @@
     ]
   },
   "iNiXuw": {
-    "translation": "Accédez à une variété de formes prédéfinies dans Dandys World Draw Generator, y compris des cercles, des carrés, des triangles et des ellipses pour construire rapidement la structure de base de votre personnage.",
+    "translation": "Accédez à une variété de formes prédéfinies dans le générateur de dessins de Le Monde de Dandy, y compris des cercles, des carrés, des triangles et des ellipses pour construire rapidement la structure de base de votre personnage.",
     "message": "Access a variety of preset shapes in Dandys World Draw Generator including circles, squares, triangles and ellipses to quickly build your character's basic structure.",
     "comments": [],
     "origin": [
@@ -198,7 +198,7 @@
     ]
   },
   "UEU44n": {
-    "translation": "Accédez à une large gamme de ressources de dessin de Dandy's World, y compris des guides de personnages, des palettes de couleurs et des graphiques de proportions. Parfait pour maintenir l'authenticité de votre œuvre.",
+    "translation": "Accédez à une large gamme de ressources de dessin de Le Monde de Dandy, y compris des guides de personnages, des palettes de couleurs et des graphiques de proportions. Parfait pour maintenir l'authenticité de votre œuvre.",
     "message": "Access a wide range of Dandy's World drawing resources, including character guides, color palettes, and proportion charts. Perfect for maintaining authenticity in your artwork.",
     "comments": [],
     "origin": [
@@ -209,7 +209,7 @@
     ]
   },
   "Xs7qNN": {
-    "translation": "Communauté Active",
+    "translation": "Communauté active",
     "message": "Active Community",
     "comments": [],
     "origin": [
@@ -220,7 +220,7 @@
     ]
   },
   "Jf2Ljl": {
-    "translation": "Ajouter des Détails et des Expressions",
+    "translation": "Ajout de détails et d'expressions",
     "message": "Adding Details and Expressions",
     "comments": [],
     "origin": [
@@ -231,7 +231,7 @@
     ]
   },
   "JrsO8P": {
-    "translation": "Appliquez les couleurs en utilisant la palette de couleurs officielle de Dandy's World. Commencez par les couleurs de base, puis ajoutez des ombres et des reflets. N'oubliez pas que chaque personnage a son propre schéma de couleurs - comme le smoking gris de Rodger et le bandeau bleu-violet.",
+    "translation": "Appliquez des couleurs en utilisant la palette de couleurs officielle de Le Monde de Dandy. Commencez par les couleurs de base, puis ajoutez des ombres et des reflets. N'oubliez pas que chaque personnage a son schéma de couleurs unique - comme le smoking gris de Rodger et son bandeau violet-bleu.",
     "message": "Apply colors using the official Dandy's World color palette. Start with base colors, then add shading and highlights. Remember that each character has their unique color scheme - like Rodger's gray tuxedo and purple-blue band.",
     "comments": [],
     "origin": [
@@ -242,7 +242,7 @@
     ]
   },
   "NiSGP0": {
-    "translation": "Y a-t-il des défis ou des événements de dessin dans Dandy's World ?",
+    "translation": "Y a-t-il des défis de dessin ou des événements dans Le Monde de Dandy ?",
     "message": "Are there any drawing challenges or events in Dandy's World?",
     "comments": [],
     "origin": [
@@ -253,7 +253,7 @@
     ]
   },
   "7DwNqz": {
-    "translation": "Y a-t-il des conseils pour utiliser efficacement le Dandys World Draw Slot Maker ?",
+    "translation": "Y a-t-il des conseils pour utiliser efficacement le créateur de slots de dessin de Le Monde de Dandy ?",
     "message": "Are there any tips for using Dandys World Draw Slot Maker effectively?",
     "comments": [],
     "origin": [
@@ -264,7 +264,7 @@
     ]
   },
   "4+KTpU": {
-    "translation": "Y a-t-il différents niveaux de difficulté dans les tutoriels de Dandy's World ?",
+    "translation": "Y a-t-il différents niveaux de difficulté dans les tutoriels de Le Monde de Dandy ?",
     "message": "Are there different difficulty levels in Dandy's World tutorials?",
     "comments": [],
     "origin": [
@@ -275,7 +275,7 @@
     ]
   },
   "0BQ0oZ": {
-    "translation": "Commencez par décomposer les personnages de Dandy's World en formes de base. La plupart des personnages commencent par des formes géométriques simples - des cercles pour la tête de Rodger, des rectangles pour la structure du corps. Pratiquez ces formes fondamentales avant d'ajouter des détails.",
+    "translation": "Commencez par décomposer les personnages de Le Monde de Dandy en formes de base. La plupart des personnages commencent par des formes géométriques simples - des cercles pour la tête de Rodger, des rectangles pour la structure du corps. Pratiquez ces formes fondamentales avant d'ajouter des détails.",
     "message": "Begin by breaking down Dandy's World characters into basic shapes. Most characters start with simple geometric forms - circles for Rodger's head, rectangles for body structure. Practice these foundational shapes before adding details.",
     "comments": [],
     "origin": [
@@ -297,7 +297,7 @@
     ]
   },
   "yZ2PlW": {
-    "translation": "En utilisant #0#, vous signalez votre acceptation de ces conditions d'utilisation.",
+    "translation": "En utilisant #0#, vous signifiez votre acceptation de ces Conditions de service.",
     "message": "By using #0#, you signify your acceptance of these Terms of Service.",
     "comments": [],
     "origin": [
@@ -308,7 +308,7 @@
     ]
   },
   "L7dq+T": {
-    "translation": "Puis-je créer des personnages en utilisant Dandys World Draw Generator ?",
+    "translation": "Puis-je créer des personnages en utilisant le générateur de dessins de Le Monde de Dandy ?",
     "message": "Can I create characters using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
@@ -319,7 +319,7 @@
     ]
   },
   "2fk963": {
-    "translation": "Puis-je personnaliser la roue du générateur de tirage aléatoire de Dandy's World ?",
+    "translation": "Puis-je personnaliser la roue du randomiseur de dessins de Le Monde de Dandy ?",
     "message": "Can I customize the Dandy's World Draw Randomizer wheel?",
     "comments": [],
     "origin": [
@@ -330,7 +330,7 @@
     ]
   },
   "N94L+m": {
-    "translation": "Puis-je personnaliser les éléments de l'histoire dans le Dandys World Draw Slot Maker ?",
+    "translation": "Puis-je personnaliser les éléments de l'histoire dans le créateur de slots de dessin de Le Monde de Dandy ?",
     "message": "Can I customize the story elements in Dandys World Draw Slot Maker?",
     "comments": [],
     "origin": [
@@ -341,7 +341,7 @@
     ]
   },
   "PvR3qf": {
-    "translation": "Puis-je dessiner des éléments naturels en utilisant Dandys World Draw Generator ?",
+    "translation": "Puis-je dessiner des éléments de la nature en utilisant le générateur de dessins de Le Monde de Dandy ?",
     "message": "Can I draw nature elements using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
@@ -352,7 +352,7 @@
     ]
   },
   "LvUelM": {
-    "translation": "Puis-je sauvegarder les histoires générées par le Dandys World Draw Slot Maker ?",
+    "translation": "Puis-je sauvegarder les histoires générées par le créateur de slots de dessin de Le Monde de Dandy ?",
     "message": "Can I save the stories generated by Dandys World Draw Slot Maker?",
     "comments": [],
     "origin": [
@@ -363,7 +363,7 @@
     ]
   },
   "to68Nn": {
-    "translation": "Puis-je partager mes œuvres de Dandy's World en ligne ?",
+    "translation": "Puis-je partager mes œuvres de Le Monde de Dandy en ligne ?",
     "message": "Can I share my Dandy's World artwork online?",
     "comments": [],
     "origin": [
@@ -374,7 +374,7 @@
     ]
   },
   "9qceBF": {
-    "translation": "Puis-je partager mes dessins issus du générateur de tirage aléatoire de Dandy's World ?",
+    "translation": "Puis-je partager mes dessins issus du randomiseur de Le Monde de Dandy ?",
     "message": "Can I share my drawings from the Dandy's World Randomizer?",
     "comments": [],
     "origin": [
@@ -385,7 +385,7 @@
     ]
   },
   "i4CL2W": {
-    "translation": "Puis-je utiliser les dessins de Dandy's World à des fins commerciales ?",
+    "translation": "Puis-je utiliser les dessins de Le Monde de Dandy à des fins commerciales ?",
     "message": "Can I use Dandy's World drawings for commercial purposes?",
     "comments": [],
     "origin": [
@@ -396,7 +396,7 @@
     ]
   },
   "3ECj3s": {
-    "translation": "Puis-je utiliser le générateur de tirage aléatoire de Dandy's World pour des activités de groupe ?",
+    "translation": "Puis-je utiliser le randomiseur de dessins de Le Monde de Dandy pour des activités de groupe ?",
     "message": "Can I use the Dandy's World Draw Randomizer for group activities?",
     "comments": [],
     "origin": [
@@ -407,7 +407,7 @@
     ]
   },
   "HZu2Ck": {
-    "translation": "Personnages de Dessins Animés",
+    "translation": "Personnages de dessin animé",
     "message": "Cartoon Characters",
     "comments": [],
     "origin": [
@@ -418,7 +418,7 @@
     ]
   },
   "f6bi7N": {
-    "translation": "Collection de parties de personnage",
+    "translation": "Collection de parties de personnages",
     "message": "Character Parts Collection",
     "comments": [],
     "origin": [
@@ -440,13 +440,13 @@
     ]
   },
   "z65MvS": {
-    "translation": "Effacer la toile",
+    "translation": "Toile claire",
     "message": "Clear Canvas",
     "comments": [],
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        504
+        557
       ]
     ]
   },
@@ -462,7 +462,7 @@
     ]
   },
   "FN4Har": {
-    "translation": "Colorier Votre Personnage de Dandy's World",
+    "translation": "Colorier votre personnage de Le Monde de Dandy",
     "message": "Coloring Your Dandy's World Character",
     "comments": [],
     "origin": [
@@ -473,7 +473,7 @@
     ]
   },
   "b+LYK6": {
-    "translation": "Complétez votre dessin de Dandy's World en ajoutant les touches finales et des éléments d'arrière-plan optionnels. Passez en revue votre travail pour vous assurer qu'il est cohérent avec le design original du personnage. Partagez votre œuvre avec la communauté de dessin de Dandy's World pour des retours.",
+    "translation": "Complétez votre dessin de Le Monde de Dandy en ajoutant les touches finales et des éléments de fond optionnels. Passez en revue votre travail pour vous assurer qu’il est cohérent avec le design du personnage original. Partagez votre œuvre avec la communauté de dessin de Le Monde de Dandy pour obtenir des retours.",
     "message": "Complete your Dandy's World drawing by adding final touches and optional background elements. Review your work for consistency with the original character design. Share your artwork with the Dandy's World drawing community for feedback.",
     "comments": [],
     "origin": [
@@ -484,7 +484,7 @@
     ]
   },
   "jus2sV": {
-    "translation": "Ressources Complètes",
+    "translation": "Ressources complètes",
     "message": "Comprehensive Resources",
     "comments": [],
     "origin": [
@@ -495,7 +495,7 @@
     ]
   },
   "akF51D": {
-    "translation": "Les cookies sont des fichiers de petite taille couramment utilisés comme identifiants uniques anonymes. Ils sont envoyés à votre navigateur par les sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil. Ce Service n'utilise pas explicitement ces cookies. Cependant, l'application peut utiliser du code et des bibliothèques tiers qui utilisent des cookies pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, vous risquez de ne pas pouvoir utiliser certaines parties de ce Service.",
+    "translation": "Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ceux-ci sont envoyés à votre navigateur par les sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil. Ce service n'utilise pas ces cookies explicitement. Cependant, l'application peut utiliser des codes et des bibliothèques tierces qui utilisent des cookies pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, vous pourriez ne pas être en mesure d'utiliser certaines parties de ce service.",
     "message": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these cookies explicitly. However, the app may use third party code and libraries that use cookies to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
     "comments": [],
     "origin": [
@@ -506,7 +506,7 @@
     ]
   },
   "l7oHNR": {
-    "translation": "Créez de beaux arrière-plans en utilisant les formes inspirées de la nature du Dandys World Draw Generator, comme des feuilles, des fleurs et des pétales pour améliorer vos dessins de personnages.",
+    "translation": "Créez de magnifiques arrière-plans en utilisant les formes inspirées de la nature du générateur de dessins de Le Monde de Dandy, comme des feuilles, des fleurs et des pétales pour améliorer vos dessins de personnages.",
     "message": "Create beautiful backgrounds using Dandys World Draw Generator's nature-themed shapes like leaves, flowers and petals to enhance your character drawings.",
     "comments": [],
     "origin": [
@@ -528,7 +528,7 @@
     ]
   },
   "7z8zid": {
-    "translation": "Créez maintenant vos personnages préférés du monde de Dandy !",
+    "translation": "Créez maintenant vos personnages préférés de Le Monde de Dandy !",
     "message": "Create your favorite Dandy's World characters now!",
     "comments": [],
     "origin": [
@@ -539,7 +539,7 @@
     ]
   },
   "iJGXFl": {
-    "translation": "Créez vos personnages préférés du monde de Dandy avec notre générateur de dessin facile à suivre. Parfait pour les débutants et les artistes avancés avec des tutoriels étape par étape.",
+    "translation": "Créez vos personnages préférés de Le Monde de Dandy avec notre générateur de dessins facile à suivre. Parfait pour les débutants et les artistes avancés avec des tutoriels étape par étape.",
     "message": "Create your favorite Dandy's World characters with our easy-to-follow drawing generator. Perfect for beginners & advanced artists with step-by-step tutorials.",
     "comments": [],
     "origin": [
@@ -550,7 +550,7 @@
     ]
   },
   "0Igqrf": {
-    "translation": "Créer un Art Linéaire Propre",
+    "translation": "Créer des lignes propres en art",
     "message": "Creating Clean Line Art",
     "comments": [],
     "origin": [
@@ -561,7 +561,7 @@
     ]
   },
   "Bmz9Tu": {
-    "translation": "Générateur de props de personnages créatifs !",
+    "translation": "Générateur créatif d'accessoires de personnages !",
     "message": "Creative Character Props Generator!",
     "comments": [],
     "origin": [
@@ -572,7 +572,7 @@
     ]
   },
   "dPg4Dg": {
-    "translation": "Liberté Créative",
+    "translation": "Liberté créative",
     "message": "Creative Freedom",
     "comments": [],
     "origin": [
@@ -594,7 +594,7 @@
     ]
   },
   "6Mk9Tp": {
-    "translation": "Le style artistique de Dandy's World est adaptable à divers médiums. Que vous préfériez le croquis traditionnel, l'art numérique ou les aquarelles, les conceptions de personnages se traduisent magnifiquement à travers différentes techniques artistiques.",
+    "translation": "Le style artistique du Monde de Dandy est adaptable à divers médias. Que vous préfériez le croquis traditionnel, l'art numérique ou les aquarelles, les designs de personnages se traduisent magnifiquement à travers différentes techniques artistiques.",
     "message": "Dandy's World art style is adaptable to various mediums. Whether you prefer traditional sketching, digital art, or watercolors, the character designs translate beautifully across different artistic techniques.",
     "comments": [],
     "origin": [
@@ -605,7 +605,7 @@
     ]
   },
   "Qh5TG7": {
-    "translation": "Tutoriels et Ressources de Dessin de Personnage Dandy's World",
+    "translation": "Tutoriels et ressources de dessin de personnages du Monde de Dandy",
     "message": "Dandy's World Character Drawing Tutorials & Resources",
     "comments": [],
     "origin": [
@@ -616,7 +616,7 @@
     ]
   },
   "q4aWez": {
-    "translation": "Générateur de dessin du monde de Dandy | Apprenez à dessiner des personnages étape par étape",
+    "translation": "Générateur de dessin du Monde de Dandy | Apprenez à dessiner des personnages étape par étape",
     "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
     "comments": [],
     "origin": [
@@ -627,7 +627,7 @@
     ]
   },
   "5h7rjv": {
-    "translation": "Dandy's World Draw est une plateforme de dessin complète conçue pour les débutants et les artistes expérimentés qui souhaitent apprendre à dessiner les personnages de Dandy's World. Elle propose des tutoriels étape par étape, des ressources et un soutien communautaire pour quiconque souhaitant maîtriser l'illustration de personnages.",
+    "translation": "Dandy's World Draw est une plateforme de dessin complète conçue pour les débutants et les artistes expérimentés qui souhaitent apprendre à dessiner les personnages du Monde de Dandy. Elle propose des tutoriels étape par étape, des ressources et un soutien communautaire pour quiconque intéressé par la maîtrise de l'illustration de personnages.",
     "message": "Dandy's World Draw is a comprehensive drawing platform designed for both beginners and experienced artists who want to learn how to draw Dandy's World characters. It offers step-by-step tutorials, resources, and community support for anyone interested in mastering character illustration.",
     "comments": [],
     "origin": [
@@ -638,7 +638,7 @@
     ]
   },
   "k500kh": {
-    "translation": "Générateur de tirage aléatoire de Dandy's World",
+    "translation": "Générateur aléatoire de dessin du Monde de Dandy",
     "message": "Dandy's World Draw Randomizer",
     "comments": [],
     "origin": [
@@ -649,7 +649,7 @@
     ]
   },
   "WZMl9X": {
-    "translation": "Générateur de tirage aléatoire de Dandy's World | Générateur d'objets de personnages créatifs",
+    "translation": "Générateur aléatoire de dessin du Monde de Dandy | Générateur d'objets de personnage créatifs",
     "message": "Dandy's World Draw Randomizer | Creative Character Item Generator",
     "comments": [],
     "origin": [
@@ -660,7 +660,7 @@
     ]
   },
   "SKPzak": {
-    "translation": "Le générateur de tirage aléatoire de Dandy's World est un outil interactif basé sur une roue qui aide les utilisateurs à sélectionner aléatoirement des personnages de l'univers de Dandy's World pour s'inspirer au dessin. Il met en avant des personnages adorés tels que Dandy, Pebble, Vee, Astro et Shelly, ce qui le rend parfait pour les artistes et les narrateurs créatifs.",
+    "translation": "Le générateur aléatoire de dessin du Monde de Dandy est un outil interactif basé sur une roue qui aide les utilisateurs à sélectionner des personnages aléatoires de l'univers du Monde de Dandy pour s'inspirer au dessin. Il présente des personnages adorés tels que Dandy, Pebble, Vee, Astro et Shelly, ce qui le rend parfait pour les artistes et les conteurs créatifs.",
     "message": "Dandy's World Draw Randomizer is an interactive wheel-based tool that helps users randomly select characters from the Dandy's World universe for drawing inspiration. It features beloved characters like Dandy, Pebble, Vee, Astro, and Shelly, making it perfect for artists and creative storytellers.",
     "comments": [],
     "origin": [
@@ -671,7 +671,7 @@
     ]
   },
   "Yy0qpp": {
-    "translation": "Dandy's World présente des conceptions de personnages distinctives qui sont faciles à dessiner. Chaque personnage, de Rodger à Shelly, a des formes claires et des caractéristiques mémorables qui les rendent parfaits tant pour les débutants que pour les artistes avancés.",
+    "translation": "Le Monde de Dandy propose des designs de personnages distinctifs faciles à dessiner. Chaque personnage, de Rodger à Shelly, possède des formes claires et des caractéristiques mémorables qui les rendent parfaits pour les débutants comme pour les artistes avancés.",
     "message": "Dandy's World features distinctive character designs that are easy to draw. Each character, from Rodger to Shelly, has clear shapes and memorable features that make them perfect for both beginners and advanced artists.",
     "comments": [],
     "origin": [
@@ -682,7 +682,7 @@
     ]
   },
   "cfyIgr": {
-    "translation": "Dandys World Draw",
+    "translation": "Dessins du Monde de Dandy",
     "message": "Dandys World Draw",
     "comments": [],
     "origin": [
@@ -693,7 +693,7 @@
     ]
   },
   "5gwVfz": {
-    "translation": "Dandys World Draw Generator",
+    "translation": "Générateur de dessins du Monde de Dandy",
     "message": "Dandys World Draw Generator",
     "comments": [],
     "origin": [
@@ -704,7 +704,7 @@
     ]
   },
   "v9VHUR": {
-    "translation": "Dandys World Draw Generator est un outil de dessin intuitif qui permet aux utilisateurs de créer des personnages et des œuvres d'art en utilisant des formes prédéfinies, des couleurs personnalisables et divers éléments de dessin. Il est conçu pour rendre la création de personnages accessible à des artistes de tous niveaux.",
+    "translation": "Le générateur de dessins du Monde de Dandy est un outil de dessin intuitif qui permet aux utilisateurs de créer des personnages et des œuvres d'art en utilisant des formes prédéfinies, des couleurs personnalisables et divers éléments de dessin. Il est conçu pour rendre la création de personnages accessible aux artistes de tous niveaux.",
     "message": "Dandys World Draw Generator is an intuitive drawing tool that allows users to create characters and artwork using preset shapes, customizable colors, and various drawing elements. It's designed to make character creation accessible for artists of all skill levels.",
     "comments": [],
     "origin": [
@@ -715,7 +715,7 @@
     ]
   },
   "dkj2lZ": {
-    "translation": "Dandys World Draw Generator propose 12 couleurs vives et des tailles de pinceau réglables, vous offrant un contrôle total pour créer des œuvres d'art de personnage époustouflantes avec précision et style.",
+    "translation": "Le générateur de dessins du Monde de Dandy propose 12 couleurs vives et des tailles de pinceau réglables, vous donnant un contrôle total pour créer des œuvres d'art de personnages étonnantes avec précision et style.",
     "message": "Dandys World Draw Generator offers 12 vibrant colors and adjustable brush sizes, giving you complete control to create stunning character artwork with precision and style.",
     "comments": [],
     "origin": [
@@ -726,7 +726,7 @@
     ]
   },
   "zcPVPZ": {
-    "translation": "Dandys World Draw Generator propose une variété d'outils de dessin, y compris des tailles de pinceau réglables, 12 couleurs différentes, des formes géométriques prédéfinies, des parties du corps des personnages et des éléments naturels. Ces outils fournissent tout ce dont vous avez besoin pour créer des œuvres d'art détaillées.",
+    "translation": "Le générateur de dessins du Monde de Dandy offre une variété d'outils de dessin, y compris des tailles de pinceau réglables, 12 couleurs différentes, des formes géométriques prédéfinies, des parties du corps de personnages et des éléments naturels. Ces outils fournissent tout ce dont vous avez besoin pour créer des œuvres détaillées.",
     "message": "Dandys World Draw Generator offers a variety of drawing tools including adjustable brush sizes, 12 different colors, preset geometric shapes, character body parts, and nature elements. These tools provide everything you need to create detailed artwork.",
     "comments": [],
     "origin": [
@@ -737,7 +737,7 @@
     ]
   },
   "yzIMnv": {
-    "translation": "Dandys World Draw Generator fournit plusieurs fonctionnalités, y compris 12 options de couleur différentes, des tailles de pinceau réglables, des formes prédéfinies (cercles, carrés, triangles, ellipses), des parties du corps de personnage et des éléments naturels. Vous pouvez également effacer votre toile et enregistrer votre œuvre en format PNG ou JPG.",
+    "translation": "Le générateur de dessins du Monde de Dandy propose plusieurs fonctionnalités, y compris 12 options de couleur différentes, des tailles de pinceau réglables, des formes prédéfinies (cercles, carrés, triangles, ellipses), des parties du corps de personnages et des éléments naturels. Vous pouvez également effacer votre toile et enregistrer votre œuvre en format PNG ou JPG.",
     "message": "Dandys World Draw Generator provides multiple features including 12 different color options, adjustable brush sizes, preset shapes (circles, squares, triangles, ellipses), character body parts, and nature elements. You can also clear your canvas and save your artwork in PNG or JPG format.",
     "comments": [],
     "origin": [
@@ -748,7 +748,7 @@
     ]
   },
   "6X3ngd": {
-    "translation": "Dandys World Draw Slot Maker",
+    "translation": "Créateur de tirages du Monde de Dandy",
     "message": "Dandys World Draw Slot Maker",
     "comments": [],
     "origin": [
@@ -759,7 +759,7 @@
     ]
   },
   "AC3IZn": {
-    "translation": "Dandys World Draw Slot Maker | Créez des histoires Dandy aléatoires",
+    "translation": "Créateur de tirages du Monde de Dandy | Créez des histoires de Dandy aléatoires",
     "message": "Dandys World Draw Slot Maker | Create Random Dandy Stories",
     "comments": [],
     "origin": [
@@ -770,7 +770,7 @@
     ]
   },
   "kdz4sF": {
-    "translation": "Le Dandys World Draw Slot Maker crée des combinaisons d'histoires uniques à chaque tour, mettant en vedette les personnages bien-aimés de Dandys World dans des scénarios inattendus.",
+    "translation": "Le créateur de tirages du Monde de Dandy crée des combinaisons d'histoires uniques à chaque tour, mettant en scène les personnages adorés du Monde de Dandy dans des scénarios inattendus.",
     "message": "Dandys World Draw Slot Maker creates unique story combinations with every spin, featuring beloved Dandys World characters in unexpected scenarios.",
     "comments": [],
     "origin": [
@@ -781,7 +781,7 @@
     ]
   },
   "q1Lmdu": {
-    "translation": "Le Dandys World Draw Slot Maker est un outil interactif de génération d'histoires qui combine les mécanismes de machine à sous avec la narration. Il génère aléatoirement des histoires uniques présentant des personnages de Dandys World grâce à un système de tirage et d'association.",
+    "translation": "Le créateur de tirages du Monde de Dandy est un outil de génération d'histoires interactif qui combine les mécaniques de machine à sous avec la narration. Il génère aléatoirement des histoires uniques mettant en scène des personnages du Monde de Dandy grâce à un système de rotation et de correspondance.",
     "message": "Dandys World Draw Slot Maker is an interactive story generation tool that combines slot machine mechanics with storytelling. It randomly generates unique stories featuring Dandys World characters through a spin-and-match system.",
     "comments": [],
     "origin": [
@@ -792,7 +792,7 @@
     ]
   },
   "QOEKV7": {
-    "translation": "Découvrez un générateur aléatoire interactif amusant avec Dandy, Pebble, Flutter et d'autres personnages. Parfait pour des séances de dessin créatives et une inspiration narrative.",
+    "translation": "Découvrez un aléatoire interactif amusant mettant en vedette Dandy, Pebble, Flutter et d'autres personnages. Parfait pour des sessions de dessin créatives et des inspirations de narration.",
     "message": "Discover a fun interactive randomizer featuring Dandy, Pebble, Flutter & more characters. Perfect for creative drawing sessions and storytelling inspiration.",
     "comments": [],
     "origin": [
@@ -803,7 +803,7 @@
     ]
   },
   "24Iy/D": {
-    "translation": "Plongez dans le charmant univers des personnages de Dandys World à travers le Dandys World Draw Slot Maker, où vos héros préférés deviennent partie intégrante de contes générés aléatoirement.",
+    "translation": "Plongez dans le charmant monde des personnages du Monde de Dandy grâce au créateur de tirages du Monde de Dandy, où vos héros préférés font partie de contes générés aléatoirement.",
     "message": "Dive into the charming world of Dandys World characters through the Dandys World Draw Slot Maker, where your favorite heroes become part of randomly generated tales.",
     "comments": [],
     "origin": [
@@ -814,7 +814,7 @@
     ]
   },
   "xbpW40": {
-    "translation": "Ai-je besoin d'un équipement spécial pour commencer à dessiner les personnages de Dandy's World ?",
+    "translation": "Ai-je besoin d'équipement spécial pour commencer à dessiner les personnages du Monde de Dandy ?",
     "message": "Do I need special equipment to start drawing Dandy's World characters?",
     "comments": [],
     "origin": [
@@ -825,7 +825,7 @@
     ]
   },
   "tkbLGt": {
-    "translation": "Le générateur de tirage aléatoire de Dandy's World fonctionne-t-il sur les appareils mobiles ?",
+    "translation": "Le générateur aléatoire de dessin du Monde de Dandy fonctionne-t-il sur des appareils mobiles ?",
     "message": "Does the Dandy's World Draw Randomizer work on mobile devices?",
     "comments": [],
     "origin": [
@@ -836,7 +836,7 @@
     ]
   },
   "BByzjN": {
-    "translation": "Ne vous inquiétez pas ! Dandys World Draw Generator dispose d'une fonction d'effacement de toile qui vous permet de repartir à zéro quand vous en avez besoin. Cela le rend parfait pour expérimenter et pratiquer vos compétences en dessin.",
+    "translation": "Ne vous inquiétez pas ! Le générateur de dessins du Monde de Dandy comprend une fonction d'effacement de toile qui vous permet de repartir à zéro lorsque cela est nécessaire. Cela le rend parfait pour expérimenter et perfectionner vos compétences en dessin.",
     "message": "Don't worry! Dandys World Draw Generator features a canvas clear function that allows you to start fresh whenever needed. This makes it perfect for experimenting and practicing your drawing skills.",
     "comments": [],
     "origin": [
@@ -853,34 +853,34 @@
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        511
+        564
       ]
     ]
   },
   "HeM1nB": {
-    "translation": "Télécharger en JPEG",
+    "translation": "Télécharger en tant que JPEG",
     "message": "Download as JPEG",
     "comments": [],
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        533
+        586
       ]
     ]
   },
   "yQ7ak/": {
-    "translation": "Télécharger en PNG",
+    "translation": "Télécharger en tant que PNG",
     "message": "Download as PNG",
     "comments": [],
     "origin": [
       [
         "components/DrawingBoard.tsx",
-        524
+        577
       ]
     ]
   },
   "GLcnsp": {
-    "translation": "Ajoutez facilement des caractéristiques détaillées aux personnages avec la bibliothèque de parties de corps prédéfinies de Dandys World Draw Generator, y compris des éléments comme des mains, des pieds, des yeux et un nez.",
+    "translation": "Ajoutez facilement des caractéristiques de personnage détaillées avec la bibliothèque de parties de corps prédéfinies du générateur de dessins du Monde de Dandy, y compris des éléments de mains, de pieds, d'yeux et de nez.",
     "message": "Easily add detailed character features with Dandys World Draw Generator's preset body parts library including hands, feet, eyes and nose elements.",
     "comments": [],
     "origin": [
@@ -913,7 +913,7 @@
     ]
   },
   "NmAiEU": {
-    "translation": "Engagez-vous avec le Dandys World Draw Slot Maker pour une expérience divertissante qui donne vie aux personnages de Dandys World de manière surprenante.",
+    "translation": "Engagez-vous avec le créateur de tirages du Monde de Dandy pour une expérience divertissante qui donne vie aux personnages du Monde de Dandy de manière surprenante.",
     "message": "Engage with the Dandys World Draw Slot Maker for an entertaining experience that brings Dandys World characters to life in surprising ways.",
     "comments": [],
     "origin": [
@@ -924,7 +924,7 @@
     ]
   },
   "2bk169": {
-    "translation": "Profitez d'une expérience de dessin engageante avec le générateur de tirage aléatoire de Dandy's World. Parfait pour les soirées jeux, les défis artistiques et les séances de narration créative.",
+    "translation": "Profitez d'une expérience de dessin engageante avec le générateur aléatoire de dessin du Monde de Dandy. Parfait pour des soirées de jeux, des défis artistiques et des sessions de narration créative.",
     "message": "Enjoy an engaging drawing experience with the Dandy's World Draw Randomizer. Perfect for game nights, art challenges, and creative storytelling sessions.",
     "comments": [],
     "origin": [
@@ -935,7 +935,7 @@
     ]
   },
   "Ds25Bm": {
-    "translation": "Vivez l'excitation d'une machine à sous avec le Dandys World Draw Slot Maker, où chaque tour révèle de nouvelles combinaisons de personnages et d'éléments d'histoire.",
+    "translation": "Ressentez le frisson d'une machine à sous avec le créateur de tirages du Monde de Dandy, où chaque tour révèle de nouvelles combinaisons de personnages et d'éléments d'histoire.",
     "message": "Experience the thrill of a slot machine with the Dandys World Draw Slot Maker, where each spin reveals new character combinations and story elements.",
     "comments": [],
     "origin": [
@@ -957,7 +957,7 @@
     ]
   },
   "lIFSzb": {
-    "translation": "Échec du téléchargement du fichier : #0#",
+    "translation": "Échec de téléchargement du fichier : {0}",
     "message": "Failed to upload file: {0}",
     "comments": [],
     "origin": [
@@ -968,7 +968,7 @@
     ]
   },
   "OjNld0": {
-    "translation": "Fonctionnalités de Dandys World Draw",
+    "translation": "Fonctionnalités du générateur de dessins du Monde de Dandy",
     "message": "Features Of Dandys World Draw",
     "comments": [],
     "origin": [
@@ -979,7 +979,7 @@
     ]
   },
   "HUVqLy": {
-    "translation": "Touches Finales et Arrière-Plan",
+    "translation": "Dernières touches et arrière-plan",
     "message": "Final Touches and Background",
     "comments": [],
     "origin": [
@@ -1001,7 +1001,7 @@
     ]
   },
   "3YcJsM": {
-    "translation": "Concentrez-vous sur les détails et expressions spécifiques au personnage. Pratiquez le dessin de diverses émotions et poses typiques dans Dandy's World. Portez attention aux caractéristiques uniques comme l'œil plissé de Rodger ou les accessoires distinctifs.",
+    "translation": "Concentrez-vous sur les détails et les expressions spécifiques aux personnages. Pratiquez le dessin de diverses émotions et poses typiques du Monde de Dandy. Faites attention aux caractéristiques uniques telles que l'œil plissé de Rodger ou les accessoires distinctifs.",
     "message": "Focus on character-specific details and expressions. Practice drawing various emotions and poses typical in Dandy's World. Pay attention to unique features like Rodger's squinted eye or distinctive accessories.",
     "comments": [],
     "origin": [
@@ -1023,7 +1023,7 @@
     ]
   },
   "st6ZC4": {
-    "translation": "Pour une meilleure expérience, lors de l'utilisation de notre Service, je peux vous demander de me fournir certaines informations d'identification personnelle. Les informations que je demande seront conservées sur votre appareil et ne seront pas collectées par moi de quelque manière que ce soit. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.",
+    "translation": "Pour une meilleure expérience, lors de l'utilisation de notre Service, je peux vous demander de fournir certaines informations personnellement identifiables. Les informations que je demande seront conservées sur votre appareil et ne seront collectées par moi d'aucune manière. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.",
     "message": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
     "comments": [],
     "origin": [
@@ -1034,7 +1034,7 @@
     ]
   },
   "A08Kgh": {
-    "translation": "Libre",
+    "translation": "Style libre",
     "message": "Freestyle",
     "comments": [],
     "origin": [
@@ -1045,7 +1045,7 @@
     ]
   },
   "F7G/TS": {
-    "translation": "Questions fréquemment posées",
+    "translation": "Questions Fréquemment Posées",
     "message": "Frequently Asked Questions",
     "comments": [],
     "origin": [
@@ -1056,7 +1056,7 @@
     ]
   },
   "gx1faY": {
-    "translation": "Générez des idées de narration créative avec les personnages de Dandy's World. Utilisez le générateur aléatoire pour créer des récits uniques et développer des histoires centrées sur les personnages.",
+    "translation": "Générez des idées de narration créative avec les personnages du Monde de Dandy. Utilisez l'aléatoire pour créer des récits uniques et développer des histoires axées sur les personnages.",
     "message": "Generate creative storytelling ideas with Dandy's World characters. Use the randomizer to craft unique narratives and develop character-driven stories.",
     "comments": [],
     "origin": [
@@ -1089,7 +1089,7 @@
     ]
   },
   "T8FLO1": {
-    "translation": "Se Lancer dans le Dessin de Dandy's World",
+    "translation": "Commencer avec le dessin du Monde de Dandy",
     "message": "Getting Started with Dandy's World Drawing",
     "comments": [],
     "origin": [
@@ -1126,7 +1126,7 @@
     ]
   },
   "A3fPkq": {
-    "translation": "Comment puis-je suivre mes progrès dans le dessin des personnages de Dandy's World ?",
+    "translation": "Comment puis-je suivre mes progrès dans le dessin des personnages du Monde de Dandy ?",
     "message": "How can I track my progress in drawing Dandy's World characters?",
     "comments": [],
     "origin": [
@@ -1137,7 +1137,7 @@
     ]
   },
   "LMBnSl": {
-    "translation": "Comment puis-je enregistrer mon œuvre dans Dandys World Draw Generator ?",
+    "translation": "Comment puis-je enregistrer mon œuvre dans le Générateur de Dessin du Monde de Dandy ?",
     "message": "How do I save my artwork in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
@@ -1148,7 +1148,7 @@
     ]
   },
   "3fd0PB": {
-    "translation": "Comment utiliser le générateur de personnages de Dandy's World ?",
+    "translation": "Comment utiliser le randomisateur de personnages du Monde de Dandy ?",
     "message": "How do I use the Dandy's World character randomizer?",
     "comments": [],
     "origin": [
@@ -1159,7 +1159,7 @@
     ]
   },
   "F3cURS": {
-    "translation": "Comment fonctionne le Dandys World Draw Slot Maker ?",
+    "translation": "Comment fonctionne le créateur de créneaux de dessin du Monde de Dandy ?",
     "message": "How does the Dandys World Draw Slot Maker work?",
     "comments": [],
     "origin": [
@@ -1170,7 +1170,7 @@
     ]
   },
   "bLDuMO": {
-    "translation": "Combien de temps faut-il pour apprendre à dessiner les personnages de Dandy's World ?",
+    "translation": "Combien de temps faut-il pour apprendre à dessiner les personnages du Monde de Dandy ?",
     "message": "How long does it take to learn drawing Dandy's World characters?",
     "comments": [],
     "origin": [
@@ -1181,7 +1181,7 @@
     ]
   },
   "jEoFAh": {
-    "translation": "À quelle fréquence de nouveaux personnages sont-ils ajoutés au générateur de tirage aléatoire de Dandy's World ?",
+    "translation": "À quelle fréquence de nouveaux personnages sont ajoutés au randomisateur du Monde de Dandy ?",
     "message": "How often are new characters added to the Dandy's World Randomizer?",
     "comments": [],
     "origin": [
@@ -1192,7 +1192,7 @@
     ]
   },
   "BE3cab": {
-    "translation": "À quelle fréquence de nouveaux personnages sont-ils ajoutés au Dandys World Draw Slot Maker ?",
+    "translation": "À quelle fréquence de nouveaux personnages sont ajoutés au créateur de créneaux de dessin du Monde de Dandy ?",
     "message": "How often are new characters added to the Dandys World Draw Slot Maker?",
     "comments": [],
     "origin": [
@@ -1203,7 +1203,7 @@
     ]
   },
   "qhR+kn": {
-    "translation": "À quelle fréquence de nouveaux tutoriels de dessin de Dandy's World sont-ils ajoutés ?",
+    "translation": "À quelle fréquence de nouveaux tutoriels de dessin du Monde de Dandy sont ajoutés ?",
     "message": "How often are new Dandy's World drawing tutorials added?",
     "comments": [],
     "origin": [
@@ -1214,7 +1214,7 @@
     ]
   },
   "dQt+7J": {
-    "translation": "Je peux faire appel à des entreprises et des personnes physiques tierces pour les raisons suivantes :",
+    "translation": "Je peux faire appel à des entreprises et des individus tiers pour les raisons suivantes :",
     "message": "I may employ third-party companies and individuals due to the following reasons:",
     "comments": [],
     "origin": [
@@ -1225,7 +1225,7 @@
     ]
   },
   "EUZXzT": {
-    "translation": "Je peux mettre à jour notre Politique de Confidentialité de temps en temps. Par conséquent, il est conseillé de consulter cette page périodiquement pour tout changement. Je vous informerai de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page. Ces modifications entrent en vigueur immédiatement après leur publication sur cette page.",
+    "translation": "Je peux mettre à jour notre Politique de Confidentialité de temps à autre. Par conséquent, il vous est conseillé de consulter cette page périodiquement pour tout changement. Je vous informerai des changements en affichant la nouvelle Politique de Confidentialité sur cette page. Ces changements prennent effet immédiatement après leur publication sur cette page.",
     "message": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
     "comments": [],
     "origin": [
@@ -1236,7 +1236,7 @@
     ]
   },
   "5dDG4E": {
-    "translation": "Je valorise votre confiance en nous fournissant vos informations personnelles, c'est pourquoi nous nous efforçons d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur Internet, ni aucune méthode de stockage électronique n'est 100% sûre et fiable, et je ne peux pas en garantir la sécurité absolue.",
+    "translation": "J'apprécie votre confiance en nous fournissant vos Informations Personnelles, nous faisons donc tout notre possible pour les protéger par des moyens commercialement acceptables. Mais rappelez-vous qu'aucun mode de transmission sur Internet, ni méthode de stockage électronique n'est 100 % sécurisé et fiable, et je ne peux garantir sa sécurité absolue.",
     "message": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
     "comments": [],
     "origin": [
@@ -1247,7 +1247,7 @@
     ]
   },
   "gFP4HL": {
-    "translation": "Je tiens à informer les utilisateurs de ce Service que ces tiers ont accès à vos informations personnelles. La raison est d'effectuer les tâches qui leur sont assignées en notre nom. Cependant, ils sont tenus de ne pas divulguer ou d'utiliser ces informations à d'autres fins.",
+    "translation": "Je souhaite informer les utilisateurs de ce Service que ces tiers ont accès à vos Informations Personnelles. Cela est nécessaire pour effectuer les tâches qui leur sont confiées en notre nom. Toutefois, ils sont tenus de ne pas divulguer ni d'utiliser ces informations à d'autres fins.",
     "message": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
     "comments": [],
     "origin": [
@@ -1258,7 +1258,7 @@
     ]
   },
   "xeCjro": {
-    "translation": "Je tiens à vous informer que chaque fois que vous utilisez mon Service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone appelées Données de journalisation. Ces Données de journalisation peuvent inclure des informations telles que votre adresse IP, le nom de votre appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon Service, l'heure et la date de votre utilisation du Service, et d'autres statistiques.",
+    "translation": "Je souhaite vous informer que chaque fois que vous utilisez mon Service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone que j'appelle Données de journal. Ces Données de journal peuvent inclure des informations telles que votre adresse Internet Protocol ('IP'), le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon Service, la date et l'heure de votre utilisation du Service, et d'autres statistiques.",
     "message": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
     "comments": [],
     "origin": [
@@ -1269,7 +1269,7 @@
     ]
   },
   "d1ALrF": {
-    "translation": "Si vous avez des questions sur ces conditions, veuillez nous contacter à #0#.",
+    "translation": "Si vous avez des questions concernant ces Termes, veuillez nous contacter à #0#.",
     "message": "If you have any questions about these Terms, please contact us at #0#.",
     "comments": [],
     "origin": [
@@ -1280,7 +1280,7 @@
     ]
   },
   "O5W0BO": {
-    "translation": "Résultats Instantanés",
+    "translation": "Résultats instantanés",
     "message": "Instant Results",
     "comments": [],
     "origin": [
@@ -1302,7 +1302,7 @@
     ]
   },
   "SRFxHS": {
-    "translation": "Amusement Interactif",
+    "translation": "Amusement interactif",
     "message": "Interactive Fun",
     "comments": [],
     "origin": [
@@ -1313,7 +1313,7 @@
     ]
   },
   "RLPmGq": {
-    "translation": "Introduction à Dandys World Draw",
+    "translation": "Introduction au Dessin du Monde de Dandy",
     "message": "Introduction of Dandys World Draw",
     "comments": [],
     "origin": [
@@ -1324,7 +1324,7 @@
     ]
   },
   "DVcPYw": {
-    "translation": "Le générateur de dessin Dandys World est-il adapté aux débutants ?",
+    "translation": "Le Générateur de Dessin du Monde de Dandy est-il adapté aux débutants ?",
     "message": "Is Dandys World Draw Generator suitable for beginners?",
     "comments": [],
     "origin": [
@@ -1335,7 +1335,7 @@
     ]
   },
   "paYoLs": {
-    "translation": "Le Dandys World Draw Slot Maker convient-il à tous les âges ?",
+    "translation": "Le Créateur de Créneaux de Dessin du Monde de Dandy est-il adapté à tous les âges ?",
     "message": "Is Dandys World Draw Slot Maker suitable for all ages?",
     "comments": [],
     "origin": [
@@ -1346,7 +1346,7 @@
     ]
   },
   "ng5cu8": {
-    "translation": "Le générateur de tirage aléatoire de Dandy's World convient-il aux débutants ?",
+    "translation": "Le Randomisateur de Dessin du Monde de Dandy est-il adapté aux débutants ?",
     "message": "Is the Dandy's World Draw Randomizer suitable for beginners?",
     "comments": [],
     "origin": [
@@ -1357,7 +1357,7 @@
     ]
   },
   "qG3jbM": {
-    "translation": "Y a-t-il du soutien disponible si je me bloque en dessinant ?",
+    "translation": "Y a-t-il un support disponible si je bloque en dessinant ?",
     "message": "Is there support available if I get stuck while drawing?",
     "comments": [],
     "origin": [
@@ -1368,7 +1368,7 @@
     ]
   },
   "MmfsOI": {
-    "translation": "Rejoignez une communauté dynamique d'artistes de Dandy's World. Partagez vos dessins, obtenez des retours et participez à des défis hebdomadaires pour améliorer vos compétences tout en vous connectant avec d'autres artistes.",
+    "translation": "Rejoignez une communauté dynamique d'artistes du Monde de Dandy. Partagez vos dessins, obtenez des retours et participez à des défis hebdomadaires pour améliorer vos compétences tout en vous connectant avec d'autres artistes.",
     "message": "Join a vibrant community of Dandy's World artists. Share your drawings, get feedback, and participate in weekly challenges to improve your skills while connecting with fellow artists.",
     "comments": [],
     "origin": [
@@ -1390,7 +1390,7 @@
     ]
   },
   "BNIT3q": {
-    "translation": "Apprenez des techniques de dessin professionnelles spécifiques aux personnages de Dandy's World. Maîtrisez l'ombrage, le coloriage et le travail de détails grâce à des tutoriels et des guides spécialisés.",
+    "translation": "Apprenez des techniques de dessin professionnelles spécifiques aux personnages du Monde de Dandy. Maîtrisez l'ombrage, la colorisation et le travail de détail grâce à des tutoriels et des guides spécialisés.",
     "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
     "comments": [],
     "origin": [
@@ -1401,7 +1401,7 @@
     ]
   },
   "OZ6jLr": {
-    "translation": "Apprenez les proportions correctes pour les personnages de Dandy's World. Utilisez la taille de la tête comme unité de mesure de base. Par exemple, le corps de Rodger mesure généralement 2,5 têtes de haut. Créez des lignes directrices pour maintenir des proportions cohérentes tout au long de votre dessin.",
+    "translation": "Apprenez les proportions correctes pour les personnages du Monde de Dandy. Utilisez la taille de la tête comme unité de mesure de base. Par exemple, le corps de Rodger mesure généralement 2,5 têtes de hauteur. Créez des lignes directrices pour maintenir des proportions cohérentes tout au long de votre dessin.",
     "message": "Learn the correct proportions for Dandy's World characters. Use the head size as a basic unit of measurement. For example, Rodger's body is typically 2.5 heads tall. Create guidelines to maintain consistent proportions throughout your drawing.",
     "comments": [],
     "origin": [
@@ -1412,7 +1412,7 @@
     ]
   },
   "kWWrvV": {
-    "translation": "Apprendre à Dessiner des Personnages de Dandy's World",
+    "translation": "Apprendre à Dessiner les Personnages du Monde de Dandy",
     "message": "Learn to Draw Dandy's World Characters",
     "comments": [],
     "origin": [
@@ -1423,7 +1423,7 @@
     ]
   },
   "99//iK": {
-    "translation": "Apprendre à dessiner les personnages de Dandy's World varie selon les individus. La plupart des débutants peuvent créer des personnages reconnaissables en 2 à 4 semaines de pratique régulière. Nos tutoriels structurés décomposent des personnages complexes en étapes simples, rendant le processus d'apprentissage plus gérable.",
+    "translation": "Apprendre à dessiner les personnages du Monde de Dandy varie selon les individus. La plupart des débutants peuvent créer des personnages reconnaissables dans 2 à 4 semaines de pratique régulière. Nos tutoriels structurés décomposent des personnages complexes en étapes simples, rendant le processus d'apprentissage plus gérable.",
     "message": "Learning to draw Dandy's World characters varies by individual. Most beginners can create recognizable characters within 2-4 weeks of regular practice. Our structured tutorials break down complex characters into simple steps, making the learning process more manageable.",
     "comments": [],
     "origin": [
@@ -1445,7 +1445,7 @@
     ]
   },
   "6CXeFo": {
-    "translation": "Maîtrisez le dessin des personnages de Dandy's World grâce à des tutoriels progressifs. Notre approche structurée décompose des personnages complexes en formes simples, rendant cela accessible aux artistes de tous niveaux.",
+    "translation": "Maîtrisez le dessin des personnages du Monde de Dandy grâce à des tutoriels progressifs. Notre approche structurée décompose les personnages complexes en formes simples, rendant l'apprentissage accessible pour les artistes de tous niveaux.",
     "message": "Master drawing Dandy's World characters through progressive tutorials. Our structured approach breaks down complex characters into simple shapes, making it accessible for artists of all skill levels.",
     "comments": [],
     "origin": [
@@ -1456,7 +1456,7 @@
     ]
   },
   "SedUJT": {
-    "translation": "Maîtrisez le dessin des personnages de Dandy's World avec des tutoriels étape par étape. Obtenez des conseils d'experts, des guides de personnages et rejoignez notre communauté créative d'artistes.",
+    "translation": "Maîtrisez le dessin des personnages du Monde de Dandy avec des tutoriels étape par étape. Obtenez des conseils d'experts, des guides de personnages et rejoignez notre communauté créative d'artistes.",
     "message": "Master drawing Dandy's World characters with step-by-step tutorials. Get expert tips, character guides, and join our creative community of artists.",
     "comments": [],
     "origin": [
@@ -1471,7 +1471,7 @@
     ]
   },
   "lY3yG3": {
-    "translation": "Maîtriser les Proportions des Personnages",
+    "translation": "Maîtrise des Proportions des Personnages",
     "message": "Mastering Character Proportions",
     "comments": [],
     "origin": [
@@ -1482,7 +1482,7 @@
     ]
   },
   "IO/SDP": {
-    "translation": "Multiples options d'exportation",
+    "translation": "Options d'Exportation Multiples",
     "message": "Multiple Export Options",
     "comments": [],
     "origin": [
@@ -1493,7 +1493,7 @@
     ]
   },
   "RYg1g4": {
-    "translation": "Éléments naturels",
+    "translation": "Éléments de la Nature",
     "message": "Nature Elements",
     "comments": [],
     "origin": [
@@ -1515,7 +1515,7 @@
     ]
   },
   "6vUzxA": {
-    "translation": "De nouveaux tutoriels de Dandy's World sont ajoutés chaque semaine, y compris des guides de personnages, des démonstrations de techniques et des leçons thématiques spéciales. Nous mettons régulièrement à jour notre contenu en fonction des retours de la communauté et introduisons des tutoriels pour de nouveaux personnages à mesure qu'ils apparaissent.",
+    "translation": "De nouveaux tutoriels du Monde de Dandy sont ajoutés chaque semaine, y compris des guides de personnages, des démonstrations de techniques et des leçons thématiques spéciales. Nous mettons régulièrement à jour notre contenu en fonction des retours de la communauté et introduisons des tutoriels pour de nouveaux personnages au fur et à mesure qu'ils apparaissent.",
     "message": "New Dandy's World tutorials are added weekly, including character guides, technique demonstrations, and special themed lessons. We regularly update our content based on community feedback and introduce tutorials for new characters as they appear.",
     "comments": [],
     "origin": [
@@ -1548,7 +1548,7 @@
     ]
   },
   "FvxCMW": {
-    "translation": "Une fois à l'aise avec les formes de base, concentrez-vous sur l'art linéaire. Commencez par des esquisses légères, puis affinez progressivement vos lignes. Pour les personnages de Dandy's World, utilisez des poids de ligne variés pour ajouter de la profondeur et du caractère à vos dessins.",
+    "translation": "Une fois à l'aise avec les formes de base, concentrez-vous sur l'art linéaire. Commencez par un croquis léger, puis affinez progressivement vos lignes. Pour les personnages du Monde de Dandy, utilisez des épaisseurs de lignes variées pour ajouter de la profondeur et de la personnalité à vos dessins.",
     "message": "Once comfortable with basic shapes, focus on line art. Start with light sketching, then gradually refine your lines. For Dandy's World characters, use varying line weights to add depth and character to your drawings.",
     "comments": [],
     "origin": [
@@ -1559,7 +1559,7 @@
     ]
   },
   "d2Hx1C": {
-    "translation": "Notre plateforme comprend un système de suivi des progrès où vous pouvez enregistrer vos œuvres de Dandy's World, comparer les améliorations au fil du temps et gagner des badges d'accomplissement. Nous encourageons également la création d'un portfolio artistique personnel pour visualiser votre développement.",
+    "translation": "Notre plateforme comprend un système de suivi des progrès où vous pouvez enregistrer vos œuvres du Monde de Dandy, comparer vos améliorations au fil du temps et gagner des badges d'accomplissement. Nous encourageons également le maintien d'un portfolio artistique personnel pour visualiser votre développement.",
     "message": "Our platform includes a progress tracking system where you can save your Dandy's World artwork, compare improvements over time, and earn achievement badges. We also encourage maintaining a personal art portfolio to visualize your development.",
     "comments": [],
     "origin": [
@@ -1570,7 +1570,7 @@
     ]
   },
   "Rh2/5q": {
-    "translation": "Personnalisez votre générateur de tirage aléatoire de Dandy's World avec des couleurs et des thèmes de roue personnalisables. Créez votre compagnon de dessin parfait avec des éléments visuels ajustables.",
+    "translation": "Personnalisez votre Randomisateur de Dessin du Monde de Dandy avec des couleurs et des thèmes de roue personnalisables. Créez votre compagnon de dessin parfait avec des éléments visuels ajustables.",
     "message": "Personalize your Dandy's World Draw Randomizer with customizable wheel colors and themes. Create your perfect drawing companion with adjustable visual elements.",
     "comments": [],
     "origin": [
@@ -1614,7 +1614,7 @@
     ]
   },
   "zen3yb": {
-    "translation": "Bibliothèque de formes prédéfinies",
+    "translation": "Bibliothèque de Formes Préétablies",
     "message": "Preset Shapes Library",
     "comments": [],
     "origin": [
@@ -1673,7 +1673,7 @@
     ]
   },
   "H+5wfn": {
-    "translation": "Progressez des croquis de base de Dandy's World vers des compositions de personnages complexes. Apprenez les principes essentiels de l'art à travers des exercices et des tutoriels axés sur les personnages.",
+    "translation": "Progressez des croquis de base du Monde de Dandy à des compositions de personnages complexes. Apprenez les principes essentiels de l'art à travers des exercices et des tutoriels axés sur les personnages.",
     "message": "Progress from basic Dandy's World sketches to complex character compositions. Learn essential art principles through character-focused exercises and tutorials.",
     "comments": [],
     "origin": [
@@ -1684,7 +1684,7 @@
     ]
   },
   "PfR12O": {
-    "translation": "Sélection aléatoire de personnages",
+    "translation": "Sélection de Personnages Aléatoires",
     "message": "Random Character Selection",
     "comments": [],
     "origin": [
@@ -1695,7 +1695,7 @@
     ]
   },
   "JQ4XcE": {
-    "translation": "Génération d'Histoire Aléatoire",
+    "translation": "Génération de Histoires Aléatoires",
     "message": "Random Story Generation",
     "comments": [],
     "origin": [
@@ -1717,7 +1717,7 @@
     ]
   },
   "O/5/2t": {
-    "translation": "Générateur aléatoire",
+    "translation": "Générateur Aléatoire",
     "message": "Randomizer",
     "comments": [],
     "origin": [
@@ -1728,7 +1728,7 @@
     ]
   },
   "dS5A3M": {
-    "translation": "La pratique régulière est la clé pour maîtriser le dessin des personnages de Dandy's World. Rejoignez des communautés en ligne, participez à des défis de dessin et étudiez les matériaux de référence officiels. Gardez un carnet de croquis dédié à la pratique de Dandy's World.",
+    "translation": "La pratique régulière est essentielle pour maîtriser le dessin de personnages du Monde de Dandy. Rejoignez des communautés en ligne, participez à des défis de dessin et étudiez des documents de référence officiels. Gardez un carnet de croquis dédié à la pratique du Monde de Dandy.",
     "message": "Regular practice is key to mastering Dandy's World character drawing. Join online communities, participate in drawing challenges, and study official reference materials. Keep a sketchbook dedicated to Dandy's World practice.",
     "comments": [],
     "origin": [
@@ -1739,7 +1739,7 @@
     ]
   },
   "zmgp8I": {
-    "translation": "Options de couleur riches",
+    "translation": "Options de Couleur Riches",
     "message": "Rich Color Options",
     "comments": [],
     "origin": [
@@ -1750,7 +1750,7 @@
     ]
   },
   "Gf+QJT": {
-    "translation": "Enregistrez et partagez vos créations de Dandys World Draw Generator en format PNG ou JPG, rendant simple la préservation et la présentation de votre œuvre.",
+    "translation": "Enregistrez et partagez vos créations du Générateur de Dessin du Monde de Dandy en format PNG ou JPG, ce qui facilite la préservation et la mise en valeur de votre art.",
     "message": "Save and share your Dandys World Draw Generator creations in PNG or JPG format, making it simple to preserve and showcase your artwork.",
     "comments": [],
     "origin": [
@@ -1761,7 +1761,7 @@
     ]
   },
   "RXCPqT": {
-    "translation": "Partagez vos dessins de Dandy's World sur les réseaux sociaux. Rejoignez une communauté vibrante d'artistes qui mettent en avant leurs interprétations de personnages issues du générateur aléatoire.",
+    "translation": "Partagez vos dessins du Monde de Dandy sur les réseaux sociaux. Rejoignez une communauté vibrante d'artistes mettant en avant leurs interprétations de personnages générés par le générateur aléatoire.",
     "message": "Share your Dandy's World drawings on social media platforms. Join a vibrant community of artists showcasing their character interpretations from the randomizer.",
     "comments": [],
     "origin": [
@@ -1772,7 +1772,7 @@
     ]
   },
   "ZqvdDl": {
-    "translation": "Se connecter avec Google",
+    "translation": "Connectez-vous avec Google",
     "message": "Sign In With Google",
     "comments": [],
     "origin": [
@@ -1783,7 +1783,7 @@
     ]
   },
   "b2kWPd": {
-    "translation": "Développement des Compétences",
+    "translation": "Développement de Compétences",
     "message": "Skill Development",
     "comments": [],
     "origin": [
@@ -1816,7 +1816,7 @@
     ]
   },
   "sMe9b4": {
-    "translation": "Intégration sociale",
+    "translation": "Intégration Sociale",
     "message": "Social Integration",
     "comments": [],
     "origin": [
@@ -1827,7 +1827,7 @@
     ]
   },
   "u/kFCL": {
-    "translation": "Faites tourner le Dandys World Draw Slot Maker pour générer des combinaisons d'histoires uniques mettant en vedette des personnages Dandy. Une expérience amusante de machine à sous avec des héros de dessins animés.",
+    "translation": "Faites tourner le Créateur de Dessins du Monde de Dandy pour générer des combinaisons d'histoires uniques mettant en vedette des personnages de Dandy. Une expérience amusante de machine à sous avec des héros de dessins animés.",
     "message": "Spin the Dandys World Draw Slot Maker to generate unique story combinations featuring Dandy characters. A fun slot machine experience with cartoon heroes.",
     "comments": [],
     "origin": [
@@ -1838,7 +1838,7 @@
     ]
   },
   "kHKg51": {
-    "translation": "Faites tourner la roue interactive pour sélectionner aléatoirement parmi les personnages de Dandy's World, y compris Dandy, Pebble, Vee, Astro et Shelly. Parfait pour susciter l'inspiration créative lors de vos séances de dessin.",
+    "translation": "Faites tourner la roue interactive pour sélectionner aléatoirement parmi les personnages du Monde de Dandy, y compris Dandy, Pebble, Vee, Astro, et Shelly. Parfait pour éveiller l'inspiration créative lors de vos sessions de dessin.",
     "message": "Spin the interactive wheel to randomly select from Dandy's World characters including Dandy, Pebble, Vee, Astro, and Shelly. Perfect for sparking creative inspiration in your drawing sessions.",
     "comments": [],
     "origin": [
@@ -1849,7 +1849,7 @@
     ]
   },
   "Ja9Adc": {
-    "translation": "Tournez !",
+    "translation": "Tourner!",
     "message": "Spin!",
     "comments": [],
     "origin": [
@@ -1871,7 +1871,7 @@
     ]
   },
   "3W0xiR": {
-    "translation": "Commencez frais à tout moment avec la fonction d'effacement de toile en un clic de Dandys World Draw Generator, parfaite pour expérimenter différents styles de dessin.",
+    "translation": "Commencez frais à tout moment avec la fonction de nettoyage d'un clic du Générateur de Dessin du Monde de Dandy, idéale pour expérimenter différents styles de dessin.",
     "message": "Start fresh anytime with Dandys World Draw Generator's one-click canvas clear feature, perfect for experimenting with different drawing styles.",
     "comments": [],
     "origin": [
@@ -1893,7 +1893,7 @@
     ]
   },
   "bUzxvY": {
-    "translation": "Inspiration narrative",
+    "translation": "Inspiration d'Histoire",
     "message": "Story Inspiration",
     "comments": [],
     "origin": [
@@ -1915,7 +1915,7 @@
     ]
   },
   "X+aiz8": {
-    "translation": "Conditions d'utilisation pour #0#",
+    "translation": "Conditions d'utilisation de #0#",
     "message": "Terms of Service for #0#",
     "comments": [],
     "origin": [
@@ -1926,7 +1926,7 @@
     ]
   },
   "DFLfXa": {
-    "translation": "Le générateur de tirage aléatoire de Dandy's World est régulièrement mis à jour pour inclure de nouveaux personnages de l'univers de Dandy's World. N'oubliez pas de revenir pour découvrir de nouvelles additions à la roue des personnages pour de nouvelles inspirations de dessin.",
+    "translation": "Le Générateur Aléatoire de Dessin du Monde de Dandy est régulièrement mis à jour pour inclure de nouveaux personnages de l'univers du Monde de Dandy. Revenez souvent pour découvrir les nouvelles additions à la roue des personnages pour une inspiration de dessin fraîche.",
     "message": "The Dandy's World Draw Randomizer is regularly updated to include new characters from the Dandy's World universe. Keep checking back to discover new additions to the character wheel for fresh drawing inspiration.",
     "comments": [],
     "origin": [
@@ -1937,7 +1937,7 @@
     ]
   },
   "pLPPiF": {
-    "translation": "Le Dandys World Draw Slot Maker génère instantanément des combinaisons d'histoires fraîches à chaque tour, rendant chaque interaction unique et divertissante.",
+    "translation": "Le Créateur de Machines à Sous du Monde de Dandy génère instantanément de nouvelles combinaisons d'histoires à chaque tour, rendant chaque interaction unique et divertissante.",
     "message": "The Dandys World Draw Slot Maker instantly generates fresh story combinations with each spin, making every interaction unique and entertaining.",
     "comments": [],
     "origin": [
@@ -1948,7 +1948,7 @@
     ]
   },
   "M2qbRO": {
-    "translation": "Le Dandys World Draw Slot Maker est régulièrement mis à jour avec de nouveaux personnages, éléments d'histoire et fonctionnalités. Les mises à jour se font généralement mensuellement, apportant du contenu frais et élargissant les possibilités de génération d'histoires dans l'univers de Dandys World.",
+    "translation": "Le Créateur de Machines à Sous du Monde de Dandy est régulièrement mis à jour avec de nouveaux personnages, éléments d'histoire et fonctionnalités. Les mises à jour ont généralement lieu mensuellement, apportant du contenu frais et élargissant les possibilités de génération d'histoires dans l'univers du Monde de Dandy.",
     "message": "The Dandys World Draw Slot Maker is regularly updated with new characters, story elements, and features. Updates typically occur monthly, bringing fresh content and expanding the possibilities for story generation within the Dandys World universe.",
     "comments": [],
     "origin": [
@@ -1959,7 +1959,7 @@
     ]
   },
   "Ilm5uN": {
-    "translation": "Le Dandys World Draw Slot Maker fonctionne en faisant tourner des rouleaux virtuels contenant différents éléments d'histoire et personnages de Dandys World. Lorsque vous appuyez sur le bouton de rotation, il combine aléatoirement ces éléments pour créer des scénarios d'histoire uniques. Chaque tour génère une nouvelle combinaison de personnages, de décors et d'éléments narratifs.",
+    "translation": "Le Créateur de Machines à Sous du Monde de Dandy fonctionne en faisant tourner des rouleaux virtuels contenant différents éléments d'histoire et personnages du Monde de Dandy. Lorsque vous appuyez sur le bouton de rotation, il combine aléatoirement ces éléments pour créer des scénarios d'histoire uniques. Chaque tour génère une nouvelle combinaison de personnages, de décors et d'éléments d'intrigue.",
     "message": "The Dandys World Draw Slot Maker works by spinning virtual reels containing different story elements and Dandys World characters. When you press the spin button, it randomly combines these elements to create unique story scenarios. Each spin generates a new combination of characters, settings, and plot elements.",
     "comments": [],
     "origin": [
@@ -1970,7 +1970,7 @@
     ]
   },
   "YHuztc": {
-    "translation": "La propriété des images générées à partir du texte sur le site Web appartient à la personne qui a créé l'image. #0# ne revendique aucune propriété sur les images créées par les utilisateurs.",
+    "translation": "La propriété des images générées à partir de texte sur le site Web appartient à la personne qui a créé l'image. #0# ne revendique aucune propriété sur les images créées par les utilisateurs.",
     "message": "The ownership of images generated from text on the Website belongs to the person who created the image. #0# claims no ownership over images created by users.",
     "comments": [],
     "origin": [
@@ -1992,7 +1992,7 @@
     ]
   },
   "Xwg1Sn": {
-    "translation": "Cette page sert à informer les visiteurs de mes politiques en matière de collecte, d'utilisation et de divulgation des informations personnelles si quiconque décidait d'utiliser mon service. Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation des informations conformément à cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec quiconque, sauf comme indiqué dans cette politique de confidentialité. Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos conditions générales.",
+    "translation": "Cette page est utilisée pour informer les visiteurs concernant mes politiques en matière de collecte, d'utilisation et de divulgation des Informations Personnelles si quelqu'un décidait d'utiliser mon Service. Si vous choisissez d'utiliser mon Service, vous acceptez alors la collecte et l'utilisation d'informations en relation avec cette politique. Les Informations Personnelles que je collecte sont utilisées pour fournir et améliorer le Service. Je ne partagerai ni n'utiliserai vos informations avec quiconque sauf comme décrit dans cette Politique de Confidentialité. Les termes utilisés dans cette Politique de Confidentialité ont les mêmes significations que dans nos Termes et Conditions.",
     "message": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
     "comments": [],
     "origin": [
@@ -2003,7 +2003,7 @@
     ]
   },
   "S1ia36": {
-    "translation": "Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez redirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille vivement de consulter la politique de confidentialité de ces sites Web. Je n'ai aucun contrôle et n'assume aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques de tout site ou service tiers.",
+    "translation": "Ce Service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien de tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas opérés par moi. Par conséquent, je vous conseille fortement de passer en revue la Politique de Confidentialité de ces sites web. Je n'ai aucun contrôle et n'assume aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques de sites ou services tiers.",
     "message": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
     "comments": [],
     "origin": [
@@ -2014,7 +2014,7 @@
     ]
   },
   "lwBH3z": {
-    "translation": "Conseils de Dandys World Draw",
+    "translation": "Conseils du Dessin du Monde de Dandy",
     "message": "Tips Of Dandys World Draw",
     "comments": [],
     "origin": [
@@ -2025,7 +2025,7 @@
     ]
   },
   "I1Vwuf": {
-    "translation": "Conseils pour Dandys World Draw Generator",
+    "translation": "Conseils du Générateur de Dessin du Monde de Dandy",
     "message": "Tips Of Dandys World Draw Generator",
     "comments": [],
     "origin": [
@@ -2036,7 +2036,7 @@
     ]
   },
   "5xItRt": {
-    "translation": "Astuces du générateur de tirage aléatoire de Dandy's World",
+    "translation": "Conseils du Générateur Aléatoire de Dessin du Monde de Dandy",
     "message": "Tips Of Dandys World Draw Randomizer",
     "comments": [],
     "origin": [
@@ -2047,7 +2047,7 @@
     ]
   },
   "lP5l8f": {
-    "translation": "Conseils pour Dandys World Draw Slot Maker",
+    "translation": "Conseils du Créateur de Machines à Sous du Monde de Dandy",
     "message": "Tips Of Dandys World Draw Slot Maker",
     "comments": [],
     "origin": [
@@ -2058,7 +2058,7 @@
     ]
   },
   "+yrJEm": {
-    "translation": "Pour nous aider à analyser l'utilisation de notre service ;",
+    "translation": "Pour nous aider à analyser comment notre Service est utilisé;",
     "message": "To assist us in analyzing how our Service is used;",
     "comments": [],
     "origin": [
@@ -2069,7 +2069,7 @@
     ]
   },
   "tFiI7E": {
-    "translation": "Pour commencer à dessiner les personnages de Dandy's World, vous n'avez besoin que de fournitures artistiques de base comme des crayons, du papier et des gommes. Pour l'art numérique, une tablette de dessin et des logiciels comme Procreate ou Photoshop sont recommandés mais non nécessaires. Nous fournissons des tutoriels pour les médiums traditionnels et numériques.",
+    "translation": "Pour commencer à dessiner les personnages du Monde de Dandy, vous n'avez besoin que de fournitures artistiques de base telles que des crayons, du papier et des gommes. Pour l'art numérique, une tablette de dessin et un logiciel tel que Procreate ou Photoshop sont recommandés mais pas obligatoires. Nous fournissons des tutoriels tant pour les mediums traditionnels que numériques.",
     "message": "To begin drawing Dandy's World characters, you only need basic art supplies like pencils, paper, and erasers. For digital art, a drawing tablet and software like Procreate or Photoshop are recommended but not required. We provide tutorials for both traditional and digital mediums.",
     "comments": [],
     "origin": [
@@ -2080,7 +2080,7 @@
     ]
   },
   "gN00PD": {
-    "translation": "Pour faciliter notre service ;",
+    "translation": "Pour faciliter notre Service;",
     "message": "To facilitate our Service;",
     "comments": [],
     "origin": [
@@ -2091,7 +2091,7 @@
     ]
   },
   "A7QtQm": {
-    "translation": "Pour tirer le meilleur parti de votre expérience avec le Dandys World Draw Slot Maker, essayez ces conseils : 1) Tournez plusieurs fois pour explorer différentes combinaisons, 2) Utilisez les filtres de thème pour vous concentrer sur des types d'histoires spécifiques, 3) Enregistrez vos combinaisons préférées pour vous inspirer et 4) Expérimentez avec différentes combinaisons de personnages pour découvrir des intrigues uniques.",
+    "translation": "Pour tirer le meilleur parti de votre expérience avec le Créateur de Machines à Sous du Monde de Dandy, essayez ces conseils : 1) Tournez plusieurs fois pour explorer différentes combinaisons, 2) Utilisez les filtres de thème pour vous concentrer sur des types d'histoires spécifiques, 3) Enregistrez vos combinaisons préférées pour inspiration, et 4) Expérimentez avec différentes combinaisons de personnages pour découvrir des intrigues uniques.",
     "message": "To get the most out of your Dandys World Draw Slot Maker experience, try these tips: 1) Spin multiple times to explore different combinations, 2) Use the theme filters to focus on specific types of stories, 3) Save your favorite combinations for inspiration, and 4) Experiment with different character combinations to discover unique storylines.",
     "comments": [],
     "origin": [
@@ -2102,7 +2102,7 @@
     ]
   },
   "TIkU8p": {
-    "translation": "Pour effectuer des services liés au service ;",
+    "translation": "Pour exécuter des services liés au Service;",
     "message": "To perform Service-related services;",
     "comments": [],
     "origin": [
@@ -2113,7 +2113,7 @@
     ]
   },
   "jiYr9i": {
-    "translation": "Pour fournir le service en notre nom ;",
+    "translation": "Pour fournir le Service en notre nom;",
     "message": "To provide the Service on our behalf;",
     "comments": [],
     "origin": [
@@ -2135,7 +2135,7 @@
     ]
   },
   "ZhoEAz": {
-    "translation": "Comprendre les Formes de Base dans les Personnages de Dandy's World",
+    "translation": "Comprendre les Formes de Base dans les Personnages du Monde de Dandy",
     "message": "Understanding Basic Shapes in Dandy's World Characters",
     "comments": [],
     "origin": [
@@ -2146,7 +2146,7 @@
     ]
   },
   "g44YLV": {
-    "translation": "Conceptions de Personnages Uniques",
+    "translation": "Designs de Personnages Uniques",
     "message": "Unique Character Designs",
     "comments": [],
     "origin": [
@@ -2157,7 +2157,7 @@
     ]
   },
   "ONWvwQ": {
-    "translation": "Téléverser",
+    "translation": "Télécharger",
     "message": "Upload",
     "comments": [],
     "origin": [
@@ -2168,7 +2168,7 @@
     ]
   },
   "/eguJc": {
-    "translation": "En cours de téléchargement",
+    "translation": "Téléversement",
     "message": "Uploading",
     "comments": [],
     "origin": [
@@ -2179,7 +2179,7 @@
     ]
   },
   "+ois9a": {
-    "translation": "Utiliser le générateur de tirage aléatoire de Dandy's World est simple : il suffit de cliquer sur le bouton de rotation pour faire tourner la roue, et elle sélectionnera aléatoirement un personnage à dessiner. La roue interactive s'arrêtera sur un personnage, vous fournissant ainsi votre prochain sujet de dessin de l'univers de Dandy's World.",
+    "translation": "Utiliser le Générateur Aléatoire de Dessin du Monde de Dandy est simple : il suffit de cliquer sur le bouton de rotation pour faire tourner la roue, et elle sélectionnera aléatoirement un personnage à dessiner. La roue interactive s'arrêtera sur un personnage, vous fournissant votre prochain sujet de dessin de l'univers du Monde de Dandy.",
     "message": "Using the Dandy's World Draw Randomizer is simple: just click the spin button to rotate the wheel, and it will randomly select a character for you to draw. The interactive wheel will stop on a character, providing you with your next drawing subject from the Dandy's World universe.",
     "comments": [],
     "origin": [
@@ -2190,7 +2190,7 @@
     ]
   },
   "qNd2+R": {
-    "translation": "Styles Artistiques Polyvalents",
+    "translation": "Styles d'Art Polyvalents",
     "message": "Versatile Art Styles",
     "comments": [],
     "origin": [
@@ -2200,9 +2200,9 @@
       ]
     ]
   },
-  "yhZMgW": {
-    "translation": "Nous collectons des données personnelles (nom, e-mail et informations de paiement) et des données non personnelles (cookies web) pour améliorer nos services. L'utilisation de ces données est régie par notre Politique de Confidentialité, que vous pouvez trouver à #0#",
-    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at #0#",
+  "DFOg6P": {
+    "translation": "Nous collectons des données personnelles (nom, e-mail et informations de paiement) et des données non personnelles (cookies web) pour améliorer nos services. L'utilisation de ces données est régie par notre Politique de Confidentialité, que vous pouvez consulter à",
+    "message": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
     "comments": [],
     "origin": [
       [
@@ -2212,7 +2212,7 @@
     ]
   },
   "X+XmuC": {
-    "translation": "Bienvenue sur #0# ! Notre site Web, situé à #1# (Site Web), est dédié à vous fournir la possibilité de créer des images personnalisées. En accédant ou en utilisant notre site Web, vous acceptez d'être lié par ces conditions d'utilisation (Conditions). Si vous n'acceptez pas une partie quelconque des conditions, vous êtes alors interdit d'utiliser le site Web.",
+    "translation": "Bienvenue sur #0#! Notre site Web, situé à #1# (site Web), est dédié à vous donner la possibilité de créer des images personnalisées. En accédant ou en utilisant notre site, vous acceptez d'être lié par ces Conditions de service (Conditions). Si vous n'acceptez pas une partie des conditions, vous êtes interdit d'utiliser le site.",
     "message": "Welcome to #0#! Our website, located at #1# (Website), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (Terms). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
     "comments": [],
     "origin": [
@@ -2223,7 +2223,7 @@
     ]
   },
   "PwAQEK": {
-    "translation": "Bienvenue dans le monde de Dandy's World Draw, où l'imagination artistique rencontre un apprentissage structuré au sein d'une communauté créative dynamique. Depuis notre création en 2023, Dandy's World est devenu une destination de premier plan pour les artistes en herbe et les illustrateurs expérimentés, offrant des tutoriels et des ressources complètes axés sur l'illustration de personnages. Notre plateforme allie de manière unique le charme des personnages de Dandy's World à un enseignement artistique professionnel, rendant le processus d'apprentissage à la fois agréable et efficace. Grâce à nos guides étape par étape soigneusement élaborés, les artistes peuvent maîtriser les techniques de dessin tout en explorant l'univers enchanteur de Dandy's World. Que vous esquissiez les expressions ludiques de Rodger ou capturiez les poses dynamiques de Shelly, notre plateforme axée sur la communauté offre l'environnement parfait pour la croissance artistique. Avec des défis hebdomadaires, des séances de dessin en direct et un réseau de soutien d'autres artistes, Dandy's World Draw transforme le parcours d'apprentissage de l'illustration de personnages en une aventure engageante. Rejoignez des milliers d'artistes qui ont déjà découvert la joie de donner vie aux personnages de Dandy's World à travers leur art, et devenez membre d'une communauté croissante dédiée à l'excellence artistique et à l'expression créative.",
+    "translation": "Bienvenue dans le Monde de Dandy Dessin, où l'imagination artistique rencontre l'apprentissage structuré au sein d'une communauté créative dynamique. Depuis notre création en 2023, le Monde de Dandy est devenu une destination phare pour les artistes en herbe et les illustrateurs chevronnés, offrant des tutoriels complets et des ressources axées sur l'illustration de personnages. Notre plateforme combine de manière unique le charme des personnages du Monde de Dandy avec un enseignement artistique professionnel, rendant le processus d'apprentissage à la fois agréable et efficace. Grâce à nos guides pas à pas soigneusement élaborés, les artistes peuvent maîtriser les techniques de dessin tout en explorant l'univers enchanteur du Monde de Dandy. Que vous esquissiez les expressions ludiques de Rodger ou capturiez les poses dynamiques de Shelly, notre plateforme axée sur la communauté offre l'environnement parfait pour la croissance artistique. Avec des défis hebdomadaires, des sessions de dessin en direct et un réseau de soutien d'artistes, le Monde de Dandy Dessin transforme le parcours de l'apprentissage de l'illustration de personnages en une aventure engageante. Rejoignez des milliers d'artistes qui ont déjà découvert la joie de donner vie aux personnages du Monde de Dandy à travers leurs œuvres, et devenez partie d'une communauté grandissante dédiée à l'excellence artistique et à l'expression créative.",
     "message": "Welcome to Dandy's World Draw, where artistic imagination meets structured learning in a vibrant creative community. Since our establishment in 2023, Dandy's World has become a premier destination for aspiring artists and seasoned illustrators alike, offering comprehensive tutorials and resources focused on character illustration. Our platform uniquely combines the charm of Dandy's World characters with professional art instruction, making the learning process both enjoyable and effective. Through our carefully crafted step-by-step guides, artists can master drawing techniques while exploring the delightful universe of Dandy's World. Whether you're sketching Rodger's playful expressions or capturing Shelly's dynamic poses, our community-driven platform provides the perfect environment for artistic growth. With weekly challenges, live drawing sessions, and a supportive network of fellow artists, Dandy's World Draw transforms the journey of learning character illustration into an engaging adventure. Join thousands of artists who have already discovered the joy of bringing Dandy's World characters to life through their artwork, and become part of a growing community dedicated to artistic excellence and creative expression.",
     "comments": [],
     "origin": [
@@ -2234,7 +2234,7 @@
     ]
   },
   "4mHXk2": {
-    "translation": "Bienvenue dans les tutoriels de dessin de Dandy's World ! Avant de commencer, rassemblez les outils essentiels : crayons (HB, 2B), gommes, papier de qualité et matériaux de coloration. Pour les artistes numériques, assurez-vous d'avoir une tablette graphique et des logiciels comme Procreate ou Photoshop prêts.",
+    "translation": "Bienvenue dans les tutoriels de dessin du Monde de Dandy ! Avant de commencer, rassemblez les outils essentiels : des crayons (HB, 2B), des gommes, un papier de qualité et des matériaux de coloriage. Pour les artistes numériques, assurez-vous d'avoir une tablette de dessin et un logiciel comme Procreate ou Photoshop prêts.",
     "message": "Welcome to Dandy's World drawing tutorials! Before starting, gather essential tools: pencils (HB, 2B), erasers, quality paper, and coloring materials. For digital artists, ensure you have a drawing tablet and software like Procreate or Photoshop ready.",
     "comments": [],
     "origin": [
@@ -2245,7 +2245,7 @@
     ]
   },
   "vaIm0/": {
-    "translation": "Quels outils de dessin sont disponibles dans Dandys World Draw Generator ?",
+    "translation": "Quels outils de dessin sont disponibles dans le générateur de Dessin du Monde de Dandy ?",
     "message": "What drawing tools are available in Dandys World Draw Generator?",
     "comments": [],
     "origin": [
@@ -2256,7 +2256,7 @@
     ]
   },
   "LINzV2": {
-    "translation": "Quelles fonctionnalités offre Dandys World Draw Generator ?",
+    "translation": "Quelles fonctionnalités le générateur de Dessin du Monde de Dandy offre-t-il ?",
     "message": "What features does Dandys World Draw Generator offer?",
     "comments": [],
     "origin": [
@@ -2267,7 +2267,7 @@
     ]
   },
   "0VKI0R": {
-    "translation": "Que se passe-t-il si je fais une erreur en utilisant Dandys World Draw Generator ?",
+    "translation": "Que faire si je fais une erreur en utilisant le générateur de Dessin du Monde de Dandy ?",
     "message": "What if I make a mistake while using Dandys World Draw Generator?",
     "comments": [],
     "origin": [
@@ -2278,7 +2278,7 @@
     ]
   },
   "45Tqbt": {
-    "translation": "Qu'est-ce que Dandy's World Draw et pour qui est-il destiné ?",
+    "translation": "Qu'est-ce que le Dessin du Monde de Dandy et à qui s'adresse-t-il ?",
     "message": "What is Dandy's World Draw and who is it for?",
     "comments": [],
     "origin": [
@@ -2289,7 +2289,7 @@
     ]
   },
   "GBJKtv": {
-    "translation": "Qu'est-ce que le générateur de tirage aléatoire de Dandy's World ?",
+    "translation": "Qu'est-ce que le Randomizer de Dessin du Monde de Dandy ?",
     "message": "What is Dandy's World Draw Randomizer?",
     "comments": [],
     "origin": [
@@ -2300,7 +2300,7 @@
     ]
   },
   "RcV4eE": {
-    "translation": "Qu'est-ce que Dandys World Draw Generator ?",
+    "translation": "Qu'est-ce que le générateur de Dessin du Monde de Dandy ?",
     "message": "What is Dandys World Draw Generator?",
     "comments": [],
     "origin": [
@@ -2311,7 +2311,7 @@
     ]
   },
   "r4+ZM8": {
-    "translation": "Qu'est-ce que le Dandys World Draw Slot Maker ?",
+    "translation": "Qu'est-ce que le constructeur de slots de Dessin du Monde de Dandy ?",
     "message": "What is Dandys World Draw Slot Maker?",
     "comments": [],
     "origin": [
@@ -2322,7 +2322,7 @@
     ]
   },
   "Y7S/iq": {
-    "translation": "Bien que les personnages de Dandy's World soient protégés par le droit d'auteur, nous offrons des directives pour la création d'art à thème. L'utilisation personnelle et éducative est encouragée, mais l'utilisation commerciale nécessite une licence appropriée. Contactez notre équipe de licence pour les demandes commerciales.",
+    "translation": "Bien que les personnages du Monde de Dandy soient protégés par des droits d'auteur, nous offrons des directives pour la création d'art fan. L'utilisation personnelle et éducative est encouragée, mais l'utilisation commerciale nécessite une licence appropriée. Contactez notre équipe de licence pour des demandes commerciales.",
     "message": "While Dandy's World characters are protected by copyright, we offer guidelines for fan art creation. Personal and educational use is encouraged, but commercial use requires proper licensing. Contact our licensing team for commercial inquiries.",
     "comments": [],
     "origin": [
@@ -2333,7 +2333,7 @@
     ]
   },
   "nrsbsF": {
-    "translation": "Tout en maintenant des éléments de personnage fondamentaux, Dandy's World encourage l'interprétation artistique. Expérimentez avec différentes poses, expressions et scénarios tout en dessinant vos personnages préférés.",
+    "translation": "Tout en maintenant les éléments essentiels des personnages, le Monde de Dandy encourage l'interprétation artistique. Expérimentez avec différentes poses, expressions et scénarios tout en dessinant vos personnages préférés.",
     "message": "While maintaining core character elements, Dandy's World encourages artistic interpretation. Experiment with different poses, expressions, and scenarios while drawing your favorite characters.",
     "comments": [],
     "origin": [
@@ -2344,7 +2344,7 @@
     ]
   },
   "+BQ/oU": {
-    "translation": "Bien que le Dandys World Draw Slot Maker fonctionne principalement sur la génération aléatoire, vous pouvez influencer certains aspects du processus de création d'histoires en sélectionnant des catégories de personnages ou des thèmes d'histoires spécifiques avant de tourner. Cela permet une personnalisation tout en maintenant l'élément excitant de l'aléatoire.",
+    "translation": "Bien que le constructeur de slots de Dessin du Monde de Dandy fonctionne principalement sur la génération aléatoire, vous pouvez influencer certains aspects du processus de création d'histoires en sélectionnant des catégories de personnages spécifiques ou des thèmes d'histoires avant de lancer le tirage. Cela permet une certaine personnalisation tout en maintenant l'élément excitant de l'aléatoire.",
     "message": "While the Dandys World Draw Slot Maker primarily operates on random generation, you can influence certain aspects of the story creation process by selecting specific character categories or story themes before spinning. This allows for some customization while maintaining the exciting element of randomness.",
     "comments": [],
     "origin": [
@@ -2355,7 +2355,7 @@
     ]
   },
   "2qovGt": {
-    "translation": "Avec Dandys World Draw Generator, vous pouvez facilement enregistrer votre œuvre terminée en format PNG ou JPG. Il suffit de cliquer sur le bouton d'enregistrement lorsque vous avez terminé votre dessin pour l'exporter vers le format de fichier de votre choix.",
+    "translation": "Avec le générateur de Dessin du Monde de Dandy, vous pouvez facilement enregistrer votre œuvre terminée au format PNG ou JPG. Il suffit de cliquer sur le bouton d'enregistrement une fois que vous avez terminé votre dessin pour l'exporter au format de fichier de votre choix.",
     "message": "With Dandys World Draw Generator, you can easily save your completed artwork in either PNG or JPG format. Simply click the save button when you're finished with your drawing to export it to your preferred file format.",
     "comments": [],
     "origin": [
@@ -2366,7 +2366,7 @@
     ]
   },
   "ekD2sN": {
-    "translation": "Oui, les tutoriels de Dandy's World sont classés par niveaux Débutant, Intermédiaire et Avancé. Chaque niveau s'appuie sur les compétences précédentes, vous aidant à progresser des esquisses de personnages de base aux illustrations complexes avec ombrages, coloration et poses dynamiques appropriés.",
+    "translation": "Oui, les tutoriels du Monde de Dandy sont classés en niveaux Débutant, Intermédiaire et Avancé. Chaque niveau s'appuie sur les compétences précédentes, vous aidant à progresser des croquis de personnages de base aux illustrations complexes avec un ombrage approprié, un coloriage et des poses dynamiques.",
     "message": "Yes, Dandy's World tutorials are categorized into Beginner, Intermediate, and Advanced levels. Each level builds upon previous skills, helping you progress from basic character sketches to complex illustrations with proper shading, coloring, and dynamic poses.",
     "comments": [],
     "origin": [
@@ -2377,7 +2377,7 @@
     ]
   },
   "bKWgv/": {
-    "translation": "Oui, Dandys World Draw Generator comprend des formes prédéfinies spécifiquement conçues pour créer des éléments naturels tels que des feuilles, des fleurs et des pétales. Ces outils facilitent l'ajout de détails environnementaux magnifiques à votre œuvre.",
+    "translation": "Oui, le générateur de Dessin du Monde de Dandy comprend des formes prédéfinies spécifiquement conçues pour créer des éléments naturels tels que des feuilles, des fleurs et des pétales. Ces outils facilitent l'ajout de magnifiques détails environnementaux à votre œuvre.",
     "message": "Yes, Dandys World Draw Generator includes preset shapes specifically designed for creating nature elements such as leaves, flowers, and petals. These tools make it easy to add beautiful environmental details to your artwork.",
     "comments": [],
     "origin": [
@@ -2388,7 +2388,7 @@
     ]
   },
   "l7FxnA": {
-    "translation": "Oui, le générateur de tirage aléatoire de Dandy's World est entièrement réactif et fonctionne parfaitement sur les appareils mobiles, les tablettes et les ordinateurs de bureau, vous permettant de générer des sélections de personnages aléatoires pour dessiner n'importe où, n'importe quand.",
+    "translation": "Oui, le Randomizer de Dessin du Monde de Dandy est entièrement réactif et fonctionne sans problème sur les appareils mobiles, les tablettes et les ordinateurs de bureau, vous permettant de générer des sélections de personnages aléatoires à dessiner n'importe où, n'importe quand.",
     "message": "Yes, the Dandy's World Draw Randomizer is fully responsive and works seamlessly on mobile devices, tablets, and desktop computers, allowing you to generate random character selections for drawing anywhere, anytime.",
     "comments": [],
     "origin": [
@@ -2399,7 +2399,7 @@
     ]
   },
   "sbds9o": {
-    "translation": "Oui, le générateur de tirage aléatoire de Dandy's World est parfait pour les activités de groupe ! Il est couramment utilisé lors de défis artistiques, de cours de dessin et de soirées de jeux créatifs où les participants peuvent prendre à tour de rôle la roue et dessiner le personnage de Dandy's World sélectionné.",
+    "translation": "Oui, le Randomizer de Dessin du Monde de Dandy est parfait pour les activités de groupe ! Il est couramment utilisé dans les défis artistiques, les cours de dessin et les soirées de jeux créatifs où les participants peuvent faire tourner la roue et dessiner le personnage du Monde de Dandy sélectionné.",
     "message": "Yes, the Dandy's World Draw Randomizer is perfect for group activities! It's commonly used in art challenges, drawing classes, and creative game nights where participants can take turns spinning the wheel and drawing the selected Dandy's World character.",
     "comments": [],
     "origin": [
@@ -2410,7 +2410,7 @@
     ]
   },
   "VJLIYr": {
-    "translation": "Oui, le générateur de tirage aléatoire de Dandy's World propose des options de personnalisation. Vous pouvez ajuster l'apparence de la roue, y compris les couleurs et les thèmes, selon vos préférences. Cette fonctionnalité aide à créer une expérience de dessin plus personnalisée avec vos personnages préférés de Dandy's World.",
+    "translation": "Oui, le Randomizer de Dessin du Monde de Dandy offre des options de personnalisation. Vous pouvez ajuster l'apparence de la roue, y compris les couleurs et les thèmes, pour correspondre à vos préférences. Cette fonctionnalité aide à créer une expérience de dessin plus personnalisée avec vos personnages préférés du Monde de Dandy.",
     "message": "Yes, the Dandy's World Draw Randomizer offers customization options. You can adjust the wheel's appearance, including colors and themes, to match your preferences. This feature helps create a more personalized drawing experience with your favorite Dandy's World characters.",
     "comments": [],
     "origin": [
@@ -2421,7 +2421,7 @@
     ]
   },
   "Gnhykt": {
-    "translation": "Oui, le Dandys World Draw Slot Maker vous permet de sauvegarder vos combinaisons d'histoires préférées. Une fois que vous avez trouvé une combinaison d'histoires que vous aimez, vous pouvez la sauvegarder pour y revenir plus tard ou la partager avec d'autres fans de Dandys World.",
+    "translation": "Oui, le constructeur de slots de Dessin du Monde de Dandy vous permet d'enregistrer vos combinaisons d'histoires préférées. Une fois que vous trouvez une combinaison d'histoires que vous aimez, vous pouvez l'enregistrer pour y revenir plus tard ou la partager avec d'autres fans du Monde de Dandy.",
     "message": "Yes, the Dandys World Draw Slot Maker allows you to save your favorite story combinations. Once you find a story combination you like, you can save it to revisit later or share it with other Dandys World fans.",
     "comments": [],
     "origin": [
@@ -2432,7 +2432,7 @@
     ]
   },
   "zNur0A": {
-    "translation": "Oui, le Dandys World Draw Slot Maker est conçu pour être adapté aux familles et convient à tous les âges. Toutes les combinaisons d'histoires générées sont appropriées pour les enfants tout en restant divertissantes pour les adultes qui apprécient l'univers de Dandys World.",
+    "translation": "Oui, le constructeur de slots de Dessin du Monde de Dandy est conçu pour être familial et adapté à tous les âges. Toutes les combinaisons d'histoires générées sont appropriées pour les enfants tout en restant divertissantes pour les adultes qui apprécient l'univers du Monde de Dandy.",
     "message": "Yes, the Dandys World Draw Slot Maker is designed to be family-friendly and suitable for all ages. All generated story combinations are appropriate for children while remaining entertaining for adults who enjoy the Dandys World universe.",
     "comments": [],
     "origin": [
@@ -2443,7 +2443,7 @@
     ]
   },
   "pgYmaF": {
-    "translation": "Oui, vous pouvez partager vos dessins de personnages de Dandy's World sur diverses plateformes de médias sociaux. De nombreux utilisateurs partagent leurs créations sur des plateformes comme TikTok et Instagram, rejoignant une communauté d'artistes qui utilisent le générateur de tirage aléatoire pour s'inspirer.",
+    "translation": "Oui, vous pouvez partager vos dessins de personnages du Monde de Dandy sur diverses plateformes de médias sociaux. De nombreux utilisateurs partagent leurs créations sur des plateformes telles que TikTok et Instagram, rejoignant une communauté d'artistes qui utilisent le Randomizer de Dessin pour s'inspirer.",
     "message": "Yes, you can share your Dandy's World character drawings on various social media platforms. Many users share their creations on platforms like TikTok and Instagram, joining a community of artists who use the Draw Randomizer for inspiration.",
     "comments": [],
     "origin": [
@@ -2454,7 +2454,7 @@
     ]
   },
   "GkrAHh": {
-    "translation": "Oui ! Le générateur de dessins Dandy's World comprend un ensemble complet de parties du corps prédéfinies comme les mains, les pieds, les yeux et le nez, ce qui facilite la création de personnages uniques. Associé à diverses formes et couleurs, vous pouvez donner vie à vos conceptions de personnages.",
+    "translation": "Oui ! Le générateur de Dessin du Monde de Dandy comprend un ensemble complet de parties prédéfinies telles que mains, pieds, yeux et nez, facilitant la création de personnages uniques. Associé à diverses formes et couleurs, vous pouvez donner vie à vos conceptions de personnages.",
     "message": "Yes! Dandys World Draw Generator includes a comprehensive set of preset body parts like hands, feet, eyes, and nose, making it easy to create unique characters. Combined with various shapes and colors, you can bring your character designs to life.",
     "comments": [],
     "origin": [
@@ -2465,7 +2465,7 @@
     ]
   },
   "3/hGXf": {
-    "translation": "Oui ! Nous encourageons le partage de votre art de Dandy's World au sein de notre communauté. Vous pouvez publier vos dessins sur notre plateforme, recevoir des retours d'autres artistes et participer à des défis hebdomadaires. N'oubliez pas de suivre nos directives communautaires et de créditer correctement Dandy's World.",
+    "translation": "Oui ! Nous encourageons le partage de vos œuvres du Monde de Dandy au sein de notre communauté. Vous pouvez poster vos dessins sur notre plateforme, recevoir des commentaires d'autres artistes et participer à des défis hebdomadaires. N'oubliez pas de suivre nos directives communautaires et de créditer le Monde de Dandy de manière appropriée.",
     "message": "Yes! We encourage sharing your Dandy's World artwork within our community. You can post your drawings on our platform, receive feedback from other artists, and participate in weekly challenges. Just remember to follow our community guidelines and credit Dandy's World appropriately.",
     "comments": [],
     "origin": [
@@ -2476,7 +2476,7 @@
     ]
   },
   "DattYp": {
-    "translation": "Oui ! Nous organisons régulièrement des défis de dessin de Dandy's World, des concours mensuels et des événements spéciaux. Ceux-ci incluent des défis de personnage du mois, des concours à thème saisonnier et des jams artistiques communautaires. Les gagnants reçoivent souvent une reconnaissance et des mises en avant spéciales sur notre plateforme.",
+    "translation": "Oui ! Nous organisons régulièrement des défis de dessin du Monde de Dandy, des concours mensuels et des événements spéciaux. Cela inclut des défis de personnage du mois, des concours à thème saisonnier, et des jam artistiques communautaires. Les gagnants reçoivent souvent une reconnaissance et des fonctionnalités spéciales sur notre plateforme.",
     "message": "Yes! We host regular Dandy's World drawing challenges, monthly contests, and special events. These include character-of-the-month challenges, seasonal themed contests, and community art jams. Winners often receive recognition and special features on our platform.",
     "comments": [],
     "origin": [
@@ -2487,7 +2487,7 @@
     ]
   },
   "oTbbJ/": {
-    "translation": "Vous bénéficiez d'une licence limitée, non exclusive et non transférable pour utiliser le site Web et ses services à des fins personnelles et non commerciales. Cette licence n'inclut pas le droit de copier, de modifier ou de distribuer le contenu du site Web ou de l'utiliser à des fins commerciales sans notre consentement écrit préalable.",
+    "translation": "Vous recevez une licence limitée, non exclusive et non transférable pour utiliser le site Web et ses services à des fins personnelles et non commerciales. Cette licence n'inclut pas de droits de copier, modifier ou distribuer le contenu du site, ni de l'utiliser à des fins commerciales sans notre consentement écrit préalable.",
     "message": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
     "comments": [],
     "origin": [

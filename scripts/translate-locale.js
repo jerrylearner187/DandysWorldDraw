@@ -3,6 +3,7 @@ const path = require('path');
 const localeNames = require(path.join(__dirname, '../framework/locale/localeConfig'));
 const directoryPath = path.join(__dirname, '../translations');
 const { translate } = require('./openai-chat');
+const customLocales = require('./custom-locales')
 
 async function processLanguage(file) {
     const language = file.split('.')[0];
@@ -41,18 +42,15 @@ async function processLanguage(file) {
         - 保证json格式准确性，确保key与内容成对出现。
         - 翻译考虑使用当地的习惯用语，而不是简单的文字翻译，了解原始文字的意境找到当地的表达方式进行翻译
         - 翻译目标语言为：${localeNames[language]}`;
-    if (language === 'ko') {
-        prompt += `- 把Path of Exile 2 或 POE2翻译为패스 오브 엑자일 2`;
-    } else if (language === 'ja') {
-        prompt += `- 把Path of Exile 2 或 POE2翻译为パス・オブ・エグザイル2`;
-    } else if (language === 'tw') {
-        prompt += `- 把Path of Exile 2 或 POE2翻译为流放之路2`;
+    if (customLocales[language]) {
+        Object.keys(customLocales[language]).forEach(key => {
+            prompt += `\n- 把"${key}"翻译为"${customLocales[language][key]}"`;
+        });
     }
-        prompt += `- 不要做任何解释，直接输出json内容，也不要输出\`\`\`json\`\`\`标签
+        prompt += `\n- 不要做任何解释，直接输出json内容，也不要输出\`\`\`json\`\`\`标签
         - 输入JSON数据：
             ${JSON.stringify(needTranslateKeys, null, 2)}
     `;
-
     let msg = await translate(prompt);
     console.log("openai返回值:", JSON.stringify(msg));
     msg = msg.choices[0].message.content;
