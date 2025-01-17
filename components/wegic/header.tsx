@@ -27,6 +27,7 @@ export default function Header({ lang }: { lang?: string }) {
     // {
     //   title: msg`About`, href: '/#about', tag: 'about'
     // },
+  { title: msg`Blogs`, href: '/blogs', current: false },
     // { title: msg`Guides`, href: '/guides' },
     // { title: msg`Download`, href: '/download', current: false },
     // { title: msg`Character`, href: '/character', current: false },

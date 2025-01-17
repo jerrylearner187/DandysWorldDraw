@@ -291,8 +291,23 @@
     "comments": [],
     "origin": [
       [
+        "components/wegic/blogs.tsx",
+        24
+      ],
+      [
         "components/wegic/footer.tsx",
         13
+      ]
+    ]
+  },
+  "mRjO9S": {
+    "translation": "博客列表",
+    "message": "Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        62
       ]
     ]
   },
@@ -615,6 +630,17 @@
       ]
     ]
   },
+  "9tmw/V": {
+    "translation": "丹迪的世界绘画博客 - 学习如何绘制您最喜欢的角色",
+    "message": "Dandy's World Draw Blogs - Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        22
+      ]
+    ]
+  },
   "q4aWez": {
     "translation": "丹迪的世界繪畫生成器 | 分步學習角色繪畫",
     "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
@@ -689,6 +715,17 @@
       [
         "config/site.ts",
         5
+      ]
+    ]
+  },
+  "0TJXVf": {
+    "translation": "丹迪的世界绘画博客文章",
+    "message": "Dandys World Draw Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
       ]
     ]
   },
@@ -799,6 +836,17 @@
       [
         "app/[lang]/(public)/randomizer/page.tsx",
         25
+      ]
+    ]
+  },
+  "9RcWb5": {
+    "translation": "发现逐步教程和绘制丹迪的世界角色的技巧。学习专业技巧，创作出令人惊叹的谢莉、鲁迪和小石的同人艺术。",
+    "message": "Discover step-by-step tutorials and tips for drawing Dandy's World characters. Learn professional techniques to create amazing fan art of Shelly, Rudie & Pebble.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        23
       ]
     ]
   },
@@ -1116,10 +1164,6 @@
     "comments": [],
     "origin": [
       [
-        "components/wegic/footer.tsx",
-        11
-      ],
-      [
         "components/wegic/header.tsx",
         7
       ]
@@ -1389,6 +1433,17 @@
       ]
     ]
   },
+  "t5k4ze": {
+    "translation": "学习如何绘制您最喜欢的角色",
+    "message": "Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
   "BNIT3q": {
     "translation": "學習專門針對丹迪的世界角色的專業繪圖技術。通過專門的教程和指南掌握陰影、上色和細節工作。",
     "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
@@ -1621,17 +1676,6 @@
       [
         "config/site.ts",
         193
-      ]
-    ]
-  },
-  "aHCEmh": {
-    "translation": "定價",
-    "message": "Pricing",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/footer.tsx",
-        12
       ]
     ]
   },
@@ -2494,6 +2538,17 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         19
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "博客列表",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
       ]
     ]
   }

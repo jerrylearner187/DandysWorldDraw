@@ -291,8 +291,23 @@
     "comments": [],
     "origin": [
       [
+        "components/wegic/blogs.tsx",
+        24
+      ],
+      [
         "components/wegic/footer.tsx",
         13
+      ]
+    ]
+  },
+  "mRjO9S": {
+    "translation": "블로그 목록",
+    "message": "Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        62
       ]
     ]
   },
@@ -615,6 +630,17 @@
       ]
     ]
   },
+  "9tmw/V": {
+    "translation": "댄디의 세계 캐릭터 드로잉 블로그 - 좋아하는 캐릭터를 그리는 방법 배우기",
+    "message": "Dandy's World Draw Blogs - Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        22
+      ]
+    ]
+  },
   "q4aWez": {
     "translation": "댄디의 세계 드로우 생성기 | 단계별 캐릭터 드로잉 배우기",
     "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
@@ -689,6 +715,17 @@
       [
         "config/site.ts",
         5
+      ]
+    ]
+  },
+  "0TJXVf": {
+    "translation": "댄디의 세계 드로잉 블로그 포스트",
+    "message": "Dandys World Draw Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
       ]
     ]
   },
@@ -799,6 +836,17 @@
       [
         "app/[lang]/(public)/randomizer/page.tsx",
         25
+      ]
+    ]
+  },
+  "9RcWb5": {
+    "translation": "댄디의 세계 캐릭터를 그리는 단계별 튜토리얼과 팁을 알아보세요. 셀리, 루디, 펩블의 놀라운 팬아트를 만들기 위한 전문 기술을 배우세요.",
+    "message": "Discover step-by-step tutorials and tips for drawing Dandy's World characters. Learn professional techniques to create amazing fan art of Shelly, Rudie & Pebble.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        23
       ]
     ]
   },
@@ -1116,10 +1164,6 @@
     "comments": [],
     "origin": [
       [
-        "components/wegic/footer.tsx",
-        11
-      ],
-      [
         "components/wegic/header.tsx",
         7
       ]
@@ -1389,6 +1433,17 @@
       ]
     ]
   },
+  "t5k4ze": {
+    "translation": "좋아하는 캐릭터를 그리는 방법 배우기",
+    "message": "Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
   "BNIT3q": {
     "translation": "댄디의 세계 캐릭터에 특화된 전문 드로잉 기술을 배웁니다. 전문 튜토리얼과 가이드를 통해 음영, 색상 및 세부 작업을 마스터하세요.",
     "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
@@ -1621,17 +1676,6 @@
       [
         "config/site.ts",
         193
-      ]
-    ]
-  },
-  "aHCEmh": {
-    "translation": "가격",
-    "message": "Pricing",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/footer.tsx",
-        12
       ]
     ]
   },
@@ -2494,6 +2538,17 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         19
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "블로그 목록",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
       ]
     ]
   }

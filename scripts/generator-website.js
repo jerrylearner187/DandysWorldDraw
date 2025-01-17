@@ -9,53 +9,9 @@ const customLocales = require('./custom-locales')
  * 4. 基于给定的关键词，生成网站logo
  */
 // 网站关键词
-const keyword = 'Dandys World Draw Randomizer'
+const keyword = 'Dandys World Draw Blogs'
 // 网站该要描述
 const description = `
-Overview of Dandy's World Draw Randomizer
-Spin the Wheel: The Dandy's World Draw Randomizer is represented as a colorful spin wheel that features various characters from the Dandy's World universe. Each slice of the wheel includes unique characters such as Dandy, Pebble, Flutter, and others. This tool is designed to spark creativity and can be used for storytelling or themed activities during game nights 1.
-Character Selection: The wheel includes a variety of characters, making it ideal for choosing which character to draw or incorporate into a story. Characters featured include:
-Dandy
-Pebble
-Vee
-Astro
-Shelly
-And many more...
-Usage and Features
-Interactive Tool: Users can spin the wheel to randomly select a character, which adds an element of surprise and fun to drawing sessions or creative activities 13.
-Customization Options: Some platforms allow users to customize the look and feel of the wheel, including colors and sounds, enhancing user engagement 3.
-Related Platforms
-Animated Drawings: This platform allows users to animate their drawings easily, which can complement the character designs chosen from the randomizer 2.
-Social Media Engagement: The randomizer concept has gained popularity on platforms like TikTok, where users share videos of their drawings based on random selections from Dandy's World 7.
-Conclusion
-The Dandy's World Draw Randomizer serves as an entertaining and creative tool for artists and fans alike, providing an engaging way to explore character designs and enhance storytelling through art. It encourages spontaneous creativity and can be utilized in various artistic contexts.
-The Dandy's World Draw Randomizer offers several key features that enhance the drawing and creative experience for users:
-Character Selection: The randomizer includes a variety of characters from Dandy's World, allowing users to spin a wheel to randomly select which character to draw. This adds an element of surprise and fun to the drawing process.
-Interactive Gameplay: Users can engage with the randomizer in a playful manner, making it suitable for group activities, such as game nights or art challenges, where participants can take turns spinning the wheel.
-Customization Options: Some versions of the randomizer may allow users to customize the appearance of the wheel, including colors and themes, making it more visually appealing and tailored to individual preferences.
-Social Media Integration: The randomizer is popular on platforms like TikTok, where users share their drawings based on the characters selected. This fosters community engagement and encourages sharing of artistic interpretations.
-Inspiration for Storytelling: Beyond drawing, the randomizer can serve as a tool for generating ideas for stories or creative projects involving Dandy's World characters, enhancing narrative development.
-These features make the Dandy's World Draw Randomizer a versatile tool for artists and fans looking to explore their creativity in engaging ways.
-The search results do not provide specific information about whether the Dandy's World Draw Randomizer supports customization. However, based on general knowledge of similar tools, here are some insights:
-Customization Features
-Character Selection: Many randomizer tools allow users to customize the characters included in the selection. Users might be able to add or remove characters based on their preferences.
-Visual Appearance: Some randomizers offer options to change the visual design of the wheel or interface, allowing for personalization in terms of colors and themes.
-Sound Effects: Certain platforms may allow users to customize sound effects that play when the wheel is spun or when a character is selected.
-User Input: Advanced randomizers might enable users to input their own characters or modify existing ones, creating a more tailored experience.
-Conclusion
-To determine the specific customization options available for the Dandy's World Draw Randomizer, it would be best to check the tool directly or refer to its official documentation or community discussions. If you have access to the tool, exploring its settings may reveal customization capabilities.
-The Dandy's World Draw Randomizer is generally considered user-friendly and accessible, making it suitable for a wide range of users, including beginners and experienced artists. Here are some factors that contribute to its ease of use:
-1. Intuitive Interface
-Simple Design: The randomizer typically features a straightforward interface that allows users to easily understand how to spin the wheel and select characters without needing extensive instructions.
-2. Quick Setup
-Minimal Configuration: Users can often start using the randomizer with little to no setup required. This makes it easy to jump right into the creative process.
-3. Engaging Experience
-Fun Interaction: The interactive nature of spinning a wheel adds a playful element, making the experience enjoyable and encouraging users to participate without feeling overwhelmed.
-4. No Prior Skills Required
-Artistic Freedom: Users do not need advanced drawing skills to use the randomizer effectively. It serves as a fun tool for inspiration, regardless of skill level.
-5. Community Support
-Shared Experiences: Many users share their experiences and tips on social media or art platforms, providing additional guidance and inspiration for new users.
-Overall, the Dandy's World Draw Randomizer is designed to be accessible and enjoyable, allowing users to focus on creativity rather than technical complexities.
 `
 // 参考的网站地址
 const website_likes = [
@@ -370,21 +326,37 @@ function parseFAQ(){
   fs.writeFileSync(path.join(store_path, 'faq.json'), content)
 }
 
-async function generateBlogs() {
-  const prompt = `
+async function generateBlogs(lang) {
+  let prompt = `
     我希望你扮演一位SEO专家。作为一位SEO专家，你拥有广泛的知识和经验，能够帮助网站提高在搜索引擎结果中的排名，吸引更多的流量和用户。
     你熟悉各种搜索引擎的算法和规则，并能运用各种策略和技巧来优化网站的内容、结构和链接，以提升其在搜索结果中的可见性。
-    我正在开发一个网站，网站的关键词是:${keyword}，网站的主要功能是：${description}
-    请你帮我根据以上素材，并且在网络上搜索一些与可能会出现的关键词相关的独一无二的，有趣的信息，帮我完成博客文章的标题和概要描述（使用英文返回）。
+    我正在开发一个网站，网站的关键词是:${keyword}，`;
+    if (description) {
+      prompt += `网站的主要参考资料是：${description},`
+    }
+    prompt += `请你帮我根据以上素材，并且在网络上搜索一些与可能会出现的关键词相关的独一无二的，有趣的信息，帮我完成博客文章的标题,概要描述以及博客正文。
     要求：
-        1. 提升 ${keyword} 的关键词密度 2. SEO 优秀。3. 以用户视角提问方式编写标题。4.至少3篇以上
-    请使用json格式返回。返回格式示例：{"title":"","description":""}
+        1. 关键词布局合理，SEO 优秀，${keyword} 的关键词密度为3%以上 
+        2. 使用${lang}语言书写。
+        3. 以用户视角提问方式编写标题。
+        4.字数800左右。
+        5.使用markdown格式返回并遵守以下返回格式
+        返回格式示例：
+            ---
+            title: 'How to Make a Picture Have a Transparent Background Using the Best Online Tools'
+            slug: how-to-make-a-picture-have-a-transparent-background
+            description: 'Learn how to easily create transparent backgrounds for your pictures using top online tools like Adobe Express and Photoroom. Enhance your images for professional and personal use with simple steps.'
+            createdAt: '2025-01-17 10:41:05'
+            fileName: How-to-Make-a-Picture-Have-a-Transparent-Background.md
+            image: 
+            ---
+            博客内容
     `
-  const blogs = await openAIChat4(prompt)
-  // 将结果写入文件目录中使用json保存
-  fs.writeFileSync(path.join(store_path, 'blogs.json'), JSON.stringify(JSON.parse(blogs), null, 2))
+  // const blogs = await openAIChat4(prompt)
+  // // 将结果写入文件目录中使用json保存
+  // fs.writeFileSync(path.join(store_path, 'blogs.json'), JSON.stringify(JSON.parse(blogs), null, 2))
 
-  console.log('blogs:\n', blogs)
+  console.log('prompt:\n', prompt)
 }
 
 
@@ -484,7 +456,7 @@ function getTransCustomLocales() {
 }
 
 async function generate() {
-  // await generateTDK()
+  await generateTDK()
   // await generateHero()
   // await generateHowto()
   // parseHowto();
@@ -495,9 +467,9 @@ async function generate() {
   // generateAbout();
   // await generateLogo('Dandys World Draw', '#2E8F15')
   // translateCustomLocales()
-  getTransCustomLocales();
+  // getTransCustomLocales();
   // generateModule();
-  // await generateBlogs()
+  // await generateBlogs('英文')
   // await generateBlogContent()
 }
 

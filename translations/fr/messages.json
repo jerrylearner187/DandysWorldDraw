@@ -291,8 +291,23 @@
     "comments": [],
     "origin": [
       [
+        "components/wegic/blogs.tsx",
+        24
+      ],
+      [
         "components/wegic/footer.tsx",
         13
+      ]
+    ]
+  },
+  "mRjO9S": {
+    "translation": "Liste des blogs",
+    "message": "Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        62
       ]
     ]
   },
@@ -615,6 +630,17 @@
       ]
     ]
   },
+  "9tmw/V": {
+    "translation": "Blogs de dessin du Monde de Dandy - Apprenez à dessiner vos personnages préférés",
+    "message": "Dandy's World Draw Blogs - Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        22
+      ]
+    ]
+  },
   "q4aWez": {
     "translation": "Générateur de dessin du Monde de Dandy | Apprenez à dessiner des personnages étape par étape",
     "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
@@ -689,6 +715,17 @@
       [
         "config/site.ts",
         5
+      ]
+    ]
+  },
+  "0TJXVf": {
+    "translation": "Publication de blogs de dessin du Monde de Dandy",
+    "message": "Dandys World Draw Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
       ]
     ]
   },
@@ -799,6 +836,17 @@
       [
         "app/[lang]/(public)/randomizer/page.tsx",
         25
+      ]
+    ]
+  },
+  "9RcWb5": {
+    "translation": "Découvrez des tutoriels et des conseils étape par étape pour dessiner les personnages du Monde de Dandy. Apprenez des techniques professionnelles pour créer des œuvres d'art de fans incroyables de Shelly, Rudie et Pebble.",
+    "message": "Discover step-by-step tutorials and tips for drawing Dandy's World characters. Learn professional techniques to create amazing fan art of Shelly, Rudie & Pebble.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        23
       ]
     ]
   },
@@ -1116,10 +1164,6 @@
     "comments": [],
     "origin": [
       [
-        "components/wegic/footer.tsx",
-        11
-      ],
-      [
         "components/wegic/header.tsx",
         7
       ]
@@ -1389,6 +1433,17 @@
       ]
     ]
   },
+  "t5k4ze": {
+    "translation": "Apprenez à dessiner vos personnages préférés",
+    "message": "Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
   "BNIT3q": {
     "translation": "Apprenez des techniques de dessin professionnelles spécifiques aux personnages du Monde de Dandy. Maîtrisez l'ombrage, la colorisation et le travail de détail grâce à des tutoriels et des guides spécialisés.",
     "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
@@ -1621,17 +1676,6 @@
       [
         "config/site.ts",
         193
-      ]
-    ]
-  },
-  "aHCEmh": {
-    "translation": "Tarification",
-    "message": "Pricing",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/footer.tsx",
-        12
       ]
     ]
   },
@@ -2494,6 +2538,17 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         19
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "Liste des blogs",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
       ]
     ]
   }

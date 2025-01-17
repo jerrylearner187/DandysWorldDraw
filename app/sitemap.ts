@@ -27,6 +27,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
+    },
+    {
+      url: 'blogs', // home
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.9,
     }
     // {
     //   url: 'submit',

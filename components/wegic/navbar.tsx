@@ -130,7 +130,7 @@ export default function Nav({ items, locale }: NavbarProps) {
         style={{ width: "auto", minWidth: "200px" }} // 使用 NextUI 的 CSS-in-JS 来控制宽度
       >
         {locales.map((item) => (
-          <DropdownItem key={item.key} className="col-span-1 text-white-300 !hover:bg-white hover:text-primary transition-colors"
+          <DropdownItem key={item.key} className="col-span-1 text-white-300 !hover:bg-white hover:text-primary transition-colors h-[32px]"
           onPress={() => {
             console.log('onPress')
             setIsMenuOpen(false); // 关闭菜单

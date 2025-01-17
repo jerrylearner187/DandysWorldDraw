@@ -2,15 +2,15 @@ import Link from 'next/link'
 import I18nLink from '@/framework/locale/i18n-link'
 import React from 'react'
 import { AVAILABLE_LOCALES } from '@/framework/locale/locale'
-import { t } from '@lingui/macro'
+import { msg, t } from '@lingui/macro'
 import { siteConfig, tdkConfig } from '@/config/site'
 import { i18n } from '@lingui/core'
 
 const getNavigation = () => {
   return [
-    { name: t`Home`, href: '/' },
-    { name: t`Pricing`, href: '/pricing' },
-    { name: t`Blogs`, href: '/blogs' },
+    // { name: t`Home`, href: '/' },
+    // { name: t`Pricing`, href: '/pricing' },
+    { name: msg`Blogs`, href: '/blogs' },
     /* { name: t`Explore`, href: '/user-case' }*/
   ]
 }
@@ -93,14 +93,14 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
               <a href={`/${params?.lang}/about/terms-of-service`}>{t`Terms of service`}</a>
             </div>
             <ul className="flex flex-wrap items-center gap-4 sm:text-sm">
-              {/*{getNavigation().map((item, idx) => (*/}
-              {/*  <li*/}
-              {/*    key={idx}*/}
-              {/*    className="font-medium text-gray-500 hover:text-primary-200 duration-150"*/}
-              {/*  >*/}
-              {/*    <Link href={`/${params?.lang}${item.href}`}>{item.name}</Link>*/}
-              {/*  </li>*/}
-              {/*))}*/}
+              {getNavigation().map((item, idx) => (
+               <li
+                  key={idx}
+                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                >
+                 <Link href={`/${params?.lang}${item.href}`}>{i18n._(item.name)}</Link>
+                </li>
+              ))}
               <li>
                 <a
                   href="https://aistage.net"

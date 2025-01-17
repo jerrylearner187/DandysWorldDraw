@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 import { setupDevPlatform } from "@cloudflare/next-on-pages/next-dev";
 import { resolve } from "path";
+import { withContentlayer } from 'next-contentlayer';
 const nextConfig = {
   reactStrictMode: true,
   compress: true,
@@ -140,4 +141,4 @@ if (process.env.NODE_ENV === "development") {
   await setupDevPlatform();
 }
 
-export default nextConfig
+export default withContentlayer(nextConfig);

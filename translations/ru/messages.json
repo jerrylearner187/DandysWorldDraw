@@ -291,8 +291,23 @@
     "comments": [],
     "origin": [
       [
+        "components/wegic/blogs.tsx",
+        24
+      ],
+      [
         "components/wegic/footer.tsx",
         13
+      ]
+    ]
+  },
+  "mRjO9S": {
+    "translation": "Список блогов",
+    "message": "Blogs List",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
+        62
       ]
     ]
   },
@@ -615,6 +630,17 @@
       ]
     ]
   },
+  "9tmw/V": {
+    "translation": "Блоги рисования Мира Дэнди - Узнайте, как рисовать своих любимых персонажей",
+    "message": "Dandy's World Draw Blogs - Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        22
+      ]
+    ]
+  },
   "q4aWez": {
     "translation": "Генератор рисунков Мир Дэнди | Научитесь рисовать персонажей шаг за шагом",
     "message": "Dandy's World Draw Generator | Learn Character Drawing Step by Step",
@@ -689,6 +715,17 @@
       [
         "config/site.ts",
         5
+      ]
+    ]
+  },
+  "0TJXVf": {
+    "translation": "Пост блога о рисовании Мира Дэнди",
+    "message": "Dandys World Draw Blogs Post",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        34
       ]
     ]
   },
@@ -799,6 +836,17 @@
       [
         "app/[lang]/(public)/randomizer/page.tsx",
         25
+      ]
+    ]
+  },
+  "9RcWb5": {
+    "translation": "Откройте для себя пошаговые уроки и советы по рисованию персонажей Мира Дэнди. Изучите профессиональные техники для создания удивительных фан-артов Шелли, Руди и Пеббл.",
+    "message": "Discover step-by-step tutorials and tips for drawing Dandy's World characters. Learn professional techniques to create amazing fan art of Shelly, Rudie & Pebble.",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/page.tsx",
+        23
       ]
     ]
   },
@@ -1116,10 +1164,6 @@
     "comments": [],
     "origin": [
       [
-        "components/wegic/footer.tsx",
-        11
-      ],
-      [
         "components/wegic/header.tsx",
         7
       ]
@@ -1389,6 +1433,17 @@
       ]
     ]
   },
+  "t5k4ze": {
+    "translation": "Узнайте, как рисовать своих любимых персонажей",
+    "message": "Learn How to Draw Your Favorite Characters",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/blogs-page-client.tsx",
+        37
+      ]
+    ]
+  },
   "BNIT3q": {
     "translation": "Изучите профессиональные техники рисования, специфические для персонажей мира Дэнди. Освойте затенение, раскрашивание и детальную работу с помощью специализированных учебников и руководств.",
     "message": "Learn professional drawing techniques specific to Dandy's World characters. Master shading, coloring, and detail work through specialized tutorials and guides.",
@@ -1621,17 +1676,6 @@
       [
         "config/site.ts",
         193
-      ]
-    ]
-  },
-  "aHCEmh": {
-    "translation": "Цены",
-    "message": "Pricing",
-    "comments": [],
-    "origin": [
-      [
-        "components/wegic/footer.tsx",
-        12
       ]
     ]
   },
@@ -2494,6 +2538,17 @@
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
         19
+      ]
+    ]
+  },
+  "lX4VC4": {
+    "translation": "Список блогов",
+    "message": "博客列表",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(blogs)/blogs/layout..tsx",
+        7
       ]
     ]
   }
