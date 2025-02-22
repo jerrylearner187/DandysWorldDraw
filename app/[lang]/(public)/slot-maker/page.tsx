@@ -24,8 +24,8 @@ export async function generateMetadata({
     title,
     description: t`Spin the Dandys World Draw Slot Maker to generate unique story combinations featuring Dandy characters. A fun slot machine experience with cartoon heroes.`,
     alternates: {
-      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/slot-maker/` : `${process.env.UE_WEB_API_URL}/slot-maker/` ,
-      languages:metadataLanguages('/')
+      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/slot-maker` : `${process.env.UE_WEB_API_URL}/slot-maker` ,
+      languages:metadataLanguages('/slot-maker')
     }
   }
 }

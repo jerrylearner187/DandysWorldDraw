@@ -33,6 +33,18 @@ export enum AVAILABLE_LOCALES {
   // fa = 'fa', // 波斯语
 }
 
+const hrefLangs = {
+  'en': 'en-US',
+  'fr': 'fr-FR',
+  'de': 'de-DE',
+  'es': 'es-ES',
+  'it': 'it-IT',
+  'ja': 'ja-JP',
+  'ko': 'ko-KR',
+  'ru': 'ru-RU',
+  'tw': 'zh-Hant-TW',
+  'pt': 'pt-PT'
+}
 
 export const DEFAULT_LOCALE = AVAILABLE_LOCALES.en
 export const locales = Object.keys(localeNames)
@@ -62,8 +74,9 @@ export function metadataLanguages(subPath:string){
   const path = process.env.UE_WEB_API_URL
   const languages: any = {}
   langKeys.forEach((lang) => {
-    languages[lang] = `${path}/${lang}${subPath}`
+    languages[hrefLangs[lang]] = lang !== 'en' ? `${path}/${lang}${subPath}` : `${path}${subPath}`
   })
+  languages['x-default'] = `${path}${subPath}`
   return languages
 }
 

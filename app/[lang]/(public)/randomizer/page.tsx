@@ -24,8 +24,8 @@ export async function generateMetadata({
     title,
     description: t`Discover a fun interactive randomizer featuring Dandy, Pebble, Flutter & more characters. Perfect for creative drawing sessions and storytelling inspiration.`,
     alternates: {
-      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/randomizer/` : `${process.env.UE_WEB_API_URL}/randomizer/` ,
-      languages:metadataLanguages('/')
+      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/randomizer` : `${process.env.UE_WEB_API_URL}/randomizer` ,
+      languages:metadataLanguages('/randomizer')
     }
   }
 }

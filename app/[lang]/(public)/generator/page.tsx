@@ -24,8 +24,8 @@ export async function generateMetadata({
     title,
     description: t`Create your favorite Dandy's World characters with our easy-to-follow drawing generator. Perfect for beginners & advanced artists with step-by-step tutorials.`,
     alternates: {
-      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/generator/` : `${process.env.UE_WEB_API_URL}/generator/` ,
-      languages:metadataLanguages('/')
+      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/generator` : `${process.env.UE_WEB_API_URL}/generator` ,
+      languages:metadataLanguages('/generator')
     }
   }
 }

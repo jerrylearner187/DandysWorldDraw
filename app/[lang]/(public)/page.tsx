@@ -21,8 +21,8 @@ export async function generateMetadata({
     title,
     description: i18n._(tdkConfig.description),
     alternates: {
-      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}` : `${process.env.UE_WEB_API_URL}/` ,
-      languages:metadataLanguages('/')
+      canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}` : `${process.env.UE_WEB_API_URL}` ,
+      languages:metadataLanguages('')
     },
     icons: {
       icon: siteConfig.icon,
