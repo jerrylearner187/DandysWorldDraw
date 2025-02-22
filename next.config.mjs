@@ -15,7 +15,7 @@ const nextConfig = {
   },
   // 输出配置（替代旧的 runtime 配置）
   output: 'standalone',
-  trailingSlash: true,
+  trailingSlash: false,
   webpack: (config, { webpack, dev, isServer }) => {
     // if (dev && !isServer) {
     //   config.devtool = 'eval-source-map'

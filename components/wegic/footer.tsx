@@ -103,6 +103,15 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
               ))}
               <li>
                 <a
+                  href="https://text-behind-image.net"
+                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                  title="Text Behind Image"
+                >
+                  Text Behind Image
+                </a>
+              </li>
+              <li>
+                <a
                   href="https://squid-game.run"
                   target="_blank"
                   className="font-medium text-gray-500 hover:text-primary-200 duration-150"
