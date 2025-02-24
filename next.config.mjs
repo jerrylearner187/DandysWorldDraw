@@ -1,6 +1,5 @@
 /** @type {import('next').NextConfig} */
 import { setupDevPlatform } from "@cloudflare/next-on-pages/next-dev";
-import { resolve } from "path";
 import { withContentlayer } from 'next-contentlayer';
 const nextConfig = {
   reactStrictMode: true,
@@ -13,46 +12,15 @@ const nextConfig = {
       ]
     ]
   },
-  // 输出配置（替代旧的 runtime 配置）
-  output: 'standalone',
   trailingSlash: false,
-  webpack: (config, { webpack, dev, isServer }) => {
-    // if (dev && !isServer) {
-    //   config.devtool = 'eval-source-map'
-    // }
-    if (!isServer) {
-      // 避免 Edge Runtime 中的 Node.js 特定模块
-      config.resolve.fallback = {
-        ...config.resolve.fallback,
-        fs: false,
-        net: false,
-        tls: false,
-        crypto: false,
-      };
-    }
+  webpack: (config, { webpack }) => {
     config.module.rules.push({
       test: /\/translations\/.*\/.*\.json$/,
       use: {
         loader: '@lingui/loader'
       }
     })
-    // config.resolve.alias = {
-    //   ...config.resolve.alias,
-    //   react: resolve("node_modules/react"),
-    //   "react-dom": resolve("node_modules/react-dom"),
-    // }
-    // 确保 React Server Components 支持
-    if (isServer) {
-      config.resolve = {
-        ...config.resolve,
-        conditionNames: ['react-server', 'node', 'import', 'require', ...(config.resolve.conditionNames ?? [])]
-      };
-    } else {
-      config.resolve = {
-        ...config.resolve,
-        conditionNames: ['browser', 'import', 'require', ...(config.resolve.conditionNames ?? [])]
-      };
-    }
+
     // 添加新的插件配置
     config.plugins.push(
       new webpack.IgnorePlugin({
@@ -60,15 +28,8 @@ const nextConfig = {
         contextRegExp: /konva/
       })
     )
-    // 添加 watchOptions 配置
-    config.watchOptions = {
-      poll: 1000, // 轮询间隔
-      aggregateTimeout: 300, // 防抖时间
-    }
     return config
   },
-  // 其他必要的配置
-  transpilePackages: ['@nextui-org/react', '@lingui/core'],
   redirects() {
     return [
       {
@@ -98,18 +59,6 @@ const nextConfig = {
         ],
       },
     ];
-  },
-  images: {
-    domains: ['cdn.poe2db.tw', 'img.poe2.biz'], // 添加允许的图片域名
-    // 或者使用 remotePatterns 以获得更细粒度的控制
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'cdn.poe2db.tw',
-        port: '',
-        pathname: '/**',
-      },
-    ],
   },
   env: {
     UE_COS_SECRET_ID: process.env.UE_COS_SECRET_ID,

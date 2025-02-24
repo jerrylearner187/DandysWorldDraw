@@ -3,7 +3,7 @@ import { DEFAULT_LOCALE, locales } from '@/framework/locale/locale'
 import authConfig from '@/config/auth-config'
 
 // 明确指定使用 Edge Runtime
-export const runtime = 'experimental-edge'
+// export const runtime = 'experimental-edge'
 
 import NextAuth from 'next-auth'
 import createMiddleware from 'next-intl/middleware';

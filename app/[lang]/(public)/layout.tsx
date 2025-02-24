@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react'
+import React, { ReactNode, Suspense } from 'react'
 import clsx from 'clsx'
 import '../../globals.css'
 import { GoogleAnalytics } from '@next/third-parties/google'
@@ -34,7 +34,9 @@ export default async function AppLayout({
     >
     <Providers params={{ i18n }}>
       <AntdRegistry>
-        <Header lang={params?.lang} />
+        <Suspense>
+          <Header lang={params?.lang} />
+        </Suspense>
         {children}
         <Toaster richColors />
         <Footer params={params} />

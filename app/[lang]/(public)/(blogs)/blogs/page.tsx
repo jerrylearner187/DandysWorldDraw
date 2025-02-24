@@ -4,8 +4,17 @@ import { Metadata } from 'next'
 import { allPosts } from 'contentlayer/generated'
 
 import { t } from '@lingui/macro'
-export const runtime = 'edge';
-
+// export const runtime = 'edge';
+export const dynamic = "force-static";
+export const dynamicParams = false;
+export async function generateStaticParams() {
+  // 构建时生成静态页面
+  const allLang = []
+  for (const langDir of Object.values(AVAILABLE_LOCALES)) {
+    allLang.push({ lang: langDir })
+  }
+  return allLang
+}
 // 获取指定语言的博客文章
 function getLocalizedPosts(locale: AVAILABLE_LOCALES) {
   return allPosts.filter(post => post.locale === locale)

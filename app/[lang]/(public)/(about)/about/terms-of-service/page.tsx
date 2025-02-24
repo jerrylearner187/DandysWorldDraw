@@ -3,7 +3,17 @@ import {siteConfig} from '@/config/site'
 import { activateLocale, AVAILABLE_LOCALES } from '@/framework/locale/locale'
 import { i18n } from '@lingui/core'
 
-export const runtime = 'edge';
+// export const runtime = 'edge';
+export const dynamic = "force-static";
+export const dynamicParams = false;
+export async function generateStaticParams() {
+  // 构建时生成静态页面
+  const allLang = []
+  for (const langDir of Object.values(AVAILABLE_LOCALES)) {
+    allLang.push({ lang: langDir })
+  }
+  return allLang
+}
 
 export default async function TermsPage({
                                             params

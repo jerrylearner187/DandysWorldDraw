@@ -125,11 +125,11 @@
     "tailwind-variants": "^0.2.1",
     "tailwindcss": "^3.4.4",
     "typescript": "^5.7.2",
-    "vercel": "39.1.1",
+    "vercel": "35.0.0",
     "wrangler": "^3.62.0"
   },
   "overrides": {
-    "vercel": "39.1.1",
+    "vercel": "35.0.0",
     "next-contentlayer": {
       "next": "$next"
     }

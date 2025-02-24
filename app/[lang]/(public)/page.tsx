@@ -5,8 +5,9 @@ import { siteConfig, tdkConfig } from '@/config/site'
 import { i18n } from '@lingui/core'
 import Home from '@/components/wegic/home'
 
-export const runtime = 'edge';
-
+// export const runtime = 'edge';
+export const dynamic = "force-static";
+export const dynamicParams = false;
 
 export async function generateMetadata({
                                          params

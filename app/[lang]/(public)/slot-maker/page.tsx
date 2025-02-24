@@ -8,13 +8,23 @@ import Tips from '@/components/wegic/tips'
 import FAQs from '@/components/wegic/faqs'
 import { SlotMachine } from '@/components/SlotMachine'
 
-export const runtime = 'edge';
+// export const runtime = 'edge';
+export const dynamic = "force-static";
+export const dynamicParams = false;
+export async function generateStaticParams() {
+  // 构建时生成静态页面
+  const allLang = []
+  for (const langDir of Object.values(AVAILABLE_LOCALES)) {
+    allLang.push({ lang: langDir })
+  }
+  return allLang
+}
 
 
 export async function generateMetadata({
                                          params
                                        }: {
-                                         params: { slug: string, lang: AVAILABLE_LOCALES}
+                                         params: { lang: AVAILABLE_LOCALES}
                                        }
 ): Promise<Metadata> {
   // 必须主动激活一下当前语言，否则t函数不生效

@@ -6,8 +6,9 @@ import { t } from '@lingui/macro'
 import { Metadata } from 'next'
 import { allPosts } from 'contentlayer/generated'
 import { FaChevronLeft } from 'react-icons/fa6'
-export const runtime = 'edge';
-
+// export const runtime = 'edge';
+export const dynamic = "force-static";
+export const dynamicParams = false;
 // 获取指定语言的博客文章
 function getLocalizedPosts(locale: AVAILABLE_LOCALES) {
   return allPosts.filter(post => post.locale === locale)

@@ -8,7 +8,7 @@ import useLoadTranslation from './useLoadTranslation'
 import dynamic from 'next/dynamic'
 const LinguiProvider = dynamic(
   () => import('@lingui/react').then((mod) => mod.I18nProvider),
-  { ssr: false }
+  { ssr: true }
 )
 
 interface AppWithTranslationProps {
@@ -19,7 +19,7 @@ interface AppWithTranslationProps {
 const WatchLocale = ({ children }: any) => {
   const { i18n: lingui } = useLingui();
   console.log('WatchLocale', lingui.locale);
-  console.log('WatchLocale', lingui);
+  // console.log('WatchLocale', lingui);
   // Skip render when locale isn't loaded
   const locale = lingui.locale ? lingui.locale : 'en';
   // Force re-render when locale changes.
