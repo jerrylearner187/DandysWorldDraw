@@ -20,7 +20,7 @@ export default function I18nLink({params}: { params?: { lang: AVAILABLE_LOCALES 
                     <div key={key}>
                         <Link
                             className={params?.lang === key ? "text-primary-200 w-1/7" : "w-1/7 text-gray-500 hover:text-primary-200"}
-                            href={`/${key}/${pathWithoutLocale}`}>{
+                            href={key !== 'en' ? `/${key}${pathWithoutLocale !== '/' ? pathWithoutLocale : ''}` : `${pathWithoutLocale}`}>{
                             // @ts-ignore
                             localeNames[key]
                         }</Link>

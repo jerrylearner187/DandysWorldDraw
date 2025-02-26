@@ -6,7 +6,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        27
+        60
       ]
     ]
   },
@@ -17,7 +17,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        18
+        51
       ]
     ]
   },
@@ -28,7 +28,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        18
+        51
       ]
     ]
   },
@@ -39,7 +39,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        20
+        53
       ]
     ]
   },
@@ -50,7 +50,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        20
+        53
       ]
     ]
   },
@@ -61,7 +61,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        22
+        55
       ]
     ]
   },
@@ -72,7 +72,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        22
+        55
       ]
     ]
   },
@@ -83,7 +83,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        24
+        57
       ]
     ]
   },
@@ -94,7 +94,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        24
+        57
       ]
     ]
   },
@@ -105,7 +105,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        26
+        59
       ]
     ]
   },
@@ -116,7 +116,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        33
+        66
       ]
     ]
   },
@@ -127,7 +127,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        28
+        61
       ]
     ]
   },
@@ -138,7 +138,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        35
+        68
       ]
     ]
   },
@@ -149,7 +149,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        37
+        70
       ]
     ]
   },
@@ -297,6 +297,10 @@
       [
         "components/wegic/footer.tsx",
         13
+      ],
+      [
+        "components/wegic/header.tsx",
+        30
       ]
     ]
   },
@@ -307,7 +311,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(blogs)/blogs/[slug]/page.tsx",
-        62
+        63
       ]
     ]
   },
@@ -318,7 +322,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        30
+        63
       ]
     ]
   },
@@ -516,7 +520,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        23
+        56
       ]
     ]
   },
@@ -538,7 +542,7 @@
     "origin": [
       [
         "app/[lang]/(public)/slot-maker/page.tsx",
-        50
+        60
       ]
     ]
   },
@@ -549,7 +553,7 @@
     "origin": [
       [
         "app/[lang]/(public)/generator/page.tsx",
-        50
+        60
       ]
     ]
   },
@@ -560,7 +564,7 @@
     "origin": [
       [
         "app/[lang]/(public)/generator/page.tsx",
-        25
+        35
       ]
     ]
   },
@@ -582,7 +586,7 @@
     "origin": [
       [
         "app/[lang]/(public)/randomizer/page.tsx",
-        50
+        60
       ]
     ]
   },
@@ -637,7 +641,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(blogs)/blogs/page.tsx",
-        22
+        31
       ]
     ]
   },
@@ -648,7 +652,7 @@
     "origin": [
       [
         "app/[lang]/(public)/generator/page.tsx",
-        22
+        32
       ]
     ]
   },
@@ -670,7 +674,7 @@
     "origin": [
       [
         "app/[lang]/(public)/randomizer/page.tsx",
-        47
+        57
       ]
     ]
   },
@@ -681,7 +685,7 @@
     "origin": [
       [
         "app/[lang]/(public)/randomizer/page.tsx",
-        22
+        32
       ]
     ]
   },
@@ -736,7 +740,7 @@
     "origin": [
       [
         "app/[lang]/(public)/generator/page.tsx",
-        47
+        57
       ]
     ]
   },
@@ -791,7 +795,7 @@
     "origin": [
       [
         "app/[lang]/(public)/slot-maker/page.tsx",
-        47
+        57
       ]
     ]
   },
@@ -802,7 +806,7 @@
     "origin": [
       [
         "app/[lang]/(public)/slot-maker/page.tsx",
-        22
+        32
       ]
     ]
   },
@@ -835,7 +839,7 @@
     "origin": [
       [
         "app/[lang]/(public)/randomizer/page.tsx",
-        25
+        35
       ]
     ]
   },
@@ -846,7 +850,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(blogs)/blogs/page.tsx",
-        23
+        32
       ]
     ]
   },
@@ -1077,7 +1081,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        19
+        52
       ]
     ]
   },
@@ -1264,7 +1268,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        25
+        58
       ]
     ]
   },
@@ -1275,7 +1279,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        38
+        71
       ]
     ]
   },
@@ -1286,7 +1290,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        34
+        67
       ]
     ]
   },
@@ -1297,7 +1301,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        32
+        65
       ]
     ]
   },
@@ -1308,7 +1312,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        21
+        54
       ]
     ]
   },
@@ -1319,7 +1323,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        29
+        62
       ]
     ]
   },
@@ -1686,11 +1690,22 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        23
+        56
       ],
       [
         "components/wegic/footer.tsx",
         92
+      ]
+    ]
+  },
+  "LcET2C": {
+    "translation": "개인정보 보호 정책",
+    "message": "Privacy Policy",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
+        27
       ]
     ]
   },
@@ -1701,7 +1716,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        16
+        49
       ]
     ]
   },
@@ -1877,7 +1892,7 @@
     "origin": [
       [
         "app/[lang]/(public)/slot-maker/page.tsx",
-        25
+        35
       ]
     ]
   },
@@ -1958,6 +1973,17 @@
       ]
     ]
   },
+  "xowcRf": {
+    "translation": "서비스 약관",
+    "message": "Terms of Service",
+    "comments": [],
+    "origin": [
+      [
+        "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
+        27
+      ]
+    ]
+  },
   "X+aiz8": {
     "translation": "#0#의 서비스 약관",
     "message": "Terms of Service for #0#",
@@ -1965,7 +1991,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        16
+        49
       ]
     ]
   },
@@ -2020,7 +2046,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        21
+        54
       ]
     ]
   },
@@ -2031,7 +2057,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        25
+        58
       ]
     ]
   },
@@ -2042,7 +2068,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        17
+        50
       ]
     ]
   },
@@ -2053,7 +2079,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        36
+        69
       ]
     ]
   },
@@ -2108,7 +2134,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        30
+        63
       ]
     ]
   },
@@ -2130,7 +2156,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        27
+        60
       ]
     ]
   },
@@ -2152,7 +2178,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        29
+        62
       ]
     ]
   },
@@ -2163,7 +2189,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/privacy-policy/page.tsx",
-        28
+        61
       ]
     ]
   },
@@ -2251,7 +2277,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        23
+        56
       ]
     ]
   },
@@ -2262,7 +2288,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        17
+        50
       ]
     ]
   },
@@ -2537,7 +2563,7 @@
     "origin": [
       [
         "app/[lang]/(public)/(about)/about/terms-of-service/page.tsx",
-        19
+        52
       ]
     ]
   },

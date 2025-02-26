@@ -89,8 +89,8 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
           </div>
           <div className="mt-2 py-10 border-t flex-row-reverse items-center justify-between sm:flex">
             <div className="flex justify-center items-center">
-              <a href={`/${params?.lang}/about/privacy-policy`} className="mr-5">{t`Privacy policy`}</a>
-              <a href={`/${params?.lang}/about/terms-of-service`}>{t`Terms of service`}</a>
+              <a href={`${params?.lang !== 'en' ? `/${params?.lang}` : ''}/about/privacy-policy`} className="mr-5">{t`Privacy policy`}</a>
+              <a href={`${params?.lang !== 'en' ? `/${params?.lang}` : ''}/about/terms-of-service`}>{t`Terms of service`}</a>
             </div>
             <ul className="flex flex-wrap items-center gap-4 sm:text-sm">
               {getNavigation().map((item, idx) => (

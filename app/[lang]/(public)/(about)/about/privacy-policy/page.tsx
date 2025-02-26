@@ -1,7 +1,8 @@
 import { t } from '@lingui/macro'
-import { siteConfig } from '@/config/site'
-import { activateLocale, AVAILABLE_LOCALES } from '@/framework/locale/locale'
+import { siteConfig, tdkConfig } from '@/config/site'
+import { activateLocale, AVAILABLE_LOCALES, metadataLanguages } from '@/framework/locale/locale'
 import { i18n } from '@lingui/core'
+import { Metadata } from 'next'
 
 // export const runtime = 'edge';
 export const dynamic = "force-static";
@@ -13,6 +14,28 @@ export async function generateStaticParams() {
     allLang.push({ lang: langDir })
   }
   return allLang
+}
+
+export async function generateMetadata({
+  params
+}: {
+  params: { slug: string, lang: AVAILABLE_LOCALES}
+}
+): Promise<Metadata> {
+    // 必须主动激活一下当前语言，否则t函数不生效
+    await activateLocale(params.lang)
+    const title = t`Privacy Policy` + ' | ' + i18n._(siteConfig.name)
+    return {
+        title,
+        description: i18n._(tdkConfig.description),
+        alternates: {
+        canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/privacy-policy` : `${process.env.UE_WEB_API_URL}/privacy-policy` ,
+        languages:metadataLanguages('/privacy-policy')
+    },
+    icons: {
+        icon: siteConfig.icon,
+    }
+  }
 }
 
 export default async function PrivacyPage({

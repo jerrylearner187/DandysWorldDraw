@@ -3,7 +3,7 @@ import clsx from 'clsx'
 import '../../globals.css'
 import { GoogleAnalytics } from '@next/third-parties/google'
 import Plausible from '@/framework/components/Plausible'
-import { AVAILABLE_LOCALES } from '@/framework/locale/locale'
+import { AVAILABLE_LOCALES, transHrefLang } from '@/framework/locale/locale'
 import { serverSideTranslations } from '@/framework/locale/serverSideTranslations'
 import Header from '@/components/wegic/header'
 import Footer from '@/components/wegic/footer'
@@ -24,7 +24,7 @@ export default async function AppLayout({
     params?.lang ?? AVAILABLE_LOCALES.en,
   )
   return (
-    <html lang={params?.lang} suppressHydrationWarning>
+    <html lang={transHrefLang(params?.lang ?? AVAILABLE_LOCALES.en)} suppressHydrationWarning>
     <head>
       <meta name="google-adsense-account" content="ca-pub-1014418574719042" />
     </head>

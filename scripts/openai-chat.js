@@ -1,7 +1,8 @@
 const openai  = require("@ai-sdk/openai")
 const { generateText } = require('ai');
 const { loadEnvConfig } = require('@next/env')
-const current_model = 'openai/gpt-4o-mini';
+// const current_model = 'openai/gpt-4o-mini';
+const current_model = 'anthropic/claude-3-haiku';
 if (process.env.NODE_ENV !== 'production') {
   loadEnvConfig(process.cwd())
 }
@@ -28,6 +29,7 @@ async function doubaoTranslate(prompt) {
 }
 async function translate(prompt) {
   return await  openAIChat(prompt)
+  // return await  openAIChatMonica(prompt)
 }
 
 function kimiAIChat(prompt) {
@@ -60,6 +62,7 @@ function openAIChat(prompt, model = current_model) {
   // const url = 'https://api.inferkit.ai/v1/chat/completions'
   // const key = 'Bearer sk-3GjN0Wf39FUqLoQ08e59C791F9Fc4aC299D3386a3a319cF9'
   const url = 'https://openrouter.ai/api/v1/chat/completions'
+  // const url = 'https://openapi.monica.im/v1/chat/completions'
   const key = 'Bearer ' + process.env.NEXT_PUBLIC_API_KEY
   return fetch(url, {
     method: 'POST', // Assuming it's a POST request
@@ -69,6 +72,40 @@ function openAIChat(prompt, model = current_model) {
     },
     body: requestStr
   }).then((response) => response.json())
+}
+
+function openAIChatMonica(prompt) {
+  const requestData = {
+    model: 'gpt-4o-mini',
+    messages: [{ role: 'user', content: [ { type: 'text', text: prompt }]}]
+  }
+  const requestStr = JSON.stringify(requestData)
+  // console.log('openai request:', requestStr)
+  // const url = 'https://api.inferkit.ai/v1/chat/completions'
+  // const key = 'Bearer sk-3GjN0Wf39FUqLoQ08e59C791F9Fc4aC299D3386a3a319cF9'
+  // const url = 'https://openrouter.ai/api/v1/chat/completions'
+  const url = 'https://openapi.monica.im/v1/chat/completions'
+  const key = 'Bearer ' + process.env.NEXT_PUBLIC_API_KEY_MONICA
+  // console.log('openai key:', key)
+  return fetch(url, {
+    method: 'POST', // Assuming it's a POST request
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': key
+    },
+    body: requestStr
+  })
+    .then(async response => {
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => null);
+        throw new Error(`API请求失败: ${response.status} ${response.statusText}${errorData ? '\n' + JSON.stringify(errorData) : ''}`);
+      }
+      return response.json();
+    })
+    .catch(error => {
+      console.error('Monica API调用出错:', error);
+      throw error; // 重新抛出错误，让上层函数可以继续处理
+    });
 }
 
 // openai/gpt-4o-mini

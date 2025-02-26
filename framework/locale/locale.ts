@@ -46,6 +46,13 @@ const hrefLangs = {
   'pt': 'pt-PT'
 }
 
+export function transHrefLang(locale: string) {
+  if (isAcceptedLocale(locale)) {
+    return hrefLangs[locale];
+  }
+  return 'en-US';
+}
+
 export const DEFAULT_LOCALE = AVAILABLE_LOCALES.en
 export const locales = Object.keys(localeNames)
 
