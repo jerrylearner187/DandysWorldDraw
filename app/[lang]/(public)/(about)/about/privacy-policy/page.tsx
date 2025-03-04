@@ -29,8 +29,8 @@ export async function generateMetadata({
         title,
         description: i18n._(tdkConfig.description),
         alternates: {
-        canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/privacy-policy` : `${process.env.UE_WEB_API_URL}/privacy-policy` ,
-        languages:metadataLanguages('/privacy-policy')
+        canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/about/privacy-policy` : `${process.env.UE_WEB_API_URL}/about/privacy-policy` ,
+        languages:metadataLanguages('/about/privacy-policy')
     },
     icons: {
         icon: siteConfig.icon,
