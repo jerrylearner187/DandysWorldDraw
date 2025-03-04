@@ -13,6 +13,7 @@ const intlMiddleware = createMiddleware({
   locales,
   defaultLocale: DEFAULT_LOCALE,
   localePrefix: 'as-needed', // 根据需要添加语言前缀
+  alternateLinks: false // 不需要在http response header中设置link
 });
 
 const ADMIN_INCLUDE_PATHS = ['/admin', '/plan-admin']
