@@ -1,6 +1,6 @@
 ---
 title: "Comment dessiner Rudie de Dandy’s World et devenir la star des forums ?"
-slug: comment-dessiner-rudie-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Découvrez comment dessiner Rudie, le personnage emblématique de Dandy’s World, et plongez dans l’univers étrange et captivant de ce jeu d’horreur-mascotte. Un guide drôle et utile pour tous les fans !"
 createdAt: '2023-10-04 15:30:00'
 fileName: Comment-dessiner-Rudie-Dandys-World.md

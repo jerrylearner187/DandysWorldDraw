@@ -1,6 +1,6 @@
 ---
 title: "Dandy의 세계에서 Rudie를 그려야 하는 이유는 무엇일까요?"
-slug: why-draw-rudie-in-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Dandy’s World의 사랑스러운 캐릭터 Rudie를 그리며 팬덤에 합류하세요! 그의 독특한 디자인과 게임 내 역할에 대한 재미있는 통찰력을 제공합니다."
 createdAt: '2023-10-10 15:30:00'
 fileName: why-draw-rudie-in-dandys-world.md

@@ -1,6 +1,6 @@
 ---
 title: "Dandy's WorldでRudieを描くには？ユニークなキャラクターの秘密を探る！"
-slug: how-to-draw-rudie-in-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Dandy's Worldの象徴的なキャラクター、Rudieを描く方法を知りたいですか？彼のデザインの秘密やゲーム内での役割、そしてコミュニティでの人気について面白おかしく解説します！"
 createdAt: '2023-10-10 12:00:00'
 fileName: How-to-Draw-Rudie-in-Dandys-World.md

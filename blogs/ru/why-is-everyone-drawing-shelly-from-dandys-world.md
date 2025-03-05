@@ -1,6 +1,6 @@
 ---
 title: "Как нарисовать Шелли из Dandy’s World и не сойти с ума?"
-slug: kak-narisovat-shelly-iz-dandys-world
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "Узнайте, как нарисовать Шелли из Dandy’s World, используя советы фанатов и вдохновляясь её уникальным дизайном. Весёлый гайд для всех художников и любителей!"
 createdAt: '2023-10-12 15:30:00'
 fileName: Kak-narisovat-Shelly-iz-Dandys-World.md

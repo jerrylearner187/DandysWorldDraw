@@ -1,6 +1,6 @@
 ---
 title: "為什麼大家都在畫 Rudie？揭開 Dandy’s World 的神祕角色魅力！"
-slug: why-everyone-is-drawing-rudie-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Rudie 是 Dandy's World 中最具人氣的角色之一。不管是他的設計、故事，還是遊戲機制，Rudie 都讓玩家愛不釋手。一起來看看這個角色為什麼這麼吸引人！"
 createdAt: '2023-10-25 15:30:00'
 fileName: why-everyone-is-drawing-rudie-dandys-world.md

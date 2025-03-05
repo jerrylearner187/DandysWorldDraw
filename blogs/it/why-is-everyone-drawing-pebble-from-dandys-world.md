@@ -1,6 +1,6 @@
 ---
 title: "Come Disegnare Pebble di Dandy’s World e Diventare un Artista Leggendario"
-slug: come-disegnare-pebble-dandys-world
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "Scopri come disegnare Pebble, il famoso rock-dog di Dandy’s World, con tutorial divertenti e consigli creativi. Trasforma ogni sasso in un capolavoro!"
 createdAt: '2023-10-25 15:30:00'
 fileName: Come-Disegnare-Pebble-Dandys-World.md

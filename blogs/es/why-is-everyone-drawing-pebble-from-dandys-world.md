@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo Dibujar a Pebble de Dandy’s World y No Perder la Cordura en el Intento?"
-slug: como-dibujar-a-pebble-de-dandys-world
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "Descubre cómo dibujar a Pebble, el adorable perro-roca de Dandy’s World, con trucos, tutoriales y datos curiosos que harán que te enamores de este personaje. ¡Haz que tus dibujos brillen como nunca!"
 createdAt: '2023-10-24 15:30:00'
 fileName: Como-Dibujar-a-Pebble-de-Dandys-World.md

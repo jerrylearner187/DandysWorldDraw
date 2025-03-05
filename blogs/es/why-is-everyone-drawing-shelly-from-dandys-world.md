@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo dibujar a Shelly de Dandy's World y no morir en el intento?"
-slug: como-dibujar-a-shelly-de-dandys-world
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "Descubre cómo dibujar a Shelly de Dandy’s World con consejos, inspiración y un toque de humor. Aprende sobre su diseño, características y por qué es la favorita de los fans."
 createdAt: '2023-10-07 15:30:00'
 fileName: como-dibujar-a-shelly-de-dandys-world.md

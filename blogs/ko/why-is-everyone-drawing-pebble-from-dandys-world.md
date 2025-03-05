@@ -1,6 +1,6 @@
 ---
 title: "Dandy's World에서 Pebble 그리는 법? 귀여운 돌멩이 강아지의 비밀 대공개!"
-slug: dandys-world-draw-pebble-guide
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "Dandy's World의 사랑스러운 캐릭터 Pebble을 그리는 방법과 그의 독특한 디자인 비밀을 재미있게 파헤쳐 봅니다. 팬아트부터 게임 팁까지, Pebble에 대한 모든 것을 알아보세요!"
 createdAt: '2023-10-10 15:00:00'
 fileName: dandys-world-draw-pebble-guide.md

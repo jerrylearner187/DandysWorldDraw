@@ -1,6 +1,6 @@
 ---
 title: "Come Disegnare Rudie di Dandy’s World? Scopri il Segreto del Toon più Amato!"
-slug: come-disegnare-rudie-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Vuoi sapere come disegnare Rudie, il personaggio più vivace e inquietante di Dandy’s World? Scopri i suoi dettagli, il suo ruolo nel gioco e perché è diventato un’icona tra i fan del gaming horror cartoon!"
 createdAt: '2023-10-17 15:30:00'
 fileName: come-disegnare-rudie-dandys-world.md

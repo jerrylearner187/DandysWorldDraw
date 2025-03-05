@@ -1,6 +1,6 @@
 ---
 title: "Comment Dessiner Pebble de Dandy’s World et Devenir le Michel-Ange des Toons ?"
-slug: comment-dessiner-pebble-dandys-world
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "Découvrez comment dessiner Pebble, le célèbre Toon de Dandy’s World, avec nos astuces hilarantes et des infos uniques. Transformez vos galets en chefs-d'œuvre artistiques !"
 createdAt: '2023-10-10 15:30:00'
 fileName: Comment-Dessiner-Pebble-Dandys-World.md

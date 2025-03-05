@@ -1,6 +1,6 @@
 ---
 title: "Как нарисовать Руди из Dandy's World и стать звездой интернета?"
-slug: kak-narisovat-rudie-iz-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Узнайте, как нарисовать Руди из Dandy's World, популярного персонажа из хоррор-игры, и привлечь внимание сообщества фанатов. Простые советы по созданию фан-арта и секреты SEO для вашего блога."
 createdAt: '2023-10-12 10:41:05'
 fileName: Kak-narisovat-Rudie-iz-Dandys-World.md

@@ -1,6 +1,6 @@
 ---
 title: "Warum ist Rudie aus Dandy’s World so beliebt und wie zeichnet man ihn?"
-slug: warum-ist-rudie-aus-dandys-world-so-beliebt-und-wie-zeichnet-man-ihn
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Entdecken Sie die Geheimnisse von Rudie, dem charmanten Charakter aus Dandy’s World. Erfahren Sie, warum er die Community begeistert settings menu. und wie Sie ihn selbst zeichnen können!"
 createdAt: '2023-10-10 15:00:00'
 fileName: Warum-ist-Rudie-aus-Dandys-World-so-beliebt-und-wie-zeichnet-man-ihn.md

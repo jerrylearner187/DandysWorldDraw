@@ -1,6 +1,6 @@
 ---
 title: "Porque é que toda a gente está a falar do Rudie em Dandy's World?"
-slug: porque-e-que-toda-a-gente-esta-a-falar-do-rudie-em-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Descubra o que torna o Rudie de Dandy’s World tão especial. Desde o seu design bizarro até às mecânicas de jogo únicas, esta personagem está a conquistar fãs e a dominar as discussões online."
 createdAt: '2023-10-17 14:32:00'
 fileName: Porque-e-que-toda-a-gente-esta-a-falar-do-Rudie-em-Dandys-World.md

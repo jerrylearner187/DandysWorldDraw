@@ -1,6 +1,6 @@
 ---
 title: "如何畫出Dandy's World的Shelly？粉絲們的創意大爆發！"
-slug: how-to-draw-dandys-world-shelly
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "想知道如何畫出Dandy's World中的人氣角色Shelly嗎？我們為你整理了最有趣的靈感來源和繪畫技巧，讓你輕鬆進入這個充滿魅力的角色世界！"
 createdAt: '2023-10-17 15:00:00'
 fileName: How-to-Draw-Dandys-World-Shelly.md

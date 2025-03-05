@@ -1,6 +1,6 @@
 ---
 title: "Dandy's WorldでPebbleを描く方法って？初心者でも簡単にマスターできる秘密を大公開！"
-slug: dandys-world-draw-pebble-how-to
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "Dandy's Worldの人気キャラクターPebbleを描く方法を徹底解説！初心者でも簡単に始められるコツや、コミュニティで話題のアート作品まで、楽しく学べる情報が満載です。"
 createdAt: '2023-10-10 12:00:00'
 fileName: dandys-world-draw-pebble-how-to.md

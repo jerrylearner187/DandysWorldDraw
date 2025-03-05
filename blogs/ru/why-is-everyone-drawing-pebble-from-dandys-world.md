@@ -1,6 +1,6 @@
 ---
 title: "Как нарисовать Pebble из Dandy's World и не сойти с ума?"
-slug: kak-narisovat-pebble-iz-dandys-world
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "Узнайте, как легко и весело нарисовать Pebble, персонажа из Dandy's World. Мы расскажем о лучших способах, инструментах и секретах, которые помогут вам стать мастером в рисовании этого милого каменного пёсика!"
 createdAt: '2025-01-17 10:41:05'
 fileName: kak-narisovat-pebble-iz-dandys-world.md

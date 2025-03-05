@@ -1,6 +1,6 @@
 ---
 title: "Wie zeichnet man Shelly aus Dandy’s World? Tipps, Tricks und ein bisschen Wahnsinn!"
-slug: wie-zeichnet-man-shelly-aus-dandys-world
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "Entdecke, wie du Shelly aus Dandy’s World zeichnen kannst – mit hilfreichen Tipps, kreativen Ideen und einer Prise Humor. Perfekt für Fans und Künstler, die diese charmante Figur lieben!"
 createdAt: '2023-10-17 15:30:00'
 fileName: Wie-zeichnet-man-Shelly-aus-Dandys-World.md

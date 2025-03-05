@@ -43,6 +43,141 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: '/de/blogs/wie-zeichnet-man-pebble-aus-dandys-world',
+        destination: '/de/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/de/blogs/wie-zeichnet-man-shelly-aus-dandys-world',
+        destination: '/de/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/de/blogs/warum-ist-rudie-aus-dandys-world-so-beliebt-und-wie-zeichnet-man-ihn',
+        destination: '/de/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/es/blogs/como-dibujar-a-pebble-de-dandys-world',
+        destination: '/es/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/es/blogs/como-dibujar-a-shelly-de-dandys-world',
+        destination: '/es/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/es/blogs/como-dibujar-a-rudie-de-dandys-world',
+        destination: '/es/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/fr/blogs/comment-dessiner-pebble-dandys-world',
+        destination: '/fr/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/fr/blogs/comment-dessiner-shelly-dandys-world',
+        destination: '/fr/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/fr/blogs/comment-dessiner-rudie-dandys-world',
+        destination: '/fr/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/it/blogs/come-disegnare-pebble-dandys-world',
+        destination: '/it/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/it/blogs/come-disegnare-shelly-dandys-world',
+        destination: '/it/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/it/blogs/come-disegnare-rudie-dandys-world',
+        destination: '/it/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ja/blogs/dandys-world-draw-pebble-how-to',
+        destination: '/ja/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ja/blogs/how-to-draw-shelly-from-dandys-world',
+        destination: '/ja/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ja/blogs/how-to-draw-rudie-in-dandys-world',
+        destination: '/ja/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ko/blogs/dandys-world-draw-pebble-guide',
+        destination: '/ko/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ko/blogs/how-to-draw-shelly-dandys-world',
+        destination: '/ko/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ko/blogs/why-draw-rudie-in-dandys-world',
+        destination: '/ko/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/pt/blogs/como-desenhar-o-pebble-de-dandys-world',
+        destination: '/pt/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/pt/blogs/como-desenhar-shelly-dandys-world',
+        destination: '/pt/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/pt/blogs/porque-e-que-toda-a-gente-esta-a-falar-do-rudie-em-dandys-world',
+        destination: '/pt/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ru/blogs/kak-narisovat-pebble-iz-dandys-world',
+        destination: '/ru/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ru/blogs/kak-narisovat-shelly-iz-dandys-world',
+        destination: '/ru/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/ru/blogs/kak-narisovat-rudie-iz-dandys-world',
+        destination: '/ru/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/tw/blogs/how-to-draw-dandys-world-pebble',
+        destination: '/tw/blogs/why-is-everyone-drawing-pebble-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/tw/blogs/how-to-draw-dandys-world-shelly',
+        destination: '/tw/blogs/why-is-everyone-drawing-shelly-from-dandys-world',
+        permanent: true,
+      },
+      {
+        source: '/tw/blogs/why-everyone-is-drawing-rudie-dandys-world',
+        destination: '/tw/blogs/why-is-everyone-talking-about-rudie-in-dandys-world',
+        permanent: true,
+      },
+      {
         source: '/:lang/article',
         destination: '/:lang/',
         permanent: true,

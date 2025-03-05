@@ -1,6 +1,6 @@
 ---
 title: "想畫出Dandy's World的Pebble？這篇文章教你從石頭畫到藝術家！"
-slug: how-to-draw-dandys-world-pebble
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "你是否想畫出Dandy's World裡那隻可愛的石頭狗Pebble？這篇幽默又實用的文章，教你如何用簡單步驟成為Pebble繪畫達人，還有一些你可能不知道的有趣小知識！"
 createdAt: '2023-10-17 15:30:00'
 fileName: How-to-Draw-Dandys-World-Pebble.md

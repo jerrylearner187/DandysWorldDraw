@@ -1,6 +1,6 @@
 ---
 title: "¿Cómo dibujar a Rudie de Dandy’s World y no perder la cordura en el intento?"
-slug: como-dibujar-a-rudie-de-dandys-world
+slug: why-is-everyone-talking-about-rudie-in-dandys-world
 description: "Descubre cómo dibujar a Rudie, el personaje más peculiar de Dandy’s World, mientras te sumerges en su historia, diseño y mecánicas del juego. ¡Prepárate para un viaje lleno de creatividad y risas!"
 createdAt: '2023-10-12 15:30:00'
 fileName: Como-dibujar-a-Rudie-de-Dandys-World.md

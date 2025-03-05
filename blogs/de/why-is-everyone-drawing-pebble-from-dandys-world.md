@@ -1,6 +1,6 @@
 ---
 title: "Wie zeichnet man Pebble aus Dandy’s World? Ein lustiger Guide für Anfänger und Profis!"
-slug: wie-zeichnet-man-pebble-aus-dandys-world
+slug: why-is-everyone-drawing-pebble-from-dandys-world
 description: "Erfahren Sie, wie Sie Pebble, den charmanten Fels-Hund aus Dandy’s World, zeichnen können! Mit einfachen Tipps und witzigen Anekdoten wird Ihr Kunstwerk garantiert ein Hit."
 createdAt: '2023-10-10 15:30:00'
 fileName: Wie-zeichnet-man-Pebble-aus-Dandys-World.md

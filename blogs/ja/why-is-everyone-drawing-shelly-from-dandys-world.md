@@ -1,6 +1,6 @@
 ---
 title: "Dandy's WorldのShellyを描く方法は？ファンアートからインスピレーションを得よう！"
-slug: how-to-draw-shelly-from-dandys-world
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "Dandy's Worldの人気キャラクターShellyを描くためのヒントやインスピレーションをお届けします。彼女のかわいらしいデザインとユニークな魅力を活かしたイラスト作成のコツを学びましょう！"
 createdAt: '2023-10-17 10:00:00'
 fileName: How-to-Draw-Shelly-from-Dandys-World.md

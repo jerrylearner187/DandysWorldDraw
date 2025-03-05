@@ -1,6 +1,6 @@
 ---
 title: "Dandy's World의 Shelly를 그리는 가장 쉬운 방법은?"
-slug: how-to-draw-shelly-dandys-world
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "Dandy's World의 귀여운 캐릭터 Shelly를 그리는 방법과 그녀의 매력을 탐구하세요. 팬아트, 커뮤니티 이야기, 그리고 그녀의 독특한 디자인 비밀까지 한눈에 확인하세요!"
 createdAt: '2023-10-25 15:30:00'
 fileName: how-to-draw-shelly-dandys-world.md

@@ -1,6 +1,6 @@
 ---
 title: "Comment Dessiner Shelly de Dandy’s World et Devenir le Picasso des Jeux Vidéo ?"
-slug: comment-dessiner-shelly-dandys-world
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "Découvrez comment dessiner Shelly, le personnage adorable de Dandy’s World, tout en explorant son univers coloré et ses secrets artistiques. Préparez vos crayons et votre créativité !"
 createdAt: '2023-11-01 14:30:00'
 fileName: Comment-Dessiner-Shelly-Dandys-World.md

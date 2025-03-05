@@ -1,6 +1,6 @@
 ---
 title: "Come Disegnare Shelly di Dandy’s World e Diventare un Maestro di Fan Art?"
-slug: come-disegnare-shelly-dandys-world
+slug: why-is-everyone-drawing-shelly-from-dandys-world
 description: "Scopri come disegnare Shelly, il personaggio più adorabile di Dandy’s World, e lasciati ispirare dalla community di fan art per creare capolavori unici. Consigli, trucchi e risorse per artisti di ogni livello!"
 createdAt: '2023-10-17 15:32:00'
 fileName: come-disegnare-shelly-dandys-world.md
