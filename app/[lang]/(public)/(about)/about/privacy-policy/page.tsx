@@ -28,6 +28,10 @@ export async function generateMetadata({
     return {
         title,
         description: i18n._(tdkConfig.description),
+        robots: {
+            index: false,
+            follow: false,
+        },
         alternates: {
         canonical: params.lang != 'en' ? `${process.env.UE_WEB_API_URL}/${params.lang}/about/privacy-policy` : `${process.env.UE_WEB_API_URL}/about/privacy-policy` ,
         languages:metadataLanguages('/about/privacy-policy')
