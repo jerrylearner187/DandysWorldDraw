@@ -1,7 +1,6 @@
 'use client'
 
-
-import React, { useEffect, useMemo } from 'react'
+import React, { useEffect, useMemo, useState } from 'react'
 import {
   Button,
   Dropdown,
@@ -27,6 +26,7 @@ import { useRouter } from 'next/navigation';
 import { t, Trans } from '@lingui/macro'
 import useI18nLocale from '@/framework/hooks/useI18nLocale'
 import { FaAngleRight, FaArrowUpFromBracket, FaChevronDown } from 'react-icons/fa6'
+import { FaTimes } from 'react-icons/fa'
 import NextLink from 'next/link'
 import { SessionUser } from '@/framework/types/sessionUser'
 import clsx from 'clsx'
@@ -36,6 +36,7 @@ import { FcGoogle } from 'react-icons/fc'
 import { activateLocale, AVAILABLE_LOCALES } from '@/framework/locale/locale'
 import { i18n } from '@lingui/core'
 import { icons } from '@tabler/icons-react'
+import { FaRobot } from 'react-icons/fa6'
 
 export interface NavItem extends Record<string, any> {
   title: any
@@ -60,6 +61,7 @@ export default function Nav({ items, locale }: NavbarProps) {
   const [pathWithoutLocale, isActive] = useNavigation(pathname)
   const [currentLocale, locales] = useI18nLocale(locale)
   const router = useRouter()
+  const [showBanner, setShowBanner] = useState(true);
   // console.log('nav locale', locale)
   // console.log('nav pathanme', pathname)
   // console.log('nav pathWithoutLocale', pathWithoutLocale)
@@ -153,205 +155,236 @@ export default function Nav({ items, locale }: NavbarProps) {
 
 
   return (
-    <Navbar maxWidth="xl"
-            classNames={{ base: "bg-white/70 backdrop-blur-md border-b border-primary/10", item: 'text-gray-700 data-[active=true]:px-5 data-[active=true]:py-1 data-[active=true]:text-white data-[active=true]:hover:text-primary data-[active=true]:bg-black data-[active=true]:rounded-2xl hover:text-primary transition-colors' }}
-            isMenuOpen={isMenuOpen}
-            onMenuOpenChange={setIsMenuOpen}>
-      <NavbarMenuToggle
-        aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
-        className="sm:hidden text-primary"
-      />
-      <NavbarBrand>
-        <a href="/" title="home" className="w-full flex flex-row flex-grow flex-nowrap justify-start bg-transparent items-center no-underline text-medium whitespace-nowrap box-border mr-10">
-          <img className="md:ml-3 ml-0 w-auto h-8 md:h-12  object-cover "
-               src="/logo.png"
-               alt="logo" />
-          <div className="w-full flex-grow">
-            {/*<p className="ml-2 font-bold text-sm md:text-2xl">*/}
-            {/*  {i18n._(siteConfig.name)}*/}
-            {/*</p>*/}
-            {/*{*/}
-            {/*  siteConfig.slogan && (*/}
-            {/*    <p className="ml-2 text-xs hidden md:block md:text-sm text-primary">{siteConfig.slogan}</p>*/}
-            {/*  )*/}
-            {/*}*/}
+    <>
+      {showBanner && (
+        <div className="relative bg-primary text-white py-3 px-4">
+          <button
+            onClick={() => setShowBanner(false)}
+            className="absolute right-2 top-2 text-white hover:text-gray-200 transition-colors"
+            aria-label="Close banner"
+          >
+            <FaTimes className="h-4 w-4" />
+          </button>
+          <div className="max-w-7xl mx-auto flex items-center justify-center">
+            <div className="flex items-center">
+              <FaRobot className="h-6 w-6 mr-3" />
+              <p className="text-sm md:text-base font-medium">
+                {t`Pollo AI - Free AI Video Generator, All-in-One AI Video Solution`}
+              </p>
+            </div>
+            <div className="flex items-center shrink-0 ml-6 mr-6">
+              <a
+                href="https://pollo.ai?ref=otnhytc"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-white text-primary px-4 py-1 rounded-full text-sm font-medium hover:bg-opacity-90 transition-colors"
+              >
+                {t`Try now`}
+              </a>
+            </div>
           </div>
-        </a>
-      </NavbarBrand>
-
-      <NavbarContent className="hidden md:flex gap-10" justify="center">
-        {
-          items.map(it => (
-              it.submenu && it.submenu.length > 0 ? (
-                  <Dropdown key={it.title.id} shouldBlockScroll={false}>
-                    <NavbarItem>
-                      <DropdownTrigger>
-                        <Button disableRipple
-                                className="p-0 bg-transparent data-[hover=true]:bg-transparent text-gray-700 hover:text-primary"
-                                endContent={<FaChevronDown/>}
-                                radius="sm"
-                                variant="light">
-                          {i18n._(it.title)}
-                        </Button>
-                      </DropdownTrigger>
-                    </NavbarItem>
-                    <DropdownMenu
-                      selectionMode={"single"}
-                      aria-label="change locale"
-                      className='p-2 bg-white/70 backdrop-blur-md'
-                      style={{ width: "auto", minWidth: "200px" }} // 使用 NextUI 的 CSS-in-JS 来控制宽度
-                    >
-                      {it.submenu.map((item: any) => (
-                        <DropdownItem key={item.title.id} className="hover:text-primary transition-colors">
-                          <NextLink
-                            className={'flex items-center gap-2 text-gray-700 hover:text-primary w-full transition-colors'}
-                            replace={true}
-                            title={i18n._(item.title)}
-                            href={locale ? `/${locale}${item.href}` : item.href}
-                          >
-                            {i18n._(item.title)}<FaAngleRight />
-                          </NextLink>
-                        </DropdownItem>
-                      ))}
-                    </DropdownMenu>
-                  </Dropdown>
-              ) :  (<NavbarItem key={it.title.id} isActive={isActive(it.href)}>
-                <NextLink
-                className={clsx('transition-colors', { 'hover:text-primary': isActive(it.href) })}
-                title={i18n._(it.title)}
-                href={locale ? `/${locale}${it.href}` : it.href}>{i18n._(it.title)}</NextLink></NavbarItem>)
-          ))
-        }
-      </NavbarContent>
-
-      <NavbarMenu>
-        {
-          items.map((it, index) => (
-            it.submenu && it.submenu.length > 0 ? (
-              <Dropdown key={it.title.id} shouldBlockScroll={false}>
-                <NavbarMenuItem>
-                  <DropdownTrigger>
-                    <Button disableRipple
-                            className="p-0 bg-transparent data-[hover=true]:bg-transparent text-gray-700 hover:text-primary"
-                            endContent={<FaChevronDown/>}
-                            radius="sm"
-                            variant="light">
-                      {i18n._(it.title)}
-                    </Button>
-                  </DropdownTrigger>
-                </NavbarMenuItem>
-                <DropdownMenu
-
-                  selectionMode={"none"}
-                  aria-label="change locale"
-                  className='p-2 bg-white/70 backdrop-blur-md'
-                  style={{ width: "auto", minWidth: "200px" }} // 使用 NextUI 的 CSS-in-JS 来控制宽度
-                >
-                  {it.submenu.map((item: any) => (
-                    <DropdownItem key={item.title.id} className="hover:text-primary transition-colors" 
-                    onPress={() => {
-                      console.log('onPress')
-                      setIsMenuOpen(false); // 关闭菜单
-                      router.push(locale ? `/${locale}${item.href}` : item.href);
-                    }}
-                    href={locale ? `/${locale}${item.href}` : item.href}>
-                      {/* <NextLink
-                        className={'flex items-center gap-2 text-gray-700 hover:text-primary w-full'}
-                        replace={true}
-                        title={i18n._(item.title)}
-                        href={locale ? `/${locale}${item.href}` : item.href}
-                      > */}
-                      <div className="flex items-center text-gray-700 hover:text-primary transition-colors">{i18n._(item.title)}<FaAngleRight /></div>
-                      {/* </NextLink> */}
-                    </DropdownItem>
-                  ))}
-                </DropdownMenu>
-              </Dropdown>
-              ) : (
-              <NavbarMenuItem key={`${it.title.id}-${index}`}>
-                <NextLink
-                  className={clsx('text-gray-700 transition-colors', { 'hover:text-primary': isActive(it.href) })}
-                  title={i18n._(it.title)}
-                  href={locale ? `/${locale}${it.href}` : it.href}
-                  onClick={() => setIsMenuOpen(false)} // 添加这一行来关闭菜单
-                  >
-                  {i18n._(it.title)}
-                </NextLink>
-              </NavbarMenuItem>
-            )
-          ))
-        }
-        <NavbarMenuItem key="locale" className="-ml-4">
-          {
-            localDropdown
-          }
-        </NavbarMenuItem>
-      </NavbarMenu>
-
-      <NavbarContent as="div" justify="end">
-        {/*{*/}
-        {/*  isUnauthenticated && siteConfig.showLogin ? (*/}
-        {/*    <>*/}
-        {/*      <div className="hidden sm:block">*/}
-        {/*        <Button*/}
-        {/*          color={'primary'}*/}
-        {/*          variant="flat"*/}
-        {/*          startContent={<FcGoogle size="1em" color="white" />}*/}
-        {/*          onClick={() => signIn('google')}*/}
-        {/*        >{t`Sign In With Google`}</Button>*/}
-        {/*      </div>*/}
-        {/*      <div className="sm:hidden">*/}
-        {/*        <Button*/}
-        {/*          color={'primary'}*/}
-        {/*          variant="flat"*/}
-        {/*          startContent={<FcGoogle size="1em" color="white" />}*/}
-        {/*          onClick={() => signIn('google')}*/}
-        {/*        >{t`Sign In`}</Button>*/}
-        {/*      </div>*/}
-        {/*    </>*/}
-        {/*  ) : (*/}
-        {/*    <AntDropDown menu={{*/}
-        {/*      items: [*/}
-        {/*        {*/}
-        {/*          key: 'profile',*/}
-        {/*          className: 'h-14 gap-2',*/}
-        {/*          disabled: true,*/}
-        {/*          label: <>*/}
-        {/*            <p className="font-semibold">{user?.email ?? ''}</p>*/}
-        {/*            <p className="font-semibold">{t`Credit:${user?.credit ?? 0}`}</p>*/}
-        {/*          </>*/}
-        {/*        },*/}
-        {/*        {*/}
-        {/*          key: 'logout',*/}
-        {/*          itemIcon: <FaArrowUpFromBracket />,*/}
-        {/*          label: t`Log Out`,*/}
-        {/*          onClick: () => signOut()*/}
-        {/*        }*/}
-        {/*      ]*/}
-        {/*    }}>*/}
-        {/*      <Skeleton isLoaded={isAuthenticated} className="rounded-lg">*/}
-        {/*        {*/}
-        {/*          user?.image && (*/}
-        {/*            <User*/}
-        {/*              name={user?.name ?? ''}*/}
-        {/*              description={t`Credit:${user?.credit ?? 0}`}*/}
-        {/*              className="cursor-pointer"*/}
-        {/*              avatarProps={{*/}
-        {/*                lang: locale,*/}
-        {/*                src: user?.image ?? '#'*/}
-        {/*              }}></User>*/}
-        {/*          )*/}
-        {/*        }*/}
-        {/*      </Skeleton>*/}
-        {/*    </AntDropDown>)*/}
-        {/*}*/}
-
-        <div className="hidden sm:block">
-          {
-            localDropdown
-          }
         </div>
-      </NavbarContent>
-    </Navbar>
+      )}
+      <Navbar maxWidth="xl"
+              classNames={{ base: "bg-white/70 backdrop-blur-md border-b border-primary/10", item: 'text-gray-700 data-[active=true]:px-5 data-[active=true]:py-1 data-[active=true]:text-white data-[active=true]:hover:text-primary data-[active=true]:bg-black data-[active=true]:rounded-2xl hover:text-primary transition-colors' }}
+              isMenuOpen={isMenuOpen}
+              onMenuOpenChange={setIsMenuOpen}>
+        <NavbarMenuToggle
+          aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
+          className="sm:hidden text-primary"
+        />
+        <NavbarBrand>
+          <a href="/" title="home" className="w-full flex flex-row flex-grow flex-nowrap justify-start bg-transparent items-center no-underline text-medium whitespace-nowrap box-border mr-10">
+            <img className="md:ml-3 ml-0 w-auto h-8 md:h-12  object-cover "
+                 src="/logo.png"
+                 alt="logo" />
+            <div className="w-full flex-grow">
+              {/*<p className="ml-2 font-bold text-sm md:text-2xl">*/}
+              {/*  {i18n._(siteConfig.name)}*/}
+              {/*</p>*/}
+              {/*{*/}
+              {/*  siteConfig.slogan && (*/}
+              {/*    <p className="ml-2 text-xs hidden md:block md:text-sm text-primary">{siteConfig.slogan}</p>*/}
+              {/*  )*/}
+              {/*}*/}
+            </div>
+          </a>
+        </NavbarBrand>
+
+        <NavbarContent className="hidden md:flex gap-10" justify="center">
+          {
+            items.map(it => (
+                it.submenu && it.submenu.length > 0 ? (
+                    <Dropdown key={it.title.id} shouldBlockScroll={false}>
+                      <NavbarItem>
+                        <DropdownTrigger>
+                          <Button disableRipple
+                                  className="p-0 bg-transparent data-[hover=true]:bg-transparent text-gray-700 hover:text-primary"
+                                  endContent={<FaChevronDown/>}
+                                  radius="sm"
+                                  variant="light">
+                            {i18n._(it.title)}
+                          </Button>
+                        </DropdownTrigger>
+                      </NavbarItem>
+                      <DropdownMenu
+                        selectionMode={"single"}
+                        aria-label="change locale"
+                        className='p-2 bg-white/70 backdrop-blur-md'
+                        style={{ width: "auto", minWidth: "200px" }} // 使用 NextUI 的 CSS-in-JS 来控制宽度
+                      >
+                        {it.submenu.map((item: any) => (
+                          <DropdownItem key={item.title.id} className="hover:text-primary transition-colors">
+                            <NextLink
+                              className={'flex items-center gap-2 text-gray-700 hover:text-primary w-full transition-colors'}
+                              replace={true}
+                              title={i18n._(item.title)}
+                              href={locale ? `/${locale}${item.href}` : item.href}
+                            >
+                              {i18n._(item.title)}<FaAngleRight />
+                            </NextLink>
+                          </DropdownItem>
+                        ))}
+                      </DropdownMenu>
+                    </Dropdown>
+                ) :  (<NavbarItem key={it.title.id} isActive={isActive(it.href)}>
+                  <NextLink
+                  className={clsx('transition-colors', { 'hover:text-primary': isActive(it.href) })}
+                  title={i18n._(it.title)}
+                  href={locale ? `/${locale}${it.href}` : it.href}>{i18n._(it.title)}</NextLink></NavbarItem>)
+            ))
+          }
+        </NavbarContent>
+
+        <NavbarMenu>
+          {
+            items.map((it, index) => (
+              it.submenu && it.submenu.length > 0 ? (
+                <Dropdown key={it.title.id} shouldBlockScroll={false}>
+                  <NavbarMenuItem>
+                    <DropdownTrigger>
+                      <Button disableRipple
+                              className="p-0 bg-transparent data-[hover=true]:bg-transparent text-gray-700 hover:text-primary"
+                              endContent={<FaChevronDown/>}
+                              radius="sm"
+                              variant="light">
+                        {i18n._(it.title)}
+                      </Button>
+                    </DropdownTrigger>
+                  </NavbarMenuItem>
+                  <DropdownMenu
+
+                    selectionMode={"none"}
+                    aria-label="change locale"
+                    className='p-2 bg-white/70 backdrop-blur-md'
+                    style={{ width: "auto", minWidth: "200px" }} // 使用 NextUI 的 CSS-in-JS 来控制宽度
+                  >
+                    {it.submenu.map((item: any) => (
+                      <DropdownItem key={item.title.id} className="hover:text-primary transition-colors" 
+                      onPress={() => {
+                        console.log('onPress')
+                        setIsMenuOpen(false); // 关闭菜单
+                        router.push(locale ? `/${locale}${item.href}` : item.href);
+                      }}
+                      href={locale ? `/${locale}${item.href}` : item.href}>
+                        {/* <NextLink
+                          className={'flex items-center gap-2 text-gray-700 hover:text-primary w-full'}
+                          replace={true}
+                          title={i18n._(item.title)}
+                          href={locale ? `/${locale}${item.href}` : item.href}
+                        > */}
+                        <div className="flex items-center text-gray-700 hover:text-primary transition-colors">{i18n._(item.title)}<FaAngleRight /></div>
+                        {/* </NextLink> */}
+                      </DropdownItem>
+                    ))}
+                  </DropdownMenu>
+                </Dropdown>
+                ) : (
+                <NavbarMenuItem key={`${it.title.id}-${index}`}>
+                  <NextLink
+                    className={clsx('text-gray-700 transition-colors', { 'hover:text-primary': isActive(it.href) })}
+                    title={i18n._(it.title)}
+                    href={locale ? `/${locale}${it.href}` : it.href}
+                    onClick={() => setIsMenuOpen(false)} // 添加这一行来关闭菜单
+                    >
+                    {i18n._(it.title)}
+                  </NextLink>
+                </NavbarMenuItem>
+              )
+            ))
+          }
+          <NavbarMenuItem key="locale" className="-ml-4">
+            {
+              localDropdown
+            }
+          </NavbarMenuItem>
+        </NavbarMenu>
+
+        <NavbarContent as="div" justify="end">
+          {/*{*/}
+          {/*  isUnauthenticated && siteConfig.showLogin ? (*/}
+          {/*    <>*/}
+          {/*      <div className="hidden sm:block">*/}
+          {/*        <Button*/}
+          {/*          color={'primary'}*/}
+          {/*          variant="flat"*/}
+          {/*          startContent={<FcGoogle size="1em" color="white" />}*/}
+          {/*          onClick={() => signIn('google')}*/}
+          {/*        >{t`Sign In With Google`}</Button>*/}
+          {/*      </div>*/}
+          {/*      <div className="sm:hidden">*/}
+          {/*        <Button*/}
+          {/*          color={'primary'}*/}
+          {/*          variant="flat"*/}
+          {/*          startContent={<FcGoogle size="1em" color="white" />}*/}
+          {/*          onClick={() => signIn('google')}*/}
+          {/*        >{t`Sign In`}</Button>*/}
+          {/*      </div>*/}
+          {/*    </>*/}
+          {/*  ) : (*/}
+          {/*    <AntDropDown menu={{*/}
+          {/*      items: [*/}
+          {/*        {*/}
+          {/*          key: 'profile',*/}
+          {/*          className: 'h-14 gap-2',*/}
+          {/*          disabled: true,*/}
+          {/*          label: <>*/}
+          {/*            <p className="font-semibold">{user?.email ?? ''}</p>*/}
+          {/*            <p className="font-semibold">{t`Credit:${user?.credit ?? 0}`}</p>*/}
+          {/*          </>*/}
+          {/*        },*/}
+          {/*        {*/}
+          {/*          key: 'logout',*/}
+          {/*          itemIcon: <FaArrowUpFromBracket />,*/}
+          {/*          label: t`Log Out`,*/}
+          {/*          onClick: () => signOut()*/}
+          {/*        }*/}
+          {/*      ]*/}
+          {/*    }}>*/}
+          {/*      <Skeleton isLoaded={isAuthenticated} className="rounded-lg">*/}
+          {/*        {*/}
+          {/*          user?.image && (*/}
+          {/*            <User*/}
+          {/*              name={user?.name ?? ''}*/}
+          {/*              description={t`Credit:${user?.credit ?? 0}`}*/}
+          {/*              className="cursor-pointer"*/}
+          {/*              avatarProps={{*/}
+          {/*                lang: locale,*/}
+          {/*                src: user?.image ?? '#'*/}
+          {/*              }}></User>*/}
+          {/*          )*/}
+          {/*        }*/}
+          {/*      </Skeleton>*/}
+          {/*    </AntDropDown>)*/}
+          {/*}*/}
+
+          <div className="hidden sm:block">
+            {
+              localDropdown
+            }
+          </div>
+        </NavbarContent>
+      </Navbar>
+    </>
   )
 }
