@@ -101,6 +101,15 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
                  <Link href={`/${params?.lang}${item.href}`}>{i18n._(item.name)}</Link>
                 </li>
               ))}
+              <li>
+                <a
+                  href="https://brickrodfisch.com"
+                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                  title="Brick Rod Fisch"
+                >
+                  Brick Rod Fisch
+                </a>
+              </li>
                                           <li>
                 <a
                   href="https://changehaircolor.net"
