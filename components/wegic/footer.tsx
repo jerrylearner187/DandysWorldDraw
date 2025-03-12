@@ -103,6 +103,15 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
               ))}
               <li>
                 <a
+                  href="https://brainrotwords.net"
+                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                  title="Brainrot Words"
+                >
+                  Brainrot Words
+                </a>
+              </li>
+              <li>
+                <a
                   href="https://duck-duck-clicker.com"
                   className="font-medium text-gray-500 hover:text-primary-200 duration-150"
                   title="Duck Duck Clicker"
