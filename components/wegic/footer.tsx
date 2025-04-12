@@ -101,6 +101,15 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
                  <Link href={`/${params?.lang}${item.href}`}>{i18n._(item.name)}</Link>
                 </li>
               ))}
+                          <li>
+                <a
+                  href="https://ai-doll-generator.net"
+                  className="font-medium text-gray-500 hover:text-primary-200 duration-150"
+                  title="AI Doll Generator"
+                >
+                  AI Doll Generator
+                </a>
+              </li>
               <li>
                 <a
                   href="https://brainrotwords.net"
