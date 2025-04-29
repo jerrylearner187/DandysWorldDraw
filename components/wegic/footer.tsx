@@ -43,6 +43,7 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
               {/*  {t`Create Awesome Chromakopia Avatar`}*/}
               {/*</p>*/}
               <div className="pt-2 flex items-center gap-x-6 text-gray-400">
+              <a href="https://startupfa.me/s/dandys-world-draw?utm_source=dandysworlddraw.com" target="_blank"><img src="https://startupfa.me/badges/featured-badge-small.webp" alt="Featured on Startup Fame" width="224" height="36" /></a>
                 {/*<Link href={`/${params?.lang}/ai-image-extender`}>*/}
                 {/*  AI Image Extender*/}
                 {/*</Link>*/}
