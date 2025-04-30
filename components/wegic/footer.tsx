@@ -44,6 +44,7 @@ const Footer = ({ params }: { params?: { lang: AVAILABLE_LOCALES } }) => {
               {/*</p>*/}
               <div className="pt-2 flex items-center gap-x-6 text-gray-400">
               <a href="https://startupfa.me/s/dandys-world-draw?utm_source=dandysworlddraw.com" target="_blank"><img src="https://startupfa.me/badges/featured-badge-small.webp" alt="Featured on Startup Fame" width="224" height="36" /></a>
+              <a href="https://www.producthunt.com/posts/dandys-world-draw?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dandys&#0045;world&#0045;draw" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=959634&theme=light&t=1746018803149" alt="Dandys&#0032;World&#0032;Draw - Learn&#0032;to&#0032;draw&#0032;dandy&#0039;s&#0032;world&#0032;characters | Product Hunt" style={{ width: "250px", height: "54px;" }} width="250" height="54" /></a>
                 {/*<Link href={`/${params?.lang}/ai-image-extender`}>*/}
                 {/*  AI Image Extender*/}
                 {/*</Link>*/}
